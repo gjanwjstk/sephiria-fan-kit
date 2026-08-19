@@ -18,7 +18,7 @@ such as wikis, fan sites, guides, and videos.
 | `Artifacts/` `Weapons/` `Tablets/` `Potions/` | 아이템 아이콘. `Icons/`(투명 배경)와 `Framed/`(등급 테두리 포함) |
 | `Costumes/` | 코스튬 79종 |
 | `Miracles/` `Categories/` `Keywords/` `FruitSkewer/` | 기적, 결속 카테고리, 상태·스탯 아이콘, 결속 열매 |
-| `Bosses/` | 보스 14종. 여러 부위로 이루어진 보스는 대표 자세로 합쳐 두었습니다 |
+| `Bosses/` | 보스 15종. 여러 부위로 이루어진 보스는 대표 자세로 합쳐 두었습니다 |
 | `Stages/` | 스테이지 노드 이미지 |
 | `FaceChips/` | 대화 초상화 |
 | `KeyArt/` `Logo/` `Brand/` `Screenshots/` `Gifs/` `Steam/` | 키아트, 로고, 색상 팔레트, 스크린샷, GIF, 상점 아트 |
