@@ -1,0 +1,200 @@
+﻿Combo effect text — 20 / language: sv-SE (sv-SE)
+================================================================================
+
+=== Akademi (ACADEMY) ===
+[Combo effect]
+  (2) +12 Hastighet för Grimoar
+  (4) +15% Minska MP-kostnaden för Grimoar
+  (6) +16 Hastighet för Grimoar
+  (8) +20 Hastighet för Grimoar
+  (10) +15% Skada från Grimoar, +8 MP-återhämtning
+
+================================================================================
+
+=== Alkemi (ALCHEMY) ===
+[Description]
+När du får Stentavla från en föremålsbelöning tillverkar du en slumpmässig dryck.
+[Combo effect]
+  (1) +1 Plats i dryckesväska
+  (2) +1 Plats i dryckesväska
+  (3) Slumpmässiga drycker: 1 (Vanlig~Sällsynt)
+
+================================================================================
+
+=== Följeslagare (COMPANION) ===
+[Combo effect]
+  (2) +6% Följeslagares skada
+  (4) +8% Följeslagares skada
+  (6) +10% Följeslagares skada, +15 Följeslagares försvar
+  (8) +12% Följeslagares skada, +20 Följeslagares försvar
+  (10) +20% Följeslagares skada, +40% Följeslagares återupplivningshastighet
+
+================================================================================
+
+=== Förbannelse (CURSE) ===
+[Combo effect]
+  (2) +10% Skada orsakad med Debuff, +7% Rörelsehastighet
+  (4) +15% Skada orsakad med Debuff
+
+================================================================================
+
+=== Stormmoln (DARKCLOUD) ===
+[Description]
+Framkallar ett Stormmoln. Slår närliggande fiender med blixtar var 1 s. (Skada: Blixtskada 110 %)
+Återställer 5 % av kapacitetsstacken var 5:e sekund i strid.
+[Combo effect]
+  (2) Stormmoln aktiverad (Grundkapacitet 15)
+  (4) +8 Kapacitet för Stormmoln
+  (6) +12 Kapacitet för Stormmoln
+  (8) +16 Kapacitet för Stormmoln
+  (10) +20 Kapacitet för Stormmoln, Stormmoln avfyrar 2 skott samtidigt
+
+================================================================================
+
+=== Elementär (ELEMENTAL) ===
+[Combo effect]
+  (2) +5 Högsta elementskada
+  (4) +6 Högsta elementskada
+  (6) Öka all Element-skada med 10%
+
+================================================================================
+
+=== Glöd (EMBER) ===
+[Description]
+Flamberöring: Tillfogar Bränning-debuff när du orsakar Eld-skada (exklusive debuffskada). (Nedkylning: 2 s)
+[Combo effect]
+  (2) Aktivera effekten Flamberöring
+  (4) +6 Eldskada
+  (6) Nedkylningshastighet för Flamberöring 150%
+  (8) +8 Eldskada
+  (10) Grundskademultiplikatorn för Bränning ändras från 18 till 28 %
+
+================================================================================
+
+=== Solklinga (FLAMESWORD) ===
+[Description]
+När du skadar med en Vapenattack eller Grimoar kastar du ett Solklinga. (Skada: Eldskada 115 %) Det kastade Solklinga faller till marken och kan plockas upp igen.
+[Combo effect]
+  (2) Aktivera effekt (Grundsvärd ×5)
+  (4) +6% Solklinga-skada
+  (6) +8% Solklinga-skada, +1 Maxantal Solklinga
+  (8) +10% Solklinga-skada, +2 Maxantal Solklinga
+  (10) +12% Solklinga-skada, +6 Maxantal Solklinga
+
+================================================================================
+
+=== Frostrelik (FROST) ===
+[Combo effect]
+  (2) +6% Laddningshastighet för Frostrelik
+  (4) +8% Laddningshastighet för Frostrelik
+  (6) +6% Frostrelik-skada
+  (8) +8% Frostrelik-skada
+  (10) Ytterligare aktivering av Frostrelik 1 gång(er)
+
+================================================================================
+
+=== Glaciär (GLACIER) ===
+[Description]
+Frostberöring: Tillfogar Köldskada-debuff när du orsakar Is-skada (exklusive debuffskada). (Nedkylning: 2 s)
+[Combo effect]
+  (2) Aktivera effekten Frostberöring
+  (4) +6 Köldskada
+  (6) Nedkylningshastighet för Frostberöring 150%
+  (8) +8 Köldskada
+  (10) Antal Köldskada stackar som krävs för Frysning -1
+
+================================================================================
+
+=== Väktare (GUARDIAN) ===
+[Combo effect]
+  (2) +6 Försvar
+  (4) +7 Försvar
+  (6) +8 Försvar
+  (8) +10 Försvar
+  (10) +12 Försvar, +5% Ignorera försvar
+
+================================================================================
+
+=== Sjö (LAKE) ===
+[Combo effect]
+  (3) +20 Max MP, +5 MP-återhämtning
+  (6) +30 Max MP, +10% Skada från förmågor som förbrukar MP
+  (9) +40 Max MP, +25% Skada från förmågor som förbrukar MP
+
+================================================================================
+
+=== Magiteknik (MAGITECH) ===
+[Description]
+Chockberöring: Tillfogar Elektrifiering-debuff när du orsakar Blixt-skada (exklusive debuffskada). (Nedkylning: 2 s)
+[Combo effect]
+  (2) Aktivera effekten Chockberöring
+  (4) +6 Blixtskada
+  (6) Nedkylningshastighet för Chockberöring 150%
+  (8) +8 Blixtskada
+  (10) Elektrifiering-aktiveringstid -1s
+
+================================================================================
+
+=== Mystik (MYSTIC) ===
+[Description]
+Effektiviteten för artefaktnivån i en specifik inventarieplats fördubblas.
+[Combo effect]
+  (2) Slumpmässiga platser: 1
+  (4) Slumpmässiga platser: 2
+
+================================================================================
+
+=== Planet (PLANET) ===
+[Combo effect]
+  (2) +8% Planetskada
+  (4) +10% Planetskada
+  (6) +12% Planetskada
+  (8) +14% Planetskada
+  (10) +16% Planetskada, +12% Planeternas attackhastighet
+
+================================================================================
+
+=== Precision (PRECISION) ===
+[Combo effect]
+  (2) +4% Kritisk träffchans
+  (4) +6% Kritisk träffchans
+  (6) +8% Kritisk träffchans
+  (8) +10% Kritisk träffchans
+  (10) +30% Kritisk skada
+
+================================================================================
+
+=== Förhandling (SAVVY) ===
+[Combo effect]
+  (2) +10 Byteshandel, +15% Lövfall
+  (4) +15 Byteshandel, Gyllene hand: Skada mot fiender +1% för varje 200 Löv du äger (upp till 20 %)
+
+================================================================================
+
+=== Skugga (SHADOW) ===
+[Combo effect]
+  (2) +4 Undvikande
+  (4) +5 Undvikande
+  (6) +6 Undvikande
+  (8) +8 Undvikande
+  (10) +10 Undvikande
+
+================================================================================
+
+=== Tålig (STURDY) ===
+[Combo effect]
+  (2) +2 Fysisk skada
+  (4) +4 Fysisk skada
+  (6) +6 Fysisk skada
+  (8) +8 Fysisk skada
+  (10) +15% Fysisk skada-förstärkning
+
+================================================================================
+
+=== Vindsång (WINDSONG) ===
+[Combo effect]
+  (2) +8% Attackhastighet
+  (4) +12% Attackhastighet
+  (6) +16% Attackhastighet
+  (8) +20% Attackhastighet
+  (10) +15% Vapen-skada, +1 Antal rusningar

@@ -1,0 +1,200 @@
+﻿Combo effect text — 20 / language: fr-FR (fr-FR)
+================================================================================
+
+=== Académie (ACADEMY) ===
+[Combo effect]
+  (2) +12 Hâte de Grimoire
+  (4) +15% Réduit le coût en PM de Grimoire
+  (6) +16 Hâte de Grimoire
+  (8) +20 Hâte de Grimoire
+  (10) +15% Dégâts de Grimoire, +8 Régénération de PM
+
+================================================================================
+
+=== Alchimie (ALCHEMY) ===
+[Description]
+Lorsque vous obtenez Tablette en récompense d’objet, fabriquez une potion aléatoire.
+[Combo effect]
+  (1) +1 Emplacement de la sacoche à potions
+  (2) +1 Emplacement de la sacoche à potions
+  (3) 1 potion(s) aléatoire(s) (Commun~Rare)
+
+================================================================================
+
+=== Compagnon (COMPANION) ===
+[Combo effect]
+  (2) +6% Dégâts du compagnon
+  (4) +8% Dégâts du compagnon
+  (6) +10% Dégâts du compagnon, +15 Défense des compagnons
+  (8) +12% Dégâts du compagnon, +20 Défense des compagnons
+  (10) +20% Dégâts du compagnon, +40% Accélération de réanimation du compagnon
+
+================================================================================
+
+=== Malédiction (CURSE) ===
+[Combo effect]
+  (2) +10% Dégâts infligés avec Malus, +7% Vitesse de déplacement
+  (4) +15% Dégâts infligés avec Malus
+
+================================================================================
+
+=== Nuage d’orage (DARKCLOUD) ===
+[Description]
+Invoque un Nuage orageux. Frappe les ennemis proches avec la foudre toutes les 1 s. (Dégâts : Dégâts de foudre 110 %)
+Récupère 5 % de capacité cumulée toutes les 5 secondes en combat.
+[Combo effect]
+  (2) Nuage orageux activé (Capacité de base 15)
+  (4) +8 Capacité de Nuage orageux
+  (6) +12 Capacité de Nuage orageux
+  (8) +16 Capacité de Nuage orageux
+  (10) +20 Capacité de Nuage orageux, Nuage orageux attaque avec 2 tirs multiples
+
+================================================================================
+
+=== Élémentaire (ELEMENTAL) ===
+[Combo effect]
+  (2) +5 Dégâts élémentaires les plus élevés
+  (4) +6 Dégâts élémentaires les plus élevés
+  (6) Amplifie tous les dégâts Élément de 10%
+
+================================================================================
+
+=== Braise (EMBER) ===
+[Description]
+Toucher brûlant : inflige le Malus Brûlure en infligeant des dégâts Feu (à l’exception des dégâts de Malus). (Temps de recharge : 2 s)
+[Combo effect]
+  (2) Active l’effet Toucher brûlant
+  (4) +6 Dégâts de feu
+  (6) Accélération du temps de recharge de Toucher brûlant 150%
+  (8) +8 Dégâts de feu
+  (10) Le multiplicateur de dégâts de base de Brûlure passe de 18 à 28 %.
+
+================================================================================
+
+=== Lame solaire (FLAMESWORD) ===
+[Description]
+Lorsque vous infligez des dégâts avec une Attaque d’arme ou de la Grimoire, vous lancez une Lame solaire. (Dégâts : Dégâts de feu 115 %) L’Lame solaire lancée tombe au sol et peut être récupérée.
+[Combo effect]
+  (2) Active l’effet (Épée basique ×5)
+  (4) +6% Dégâts de Lame solaire
+  (6) +8% Dégâts de Lame solaire, +1 Nombre max. de Lame solaire
+  (8) +10% Dégâts de Lame solaire, +2 Nombre max. de Lame solaire
+  (10) +12% Dégâts de Lame solaire, +6 Nombre max. de Lame solaire
+
+================================================================================
+
+=== Relique de givre (FROST) ===
+[Combo effect]
+  (2) +6% Vitesse de charge de Relique de givre
+  (4) +8% Vitesse de charge de Relique de givre
+  (6) +6% Dégâts de Relique de givre
+  (8) +8% Dégâts de Relique de givre
+  (10) Activation supplémentaire de Relique de givre 1 fois
+
+================================================================================
+
+=== Glacier (GLACIER) ===
+[Description]
+Toucher de givre : inflige le Malus Gelure en infligeant des dégâts Glace (à l’exception des dégâts de Malus). (Temps de recharge : 2 s)
+[Combo effect]
+  (2) Active l’effet Toucher de givre
+  (4) +6 Dégâts de froid
+  (6) Accélération du temps de recharge de Toucher de givre 150%
+  (8) +8 Dégâts de froid
+  (10) Nombre de cumuls de Gelure requis pour Gel : -1
+
+================================================================================
+
+=== Gardien (GUARDIAN) ===
+[Combo effect]
+  (2) +6 Défense
+  (4) +7 Défense
+  (6) +8 Défense
+  (8) +10 Défense
+  (10) +12 Défense, +5% Pénétration de défense
+
+================================================================================
+
+=== Lac (LAKE) ===
+[Combo effect]
+  (3) +20 PM max, +5 Régénération de PM
+  (6) +30 PM max, +10% Dégâts des capacités consommant des PM
+  (9) +40 PM max, +25% Dégâts des capacités consommant des PM
+
+================================================================================
+
+=== Magitech (MAGITECH) ===
+[Description]
+Toucher électrique : inflige le Malus Électrocution en infligeant des dégâts Foudre (à l’exception des dégâts de Malus). (Temps de recharge : 2 s)
+[Combo effect]
+  (2) Active l’effet Toucher électrique
+  (4) +6 Dégâts de foudre
+  (6) Accélération du temps de recharge de Toucher électrique 150%
+  (8) +8 Dégâts de foudre
+  (10) Temps d’activation de Électrocution -1s
+
+================================================================================
+
+=== Mystique (MYSTIC) ===
+[Description]
+L’efficacité du niveau d’artefact dans un emplacement d’inventaire spécifique est doublée.
+[Combo effect]
+  (2) 1 emplacements aléatoires
+  (4) 2 emplacements aléatoires
+
+================================================================================
+
+=== Planète (PLANET) ===
+[Combo effect]
+  (2) +8% Dégâts des planètes
+  (4) +10% Dégâts des planètes
+  (6) +12% Dégâts des planètes
+  (8) +14% Dégâts des planètes
+  (10) +16% Dégâts des planètes, +12% Vitesse d’attaque des planètes
+
+================================================================================
+
+=== Précision (PRECISION) ===
+[Combo effect]
+  (2) +4% Chances de coup critique
+  (4) +6% Chances de coup critique
+  (6) +8% Chances de coup critique
+  (8) +10% Chances de coup critique
+  (10) +30% Dégâts critiques
+
+================================================================================
+
+=== Négociation (SAVVY) ===
+[Combo effect]
+  (2) +10 Troc, +15% Chute de feuilles
+  (4) +15 Troc, Main dorée : dégâts aux ennemis : +1% par 200 Feuille en votre possession (jusqu’à 20 %)
+
+================================================================================
+
+=== Ombre (SHADOW) ===
+[Combo effect]
+  (2) +4 Esquive
+  (4) +5 Esquive
+  (6) +6 Esquive
+  (8) +8 Esquive
+  (10) +10 Esquive
+
+================================================================================
+
+=== Robuste (STURDY) ===
+[Combo effect]
+  (2) +2 Dégâts physiques
+  (4) +4 Dégâts physiques
+  (6) +6 Dégâts physiques
+  (8) +8 Dégâts physiques
+  (10) +15% Amplification de Dégâts physiques
+
+================================================================================
+
+=== Chant du vent (WINDSONG) ===
+[Combo effect]
+  (2) +8% Vitesse d’attaque
+  (4) +12% Vitesse d’attaque
+  (6) +16% Vitesse d’attaque
+  (8) +20% Vitesse d’attaque
+  (10) +15% Dégâts de Arme, +1 Nombre de ruées

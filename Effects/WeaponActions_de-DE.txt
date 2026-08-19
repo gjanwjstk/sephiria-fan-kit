@@ -1,0 +1,127 @@
+﻿======================================
+  Weapon_SwordAndShield_1
+======================================
+[Actions]
+  ■ Normaler Angriff
+    Input: Linksklick (3-mal)
+  ■ Dash-Angriff
+    Input: (Nach dem Dash) Linksklick
+  ■ Blocken
+    Input: Rechtsklick (halten)
+  ■ Spezialangriff: Hieb
+    Input: Beim Blocken Linksklick
+
+[Tutorial text]
+  Blocken: Rechtsklick Gedrückt halten
+  Blocken ermöglicht es dir, alle gegnerischen Angriffe abzuwehren.
+  Blocke in Richtung des gegnerischen Angriffs. Beim Blocken werden 10 MP verbraucht.
+  Wenn du Blocken mit präzisem Timing einsetzt, wird Perfektes Blocken aktiviert und verbraucht halb so viel MP.
+  Wenn dein MP 0 erreicht, wird dein Block aufgehoben und du kannst keine Angriffe blocken.
+  Perfekter Block: Blocke im richtigen Moment
+  Rundumschlag: Beim Blocken Linksklick
+  Der Einsatz von Rundumschlag verbraucht MP.
+  Erfolgreiches Blocken reduziert die Kosten für Rundumschlag um 50 %, und perfektes Blocken reduziert sie um 100 %.
+
+======================================
+  Weapon_GreatSword_1
+======================================
+[Actions]
+  ■ Normaler Angriff
+    Input: Linksklick (3-mal)
+  ■ Dash-Angriff
+    Input: Nach dem Dash Linksklick
+  ■ Spezialangriff: Wirbelwind
+    Input: Rechtsklick halten, dann loslassen
+
+[Tutorial text]
+  Mit einem Zweihänder kannst du keine Angriffe blocken, aber seine hohe ATK und Reichweite gleichen das aus.
+  Setze MP ein, um einen mächtigen Wirbelwind-Angriff über ein großes Gebiet auszuführen.
+  Die Wutleiste kann durch die folgenden Aktionen gefüllt werden.
+  - Aufladen
+- Gegner angreifen
+- Schaden erleiden
+  Aufladen: (gedrückt halten) Rechtsklick
+  Wirbelwind: (Loslassen) Rechtsklick
+
+======================================
+  Weapon_Dagger_1
+======================================
+[Actions]
+  ■ Normaler Angriff
+    Input: Linksklick (5-mal)
+  ■ Dash-Angriff
+    Input: (Nach dem Dash) Linksklick
+  ■ Spezialangriff: Parade
+    Input: Rechtsklick
+    Description: Bei erfolgreichem Spezialangriff: Parade erhältst du Trance.
+  ■ Spezialangriff: Raserei
+    Input: Stärkung Trance aktiv Rechtsklick
+
+[Tutorial text]
+  Der Dolch hat eine geringe Reichweite und verursacht wenig Taumeln, ermöglicht jedoch schnelle Angriffe.
+  Spezialangriff: Parade ermöglicht es dir, gegnerische Angriffe durch den Verbrauch von MP abzulenken.
+  Spezialangriff: Parade lenkt gegnerische Angriffe nur ab, während du blau leuchtest.
+  Wenn du einen Angriff erfolgreich mit Spezialangriff: Parade ablenkst, erhältst du die Trance-Stärkung.
+  Solange die Trance-Stärkung aktiv ist, kannst du Spezialangriff: Raserei einsetzen.
+  Spezialangriff: Raserei:
+  Spezialangriff: Raserei: Im Zustand Trance Rechtsklick
+  Spezialangriff: Parade: Rechtsklick
+
+======================================
+  Weapon_Crossbow
+======================================
+[Actions]
+  ■ Normaler Angriff
+    Input: Linksklick
+    Description: Lädt automatisch nach, wenn alle Pfeile verbraucht sind. Bewegungstempo wird während Angriffen um 40 % verringert.
+  ■ Dash-Angriff
+    Input: (Nach dem Dash) Linksklick
+    Description: Verbraucht eine Dash-Ladung, um eine Mine auszulegen, die 3 Sekunden lang bestehen bleibt. Sie explodiert automatisch, wenn sie einen Gegner erkennt.
+  ■ Spezialangriff: Mächtiger Pfeil
+    Input: Rechtsklick
+    Description: Verbraucht 10 MP, um einen mächtigen Pfeil abzufeuern. Verbraucht keine Pfeile.
+
+[Tutorial text]
+  Die Armbrust ist eine Fernkampfwaffe. Sie greift an, indem sie Pfeile im Magazin verbraucht.
+  Wenn das Magazin vollständig leer ist, kannst du es durch Nachladen auffüllen.
+  Spezialisierungsaktion der Waffe (Nachladen): G
+  Wenn Spezialangriff eingesetzt wird, feuert sie ein „verstärktes Geschoss“ ab, das alle Gegner durchdringt.
+  Mit Dash-Angriff platzierst du kleine Minen in deiner Nähe. (Verbraucht die Dash-Anzeige) Sie explodieren, wenn sich Gegner nähern.
+
+======================================
+  Weapon_Staff
+======================================
+[Actions]
+  ■ Normaler Angriff
+    Input: Linksklick (4-mal)
+  ■ Dash-Angriff
+    Input: (Nach dem Dash) Linksklick
+  ■ Spezialangriff: Riposte
+    Input: Rechtsklick
+
+[Tutorial text]
+  Stab ist eine Waffe, mit der du durch Spezialangriff: Riposte gleichzeitig angreifen und verteidigen kannst, sogar während Normaler Angriff.
+  Wenn du während Spezialangriff: Riposte einen Perfektes Blocken gegen einen gegnerischen Angriff ausführst, wird der zweite Treffer dieses Spezialangriff verstärkt.
+  Spezialangriff: Riposte: Rechtsklick
+
+======================================
+  Weapon_Katana
+======================================
+[Actions]
+  ■ Normaler Angriff
+    Input: Linksklick (3-mal)
+  ■ Dash-Angriff
+    Input: (Nach dem Dash) Linksklick
+  ■ Einstecken und Ziehen
+    Input: Rechtsklick
+  ■ Spezialangriff: Schwerer Hieb
+    Input: Eingesteckt Linksklick
+
+[Tutorial text]
+  Klinge ist eine Nahkampfwaffe, die zwischen den Zuständen Einstecken und Klinge ziehen wechseln kann.
+  Im Eingesteckt-Zustand kannst du Spezialangriff: Schwerer Hieb einsetzen, indem du 5 MP verbrauchst.
+  Beim Ein- und Ausstecken kannst du gegnerische Angriffe blocken.
+  Klinge ziehen: Im Zustand Einstecken Rechtsklick
+  Spezialangriff: Schwerer Hieb: Im Zustand Einstecken Linksklick
+  Einstecken: Im Zustand Klinge ziehen Rechtsklick
+

@@ -1,0 +1,67 @@
+﻿file,sprite,id,kind,rarity,status,active_type,name_key,name_en,name_ko,effect_ko,effect_en
+Advance,StoneTablet_Advance,2028,tablet,1,active,Default,Item_StoneTablet_Advance_Name,Advance,전진,[석판 효과] / UP 1 / UPUP 1 / UPUPUP 1,[Tablet effect] / UP 1 / UPUP 1 / UPUPUP 1
+Advent,StoneTablet_Advent,2021,tablet,0,active,Default,Item_StoneTablet_Visit_Name,Advent,도래,[석판 효과] / UP 1 / UPUP 1 / DOWN -1 / DOWNDOWN -1,[Tablet effect] / UP 1 / UPUP 1 / DOWN -1 / DOWNDOWN -1
+Approximation,StoneTablet_Approximation,2044,tablet,0,active,Default,Item_StoneTablet_Approximation_Name,Approximation,근사,[석판 효과] / UP 1 / RIGHT 1,[Tablet effect] / UP 1 / RIGHT 1
+Binary Star,StoneTablet_BinaryStar2,2017,tablet,1,active,Default,Item_StoneTablet_BinaryStar_Name,Binary Star,쌍성,[석판 효과] / UPUP 2 / DOWNDOWN 2,[Tablet effect] / UPUP 2 / DOWNDOWN 2
+Brilliance,StoneTablet_Brilliance,2042,tablet,3,active,Default,Item_StoneTablet_Brilliance_Name,Brilliance,광휘,[석판 효과] / HORIZONTAL 1 / UP 2 / DOWN 2,[Tablet effect] / HORIZONTAL 1 / UP 2 / DOWN 2
+Cheers,StoneTablet_Cheer,2026,tablet,0,active,Default,Item_StoneTablet_Cheer_Name,Cheers,환호,[석판 효과] / UP 1 / [회전 불가],[Tablet effect] / UP 1 / [Cannot rotate]
+Chivalry,StoneTablet_Chivalry,2011,tablet,0,active,Default,Item_StoneTablet_Chivalry_Name,Chivalry,기사도,[석판 효과] / KNIGHTUPLEFT 1,[Tablet effect] / KNIGHTUPLEFT 1
+Cohesion,StoneTablet_Cohesion,2006,tablet,1,active,Default,Item_StoneTablet_Aggregation_Name,Cohesion,응집,[석판 효과] / HORIZONTAL -1 / UP +3,[Tablet effect] / HORIZONTAL -1 / UP +3
+Competition,StoneTablet_Compete,2019,tablet,1,active,Default,Item_StoneTablet_Compete_Name,Competition,경쟁,[석판 효과] / DIAUPLEFT -1 / UP -1 / DOWN +3,[Tablet effect] / DIAUPLEFT -1 / UP -1 / DOWN +3
+Compression,StoneTablet_Compression,2046,tablet,3,active,Default,Item_StoneTablet_Compression_Name,Compression,압축,[석판 효과] / UP 3 / UPUP 2 / UPUPUP 1,[Tablet effect] / UP 3 / UPUP 2 / UPUPUP 1
+Conviction,Confidence,2051,tablet,3,active,Locked,Item_StoneTablet_Confident_Name,Conviction,확신,[석판 효과] / UP 5,[Tablet effect] / UP 5
+Courage,StoneTabletN_Courage,2055,tablet,3,active,Locked,Item_StoneTablet_Courage_Name,Courage,용기,[석판 효과] / LEFT_RISING 1 / RIGHT_FALLING 1 / DIAUPRIGHT 2 / DIADOWNLEFT 2,[Tablet effect] / LEFT_RISING 1 / RIGHT_FALLING 1 / DIAUPRIGHT 2 / DIADOWNLEFT 2
+Curse,StoneTablet_Curse,12000,tablet,3,active,Hidden,Item_StoneTablet_Curse_Name,Curse,저주,[석판 효과] / CHECKERBOARD2 1 / CHECKERBOARD -1,[Tablet effect] / CHECKERBOARD2 1 / CHECKERBOARD -1
+Daydream,StoneTablet_h_Fly,2033,tablet,3,active,Locked,Item_StoneTablet_Daydream_Name,Daydream,백일몽,[석판 효과] / DIAUPRIGHT 2 / DIAUPLEFT 2 / DIADOWNRIGHT 2 / DIADOWNLEFT 2,[Tablet effect] / DIAUPRIGHT 2 / DIAUPLEFT 2 / DIADOWNRIGHT 2 / DIADOWNLEFT 2
+Dedication,StoneTablet_Tribute,2025,tablet,1,active,Default,Item_StoneTablet_Tribute_Name,Dedication,헌정,[석판 효과] / DIAUPLEFT 1 / DIAUPRIGHT 1 / DIADOWNLEFT 1 / DIADOWNRIGHT 1,[Tablet effect] / DIAUPLEFT 1 / DIAUPRIGHT 1 / DIADOWNLEFT 1 / DIADOWNRIGHT 1
+Defensive Move,StoneTablet_NewRare_2,2060,tablet,2,active,Locked,Item_StoneTablet_DefensiveMove_Name,Defensive Move,방어수,[석판 효과] / DIAUPLEFT 1 / DIAUPRIGHT 2 / DIADOWNLEFT 2 / DIADOWNRIGHT 1 / LEFT -1 / RIGHT -1,[Tablet effect] / DIAUPLEFT 1 / DIAUPRIGHT 2 / DIADOWNLEFT 2 / DIADOWNRIGHT 1 / LEFT -1 / RIGHT -1
+Desire,StoneTablet_Hunger,2020,tablet,1,active,Default,Item_StoneTablet_Hanker_Name,Desire,열망,[석판 효과] / UP 2 / [회전 불가],[Tablet effect] / UP 2 / [Cannot rotate]
+Destiny,StoneTablet_Destiny,2010,tablet,0,active,Default,Item_StoneTablet_Destiny_Name,Destiny,운명,[석판 효과] / DOWN +1 / [회전 불가],[Tablet effect] / DOWN +1 / [Cannot rotate]
+Disconnection,StoneTablet_h_P3M5,2049,tablet,2,active,Default,Item_StoneTablet_Disconnect_Name,Disconnection,단절,[석판 효과] / UP 3 / DOWN 3 / LEFT -1 / RIGHT -1 / [회전 불가],[Tablet effect] / UP 3 / DOWN 3 / LEFT -1 / RIGHT -1 / [Cannot rotate]
+Distribution,StoneTablet_Distribution,2030,tablet,1,active,Default,Item_StoneTablet_Distribution_Name,Distribution,분배,[석판 효과] / UP 1 / DOWN 1 / LEFT 1 / RIGHT 1 / [회전 불가],[Tablet effect] / UP 1 / DOWN 1 / LEFT 1 / RIGHT 1 / [Cannot rotate]
+Dry,StoneTablet_Dry,2047,tablet,0,active,Default,Item_StoneTablet_Dry_Name,Dry,건조,[석판 효과] / DOWN 1 / UP 1 / [회전 불가],[Tablet effect] / DOWN 1 / UP 1 / [Cannot rotate]
+Entrance,StoneTablet_h_121,2032,tablet,1,active,Locked,Item_StoneTablet_Entrance_Name,Entrance,입구,[석판 효과] / DIAUPRIGHT 1 / DIAUPLEFT 1 / UP 2 / [회전 불가],[Tablet effect] / DIAUPRIGHT 1 / DIAUPLEFT 1 / UP 2 / [Cannot rotate]
+Exit,StoneTablet_hr_121,2050,tablet,1,active,PocketDimensionShop,Item_StoneTablet_Exit_Name,Exit,출구,[석판 효과] / DIADOWNLEFT 1 / DOWN 2 / DIADOWNRIGHT 1 / [회전 불가],[Tablet effect] / DIADOWNLEFT 1 / DOWN 2 / DIADOWNRIGHT 1 / [Cannot rotate]
+Exploitation,StoneTablet_Exploitation,2005,tablet,0,active,Default,Item_StoneTablet_Exploitation_Name,Exploitation,착취,[석판 효과] / RIGHT 1 / LEFT -1,[Tablet effect] / RIGHT 1 / LEFT -1
+Flag,StoneTablet_NewRare_1,2059,tablet,2,active,Locked,Item_StoneTablet_Flag_Name,Flag,깃발,[배치 조건] / LEFTEND PLACED / [석판 효과] / UP 1 / DOWN -1 / RIGHT 1 / RIGHTRIGHT 2 / RIGHTRIGHTRIGHT 3 / [회전 불가],[Placement condition] / LEFTEND PLACED / [Tablet effect] / UP 1 / DOWN -1 / RIGHT 1 / RIGHTRIGHT 2 / RIGHTRIGHTRIGHT 3 / [Cannot rotate]
+Foundation,StoneTablet_Foundation,2029,tablet,2,active,Default,Item_StoneTablet_Foundation_Name,Foundation,기반,[석판 효과] / HORIZONTAL 1 / [회전 불가],[Tablet effect] / HORIZONTAL 1 / [Cannot rotate]
+Future,StoneTablet_Future,2040,tablet,1,active,Default,Item_StoneTablet_Future_Name,Future,미래,[석판 효과] / UP 1 / LEFT 1 / DIAUPLEFT 1 / DIAUPRIGHT 1,[Tablet effect] / UP 1 / LEFT 1 / DIAUPLEFT 1 / DIAUPRIGHT 1
+Gaze,StoneTablet_Gaze,2013,tablet,0,active,Default,Item_StoneTablet_Gaze_Name,Gaze,시선,[석판 효과] / DIAUPLEFT 1 / DIADOWNRIGHT -1,[Tablet effect] / DIAUPLEFT 1 / DIADOWNRIGHT -1
+Good Will,StoneTablet_Favor,2007,tablet,0,active,Default,Item_StoneTablet_Favor_Name,Good Will,선의,[배치 조건] / BOTTOM PLACED / [석판 효과] / RIGHT 1 / LEFT 1 / [회전 불가],[Placement condition] / BOTTOM PLACED / [Tablet effect] / RIGHT 1 / LEFT 1 / [Cannot rotate]
+Handshake,StoneTablet_Handshake,2043,tablet,0,active,Default,Item_StoneTablet_Handshake_Name,Handshake,악수,[석판 효과] / UP 1 / DOWN 1,[Tablet effect] / UP 1 / DOWN 1
+Harvest,StoneTablet_Harvest,2027,tablet,1,active,Default,Item_StoneTablet_Harvest_Name,Harvest,수확,[석판 효과] / UP 2 / DOWN 2,[Tablet effect] / UP 2 / DOWN 2
+Heaven,StoneTablet_Heaven,2099,tablet,4,active,Hidden,Item_StoneTablet_Heaven_Name,Heaven,천국,[석판 효과] / CHECKERBOARD2 9 / CHECKERBOARD 9 / [회전 불가],[Tablet effect] / CHECKERBOARD2 9 / CHECKERBOARD 9 / [Cannot rotate]
+Hell,StoneTablet_Hell,2098,tablet,4,active,Hidden,Item_StoneTablet_Hell_Name,Hell,지옥,[석판 효과] / CHECKERBOARD2 -9 / CHECKERBOARD -9 / [회전 불가],[Tablet effect] / CHECKERBOARD2 -9 / CHECKERBOARD -9 / [Cannot rotate]
+Honor,StoneTabletN_Honor,2057,tablet,1,active,Locked,Item_StoneTablet_Honor_Name,Honor,명예,[석판 효과] / KNIGHTUPLEFT 1 / UP 2,[Tablet effect] / KNIGHTUPLEFT 1 / UP 2
+Hope,StoneTablet_Hope,2001,tablet,0,active,Default,Item_StoneTablet_Hope_Name,Hope,희망,[석판 효과] / RIGHT 1,[Tablet effect] / RIGHT 1
+Hospitality,StoneTabletN_Hospitality,2056,tablet,3,active,Locked,Item_StoneTablet_Hospitality_Name,Hospitality,환대,[석판 효과] / LEFT 1 / UP 2 / UP IGNORECRITERIA / LEFT IGNORECRITERIA / [회전 불가],[Tablet effect] / LEFT 1 / UP 2 / UP IGNORECRITERIA / LEFT IGNORECRITERIA / [Cannot rotate]
+Junction,StoneTablet_h_Heart,2036,tablet,2,active,Locked,Item_StoneTablet_Junction_Name,Junction,접합,[석판 효과] / UP 1 / UPUP 1 / UPUPUP 1 / RIGHT 1 / RIGHTRIGHT 1 / RIGHTRIGHTRIGHT 1,[Tablet effect] / UP 1 / UPUP 1 / UPUPUP 1 / RIGHT 1 / RIGHTRIGHT 1 / RIGHTRIGHTRIGHT 1
+Justice,StoneTablet_Justice,2008,tablet,1,active,Default,Item_StoneTablet_Justice_Name,Justice,정의,[배치 조건] / LEFTEND PLACED / RIGHTEND PLACED / [석판 효과] / VERTICAL +1 / [회전 불가],[Placement condition] / LEFTEND PLACED / RIGHTEND PLACED / [Tablet effect] / VERTICAL +1 / [Cannot rotate]
+Last Stand,StoneTablet_NewRare_0,2058,tablet,2,active,Locked,Item_StoneTablet_LastStand_Name,Last Stand,배수진,[석판 효과] / UP 5 / DOWN -1 / LEFT -1 / RIGHT -1,[Tablet effect] / UP 5 / DOWN -1 / LEFT -1 / RIGHT -1
+Link,StoneTablet_Joint,2018,tablet,2,active,Default,Item_StoneTablet_Joint_Name,Link,이음,[석판 효과] / UP 2 / DOWN IGNORECRITERIA,[Tablet effect] / UP 2 / DOWN IGNORECRITERIA
+Miracle,StoneTablet_Miracle,2003,tablet,3,active,Default,Item_StoneTablet_Miracle_Name,Miracle,기적,[석판 효과] / HORIZONTAL 1 / VERTICAL 1,[Tablet effect] / HORIZONTAL 1 / VERTICAL 1
+Nurture,StoneTablet_Nurture,2015,tablet,0,active,Default,Item_StoneTablet_Nurture_Name,Nurture,양육,[석판 효과] / DIAUPLEFT 1 / DIAUPRIGHT 1 / UP 1 / DOWN -1 / DOWNDOWN -1,[Tablet effect] / DIAUPLEFT 1 / DIAUPRIGHT 1 / UP 1 / DOWN -1 / DOWNDOWN -1
+Oaths,StoneTablet_h_Sword,2034,tablet,2,active,Locked,Item_StoneTablet_Oaths_Name,Oaths,맹세,[석판 효과] / LEFT 1 / RIGHT 1 / DOWN 1 / UP 1 / UPUP 2,[Tablet effect] / LEFT 1 / RIGHT 1 / DOWN 1 / UP 1 / UPUP 2
+Oppression,StoneTablet_Repression,2000,tablet,1,active,Hidden,Item_StoneTablet_Repression_Name,Oppression,억압,[석판 효과] / RIGHT X,[Tablet effect] / RIGHT X
+Past,StoneTablet_Past,2039,tablet,1,active,Default,Item_StoneTablet_Past_Name,Past,과거,[석판 효과] / UP 1 / RIGHT 1 / DIAUPLEFT 1 / DIAUPRIGHT 1,[Tablet effect] / UP 1 / RIGHT 1 / DIAUPLEFT 1 / DIAUPRIGHT 1
+Peace,StoneTabletN_Peace,2054,tablet,3,active,Locked,Item_StoneTablet_Peace_Name,Peace,평화,[석판 효과] / LEFT 3 / RIGHT 3,[Tablet effect] / LEFT 3 / RIGHT 3
+Power,StoneTablet_Power,2045,tablet,2,active,Default,Item_StoneTablet_Power_Name,Power,권능,[석판 효과] / UP 3,[Tablet effect] / UP 3
+Preparation,StoneTablet_h_73,2031,tablet,1,active,Locked,Item_StoneTablet_Preparation_Name,Preparation,준비,[석판 효과] / DIADOWNRIGHT 2 / DIAUPLEFT 1,[Tablet effect] / DIADOWNRIGHT 2 / DIAUPLEFT 1
+Progress,StoneTablet_Development,2053,tablet,1,active,Locked,Item_StoneTablet_Progress_Name,Progress,발전,[석판 효과] / DIAUPLEFT 2 / UP 1 / LEFT 1,[Tablet effect] / DIAUPLEFT 2 / UP 1 / LEFT 1
+Pulsation,StoneTablet_Beat,2014,tablet,1,active,Default,Item_StoneTablet_Beat_Name,Pulsation,고동,[석판 효과] / UPUP 2,[Tablet effect] / UPUP 2
+Rally,StoneTabletN_Rally,2052,tablet,1,active,Locked,Item_StoneTablet_Rally_Name,Rally,집결,[석판 효과] / UP 2 / LEFT 2,[Tablet effect] / UP 2 / LEFT 2
+Rebellion,StoneTablet_h_Diagonal,2037,tablet,2,active,Locked,Item_StoneTablet_Rebellion_Name,Rebellion,반항,[석판 효과] / RIGHT_RISING 1 / LEFT_FALLING 1,[Tablet effect] / RIGHT_RISING 1 / LEFT_FALLING 1
+Requital,StoneTablet_New_06,2100,tablet,4,active,WitchHat,Item_StoneTablet_Requital_Name,Requital,보은,[석판 효과] / HORIZONTAL 3,[Tablet effect] / HORIZONTAL 3
+Shade,StoneTablet_Shade,2016,tablet,2,active,Default,Item_StoneTablet_Shade_Name,Shade,차양,[배치 조건] / TOP PLACED / [석판 효과] / BOTTOM 1 / [회전 불가],[Placement condition] / TOP PLACED / [Tablet effect] / BOTTOM 1 / [Cannot rotate]
+Simultaneity,StoneTablet_Simultaneity,2048,tablet,2,active,Default,Item_StoneTablet_Simultaneity_Name,Simultaneity,동시성,[석판 효과] / VERTICAL 1 / [회전 불가],[Tablet effect] / VERTICAL 1 / [Cannot rotate]
+Stack,StoneTablet_Stack,2041,tablet,1,active,Default,Item_StoneTablet_Stack_Name,Stack,적재,[석판 효과] / UP 1 / DIAUPLEFT 1 / KNIGHTUPLEFT 1 / UPUP 1,[Tablet effect] / UP 1 / DIAUPLEFT 1 / KNIGHTUPLEFT 1 / UPUP 1
+Surge,StoneTablet_Enhance,2002,tablet,1,active,Default,Item_StoneTablet_Surge_Name,Surge,고양,[석판 효과] / RIGHT IGNORECRITERIA,[Tablet effect] / RIGHT IGNORECRITERIA
+Thorns,StoneTablet_h_360,2035,tablet,3,active,Locked,Item_StoneTablet_Spike_Name,Thorns,가시,[석판 효과] / LEFT 1 / RIGHT 1 / DOWN 2 / UP 2 / DIAUPRIGHT 1 / DIAUPLEFT 1 / DIADOWNRIGHT 1 / DIADOWNLEFT 1 / [회전 불가],[Tablet effect] / LEFT 1 / RIGHT 1 / DOWN 2 / UP 2 / DIAUPRIGHT 1 / DIAUPLEFT 1 / DIADOWNRIGHT 1 / DIADOWNLEFT 1 / [Cannot rotate]
+Three-Headed,StoneTablet_Threeheaded,2038,tablet,1,active,Default,Item_StoneTablet_Threeheaded_Name,Three-Headed,삼두,[석판 효과] / UP 1 / LEFT 1 / RIGHT 1 / [회전 불가],[Tablet effect] / UP 1 / LEFT 1 / RIGHT 1 / [Cannot rotate]
+Transference,StoneTablet_Metastasis,2004,tablet,1,active,Default,Item_StoneTablet_Translate_Name,Transference,전이,[석판 효과] / HORIZONTAL +1 / VERTICAL -1,[Tablet effect] / HORIZONTAL +1 / VERTICAL -1
+Trick,StoneTablet_Trick,2024,tablet,0,active,Default,Item_StoneTablet_Trick_Name,Trick,장난,[석판 효과] / UP 1 / DIAUPLEFT 1 / DIAUPRIGHT 1 / LEFT -1 / RIGHT -1,[Tablet effect] / UP 1 / DIAUPLEFT 1 / DIAUPRIGHT 1 / LEFT -1 / RIGHT -1
+Unity,StoneTablet_Unity,2009,tablet,0,active,Default,Item_StoneTablet_Unity_Name,Unity,화합,[석판 효과] / UP -1 / RIGHT +1 / LEFT -1 / DOWN +1,[Tablet effect] / UP -1 / RIGHT +1 / LEFT -1 / DOWN +1
+Vigilance,StoneTablet_Border,2022,tablet,3,active,Default,Item_StoneTablet_Border_Name,Vigilance,경계,[석판 효과] / TOP 1 / BOTTOM 1 / [회전 불가],[Tablet effect] / TOP 1 / BOTTOM 1 / [Cannot rotate]
+Wave,StoneTablet_Wave,2023,tablet,1,active,Default,Item_StoneTablet_Wave_Name,Wave,파도,[석판 효과] / DIAUPRIGHT 3 / UP -1 / RIGHT -1,[Tablet effect] / DIAUPRIGHT 3 / UP -1 / RIGHT -1
+Wedge,StoneTablet_New_01,2061,tablet,2,active,WitchHat,Item_StoneTablet_Fang_Name,Wedge,쐐기,[석판 효과] / DIAUPLEFT 3,[Tablet effect] / DIAUPLEFT 3
+Wit,StoneTablet_Wit,2012,tablet,0,active,Default,Item_StoneTablet_Wit_Name,Wit,재치,[석판 효과] / DIAUPLEFT 1,[Tablet effect] / DIAUPLEFT 1

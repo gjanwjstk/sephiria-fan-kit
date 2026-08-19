@@ -1,0 +1,27 @@
+SEPHIRIA - Fonts
+
+These third-party fonts are used in SEPHIRIA. They are NOT included in
+this kit; each keeps its own license. Download them from the sources
+below. (Some may be fan fonts -- verify the license before redistributing.)
+
+  - Galmuri (Galmuri11)
+      Used for: EN / KO / ES / PT UI
+      License: SIL Open Font License 1.1 [verified]
+      Source: https://github.com/quiple/galmuri
+
+  - GalCyrillic (Galmuri Cyrillic)
+      Used for: RU UI
+      License: Project-internal TMP SDF font (no standalone .ttf); a Cyrillic build derived from Galmuri, so inherits Galmuri's SIL OFL 1.1. No separate public distribution -- confirm the RU-build author.
+      Source: https://galmuri.quiple.dev (base font)
+
+  - JF Dot M+ 10 (JF-Dot-MPlus10)
+      Used for: JA UI
+      License: Jikasei dot font: copyright waived, free incl. commercial & redistribution (based on M+ BITMAP FONTS) [verified]
+      Source: http://jikasei.me/font/jf-dotfont/
+
+  - Fusion Pixel Font 10px
+      Used for: ZH UI
+      License: SIL OFL 1.1, reserved name 'Fusion Pixel' [verified]
+      Source: https://github.com/TakWolf/fusion-pixel-font
+
+(c) TEAM HORAY. Fonts are property of their respective authors.

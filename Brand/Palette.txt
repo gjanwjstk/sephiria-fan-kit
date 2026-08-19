@@ -1,0 +1,12 @@
+SEPHIRIA - Colour palette (sampled from logo + key art; approximate)
+
+  #639BFF   rgb(99,155,255)   ~25%
+  #ADC0C5   rgb(173,192,197)   ~16%
+  #D7E4F9   rgb(215,228,249)   ~14%
+  #59423F   rgb(89,66,63)   ~13%
+  #53765D   rgb(83,118,93)   ~9%
+  #8C6E5B   rgb(140,110,91)   ~8%
+  #141214   rgb(20,18,20)   ~7%
+  #7CA4DC   rgb(124,164,220)   ~2%
+  #63A775   rgb(99,167,117)   ~1%
+  #5CA664   rgb(92,166,100)   ~1%

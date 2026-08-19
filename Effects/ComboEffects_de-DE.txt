@@ -1,0 +1,200 @@
+﻿Combo effect text — 20 / language: de-DE (de-DE)
+================================================================================
+
+=== Akademie (ACADEMY) ===
+[Combo effect]
+  (2) +12 Grimoire-Tempo
+  (4) +15% MP-Kosten von Grimoire verringern
+  (6) +16 Grimoire-Tempo
+  (8) +20 Grimoire-Tempo
+  (10) +15% Grimoire-Schaden, +8 MP-Regeneration
+
+================================================================================
+
+=== Alchemie (ALCHEMY) ===
+[Description]
+Wenn du Steintafel als Gegenstandsbelohnung erhältst, stelle einen zufälligen Trank her.
+[Combo effect]
+  (1) +1 Tranktaschenplatz
+  (2) +1 Tranktaschenplatz
+  (3) Zufällige Tränke: 1 (Gewöhnlich~Selten)
+
+================================================================================
+
+=== Begleiter (COMPANION) ===
+[Combo effect]
+  (2) +6% Schaden des Begleiters
+  (4) +8% Schaden des Begleiters
+  (6) +10% Schaden des Begleiters, +15 Verteidigung des Begleiters
+  (8) +12% Schaden des Begleiters, +20 Verteidigung des Begleiters
+  (10) +20% Schaden des Begleiters, +40% Wiederbelebungszeit des Begleiters beschleunigen
+
+================================================================================
+
+=== Fluch (CURSE) ===
+[Combo effect]
+  (2) +10% Mit Schwächung verursachter Schaden, +7% Bewegungstempo
+  (4) +15% Mit Schwächung verursachter Schaden
+
+================================================================================
+
+=== Gewitterwolke (DARKCLOUD) ===
+[Description]
+Beschwört eine Sturmwolke. Trifft nahe Gegner alle 1 Sek. mit Blitzen. (Schaden: Blitzschaden 110 %)
+Stellt während des Kampfes alle 5 Sekunden 5 % eines Kapazitätsstapels wieder her.
+[Combo effect]
+  (2) Sturmwolke aktiviert (Grundkapazität 15)
+  (4) +8 Sturmwolke-Kapazität
+  (6) +12 Sturmwolke-Kapazität
+  (8) +16 Sturmwolke-Kapazität
+  (10) +20 Sturmwolke-Kapazität, Sturmwolke greift mit einem Mehrfachschuss von 2 an
+
+================================================================================
+
+=== Elementar (ELEMENTAL) ===
+[Combo effect]
+  (2) +5 Höchster Elementarschaden
+  (4) +6 Höchster Elementarschaden
+  (6) Erhöht sämtlichen Element-Schaden um 10%
+
+================================================================================
+
+=== Glut (EMBER) ===
+[Description]
+Flammenberührung: Fügt beim Verursachen von Feuer-Schaden (außer Schwächungsschaden) die Schwächung Brand zu. (Abklingzeit: 2 Sek.)
+[Combo effect]
+  (2) Flammenberührung-Effekt aktivieren
+  (4) +6 Feuerschaden
+  (6) Flammenberührung-Abklingzeitbeschleunigung 150%
+  (8) +8 Feuerschaden
+  (10) Der Grundschadensmultiplikator für Brand ändert sich von 18 auf 28 %.
+
+================================================================================
+
+=== Sonnenklinge (FLAMESWORD) ===
+[Description]
+Wenn du mit einer Waffenangriff oder Grimoire Schaden verursachst, wirfst du ein Sonnenklinge. (Schaden: Feuerschaden 115 %) Das geworfene Sonnenklinge fällt zu Boden und kann wieder aufgehoben werden.
+[Combo effect]
+  (2) Effekt aktivieren (Standardschwert ×5)
+  (4) +6% Schaden von Sonnenklinge
+  (6) +8% Schaden von Sonnenklinge, +1 Maximale Anzahl von Sonnenklinge
+  (8) +10% Schaden von Sonnenklinge, +2 Maximale Anzahl von Sonnenklinge
+  (10) +12% Schaden von Sonnenklinge, +6 Maximale Anzahl von Sonnenklinge
+
+================================================================================
+
+=== Frostreliquie (FROST) ===
+[Combo effect]
+  (2) +6% Aufladegeschwindigkeit von Frostrelikt
+  (4) +8% Aufladegeschwindigkeit von Frostrelikt
+  (6) +6% Schaden von Frostrelikt
+  (8) +8% Schaden von Frostrelikt
+  (10) Aktiviert Frostrelikt 1-mal zusätzlich
+
+================================================================================
+
+=== Gletscher (GLACIER) ===
+[Description]
+Frostberührung: Fügt beim Verursachen von Eis-Schaden (außer Schwächungsschaden) die Schwächung Erfrierung zu. (Abklingzeit: 2 Sek.)
+[Combo effect]
+  (2) Frostberührung-Effekt aktivieren
+  (4) +6 Kälteschaden
+  (6) Frostberührung-Abklingzeitbeschleunigung 150%
+  (8) +8 Kälteschaden
+  (10) Für Einfrieren benötigte Anzahl an Erfrierung-Stapel -1
+
+================================================================================
+
+=== Wächter (GUARDIAN) ===
+[Combo effect]
+  (2) +6 Verteidigung
+  (4) +7 Verteidigung
+  (6) +8 Verteidigung
+  (8) +10 Verteidigung
+  (10) +12 Verteidigung, +5% Verteidigung ignorieren
+
+================================================================================
+
+=== See (LAKE) ===
+[Combo effect]
+  (3) +20 Max. MP, +5 MP-Regeneration
+  (6) +30 Max. MP, +10% Schaden von Fähigkeiten, die MP verbrauchen
+  (9) +40 Max. MP, +25% Schaden von Fähigkeiten, die MP verbrauchen
+
+================================================================================
+
+=== Magitech (MAGITECH) ===
+[Description]
+Schockberührung: Fügt beim Verursachen von Blitz-Schaden (außer Schwächungsschaden) die Schwächung Stromschlag zu. (Abklingzeit: 2 Sek.)
+[Combo effect]
+  (2) Schockberührung-Effekt aktivieren
+  (4) +6 Blitzschaden
+  (6) Schockberührung-Abklingzeitbeschleunigung 150%
+  (8) +8 Blitzschaden
+  (10) Aktivierungszeit von Stromschlag -1s
+
+================================================================================
+
+=== Mystik (MYSTIC) ===
+[Description]
+Die Effizienz der Artefaktstufe in einem bestimmten Inventarplatz wird verdoppelt.
+[Combo effect]
+  (2) Zufällige Plätze: 1
+  (4) Zufällige Plätze: 2
+
+================================================================================
+
+=== Planet (PLANET) ===
+[Combo effect]
+  (2) +8% Planetenschaden
+  (4) +10% Planetenschaden
+  (6) +12% Planetenschaden
+  (8) +14% Planetenschaden
+  (10) +16% Planetenschaden, +12% Angriffsgeschwindigkeit von Planeten
+
+================================================================================
+
+=== Präzision (PRECISION) ===
+[Combo effect]
+  (2) +4% Kritische Trefferchance
+  (4) +6% Kritische Trefferchance
+  (6) +8% Kritische Trefferchance
+  (8) +10% Kritische Trefferchance
+  (10) +30% Kritischer Schaden
+
+================================================================================
+
+=== Verhandlung (SAVVY) ===
+[Combo effect]
+  (2) +10 Tauschhandel, +15% Blätterfall
+  (4) +15 Tauschhandel, Goldene Hand: Schaden an Gegnern +1% pro 200 besessene Blatt (bis zu 20 %)
+
+================================================================================
+
+=== Schatten (SHADOW) ===
+[Combo effect]
+  (2) +4 Ausweichen
+  (4) +5 Ausweichen
+  (6) +6 Ausweichen
+  (8) +8 Ausweichen
+  (10) +10 Ausweichen
+
+================================================================================
+
+=== Robust (STURDY) ===
+[Combo effect]
+  (2) +2 Physischer Schaden
+  (4) +4 Physischer Schaden
+  (6) +6 Physischer Schaden
+  (8) +8 Physischer Schaden
+  (10) +15% Physischer Schaden-Verstärkung
+
+================================================================================
+
+=== Windlied (WINDSONG) ===
+[Combo effect]
+  (2) +8% Angriffsgeschwindigkeit
+  (4) +12% Angriffsgeschwindigkeit
+  (6) +16% Angriffsgeschwindigkeit
+  (8) +20% Angriffsgeschwindigkeit
+  (10) +15% Waffe-Schaden, +1 Dash-Anzahl

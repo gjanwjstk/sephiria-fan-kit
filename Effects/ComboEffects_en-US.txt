@@ -1,0 +1,200 @@
+﻿Combo effect text — 20 / language: en-US (en-US)
+================================================================================
+
+=== Academy (ACADEMY) ===
+[Combo effect]
+  (2) +12 Grimoire Haste
+  (4) +15% Reduce MP Cost of Grimoire
+  (6) +16 Grimoire Haste
+  (8) +20 Grimoire Haste
+  (10) +15% Grimoire Damage, +8 MP Regeneration
+
+================================================================================
+
+=== Alchemy (ALCHEMY) ===
+[Description]
+When you obtain a Tablet from an item reward, craft a random potion.
+[Combo effect]
+  (1) +1 Potion Bag Slot
+  (2) +1 Potion Bag Slot
+  (3) 1 random potion(s) (Common~Rare)
+
+================================================================================
+
+=== Companion (COMPANION) ===
+[Combo effect]
+  (2) +6% Companion Damage
+  (4) +8% Companion Damage
+  (6) +10% Companion Damage, +15 Companion Defense
+  (8) +12% Companion Damage, +20 Companion Defense
+  (10) +20% Companion Damage, +40% Companion Revive Time Haste
+
+================================================================================
+
+=== Curse (CURSE) ===
+[Combo effect]
+  (2) +10% Damage dealt with Debuff, +7% Move Speed
+  (4) +15% Damage dealt with Debuff
+
+================================================================================
+
+=== Storm Cloud (DARKCLOUD) ===
+[Description]
+Summons a Storm Cloud. Strikes nearby enemies with lightning every 1 seconds. (Damage: Lightning Damage 110%)
+Recovers 5% of capacity stack every 5 seconds during combat.
+[Combo effect]
+  (2) Storm Cloud activated (Base capacity 15)
+  (4) +8 Storm Cloud Capacity
+  (6) +12 Storm Cloud Capacity
+  (8) +16 Storm Cloud Capacity
+  (10) +20 Storm Cloud Capacity, Storm Cloud Attacks with a multishot of 2
+
+================================================================================
+
+=== Elemental (ELEMENTAL) ===
+[Combo effect]
+  (2) +5 Highest Elemental Damage
+  (4) +6 Highest Elemental Damage
+  (6) Amplify all Element damage by 10%
+
+================================================================================
+
+=== Ember (EMBER) ===
+[Description]
+Flame Touch: Inflict Burn debuff when dealing Fire damage (excluding debuff damage). (Cooldown: 2 seconds)
+[Combo effect]
+  (2) Activate Flame Touch Effect
+  (4) +6 Fire Damage
+  (6) Flame Touch Cooldown Haste 150%
+  (8) +8 Fire Damage
+  (10) Base damage multiplier for Burn changes from 18 to 28%
+
+================================================================================
+
+=== Solar Blade (FLAMESWORD) ===
+[Description]
+When you deal damage with a Weapon Attack or Grimoire, you throw a Solar Blade. (Damage: Fire Damage 115%) The thrown Solar Blade falls to the ground and can be picked up again.
+[Combo effect]
+  (2) Activate effect (Basic Sword ×5)
+  (4) +6% Solar Blade Damage
+  (6) +8% Solar Blade Damage, +1 Solar Blade Maximum Count
+  (8) +10% Solar Blade Damage, +2 Solar Blade Maximum Count
+  (10) +12% Solar Blade Damage, +6 Solar Blade Maximum Count
+
+================================================================================
+
+=== Frost Relic (FROST) ===
+[Combo effect]
+  (2) +6% Frost Relic Charge Speed
+  (4) +8% Frost Relic Charge Speed
+  (6) +6% Frost Relic damage
+  (8) +8% Frost Relic damage
+  (10) Additional activation of Frost Relic 1 times
+
+================================================================================
+
+=== Glacier (GLACIER) ===
+[Description]
+Frost Touch: Inflict Frostbite debuff when dealing Ice damage (excluding debuff damage). (Cooldown: 2 seconds)
+[Combo effect]
+  (2) Activate Frost Touch Effect
+  (4) +6 Cold Damage
+  (6) Frost Touch Cooldown Haste 150%
+  (8) +8 Cold Damage
+  (10) Number of Frostbite stacks required for Freeze -1
+
+================================================================================
+
+=== Guardian (GUARDIAN) ===
+[Combo effect]
+  (2) +6 Defense
+  (4) +7 Defense
+  (6) +8 Defense
+  (8) +10 Defense
+  (10) +12 Defense, +5% Ignore Defense
+
+================================================================================
+
+=== Lake (LAKE) ===
+[Combo effect]
+  (3) +20 Max MP, +5 MP Regeneration
+  (6) +30 Max MP, +10% Damage of abilities consuming MP
+  (9) +40 Max MP, +25% Damage of abilities consuming MP
+
+================================================================================
+
+=== Magitech (MAGITECH) ===
+[Description]
+Shock Touch: Inflict Electrocution debuff when dealing Lightning damage (excluding debuff damage). (Cooldown: 2 seconds)
+[Combo effect]
+  (2) Activate Shock Touch Effect
+  (4) +6 Lightning Damage
+  (6) Shock Touch Cooldown Haste 150%
+  (8) +8 Lightning Damage
+  (10) Electrocution Activation Time -1s
+
+================================================================================
+
+=== Mystic (MYSTIC) ===
+[Description]
+The artifact level efficiency in a specific inventory slot is doubled.
+[Combo effect]
+  (2) Random 1 slots
+  (4) Random 2 slots
+
+================================================================================
+
+=== Planet (PLANET) ===
+[Combo effect]
+  (2) +8% Planet Damage
+  (4) +10% Planet Damage
+  (6) +12% Planet Damage
+  (8) +14% Planet Damage
+  (10) +16% Planet Damage, +12% Planet Attack Speed
+
+================================================================================
+
+=== Precision (PRECISION) ===
+[Combo effect]
+  (2) +4% Critical Chance
+  (4) +6% Critical Chance
+  (6) +8% Critical Chance
+  (8) +10% Critical Chance
+  (10) +30% Critical Damage
+
+================================================================================
+
+=== Negotiation (SAVVY) ===
+[Combo effect]
+  (2) +10 Barter, +15% Leaf Drop
+  (4) +15 Barter, Golden Hand: Damage to enemies +1% per 200 Leaf owned (up to 20%)
+
+================================================================================
+
+=== Shadow (SHADOW) ===
+[Combo effect]
+  (2) +4 Evasion
+  (4) +5 Evasion
+  (6) +6 Evasion
+  (8) +8 Evasion
+  (10) +10 Evasion
+
+================================================================================
+
+=== Sturdy (STURDY) ===
+[Combo effect]
+  (2) +2 Physical Damage
+  (4) +4 Physical Damage
+  (6) +6 Physical Damage
+  (8) +8 Physical Damage
+  (10) +15% Physical Damage Amplification
+
+================================================================================
+
+=== Wind Song (WINDSONG) ===
+[Combo effect]
+  (2) +8% Attack Speed
+  (4) +12% Attack Speed
+  (6) +16% Attack Speed
+  (8) +20% Attack Speed
+  (10) +15% Weapon Damage, +1 Dash Count

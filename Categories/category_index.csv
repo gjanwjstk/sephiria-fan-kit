@@ -1,0 +1,21 @@
+﻿file,sprite,name_key,name_en,name_ko
+Academy,Academy,ItemCategory_Academy,Academy,아카데미
+Alchemy,Alchemy,ItemCategory_Alchemy,Alchemy,연금술
+Companion,Companion,ItemCategory_Companion,Companion,동료
+Curse,Curse,ItemCategory_Curse,Curse,저주
+Elemental,Elemental,ItemCategory_Elemental,Elemental,원소
+Ember,Ember,ItemCategory_Ember,Ember,잉걸불
+Frost Relic,Frost,ItemCategory_Frost,Frost Relic,얼음무구
+Glacier,Glacier,ItemCategory_Glacier,Glacier,빙하
+Guardian,Guardian,ItemCategory_Guardian,Guardian,수호
+Lake,Lake,ItemCategory_Lake,Lake,호수
+Magitech,Magitech,ItemCategory_Magitech,Magitech,마법공학
+Mystic,Mystic,ItemCategory_Mystic,Mystic,신비
+Negotiation,Savvy,ItemCategory_Savvy,Negotiation,교섭
+Planet,Planet,ItemCategory_Planet,Planet,행성
+Precision,Precision,ItemCategory_Precision,Precision,정밀
+Shadow,Shadow,ItemCategory_Shadow,Shadow,그림자
+Solar Blade,FlameSword,ItemCategory_FlameSword,Solar Blade,태양검
+Storm Cloud,DarkCloud,ItemCategory_DarkCloud,Storm Cloud,먹구름
+Sturdy,Sturdy,ItemCategory_Sturdy,Sturdy,견고
+Wind Song,WindSong,ItemCategory_WindSong,Wind Song,바람노래

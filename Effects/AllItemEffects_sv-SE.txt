@@ -1,0 +1,2920 @@
+﻿All item effect text — 426 / language: sv-SE (sv-SE)
+================================================================================
+
+── activeType: Default — 211 ──
+
+=== Återställande dryck (ID: 0) [Default] [Potion] [Sällsynthet: Vanlig] ===
+Återställer 20% HP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stor återställande dryck (ID: 1) [Default] [Potion] [Sällsynthet: Avancerad] ===
+Återställer 50% HP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bunnyvilles specialmorot (ID: 7) [Default] [Misc] [Sällsynthet: Vanlig] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stor fokusdryck (ID: 26) [Default] [Potion] [Sällsynthet: Vanlig] ===
+Återställer 1 MP var 0,25:e sekund i 25 s
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Äppeljuice (ID: 27) [Default] [Potion] [Sällsynthet: Vanlig] ===
+Återställer 1 HP varje sekund i 30 s
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Nebbiolos envishet (ID: 28) [Default] [Potion] [Sällsynthet: Sällsynt] ===
+Fysisk skada +4
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ugni Blancs dimma (ID: 29) [Default] [Potion] [Sällsynthet: Sällsynt] ===
+Köldskada +4
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tempranillos passion (ID: 30) [Default] [Potion] [Sällsynthet: Sällsynt] ===
+Eldskada +4
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Malbecs djup (ID: 31) [Default] [Potion] [Sällsynthet: Sällsynt] ===
+Blixtskada +4
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Grenaches nyckfullhet (ID: 32) [Default] [Potion] [Sällsynthet: Sällsynt] ===
+Ger en slumpmässig effekt.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stor tärningsdryck (ID: 33) [Default] [Potion] [Sällsynthet: Sällsynt] ===
+Få 3 tärning(ar)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Liten tärningsdryck (ID: 34) [Default] [Potion] [Sällsynthet: Avancerad] ===
+Få 2 tärning(ar)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vampyrherrens ed (ID: 36) [Default] [Potion] [Sällsynthet: Legendarisk] ===
+Livsstöld +1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Regenerationsdryck (prov) (ID: 37) [Default] [Potion] [Sällsynthet: Vanlig] ===
+Återställer 1% HP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Uppvakningsdryck (ID: 38) [Default] [Potion] [Sällsynthet: Sällsynt] ===
+Förtrollar en artefakt en gång
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Svampsoppa (ID: 39) [Default] [Potion] [Sällsynthet: Sällsynt] ===
+Ökar den högsta elementarskadan med 6
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Trappists helighet (ID: 40) [Default] [Potion] [Sällsynthet: Avancerad] ===
+Fysisk skada +2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Märzens rök (ID: 41) [Default] [Potion] [Sällsynthet: Avancerad] ===
+Eldskada +2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Aventinus kristall (ID: 42) [Default] [Potion] [Sällsynthet: Avancerad] ===
+Köldskada +2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Goses morgon (ID: 43) [Default] [Potion] [Sällsynthet: Avancerad] ===
+Blixtskada +2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lambics ögonblick (ID: 44) [Default] [Potion] [Sällsynthet: Avancerad] ===
+Ger en slumpmässig effekt.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Madeiras uthållighet (ID: 45) [Default] [Potion] [Sällsynthet: Sällsynt] ===
+Slutligt HP +5%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sagrantinos uthållighet (ID: 47) [Default] [Potion] [Sällsynthet: Sällsynt] ===
+Försvar +5
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Poulsards marginal (ID: 48) [Default] [Potion] [Sällsynthet: Sällsynt] ===
+Undvikande +5
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Madirans fattning (ID: 49) [Default] [Potion] [Sällsynthet: Avancerad] ===
+Försvar +3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Grisettes lätthet (ID: 50) [Default] [Potion] [Sällsynthet: Avancerad] ===
+Undvikande +3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gueuzes ensemble (ID: 51) [Default] [Potion] [Sällsynthet: Avancerad] ===
+Högsta elementskada +2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Styrkans artefakt (ID: 1000) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Tålig(STURDY)
++2/3/4/6 Fysisk skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Skicklighetens artefakt (ID: 1001) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Skugga(SHADOW)
++3/6 Undvikande
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Intelligensens artefakt (ID: 1002) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Glaciär(GLACIER)
++3/4/6/8 Köldskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bruten rot (ID: 1004) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Sjö(LAKE)
+Max MP +5/60
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Hjärtformad morot (ID: 1005) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Sjö(LAKE)
+Max HP +5/10/15/20/30
+Max MP +5/10/15/20/30
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vindnoter (ID: 1008) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Vindsång(WINDSONG)
++10/20/30/40/50 % ökad räckvidd för Närstridsattack
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Träningsmanual för svärd (ID: 1009) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Vindsång(WINDSONG)
+Attackhastighet +7/14/26 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Träningsmanual för sköld (ID: 1010) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Tålig(STURDY)
++5/8% Specialattackskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vindgräshalsduk (ID: 1011) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Vindsång(WINDSONG)
+Rusningsattacksskada +30/80 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kölfragment (ID: 1012) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Mystik(MYSTIC)
+Max HP +5/20
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Elektrochakram (ID: 1013) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Magiteknik(MAGITECH)
+Avfyra +1/2/2/3/3//4/4 chakram(er) som periodiskt attackerar närliggande fiender
+[Skada: +50/50/80/80/110 (Blixtskada+50/50/80/80/110 %)]
+Vid chakramträff, tillfoga Elektrifiering med +10/10/10/10/30 % chans.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Exorcismens skida (ID: 1014) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Frostrelik(FROST)
+Laddas var 6 s och utlöser ett hugg av elementet Is med en normalattack
+[Skada: 24 (24 + Köldskada+100/150/200/260/320//380/460 %)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blå planet (ID: 1015) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Planet(PLANET)
+Framkallar en blå planet som skjuter Fysisk-projektiler
+[Skada: +10/14/18/22/26/30]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Röd dimma (ID: 1016) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Precision(PRECISION)
+Vid kritisk träff, tillfoga skada på närliggande fiender motsvarande +10/14/21/30 % av det högsta attributvärdet
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Varm sten (ID: 1018) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Precision(PRECISION)
+Kritisk skada +10/20/30/40/50 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Torkad blomma (ID: 1023) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Sjö(LAKE)
++2/4/6% Kritisk träffchans
++2/4/6 Max MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Arrogansens gyllene krona (ID: 1025) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Precision(PRECISION)
+Kombons sista träff får Kritisk träffchans +15/30/50/75/100 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Enkelt kontrakt (ID: 1026) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Följeslagare(COMPANION)
+Följeslagares Max HP +25/55/88/120/150 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frostlås (ID: 1027) [Default] [Charm] [Sällsynthet: Avancerad] ===
++8/12/16/20/25% Universell skadeökning
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gyllene handklocka (ID: 1029) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Följeslagare(COMPANION)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Endodittes pappersvikt (ID: 1031) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Sjö(LAKE)
++3/6/9 MP-återhämtning
++3/6/9 Max MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Röda ormögon (ID: 1032) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Glöd(EMBER)
+Släpper +1/1/2/2/3/4 meteor(er) nära spelaren som orsakar +130/150/150/170/170/170 % eldskada
+Tillfogar Bränning på fiender som träffas av meteorerna
+Nedkylning: 5 s
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sköldkamrat (ID: 1034) [Default] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Tålig(STURDY)
++2/4/6/9/12//15/20% Vapen-skada
+-20/20/20/10/5//5/0% Attackhastighet
+Specialattack MP-kostnad +15/30/45/60/70//80/100
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Molnflaska (ID: 1035) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Stormmoln(DARKCLOUD)
++5/10/15/20/25/30% Förbrukningshastighet för Stormmoln
+En lyckad Rusningsattack ger Stormmoln (antal: +1/2/3/5/7/10; nedkylning: +3.5 s)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Krigarsigill (ID: 1036) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Tålig(STURDY)
++1/2/3/4/6//8/10/13 Fysisk skada
++5/5/5/10/10//10/15/15% Attackhastighet
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vit gren (ID: 1040) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Sjö(LAKE)
+MP-återhämtning +5/9/15/22/30
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Magisk morot (ID: 1048) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Elementär(ELEMENTAL)
++2/3/4/6/8 Högsta elementskada
++2/4/6/8/10% Rörelsehastighet
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Strålande artefakt (ID: 1050) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Tålig(STURDY)
+Vid en lyckad blockering, +2/4/6/8/10/15 fysisk skada i 25.5 s
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ripostklingfragment (ID: 1051) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Tålig(STURDY)
+Motattack: Utför en kort närstridsattack framåt när du blockerar (+0.5/0/0.7/1.6/2.8/4.5 % av fysisk skada)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fragment av bronsspegel (ID: 1056) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Tålig(STURDY)
++20/30/40/50% Minska MP-kostnaden för Specialattack
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Miniatyr av bibliotekets minutvisare (ID: 1058) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Precision(PRECISION)
++0.1/0.2/0.3/0.4/0.5s Oövervinnlighetstid under Specialattack: Raseri
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Serens hastigt skrivna brev (ID: 1060) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Väktare(GUARDIAN)
+Varje gång du använder 40 MP i strid får du en Sköld med +5/10/15 hälsopoäng (varar i 15 s)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Liten magisk snäcka (ID: 1063) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Frostrelik(FROST)
++3/6/10% Frostrelik-skada
++5/8/12% Kritisk skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Modellmast (ID: 1065) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Stormmoln(DARKCLOUD)
++20/40/60% Förbrukningshastighet för Stormmoln
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stenblomma (ID: 1066) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Stormmoln(DARKCLOUD)
++3/6 Blixtskada
++3/6% Kritisk skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kalcedonnyckel (ID: 1067) [Default] [Charm] [Sällsynthet: Avancerad] ===
+Få en kombination av Tålig, Glöd, Glaciär eller Magiteknik beroende på vilken rad du befinner dig på
+Ger +2/4/6/8 elementarskada baserat på den beviljade kombinationen.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sapotfrukt (ID: 1068) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Stormmoln(DARKCLOUD)
++4/8/12/16/20 Kapacitet för Stormmoln
++1/2/3/4/5 MP-återhämtning
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vasst ekollon (ID: 1070) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Stormmoln(DARKCLOUD)
++3/6/9/12% Återhämtningshastighet för Stormmoln under strid
++3/3/6/6 Undvikande
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Miniballista (ID: 1071) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Följeslagare(COMPANION), Stormmoln(DARKCLOUD)
+Framkalla en följeslagare som strider med dig
+Få Stormmoln med +20/34/48/61/75 % chans när en blixtpil träffar en fiende.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bladfågelläder (ID: 1072) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Stormmoln(DARKCLOUD)
++2/2/3/4% Extra Stormmoln-skada
+När Normalattack eller Rusningsattack träffar finns det +100/175/275/400 % chans att omedelbart förbruka 1 Stormmoln (nedkylning: +1.2/0.9/0.8/0.6 s)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sprakande vaniljkrämsbakelse (ID: 1074) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Stormmoln(DARKCLOUD)
+33 % chans att fiender släpper blixtbröd när de dör. Blixtbröd ger Stormmoln +1/2/3/4/5
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Magins standarder (ID: 1076) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Elementär(ELEMENTAL)
++2/4/6/8/10 Högsta elementskada
++3/6/9/12/15% Skada från Grimoar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Trasig safir (ID: 1077) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Skugga(SHADOW)
++2/4/6 Undvikande
++2/4/6 Försvar
+Få en slöja som garanterar Undvikande mot varje attack var +16/14/12 s
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Konstgjord fe, Iphiel (ID: 1078) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Sjö(LAKE)
+När du blockerar ger den +5/10/15/20/30/50 MP-återhämtning men minskar Rörelsehastighet med 90 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vass flinta (ID: 1079) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Elementär(ELEMENTAL)
++2/4/6/8% Kritisk träffchans
++1/2/3/4 Högsta elementskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ödmjukhetens krona (ID: 1080) [Default] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Tålig(STURDY)
+Det sista slaget i kombon orsakar +10/22/40/60/84 % mer skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Modellnäbb (ID: 1081) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Skugga(SHADOW)
++1/2/3/5/8 Fysisk skada
++2/3/4/5/6 Undvikande
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kompressionsbandage (ID: 1082) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Vindsång(WINDSONG)
++10/15/30/50/80% Rusningsåterhämtningshastighet
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Strävans artefakt (ID: 1083) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Precision(PRECISION)
+Vapenattack Kritisk träffchans ökar med +3/6/10/14/20 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Silverplåt (ID: 1086) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Tålig(STURDY)
++3/6/10% Normal attackskada
++3/6/10% Specialattackskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kritons sigill (ID: 1087) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Förhandling(SAVVY)
+Ökar mängden Löv med +10/50 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Grönt sågblad (ID: 1088) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Precision(PRECISION)
+Varje gång du använder 15 MP i strid får du en buff på 3 % Kritisk träffchans (staplas upp till 3 gång(er) och varar i 20 s)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Smal kudde (ID: 1090) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Följeslagare(COMPANION)
++5/10/15/20/30//40/50% Följeslagares återupplivningshastighet
+Följeslagare attackerar +20/25/30/35/40//50/60% oftare
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bärnsten (ID: 1094) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Mystik(MYSTIC)
+Tillfogar +10/20/40/80 % extra skada på fiender med full hälsa
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Drakencens (ID: 1100) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Glöd(EMBER)
++2/4/6/8/10 Eldskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ohia Lehua (ID: 1101) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Glöd(EMBER)
+När du orsakar skada med Vapenattack eller Grimoar, tillfoga målet +10/20/30 Eldskada (nedkylning 2 sek)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ekkol (ID: 1102) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Glöd(EMBER)
++10/20/30/40/50//60/70/80/90% Attackhastighet för Bränning
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Skårad lertavla (ID: 1104) [Default] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Stormmoln(DARKCLOUD)
+Det finns 10/20/30/40/50% chans att Stormmoln inte förbrukas
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gul planet (ID: 1105) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Planet(PLANET)
+Framkallar en gul planet som skjuter studsande Fysisk-projektiler
+[Skada: +20/26/32/38/45//52/60]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Röd planet (ID: 1106) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Planet(PLANET)
+Framkallar en röd planet som avfyrar Eld-missiler
+[Skada: +26/31/36/42/48//54/60]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Himmelsblå planet (ID: 1107) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Planet(PLANET)
+Framkallar en himmelsblå planet som skjuter Blixt-laserstrålar
+[Skada: +30/40/45/50/55/60]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Jätteteleskop (ID: 1108) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Planet(PLANET)
++5/10/15% Planeternas attackhastighet
+Förstora planeter inom 8 platser (Förstorade planeter har större projektiler och tillfogar 50 % ökad skada)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Besudlat bandage (ID: 1109) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Precision(PRECISION)
++1/3/6/9% Kritisk träffchans
++1/2/3/3 Fysisk skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kasserad gyllene ring (ID: 1111) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Tålig(STURDY)
+Specialattack-räckvidd +10/20/30%
+Besegra 40 fiende(r) med Specialattack för att förvandlas till Absolut ring
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Absolut ring (ID: 1112) [Default] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Tålig(STURDY)
+Specialattack-räckvidd +30/45/60%
+Specialattack-skada +10/20/45%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Åskledare (ID: 1113) [Default] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Stormmoln(DARKCLOUD)
++5/10/15/20/25//30/35/40 Kapacitet för Stormmoln
++3/6/9/12/15//18/21/24% Återhämtningshastighet för Stormmoln under strid
++1/2/3/4/5//6/7/8 Blixtskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Balisong (ID: 1114) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Precision(PRECISION)
+Skada som tillfogas fiender inom räckvidden: +6/8/11/14% (räckvidd i rutor: 2.5)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vitt äggskal (ID: 1118) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Mystik(MYSTIC)
+Om målets HP är under +4/8/12/16/20% dör det omedelbart (påverkar inte bossar)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vitt skorpebröd (ID: 1119) [Default] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Väktare(GUARDIAN)
+När du tar skada blir du osårbar i +0.4/0.8/1.2 s
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blodstensring (ID: 1120) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Mystik(MYSTIC)
+Efter att fiender har dödats återställs 5 HP (antal som krävs: +15/13/10).
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Neutralisator Noir (ID: 1121) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Förbannelse(CURSE)
++4/8/12/16% Skada orsakad med Debuff
+-10/10/6/6% Kritisk träffchans
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Påse med svart te (ID: 1122) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+Varje gång du besegrar en Miniboss ökar Universell skadeökning med +4/8/12% (upp till 3 stack(ar))
+Nuvarande stackar: 0
+Mottagen skada från Miniboss +30%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Helenas modelltrappa (ID: 1125) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Vindsång(WINDSONG)
+När du går in på en annan plats får du en buff som ökar Rörelsehastighet med +10/14/18/22/26/30 % och Attackhastighet med +10/14/16/20/25/30 % i 90 s
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gyllene lönnlöv (ID: 1126) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Förhandling(SAVVY)
++10/15/20/25/30% Erfarenhetsdrop
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Nystan av rött garn (ID: 1128) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Glöd(EMBER)
++20/40/60/80/100% Bränning-skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Molnfröpilspets (ID: 1129) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Stormmoln(DARKCLOUD)
+5/10/15/23/35/50 % chans till förstärkta Stormmoln-blixtar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Alfonsos horn (ID: 1130) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Följeslagare(COMPANION)
++1/2/3/4/5//6/8/10 Undvikande
++10/20/30/40/50//60/70/80% Följeslagares skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Grön bläckflaska (ID: 1132) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Förbannelse(CURSE)
+När du tillfogar en debuff finns det +20/30/40/50% % chans att även tillfoga den på en närliggande fiende (Nedkylning: 0.4 sek)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Voluspa (ID: 1137) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Frostrelik(FROST)
+Laddas var 6 s under strid. Aktiverar följande effekt om det finns fiender i närheten efter laddning.
+Ett spjut av Is flyger in och attackerar fiender +1/1/1/1/1//2/2/2/3 gång(er)
+[Skada: 20 (20+Köldskada+100/140/180/220/260//155/170/130/150 %)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Åskträffad gren (ID: 1141) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Magiteknik(MAGITECH)
+När du orsakar skada med Vapenattack eller Grimoar, tillfoga målet +10/20/30 Blixtskada (nedkylning 2 sek)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gyllene mantel (ID: 1149) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Vindsång(WINDSONG)
++1/1/2 Antal rusningar
++3/6/9% Attackhastighet
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Eldörtsrot (ID: 1153) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Glöd(EMBER)
++6/12/20 Max MP
+Vid träff med Specialattack: Raseri, tillfoga närliggande fiender +200/400/600 % Eld-skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fängslande lockbete (ID: 1162) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Sjö(LAKE), Elementär(ELEMENTAL)
++3/5/8 MP-återhämtning
++1/1/2 Eldskada
++1/1/2 Köldskada
++1/1/2 Blixtskada
++1/1/2 Fysisk skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Magiska glasögon (ID: 1163) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Skugga(SHADOW)
++3/6/9/12 Undvikande
++7/14/22/30 Max MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Halmdocka (ID: 1164) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Sjö(LAKE)
++3/6/9 MP-återhämtning
++2/3/5% Kritisk skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frostiumring (ID: 1175) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Glaciär(GLACIER)
+När du orsakar skada med Vapenattack eller Grimoar, tillfoga målet +10/20/30 Köldskada (nedkylning 2 sek)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Snöflingehalsband (ID: 1176) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Glaciär(GLACIER)
++1/3/5 Köldskada
++1/3/5% Rörelsehastighet
+Minskar Rörelsehastighet ytterligare med +5/10/15% för mål som drabbats av Köldskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fluffiga pälshandskar (ID: 1177) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Glaciär(GLACIER)
+Mål som drabbats av Köldskada tar ytterligare +5/10/15/20/25% skada från Köldskada (gäller även skada från Följeslagare)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Glaciärens eko (ID: 1178) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Glaciär(GLACIER)
++3/6/10 Försvar
+Tillfoga närliggande fiender Köldskada var +5/4/3/2.5:e sekund
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ismåsens fötter (ID: 1180) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Glaciär(GLACIER)
+Få buffen Frusen beröring varje gång du tillfogar ett mål Köldskada
+Frusen beröring: Ökar Köldskada med 1 i 7 s (maximalt antal stackar: +5/10/15/20)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Röd tygbit (ID: 1183) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Förbannelse(CURSE)
+När du orsakar skada på en fiende orsakar du ytterligare +4/5/7/10 % skada för varje debuff på målet
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Flammande ögonlapp (ID: 1185) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Glöd(EMBER)
++2/4/6% Attackhastighet
+Eld-elementskada Kritisk skada +11/22/33% (gäller Följeslagare-skada)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vit kappa (ID: 1186) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Mystik(MYSTIC)
++30/60/100/130/160/200% Varaktighet för buffar som du tillämpar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Klar kub (ID: 1189) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Vindsång(WINDSONG)
++1/1/2/2/3 Ren skada
++5/6/7/9/12% Rörelsehastighet
++5/6/7/9/12% Attackhastighet
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kastrullock (ID: 1190) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Väktare(GUARDIAN)
++2/4/6/8/11/15 MP-återhämtning
++1/2/3/4/5/6 Undvikande
+Få buffen Uthållighet vid varje fysisk kritisk träff på en fiende (ökar försvaret med 3 i 6 sekunder, upp till 3 stackar)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Valters arbetsmonokel (ID: 1191) [Default] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Precision(PRECISION)
++10/19/28/35/45% Kritisk träffchans
+Om en fiende är inom 3 rutor, kritisk skada -30 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Taggigt skal (ID: 1192) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Väktare(GUARDIAN)
++150/300/450% Törnen
++1/2/3 Försvar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Solis Fracto (ID: 1193) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Solklinga(FLAMESWORD)
++2/3/5 Eldskada
++2/4/6 Max HP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Silverarmband (ID: 1194) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Vindsång(WINDSONG)
++4/8/12/16% Attackhastighet
+-4/6/8/10% Rörelsehastighet
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kalejdoskop (ID: 1195) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Precision(PRECISION)
++15/25/35/45/55% Extra skada på målets Superrustning
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Anlitningssigill “Collin” (ID: 1197) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Följeslagare(COMPANION)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Snöstormshammare (ID: 1208) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Frostrelik(FROST)
+Laddas var 7 s under strid. Aktiverar följande effekt efter att du har rusat när den är laddad.
+Kasta en hammare mot närliggande fiender för att orsaka Köldskada-skada
+[Skada: 14 (14+Köldskada+50/100/150/200/250//300/350/400/450/500 %)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fruset hjärta (ID: 1209) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Frostrelik(FROST)
++10/18/26/40/55//70/85/100% Laddningshastighet för Frostrelik
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Isstjärna (ID: 1210) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Frostrelik(FROST)
+Ytterligare aktivering av Frostrelik 0/0/0/0/0/1 gång(er)
+0/0/0/0/0/-10% Frostrelik-skada
+0/0/1/1/2/2 Tur
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Magmapärla (ID: 1213) [Default] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Glöd(EMBER)
+Tilldelar Bränning 0/1/1/2 ytterligare gånger
++1/1/1/2 Bränning stackar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fenixvinge (ID: 1214) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Glöd(EMBER)
++2/3/5 Eldskada
+Frammana fjädrar i strid som flyger mot +1/2/3 närliggande fiender och tillfogar Bränning (nedkylning: 3.5 s)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tygarmring (ID: 1215) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Väktare(GUARDIAN)
++3/6/9/12 Försvar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Begoniadoftpåse (ID: 1218) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Tålig(STURDY)
++5/10% Normal attackskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Armborstkoger (ID: 1223) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Tålig(STURDY)
++20/40/65/100 Armborstets omladdningshastighet
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Omladdningslåda i trä (ID: 1224) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Tålig(STURDY)
+0/1/1/1/2 Magasinsantal
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mässingsspegelfragment (ID: 1225) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Tålig(STURDY)
++20/30/40/50% Minska MP-kostnaden för Specialattack
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Uråldrigt städ (ID: 1229) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Solklinga(FLAMESWORD)
+Solklinga faller 10/20/30/40% snabbare till marken
++2/4/6/8 Eldskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Karmosinröd solnedgång (ID: 1230) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Solklinga(FLAMESWORD)
+Solklinga har 20/40/60/80/100% chans att växa i storlek och öka skadan med 33 % när den kastas
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Evig ugn (ID: 1231) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Solklinga(FLAMESWORD)
++1/2.5/5% Kritisk träffchans
+Skapa 1 Solklinga var +10/8/5:e sekund (endast när Solklinga-effekten är aktiv)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Solis Parvo (ID: 1232) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Solklinga(FLAMESWORD)
++1/1/2/2/3 Maxantal Solklinga
++1/2/4/6/8% Rörelsehastighet
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Solis Decussa (ID: 1233) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Solklinga(FLAMESWORD)
++5/10/15/20% Solklinga-skada
++4/8/12/16% Kritisk skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stötmanual (ID: 1235) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Tålig(STURDY)
+Var 2:e sekund förstärks Rusningsattack, vilket ökar skadan med +30/60/90/120 % och omvandlar den till en attack baserad på den högsta egenskapen
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Meteoritörhängen (ID: 1236) [Default] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Solklinga(FLAMESWORD)
++5/10/15% Solklinga-skada
++2/4/7 Eldskada
+Solklinga faller nära dig när den kastas
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Meteoritspauldrons (ID: 1237) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Solklinga(FLAMESWORD)
+Hämta alla Solklinga som har fallit till marken och tillfoga fiender i vägen Solklinga-skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Åskans örhänge (ID: 1239) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Magiteknik(MAGITECH)
++1/2/3/4/5/6 Blixtskada
+Var 4:e sekund tar +1/2/2/3/3/4 närliggande fiender Blixtskada 30 % skada och drabbas av Elektrifiering.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Solis Dekri (ID: 1240) [Default] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Solklinga(FLAMESWORD)
+Solklinga ignorerar +2/4/6/8/10//12/14% av målets försvar
++5/10/15/22/30//40/50% Kritisk chans för Solklinga
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mörk planet (ID: 1241) [Default] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Planet(PLANET)
+Framkallar en mörk planet som avfyrar Kaos-kulor 
+[Skada: +50/60/70/80/90/100]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Askgrå planet (ID: 1242) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Planet(PLANET)
+Framkallar en grå planet som skjuter Is-projektiler
+[Skada: +15/20/25/30/35/40]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frusen båge (ID: 1247) [Default] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Frostrelik(FROST)
+Laddar automatiskt om 1 skott var 0.8 s (upp till 7)
+Avfyra en pil mot fienden som orsakar Köldskada
+[Skada: 12 (12+Köldskada+50/60/70/80/100//120/130/140/150/160 %)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Grönskans andekappa (ID: 1252) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Skugga(SHADOW)
+0/1/1 Antal rusningar
++4/6/8 Undvikande
++1/2/4% Kritisk träffchans
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Harmonins kristall (ID: 1270) [Default] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Mystik(MYSTIC)
+Öka Universell skadeökning med +1/2 % per artefaktnivå inom 8 platser
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lyckomedalj (ID: 1271) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Förhandling(SAVVY)
++2/6/10 Byteshandel
+Genererar +100/150/200 Löv vid handel med en köpman (aktiveras en gång per köpman)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blixtens artefakt (ID: 1272) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Magiteknik(MAGITECH)
++3/4/6/8 Blixtskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Hink med knubbiga bär (ID: 1273) [Default] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Sjö(LAKE)
+Återställ genast MP+50/100 % vid användning
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Glasburk med flerfärgat godis (ID: 1277) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Elementär(ELEMENTAL)
+Avfyrar +1/2/3/4 elementbomb(er) som orsakar +100/150/200/250 % av den högsta elementskadan
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Modets amulett (ID: 1283) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Tålig(STURDY)
++3/6/10% Vapen-skada
++1/1/1 Livsstöld
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Motattackarmband (ID: 1287) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Tålig(STURDY)
+Vid Perfekt blockering ökar Universell skadeökning med +4/8/12/16 % i 7s
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ripoststavfragment (ID: 1288) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Tålig(STURDY)
+Motattack: Utför en kort närstridsattack framåt när du blockerar (0/1/2.1/3.4/4.8/6.2 % av fysisk skada)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Hopp (ID: 2001) [Default] [StoneTablet] [Sällsynthet: Vanlig] ===
+[Tablet effect]
+  RIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Anstormning (ID: 2002) [Default] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  RIGHT IGNORECRITERIA
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mirakel (ID: 2003) [Default] [StoneTablet] [Sällsynthet: Legendarisk] ===
+[Tablet effect]
+  HORIZONTAL 1
+  VERTICAL 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Överföring (ID: 2004) [Default] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  HORIZONTAL +1
+  VERTICAL -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Exploatering (ID: 2005) [Default] [StoneTablet] [Sällsynthet: Vanlig] ===
+[Tablet effect]
+  RIGHT 1
+  LEFT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sammanhållning (ID: 2006) [Default] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  HORIZONTAL -1
+  UP +3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Välvilja (ID: 2007) [Default] [StoneTablet] [Sällsynthet: Vanlig] ===
+[Placement condition]
+  BOTTOM PLACED
+[Tablet effect]
+  RIGHT 1
+  LEFT 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rättvisa (ID: 2008) [Default] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Placement condition]
+  LEFTEND PLACED
+  RIGHTEND PLACED
+[Tablet effect]
+  VERTICAL +1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Enighet (ID: 2009) [Default] [StoneTablet] [Sällsynthet: Vanlig] ===
+[Tablet effect]
+  UP -1
+  RIGHT +1
+  LEFT -1
+  DOWN +1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Öde (ID: 2010) [Default] [StoneTablet] [Sällsynthet: Vanlig] ===
+[Tablet effect]
+  DOWN +1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ridderlighet (ID: 2011) [Default] [StoneTablet] [Sällsynthet: Vanlig] ===
+[Tablet effect]
+  KNIGHTUPLEFT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kvickhet (ID: 2012) [Default] [StoneTablet] [Sällsynthet: Vanlig] ===
+[Tablet effect]
+  DIAUPLEFT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blick (ID: 2013) [Default] [StoneTablet] [Sällsynthet: Vanlig] ===
+[Tablet effect]
+  DIAUPLEFT 1
+  DIADOWNRIGHT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pulsation (ID: 2014) [Default] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  UPUP 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Omvårdnad (ID: 2015) [Default] [StoneTablet] [Sällsynthet: Vanlig] ===
+[Tablet effect]
+  DIAUPLEFT 1
+  DIAUPRIGHT 1
+  UP 1
+  DOWN -1
+  DOWNDOWN -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Skugga (ID: 2016) [Default] [StoneTablet] [Sällsynthet: Sällsynt] ===
+[Placement condition]
+  TOP PLACED
+[Tablet effect]
+  BOTTOM 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Binär stjärna (ID: 2017) [Default] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  UPUP 2
+  DOWNDOWN 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Länk (ID: 2018) [Default] [StoneTablet] [Sällsynthet: Sällsynt] ===
+[Tablet effect]
+  UP 2
+  DOWN IGNORECRITERIA
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tävlan (ID: 2019) [Default] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  DIAUPLEFT -1
+  UP -1
+  DOWN +3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Längtan (ID: 2020) [Default] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  UP 2
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ankomst (ID: 2021) [Default] [StoneTablet] [Sällsynthet: Vanlig] ===
+[Tablet effect]
+  UP 1
+  UPUP 1
+  DOWN -1
+  DOWNDOWN -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vaksamhet (ID: 2022) [Default] [StoneTablet] [Sällsynthet: Legendarisk] ===
+[Tablet effect]
+  TOP 1
+  BOTTOM 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Våg (ID: 2023) [Default] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  DIAUPRIGHT 3
+  UP -1
+  RIGHT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Trick (ID: 2024) [Default] [StoneTablet] [Sällsynthet: Vanlig] ===
+[Tablet effect]
+  UP 1
+  DIAUPLEFT 1
+  DIAUPRIGHT 1
+  LEFT -1
+  RIGHT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Hängivenhet (ID: 2025) [Default] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  DIAUPLEFT 1
+  DIAUPRIGHT 1
+  DIADOWNLEFT 1
+  DIADOWNRIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Skål (ID: 2026) [Default] [StoneTablet] [Sällsynthet: Vanlig] ===
+[Tablet effect]
+  UP 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Skörd (ID: 2027) [Default] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  UP 2
+  DOWN 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Framryckning (ID: 2028) [Default] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  UP 1
+  UPUP 1
+  UPUPUP 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Grund (ID: 2029) [Default] [StoneTablet] [Sällsynthet: Sällsynt] ===
+[Tablet effect]
+  HORIZONTAL 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fördelning (ID: 2030) [Default] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  UP 1
+  DOWN 1
+  LEFT 1
+  RIGHT 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Trehuvad (ID: 2038) [Default] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  UP 1
+  LEFT 1
+  RIGHT 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Förflutet (ID: 2039) [Default] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  UP 1
+  RIGHT 1
+  DIAUPLEFT 1
+  DIAUPRIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Framtid (ID: 2040) [Default] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  UP 1
+  LEFT 1
+  DIAUPLEFT 1
+  DIAUPRIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stapel (ID: 2041) [Default] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  UP 1
+  DIAUPLEFT 1
+  KNIGHTUPLEFT 1
+  UPUP 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Glans (ID: 2042) [Default] [StoneTablet] [Sällsynthet: Legendarisk] ===
+[Tablet effect]
+  HORIZONTAL 1
+  UP 2
+  DOWN 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Handslag (ID: 2043) [Default] [StoneTablet] [Sällsynthet: Vanlig] ===
+[Tablet effect]
+  UP 1
+  DOWN 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Approximation (ID: 2044) [Default] [StoneTablet] [Sällsynthet: Vanlig] ===
+[Tablet effect]
+  UP 1
+  RIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kraft (ID: 2045) [Default] [StoneTablet] [Sällsynthet: Sällsynt] ===
+[Tablet effect]
+  UP 3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kompression (ID: 2046) [Default] [StoneTablet] [Sällsynthet: Legendarisk] ===
+[Tablet effect]
+  UP 3
+  UPUP 2
+  UPUPUP 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Torr (ID: 2047) [Default] [StoneTablet] [Sällsynthet: Vanlig] ===
+[Tablet effect]
+  DOWN 1
+  UP 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Samtidighet (ID: 2048) [Default] [StoneTablet] [Sällsynthet: Sällsynt] ===
+[Tablet effect]
+  VERTICAL 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frånkoppling (ID: 2049) [Default] [StoneTablet] [Sällsynthet: Sällsynt] ===
+[Tablet effect]
+  UP 3
+  DOWN 3
+  LEFT -1
+  RIGHT -1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Välsignelse (ID: 3031) [Default] [Charm] [Sällsynthet: Vanlig] ===
+Få Färdighet Välsignelse
+Få en buff som ökar all utdelad skada med 5 %
+CD: 20s
+MP: 16/13/10
+Varaktighet: 12
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Oidentifierad vanlig artefakt (ID: 10000) [Default] [Identifiable] [Sällsynthet: Vanlig] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Oidentifierad avancerad artefakt (ID: 10001) [Default] [Identifiable] [Sällsynthet: Avancerad] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Oidentifierad sällsynt artefakt (ID: 10002) [Default] [Identifiable] [Sällsynthet: Sällsynt] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Oidentifierat boltgrimoar (ID: 10004) [Default] [Identifiable] [Sällsynthet: Vanlig] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Oidentifierad stödföremålsartefakt för boltgrimoar (ID: 10005) [Default] [Identifiable] [Sällsynthet: Vanlig] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Oidentifierad svärd- och sköldartefakt (ID: 10006) [Default] [Identifiable] [Sällsynthet: Vanlig] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Oidentifierat besvärjelsegrimoar (ID: 10007) [Default] [Identifiable] [Sällsynthet: Vanlig] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Oidentifierad vänartefakt (ID: 10008) [Default] [Identifiable] [Sällsynthet: Vanlig] ===
+[No effect text]
+
+================================================================================
+
+── activeType: Locked — 144 ──
+
+=== Sköldörhängen (ID: 1017) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Väktare(GUARDIAN)
++5/10/15/20 Max HP
+-5/4/3/2 Undvikande
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Slö klocka (ID: 1021) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Förbannelse(CURSE)
+Vid Vapenattack finns det en 1/4 % chans att tillfoga Bedövning
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Törneartefakt (ID: 1028) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Tålig(STURDY)
++2/4/6/10% Kritisk träffchans
++1/1/2/3 Fysisk skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Multifunktionsbälte (ID: 1030) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Mystik(MYSTIC)
+Följande effekter staplas för varje artefakt i en plats på översta raden i ditt inventarium
+Eldskada +1/1/1/2
+Blixtskada +1/1/1/2
+Köldskada +1/1/1/2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Svärdörhängen (ID: 1033) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Precision(PRECISION)
++10/16/24/33% Kritisk skada
+-16/13/10/7 Max MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yakumos kortblad (ID: 1049) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Tålig(STURDY)
++10/20/30/40/50% Rusningsattacksskada
++4/8/12/16/20% Rusningsåterhämtningshastighet
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sköldväska (ID: 1053) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Väktare(GUARDIAN), Akademi(ACADEMY)
+Få följande effekt för varje 10 Försvar
+Eldskada +1/1/2/3
+Köldskada +1/1/2/3
+Blixtskada +1/1/2/3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bicornpipa (ID: 1062) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Akademi(ACADEMY)
+Avfyrar Blixtmagi i tre riktningar. (Varje besvärjelses skada minskas med +0.7/0.6/0.6/0.5/0.5//0.4/0.3%) MP-kostnaden ökar med 0/25/50/75/100//125/150%.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Magikerns mynt (ID: 1064) [Locked] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Akademi(ACADEMY)
++15/20/30/50/65 Hastighet för Grimoar
+Ökar chansen att Grimoar visas bland belöningar med 25 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rays stjärnfragment (ID: 1069) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Akademi(ACADEMY)
+Minskar MP-kostnaden för Grimoaren i vänster plats med +30/35/42/55%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Musmagikerns hänge (ID: 1073) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Akademi(ACADEMY)
+Blixtmagi söker upp fiender
++2/5 MP-återhämtning
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tomt fäste (ID: 1075) [Locked] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Akademi(ACADEMY)
++5/10/15/20/25/30% Skada från Grimoar
++7/9/11/13/15/20% Slutlig MP
++2/2/2/4/4/6 MP-återhämtning
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blå ring (ID: 1085) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Mystik(MYSTIC)
+Om nuvarande HP är 70 % eller mer: Universell skadeökning +6/8/10/15/18/20 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pärldamm (ID: 1089) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Akademi(ACADEMY)
++8/10/12% Skada från Grimoar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ebenholtsfjäll (ID: 1091) [Locked] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Precision(PRECISION)
+Ökar Kritisk träffchans med +100/150/200/250/350 % för varje stentavla i ditt inventarium
+Nuvarande antal stentavlor: 0
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vindsnurra (ID: 1092) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Vindsång(WINDSONG), Skugga(SHADOW)
++3/6/9% Attackhastighet
++2/4/6 Undvikande
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Törnbuske (ID: 1093) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Vindsång(WINDSONG)
+Anfaller fienden du vidrör under rusningen för 30/100 % fysisk skada
+(Orsakar dubbel skada om Antal rusningar förbrukas)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Trasig spegel (ID: 1095) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Väktare(GUARDIAN)
++4/8 Försvar
+Få Sköld-hållbarhet +5/12 när du byter plats
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Längtans klot (ID: 1115) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Akademi(ACADEMY)
+Reserv 15 MP, vilket ökar utdelad Grimoar-skada med +10/12/15/18 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stämgaffel (ID: 1117) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Akademi(ACADEMY), Tålig(STURDY)
+Få en 'Ljudvåg'-stack när Grimoar används, en gång var 0.8:e sekund (maximalt antal stackar: 5)
+Förbruka alla stackar med Vapenattack för att tillfoga Kaos-skada vid anfallspunkten (räknas som Grimoar-skada)
+Skada: +200/250/300/350/450/550 % av genomsnittsskadan för alla elementtyper (Hastighet för Grimoar 1 ökar skadan för Stämgaffel med 1 %)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stjärnrubin (ID: 1123) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Sjö(LAKE)
++10/20/33/45/60% Slutligt HP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stjärnakvamarin (ID: 1124) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Sjö(LAKE)
++10/20/33/45/60% Slutlig MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vattenpåse (ID: 1138) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Sjö(LAKE)
+Ökar Max MP med 1 varje gång du använder MP (upp till +10/15/20/25, återhämtningstid: 5 sekunder)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Isranka (ID: 1139) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Glaciär(GLACIER)
+När du använder Specialattack skapas 1 rad av istaggar framåt (Skada: 10 + +50/90/140 % Köldskada)
+När taggar träffar en fiende, tillfoga Köldskada
+Nedkylning: 0.8 s
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Uppmuntrans fana (ID: 1140) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Vindsång(WINDSONG)
+Frammana en flagga på den angivna platsen. Allierade inom flaggans räckvidd får sin Attackhastighet ökad med +10/20/30 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vingar (ID: 1143) [Locked] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Vindsång(WINDSONG)
++3/6/9/12/15/18% Attackhastighet
+Ytterligare Attackhastighet på +25/20/15/9/6/5 % ökar Universell skadeökning med 1 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Konfliktens fjäll (ID: 1144) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Glöd(EMBER), Glaciär(GLACIER)
+Ger eld till inventariets vänstra sida och is till den högra
+Tilldelad elementskada: +2/15
+Motsatt elementskada: +0/5
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blå klo (ID: 1145) [Locked] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Glaciär(GLACIER)
++2/4/6/9 Köldskada
++5/10/15/20 Max MP
+Köldskada har 30/60% chans att appliceras en extra gång när den tilldelas.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cintamani-sten (ID: 1146) [Locked] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Mystik(MYSTIC)
+När du tar dödlig skada förstörs detta föremål och följande effekter aktiveras
+Återställ 50% HP och bli tillfälligt osårbar
+Inventarium-plats-nivå: +3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Regnbågsfjäder (ID: 1147) [Locked] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Vindsång(WINDSONG)
+Få ytterligare 0/0/1 när du erhåller Trans
++10/16/22% Specialattackskada
++5/5/10% Rusningsåterhämtningshastighet
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fruset ägg (ID: 1150) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Glaciär(GLACIER)
+-9/6/3/0 MP-återhämtning
+Ökar Kritisk träffchans för isattacker med +5/10/15/20 % (gäller även skada från Följeslagare)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Spetsig klubba (ID: 1151) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Precision(PRECISION)
++20/40/60% Kritisk skada
+Attacker har 10 % chans att missa (Minskar skadan med -20 %)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kunai (ID: 1152) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Precision(PRECISION)
+Vanliga attacker har +100/125/150 % chans att avfyra en kunai
+[Skada: 10 (10+Kritisk skada20/30 %)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sexbladig klöver (ID: 1155) [Locked] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Skugga(SHADOW)
++3/6/9/12 Undvikande
++3/6/9/12 Tur
++2/4/6/8% Kritisk träffchans
++1/1/2/2 Ren skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Glashammare (ID: 1156) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Tålig(STURDY)
++3/6/9/12% Vapen-skada
+-3/6/9/12% Slutligt HP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bunnyvilles vakthjälm (ID: 1157) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Tålig(STURDY)
++4/8/12/16% Vapen-skada
+-4/4/8/8 Undvikande
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kapsyl till förstärkningsdryck (ID: 1158) [Locked] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Alkemi(ALCHEMY)
+Om HP är 30 % eller lägre ökar HP-drycksbonus med +30 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Eldfluga (ID: 1159) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Magiteknik(MAGITECH)
++4/8/12 Blixtskada (avaktiveras i 6 s vid träff)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Grön gi (ID: 1160) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Skugga(SHADOW)
++2/3/4/5 Undvikande
++5/7/9/12% Rörelsehastighet
+Vid en lyckad Undvikande utför du Tigerslag framåt
+[Skada: 30 (30 + Fysisk skada +200/300/450/650 %)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vildäppelfrukt (ID: 1161) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Akademi(ACADEMY)
++6/10/14 Hastighet för Grimoar
++5/8/12% Rusningsåterhämtningshastighet
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rylies fickur (ID: 1165) [Locked] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Akademi(ACADEMY)
++40/60/80 Hastighet för Grimoar
++8/14/20% Kritisk skada
++5/5/10% Minska MP-kostnaden för Grimoar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Juvelprydd rustning (ID: 1166) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Akademi(ACADEMY)
++10/20/30% Kritisk träffchans för Grimoar
++4/6/8 MP-återhämtning
+-3/5/7 Fysisk skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Åskspårningskompass (ID: 1167) [Locked] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Magiteknik(MAGITECH)
+När Elektrifiering appliceras tillämpas Förstärkt Elektrifiering med 15/30/45/60% chans
++2/4/6/8 Blixtskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Glödande timglas (ID: 1168) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Akademi(ACADEMY)
+Ökar Hastighet för Grimoar för grimoaren i den högra plats med +60/100/140%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stridsmagikerns handskar (ID: 1169) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Akademi(ACADEMY)
++10/12/15/20% Skada från Grimoar
++3/4/5/6% Rörelsehastighet
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kirins horn (ID: 1170) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Magiteknik(MAGITECH)
+-2/4/6 Köldskada
+Blixt-elementattack Kritisk träffchans +10/20/30% (gäller även Följeslagare-skada)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Obrus blod (ID: 1171) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Sjö(LAKE)
++3/6/9/12 MP-stöld
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Beruts lie (ID: 1173) [Locked] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Precision(PRECISION)
++2.5/5/7.5/10% Kritisk träffchans
+När Kritisk träffchans överstiger 100 % omvandlas överskottet till chans för Avrättning.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Agmas projektsvärd nr 190, 191 (ID: 1181) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Tålig(STURDY)
++2/3/4/6/8//10/12/14 Fysisk skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Oink-schamanens halsband (ID: 1182) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Förbannelse(CURSE)
++20/40/60/80/100% Varaktighet för alla debuffar som tillfogas fiender
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rubinbrosch (ID: 1187) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Stormmoln(DARKCLOUD), Glöd(EMBER)
++3/5/7/10 Blixtskada
++3/5/7/10 Eldskada
+Tillfogar Bränning på fiender som träffas av Stormmoln
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Livgivande beröring (ID: 1196) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Tålig(STURDY)
+-55/48/40/33% Slutligt HP
+Återställer HP med +1/1/1/1 vid Vapenattack (nedkylning 1 s)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Heitas andepulver (ID: 1198) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Följeslagare(COMPANION), Glaciär(GLACIER)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Teros andepulver (ID: 1199) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Följeslagare(COMPANION), Glöd(EMBER)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ahmads andepulver (ID: 1200) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Följeslagare(COMPANION), Magiteknik(MAGITECH)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gruvförmans armbindel (ID: 1202) [Locked] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Följeslagare(COMPANION)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Eldinsekt (ID: 1211) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Glöd(EMBER)
+0/1/1/2/3/4 Bränning stackar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Isinsekt (ID: 1212) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Glaciär(GLACIER)
+10/15/20/25/30//40/50% Debuffskada från Frysning
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Akademibrigandin (ID: 1216) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Väktare(GUARDIAN), Akademi(ACADEMY)
++2/3/4/6/8/10 Försvar
++14/18/20/24/29/35 Hastighet för Grimoar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Meditationsbok (ID: 1228) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Akademi(ACADEMY)
+Kasta omedelbart all Grimoar utan handling
++6/8/11/14% Skada från Grimoar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Handspegel (ID: 1234) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Väktare(GUARDIAN)
++3/6/9 Försvar
+Få Sköld 5/10 i 5s när du använder Rusning (Nedkylning: 5s)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Elinsekt (ID: 1238) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Magiteknik(MAGITECH)
+0/1/1/2/2/3 Elektrifiering-stackar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Isbunden Tejas (ID: 1243) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Glöd(EMBER), Glaciär(GLACIER)
+Bränning ändras till Blå bränning
++3/6/9/12/15% Bränning-skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Åskfrostfjäril (ID: 1244) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Stormmoln(DARKCLOUD), Glaciär(GLACIER)
+Stormmoln ändras till Snöstormsmoln
++2/4/6/8 Köldskada
++6/12/18/24% Förbrukningshastighet för Stormmoln
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Notblad ”Tyfonen” (ID: 1245) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Stormmoln(DARKCLOUD), Vindsång(WINDSONG)
++4/8/12% Attackhastighet
+Förbrukningshastighet för Stormmoln ökar med +25/50/100 % av Attackhastighet
+Tillfogar +5/10/15 Blixtskada med Vapenattack
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stenelefant (ID: 1246) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Väktare(GUARDIAN), Vindsång(WINDSONG)
+Avfyra 3 stenspjut som tillfogar skada motsvarande +70/95/125/160/200 % av Försvar
+Ytterligare stenspjut per extra Attackhastighet 15 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Plitvices droppe (ID: 1248) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Frostrelik(FROST), Sjö(LAKE)
+När Frostrelik aktiveras, förbruka 4 MP för att framkalla roterande issvärd (upp till 5).
+[Skada: Grundattacksskada × 50 % av Ytterligare MP (Nuvarande: 1.2)]
+Grundattacksskada: 6 % av Köldskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Taktisk handbok (ID: 1249) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Följeslagare(COMPANION), Precision(PRECISION)
+Spelarens Kritisk träffchans och Kritisk skada bidrar med +30/60/90/120% till Följeslagare
++2/4/6/8% Kritisk träffchans
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Glittrande öga (ID: 1250) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Skugga(SHADOW), Precision(PRECISION)
+Få en ”Hägring”-stack vid kritiska träffar. Vid 100 % Hägring undviker du automatiskt nästa attack och tillfogar Undvikande +300/600/900/1200/1500 % Kaos-skada på omgivande fiender.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Notblad ”Galaxen” (ID: 1251) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Planet(PLANET), Vindsång(WINDSONG)
++4/8/12% Attackhastighet
+Varje Vapenattack snabbar upp planeternas attackcykel
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vitt papper (ID: 1258) [Locked] [Charm] [Sällsynthet: Avancerad] ===
++3/6% Universell skadeökning
+Ökar kombinationsräknaren med 1 om artefakterna i båda angränsande platser har samma kombination
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Evig förmörkelse (ID: 1259) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Solklinga(FLAMESWORD), Frostrelik(FROST)
++6/13/21/30% Frostrelik-skada
++6/13/21/30% Solklinga-skada
+Solklinga aktiveras även med attack från Frostrelik
+Om föremålet är på vänster sida av inventariet omvandlas artefakten Frostrelik till att baseras på Eldskada, och om det är på höger sida omvandlas artefakten Solklinga till att baseras på Köldskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mystisk pendel (ID: 1262) [Locked] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Tålig(STURDY)
++22/26/32/40/50% Normal attackskada
+-10/10/10/10/10% Attackhastighet
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Flödeskopplare Mk.2 (ID: 1263) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Stormmoln(DARKCLOUD), Följeslagare(COMPANION)
++3/6/9/12% Följeslagares skada
+Aktiverar Stormmoln +1/1/1/1 gång(er) när en följeslagare orsakar Blixt-skada (Nedkylning per följeslagare: 0.1 sek)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Hängivenhetsemblem (ID: 1264) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Följeslagare(COMPANION)
++6/12/18/24 Följeslagares försvar
+Följeslagare på samma Rad i Inventarium orsakar Kaos-skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Slagförstärkare (ID: 1267) [Locked] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Mystik(MYSTIC)
++1/1/1/2/2//3/4/4/5/6//7/8/9/12/14 Ren skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Evig vinter (ID: 1268) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Glaciär(GLACIER), Tålig(STURDY)
+Chans att orsaka extra skada när Normalattack träffar: +80/120/180%. 
+[Skada: Fysisk skada +40/75/125% + Köldskada +80/150/250% (räknas som skada från Normalattack)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Felsökarnål (ID: 1274) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Precision(PRECISION)
++3/6/9/12/15//18/21% Kritisk träffchans
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vandrarens halsband (ID: 1275) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Vindsång(WINDSONG)
++6/12/18% Attackhastighet
++2/4/6 Högsta elementskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Odjurets hjärta (ID: 1276) [Locked] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Väktare(GUARDIAN)
++4/8/12/16/20 Försvar
++2/4/6/8/10% Universell skadeökning
++2/2/4/4/6 Tur
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sländtrissa av sten (ID: 1278) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Sjö(LAKE)
++6/12/18/24/30% Skada från förmågor som förbrukar MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lerids stridsarmband (ID: 1279) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Skugga(SHADOW)
+0/1/1/2 Antal rusningar
++1/1/2/3 Ren skada
++2/4/6/8% Rörelsehastighet
+Rusning-odödlighet behandlas som en lyckad Undvikande-effekt
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Resårband (ID: 1285) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Skugga(SHADOW)
++2/4/6/8% Kritisk skada
++1/2/3/4 Undvikande
+Återställ Antal rusningar med +1/1/2 när Undvikande aktiveras
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Nordens gyllene nål (ID: 1289) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+Skadan för Artefakt i plats ovanför: +6/8/10%
+Om Sällsynthet är Avancerad eller lägre, bonusskada +15/20/25%
+Gäller endast Artefakt som tillfogar direkt skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Akademins reservoarpenna (ID: 1291) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Skugga(SHADOW), Akademi(ACADEMY)
+Minska nedkylningen för all Grimoar med 5/10/15/20/25% vid lyckad Undvikande
+Få Skada från Grimoar 1% per 4 Undvikande
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Jolows vattenkanna (ID: 1292) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Sjö(LAKE), Akademi(ACADEMY)
++3/6/9/12/15% Skada från Grimoar
+Om Max MP är minst +500/400/320/250/200, kasta Grimoar 1 ytterligare gånger
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Snöbergs långörade fladdermus (ID: 1293) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Glaciär(GLACIER), Vindsång(WINDSONG)
++2/5/6/8/10% Attackhastighet
+Avfyra en isprojektil mot fiender som har Köldskada var 0.5 sek
+[Skada: 0 (Köldskadas 45% × Attackhastighets 120 %)]
+Denna skada påverkas inte av Frostberöring
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Plasmahjälm (ID: 1294) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Glöd(EMBER), Magiteknik(MAGITECH)
+Bränning och Elektrifiering ändras till Plasma
+-15/10/5/0/5% Plasma-skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Observationslogg för den röda planeten (ID: 1295) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Planet(PLANET), Glöd(EMBER)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vattenande (ID: 1296) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Sjö(LAKE), Precision(PRECISION)
+Kastar ”Vattengrepp” på målplatsen med Max MP 30 %
+[Skada: Max MP × +160/240/320/400/500]
+Förstärker attackens Kritisk skada med +10/15/20/25/30%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Arg potatis (ID: 1300) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Alkemi(ALCHEMY)
++4/7/11/15% Ignorera försvar
++1/2/3/4 Tur
++5/5/10/10% Rörelsehastighet
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Resenärens välsignelse (ID: 1301) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Alkemi(ALCHEMY)
++4/8/12% Vapen-skada
++4/8/12% Skada från Grimoar
+0/1/2 Ren skada
++3/6/9% Rörelsehastighet
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Alkemistens flaska (ID: 1302) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Alkemi(ALCHEMY)
+Drick en dryck för att få en buff som ökar Universell skadeökning med +5/10/15 i 15 sek
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Giljotin av bitande kyla (ID: 1303) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Frostrelik(FROST), Magiteknik(MAGITECH)
+Var 6:e sekund frammanas blad av elementet Is+Blixt som angriper närliggande fiender (maximalt antal mål: 4). Att orsaka Elektrifiering-skada minskar nedkylningen med 1 sek
+Skada: +150/200/250 % av (den högre av Blixtskada och Köldskada + 30 % av den lägre)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Arkivets sol (ID: 1311) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Solklinga(FLAMESWORD), Akademi(ACADEMY)
+Varje 1 % Skada från Grimoar ökar skadan från Solklinga med 1 %
+När Grimoar-skada orsakas aktiveras Solklinga ytterligare 0/0/1/1/2 gång(er)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Förberedelse (ID: 2031) [Locked] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  DIADOWNRIGHT 2
+  DIAUPLEFT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ingång (ID: 2032) [Locked] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  DIAUPRIGHT 1
+  DIAUPLEFT 1
+  UP 2
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dagdröm (ID: 2033) [Locked] [StoneTablet] [Sällsynthet: Legendarisk] ===
+[Tablet effect]
+  DIAUPRIGHT 2
+  DIAUPLEFT 2
+  DIADOWNRIGHT 2
+  DIADOWNLEFT 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Eder (ID: 2034) [Locked] [StoneTablet] [Sällsynthet: Sällsynt] ===
+[Tablet effect]
+  LEFT 1
+  RIGHT 1
+  DOWN 1
+  UP 1
+  UPUP 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Törnen (ID: 2035) [Locked] [StoneTablet] [Sällsynthet: Legendarisk] ===
+[Tablet effect]
+  LEFT 1
+  RIGHT 1
+  DOWN 2
+  UP 2
+  DIAUPRIGHT 1
+  DIAUPLEFT 1
+  DIADOWNRIGHT 1
+  DIADOWNLEFT 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Knutpunkt (ID: 2036) [Locked] [StoneTablet] [Sällsynthet: Sällsynt] ===
+[Tablet effect]
+  UP 1
+  UPUP 1
+  UPUPUP 1
+  RIGHT 1
+  RIGHTRIGHT 1
+  RIGHTRIGHTRIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Uppror (ID: 2037) [Locked] [StoneTablet] [Sällsynthet: Sällsynt] ===
+[Tablet effect]
+  RIGHT_RISING 1
+  LEFT_FALLING 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Övertygelse (ID: 2051) [Locked] [StoneTablet] [Sällsynthet: Legendarisk] ===
+[Tablet effect]
+  UP 5
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Samling (ID: 2052) [Locked] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  UP 2
+  LEFT 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Framsteg (ID: 2053) [Locked] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  DIAUPLEFT 2
+  UP 1
+  LEFT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fred (ID: 2054) [Locked] [StoneTablet] [Sällsynthet: Legendarisk] ===
+[Tablet effect]
+  LEFT 3
+  RIGHT 3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mod (ID: 2055) [Locked] [StoneTablet] [Sällsynthet: Legendarisk] ===
+[Tablet effect]
+  LEFT_RISING 1
+  RIGHT_FALLING 1
+  DIAUPRIGHT 2
+  DIADOWNLEFT 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gästfrihet (ID: 2056) [Locked] [StoneTablet] [Sällsynthet: Legendarisk] ===
+[Tablet effect]
+  LEFT 1
+  UP 2
+  UP IGNORECRITERIA
+  LEFT IGNORECRITERIA
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Heder (ID: 2057) [Locked] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  KNIGHTUPLEFT 1
+  UP 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sista striden (ID: 2058) [Locked] [StoneTablet] [Sällsynthet: Sällsynt] ===
+[Tablet effect]
+  UP 5
+  DOWN -1
+  LEFT -1
+  RIGHT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Flagga (ID: 2059) [Locked] [StoneTablet] [Sällsynthet: Sällsynt] ===
+[Placement condition]
+  LEFTEND PLACED
+[Tablet effect]
+  UP 1
+  DOWN -1
+  RIGHT 1
+  RIGHTRIGHT 2
+  RIGHTRIGHTRIGHT 3
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Försvarsmanöver (ID: 2060) [Locked] [StoneTablet] [Sällsynthet: Sällsynt] ===
+[Tablet effect]
+  DIAUPLEFT 1
+  DIAUPRIGHT 2
+  DIADOWNLEFT 2
+  DIADOWNRIGHT 1
+  LEFT -1
+  RIGHT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Eldstöt (ID: 3002) [Locked] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Glöd(EMBER)
+Få Färdighet Eldstöt
+Kastar en liten eldprojektil
+CD: 1s
+MP: 2
+Skada: 25/28 + Eldskada 50/80 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blixt (ID: 3011) [Locked] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Magiteknik(MAGITECH)
+Få Färdighet Blixt
+Avfyrar dessutom projektiler mot närliggande fiender
+CD: 1s
+MP: 2
+Skada: 20/22 + Blixtskada 40/60 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Eldpil (ID: 3012) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Glöd(EMBER)
+Få Färdighet Eldpil
+Avfyrar en pil som tränger igenom fiender
+CD: 9s
+MP: 15/17/19
+Skada: 18/20/22 + Eldskada 120/240/360 %
+Bränning stackar: 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Eldcirkus (ID: 3013) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Glöd(EMBER)
+Få Färdighet Eldcirkus
+Framkallar 8 eldklot som flyger till målplatsen.
+CD: 10s
+MP: 16/18/19/20
+Skada: 18 + Eldskada 55/75/100/130 %
+Bonus: +10/16/22/30 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Skarpt öga (ID: 3018) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Precision(PRECISION)
+Få Färdighet Skarpt öga
+Få en buff som ökar kritisk träffchans med 12 %
+CD: 30s
+MP: 24/16/6
+Varaktighet: 15
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Hast (ID: 3019) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Vindsång(WINDSONG)
+Få Färdighet Hast
+Få en buff som ökar ATKSPD och Rörelsehastighet med 15 %
+CD: 38s
+MP: 36/24/12
+Varaktighet: 24
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frostdolk (ID: 3020) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Glaciär(GLACIER)
+Få Färdighet Frostdolk
+Framkallar 4 dolkar som flyger mot närliggande fiender och exploderar
+CD: 10s
+MP: 10/11/12/13/14
+Skada: 25 + Köldskada 90/135/180/220/260 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Meteorregn (ID: 3022) [Locked] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Glöd(EMBER)
+Få Färdighet Meteorregn
+Släpper slumpmässigt meteorer inom kastområdet
+CD: 26s
+MP: 35/38/41/44
+Skada: 22 + Eldskada 50/100/180/200 %
+Antal meteorer: 20/25/30/35
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pilregn (ID: 3023) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Glaciär(GLACIER)
+Få Färdighet Pilregn
+Skapar flera ispilar på kastningsplatsen (Ger fiender Köldskada vid träff med en viss chans)
+CD: 16s
+MP: 22/24/26/28
+Skada: 10/12/14/16 + Köldskada 40/70/100/130 %
+Köldskada-chans: 66 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Isprojektil (ID: 3027) [Locked] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Glaciär(GLACIER)
+Få Färdighet Isprojektil
+Avfyrar 2 kristalliserade vattenprojektiler
+CD: 1s
+MP: 2
+Skada: 14/16 + Köldskada 20/30 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Åskrustning (ID: 3028) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Magiteknik(MAGITECH)
+Få Färdighet Åskrustning
+Skapar en åskrustning som kastar kedjeblixtar för att attackera närliggande fiender 3 gånger.
+CD: 25s
+MP: 36/33/30/30/30
+Varaktighet: 10
+Skada: 2/2/2/3/3 + Blixtskada 60/70/80/95/110 %
+Attackintervall: 0.33
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rökridå (ID: 3030) [Locked] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Skugga(SHADOW)
+Få Färdighet Rökridå
+Frammanar en rökridå som låter dig undvika fiendeattacker 3 gånger. Rökridån försvinner efter 3 undanmanövrer.
+CD: 30s
+MP: 24
+Varaktighet: 10
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stor välsignelse (ID: 3032) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Mystik(MYSTIC)
+Få Färdighet Stor välsignelse
+Få en buff som ökar all utdelad skada med 12 %
+CD: 20s
+MP: 19/15/12
+Varaktighet: 12
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sköld (ID: 3033) [Locked] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Väktare(GUARDIAN)
+Få Färdighet Sköld
+Ger en buff som ger 12 barriär
+CD: 20s
+MP: 20/12
+Varaktighet: 6
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blixtboomerang (ID: 3034) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Magiteknik(MAGITECH)
+Få Färdighet Blixtboomerang
+Skjuter iväg en bumerang omsluten av elektricitet (återfår en del av nedkylningstiden genom att fånga den återvändande bumerangen)
+CD: 10s
+MP: 9/10/11/12/12
+Skada: 30 + Blixtskada 180/240/310/380/450 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Åskans dom (ID: 3036) [Locked] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Magiteknik(MAGITECH)
+Få Färdighet Åskans dom
+Avfyrar en massiv blixtstråle som attackerar 10 gång(er)
+CD: 25s
+MP: 24/28/32/36/36
+Skada: 12 + Blixtskada 100/120/140/160/180 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bildfragment (ID: 6000) [Locked] [Identifiable] [Sällsynthet: Avancerad] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bildfragment (ID: 6001) [Locked] [Identifiable] [Sällsynthet: Avancerad] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bildfragment (ID: 6002) [Locked] [Identifiable] [Sällsynthet: Avancerad] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bildfragment (ID: 6003) [Locked] [Identifiable] [Sällsynthet: Avancerad] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bildfragment (ID: 6004) [Locked] [Identifiable] [Sällsynthet: Avancerad] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bildfragment (ID: 6005) [Locked] [Identifiable] [Sällsynthet: Avancerad] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bildfragment (ID: 6006) [Locked] [Identifiable] [Sällsynthet: Avancerad] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bildfragment (ID: 6007) [Locked] [Identifiable] [Sällsynthet: Avancerad] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bildfragment (ID: 6008) [Locked] [Identifiable] [Sällsynthet: Avancerad] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bildfragment (ID: 6009) [Locked] [Identifiable] [Sällsynthet: Avancerad] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bildfragment (ID: 6010) [Locked] [Identifiable] [Sällsynthet: Avancerad] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bildfragment (ID: 6011) [Locked] [Identifiable] [Sällsynthet: Avancerad] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bildfragment (ID: 6012) [Locked] [Identifiable] [Sällsynthet: Avancerad] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bildfragment (ID: 6013) [Locked] [Identifiable] [Sällsynthet: Avancerad] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bildfragment (ID: 6014) [Locked] [Identifiable] [Sällsynthet: Avancerad] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bildfragment (ID: 6015) [Locked] [Identifiable] [Sällsynthet: Avancerad] ===
+[No effect text]
+
+================================================================================
+
+── activeType: PocketDimensionShop — 8 ──
+
+=== Åsksten (ID: 1055) [PocketDimensionShop] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Stormmoln(DARKCLOUD)
++25/30/35/40/45//50/60% Extra Stormmoln-skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pallas kort (ID: 1172) [PocketDimensionShop] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Vindsång(WINDSONG)
+Vanliga attacker har 50 % chans att avfyra ett kort
+För varje 1 Tur ökar chansen att avfyra ett kort med 0/2.5/5/7.5/10% (Nuvarande: -%)
+[Skada: 24]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Isvingar (ID: 1179) [PocketDimensionShop] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Frostrelik(FROST)
+Ytterligare aktivering av Frostrelik 0/0/0/1/1//1/2 gång(er)
+0/0/0/-10/10//10/20% Frostrelik-skada
++2/4/6/8/10//12/20% Kritisk skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blodstensörhängen (ID: 1188) [PocketDimensionShop] [Charm] [Sällsynthet: Legendarisk] ===
++8/8/8/8 Livsstöld
+-30/25/20/10 Försvar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ödleplåtrustning (ID: 1217) [PocketDimensionShop] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Väktare(GUARDIAN)
++14/16/18/21/24 Försvar
+-2/4/6/8/10% Rörelsehastighet
+-2/4/6/8/10% Attackhastighet
+-2/4/6/8/10 Hastighet för Grimoar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vit planet (ID: 1220) [PocketDimensionShop] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Planet(PLANET)
+Framkallar den vita planeten som avfyrar Is-kulor
+[Skada: +30/36/42/48/54//60/66/72]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blått handledsskydd (ID: 1221) [PocketDimensionShop] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Tålig(STURDY)
++7/14/21/28/35//42/50% Specialattackskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Utgång (ID: 2050) [PocketDimensionShop] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  DIADOWNLEFT 1
+  DOWN 2
+  DIADOWNRIGHT 1
+[Cannot rotate]
+
+================================================================================
+
+── activeType: Hidden — 50 ──
+
+=== Stor blå dryck (ID: 20) [Hidden] [Potion] [Sällsynthet: Vanlig] ===
+???
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Liten blå dryck (ID: 21) [Hidden] [Potion] [Sällsynthet: Vanlig] ===
+???
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fokusdryck (ID: 25) [Hidden] [Potion] [Sällsynthet: Vanlig] ===
+Återställer 20% MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gryningens dagg (ID: 35) [Hidden] [Potion] [Sällsynthet: Legendarisk] ===
+Universell skadeökning +4%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Soleras lyckträff (ID: 46) [Hidden] [Potion] [Sällsynthet: Sällsynt] ===
+Ökar kombinationsräknaren för en slumpmässig kombination med 1.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Brännbar olja (ID: 1038) [Hidden] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Glöd(EMBER)
++3/6/9/12 Eldskada
+-2/2/4/4 Köldskada
+När du utför Specialattack: Virvelvind skapas Brinnande fält (radie i rutor: +2.5/2.5/2.5/2.5)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Azurblå pärla (ID: 1059) [Hidden] [Charm] [Sällsynthet: Avancerad] ===
++1/2/3/4 MP-stöld
+Tillfogar Korrosion på fiender du har skadat som är 3 eller fler rutor bort
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Magisk hink (ID: 1098) [Hidden] [Charm] [Sällsynthet: Vanlig] ===
+Rörelsehastighet +0/0.1/0.1 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Magisk hink full med vatten (ID: 1099) [Hidden] [Charm] [Sällsynthet: Vanlig] ===
+Rörelsehastighet -0.4 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ringrullningspinne (ID: 1135) [Hidden] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Tålig(STURDY)
+När en Normalattack träffar ökar Rusningsattacksskada med {DAMAGE} % (återställs vid Rusningsattack)
+Denna effekt återställs när Normalattack träffar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bearbetat trä (ID: 1142) [Hidden] [Charm] [Sällsynthet: Vanlig] ===
+Rörelsehastighet -0.4 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Älvburk (ID: 1148) [Hidden] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Mystik(MYSTIC)
+När du krossar lådor eller krukor finns det +3/4/5 % chans att skapa ett livsklot
+Livsklot: Återställer 15 HP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Elrus tupplurskudde (ID: 1174) [Hidden] [Charm] [Sällsynthet: Avancerad] ===
+Efter stridens slut, återställ +1/2/3 HP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lykta (ID: 1227) [Hidden] [Charm] [Sällsynthet: Vanlig] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Item_PlanetComet_Name (ID: 1254) [Hidden] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Planet(PLANET)
+Framkallar en blå planet som skjuter Fysisk-projektiler
+[Skada: {DAMAGE}]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dånande steg (ID: 1260) [Hidden] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Magiteknik(MAGITECH)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Plitvices droppe (ID: 1261) [Hidden] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Frostrelik(FROST), Sjö(LAKE)
++1 När Frostrelik aktiveras, förbruka 4 MP och öka skadan med den mängd som Max MP har ökats med
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Naturens beskydd (ID: 1265) [Hidden] [Charm] [Sällsynthet: Legendarisk] ===
+Aktiverar MP-sköld i 10 s vid användning
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== ... (ID: 1266) [Hidden] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Akademi(ACADEMY), Sjö(LAKE)
+Ökar skadan med 2/4/6/8/10% för varje 10 MP som förbrukas av Grimoar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== ... (ID: 1269) [Hidden] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Tålig(STURDY), Förbannelse(CURSE)
+Vapen-skada ökar med {DAMAGE} % per stack av debuff som tillfogas fienden
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frusen sköld (ID: 1280) [Hidden] [Charm] [Sällsynthet: Sällsynt] ===
+[Category] Frostrelik(FROST), Vindsång(WINDSONG)
++3% Chans att Frostrelik aktiveras igen för varje Attackhastighet10 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== item_ShieldDamageBonus_Name (ID: 1281) [Hidden] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Väktare(GUARDIAN)
+Öka skadan mot fiender med +5/10/18/30/48//70/100% av Sköld-värdet medan Sköld är aktiv
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stock (ID: 1286) [Hidden] [Charm] [Sällsynthet: Vanlig] ===
+Rörelsehastighet -0.4 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Nordens blå nål (ID: 1290) [Hidden] [Charm] [Sällsynthet: Sällsynt] ===
+Skadan för Artefakt i plats ovanför: +6/8/10%
+Om Sällsynthet är Avancerad eller lägre, bonusskada +15/20/25%
+Gäller endast Artefakt som tillfogar direkt skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tungt hjärta (ID: 1304) [Hidden] [Charm] [Sällsynthet: Vanlig] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Förtryck (ID: 2000) [Hidden] [StoneTablet] [Sällsynthet: Avancerad] ===
+[Tablet effect]
+  RIGHT X
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Helvete (ID: 2098) [Hidden] [StoneTablet] [Sällsynthet: Evig] ===
+[Tablet effect]
+  CHECKERBOARD2 -9
+  CHECKERBOARD -9
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Himmel (ID: 2099) [Hidden] [StoneTablet] [Sällsynthet: Evig] ===
+[Tablet effect]
+  CHECKERBOARD2 9
+  CHECKERBOARD 9
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== ... (ID: 2101) [Hidden] [StoneTablet] [Sällsynthet: Legendarisk] ===
+[Custom tablet (query generated at runtime)]
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Luftstöt (ID: 3000) [Hidden] [Charm] [Sällsynthet: Vanlig] ===
+Få Färdighet Luftstöt
+Komprimerar och avfyrar snabbt luften omkring dig
+CD: 1s
+MP: 2
+0 + Fysisk skada 100/110 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Helande ström (ID: 3005) [Hidden] [Charm] [Sällsynthet: Avancerad] ===
+Få Färdighet Helande ström
+Den förbrukade MP blir permanent Reserv
+Återställer HP. (Kostnaden i MP reserveras permanent.)
+CD: 30s
+MP: 15
+Läkningsmängd: 20
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stenvåg (ID: 3015) [Hidden] [Charm] [Sällsynthet: Vanlig] ===
+Få Färdighet Stenvåg
+Framkallar stenhögar framför och bakom dig för att attackera fiender inom räckvidd
+CD: 9s
+MP: 24/20
+Skada: 0 + Fysisk skada 100/120 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sten-nöff (ID: 3016) [Hidden] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Följeslagare(COMPANION)
+Få Färdighet Sten-nöff
+Framkallar en sten-Oink som strider vid din sida (en del av MP motsvarande framkallningskostnaden låses)
+CD: 10s
+MP: 30
+Skada: 15 + Fysisk skada 0 %
+HP: 250
+Varaktighet: 60
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vattenstöt (ID: 3017) [Hidden] [Charm] [Sällsynthet: Vanlig] ===
+Få Färdighet Vattenstöt
+Kastar iväg en liten vattenprojektil
+CD: 1s
+MP: 2
+Skada: 0 + Köldskada 100/110 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Eldnål (ID: 3024) [Hidden] [Charm] [Sällsynthet: Vanlig] ===
+Få Färdighet Eldnål
+Frammanar en nål som syr garn med eldelement
+CD: 0.5s
+MP: 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Isnål (ID: 3025) [Hidden] [Charm] [Sällsynthet: Vanlig] ===
+Få Färdighet Isnål
+Frammanar en nål som syr garn med iselement
+CD: 0.5s
+MP: 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blixtnål (ID: 3026) [Hidden] [Charm] [Sällsynthet: Vanlig] ===
+Få Färdighet Blixtnål
+Frammanar en nål som syr garn med blixtelement
+CD: 0.5s
+MP: 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Eldcirkus (ID: 3035) [Hidden] [Charm] [Sällsynthet: Vanlig] ===
+Få Färdighet Eldcirkus
+Framkallar 8 eldklot som flyger till målplatsen.
+CD: 1s
+MP: 16/18/19/20
+Skada: 0 + Eldskada 100/120/140/160 %
+Bonus: +0 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Varningsbrev (ID: 5000) [Hidden] [Charm] [Sällsynthet: Sällsynt] ===
++4/8% Rörelsehastighet
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Följeslagarbricka ”Isaac” (ID: 5001) [Hidden] [Charm] [Sällsynthet: Sällsynt] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Följeslagarbricka ”Khakha” (ID: 5002) [Hidden] [Charm] [Sällsynthet: Sällsynt] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Följeslagarbricka ”Maru” (ID: 5003) [Hidden] [Charm] [Sällsynthet: Sällsynt] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Följeslagarbricka ”Aiba” (ID: 5004) [Hidden] [Charm] [Sällsynthet: Sällsynt] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Följeslagarbricka ”Kenny” (ID: 5005) [Hidden] [Charm] [Sällsynthet: Sällsynt] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Följeslagarbricka ”Pillix” (ID: 5006) [Hidden] [Charm] [Sällsynthet: Sällsynt] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Följeslagarbricka ”Rolf” (ID: 5007) [Hidden] [Charm] [Sällsynthet: Sällsynt] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Följeslagarbricka ”Thunder” (ID: 5008) [Hidden] [Charm] [Sällsynthet: Sällsynt] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Oidentifierad legendarisk artefakt (ID: 10003) [Hidden] [Identifiable] [Sällsynthet: Legendarisk] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Förbannelse (ID: 12000) [Hidden] [StoneTablet] [Sällsynthet: Legendarisk] ===
+[Tablet effect]
+  CHECKERBOARD2 1
+  CHECKERBOARD -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+===  (ID: 12002) [Hidden] [StoneTablet] [Sällsynthet: Sällsynt] ===
+[Tablet effect]
+  O MUL/2
+
+================================================================================
+
+── activeType: WitchHat — 13 ──
+
+=== Påse med giftiga sporer (ID: 1154) [WitchHat] [Charm] [Sällsynthet: Sällsynt] ===
++4/6/8/10% Bonusskada mot Boss och Miniboss
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Matlåda (ID: 1282) [WitchHat] [Charm] [Sällsynthet: Avancerad] ===
++1/1/1/1/2 Livsstöld
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Granatmärke (ID: 1297) [WitchHat] [Charm] [Sällsynthet: Avancerad] ===
++2/4/6/8/10% Vapen-skada
++2/3/4/5/6 Eldskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Topasmärke (ID: 1298) [WitchHat] [Charm] [Sällsynthet: Avancerad] ===
++2/4/6/8/10% Vapen-skada
++2/3/4/5/6 Blixtskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Diamantmärke (ID: 1299) [WitchHat] [Charm] [Sällsynthet: Avancerad] ===
++2/4/6/8/10% Vapen-skada
++2/3/4/5/6 Köldskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Röd svamp (ID: 1305) [WitchHat] [Charm] [Sällsynthet: Avancerad] ===
+För varje 3% Skada orsakad med Debuff, öka Attackhastighet med 1%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Virvelvindsten (ID: 1306) [WitchHat] [Charm] [Sällsynthet: Avancerad] ===
++2/4/6/8% Universell skadeökning
++6/12/18/24% Rörelsehastighet
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Transmutationsbok - Eld (ID: 1307) [WitchHat] [Charm] [Sällsynthet: Sällsynt] ===
+Ytterligare fysisk skada blir 0 och dess 20/40/60/80/100% omvandlas till Eldskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Transmutationsbok - Is (ID: 1308) [WitchHat] [Charm] [Sällsynthet: Sällsynt] ===
+Ytterligare fysisk skada blir 0 och dess 20/40/60/80/100% omvandlas till Köldskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Transmutationsbok - Blixt (ID: 1309) [WitchHat] [Charm] [Sällsynthet: Sällsynt] ===
+Ytterligare fysisk skada blir 0 och dess 20/40/60/80/100% omvandlas till Blixtskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Förbannat brev (ID: 1310) [WitchHat] [Charm] [Sällsynthet: Avancerad] ===
++50/100/200% Törnen
+-6/5/4% Attackhastighet
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kil (ID: 2061) [WitchHat] [StoneTablet] [Sällsynthet: Sällsynt] ===
+[Tablet effect]
+  DIAUPLEFT 3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vedergällning (ID: 2100) [WitchHat] [StoneTablet] [Sällsynthet: Evig] ===
+[Tablet effect]
+  HORIZONTAL 3

@@ -1,0 +1,342 @@
+﻿Base weapon effect text (enhancement tree) — 6 / 212 / language: es-ES (es-ES)
+================================================================================
+
+=== [T1] Espada y Escudo por Defecto (ID: 0) ===
+[No effect text]
+├ [T2] Protección de la Pelusa (ID: 1)
+│   Tras un Bloquear exitoso, el coste de PM para Bloquear se reduce un 50%.
+│   ├ [T3] Destello de la Estrella (ID: 4)
+│   │   Refleja un 300% del daño del atacante cuando Bloquear es exitoso. (400% en Bloqueo Perfecto)
+│   ├ [T3] Ira Fría (ID: 5)
+│   │   Si Bloqueo Perfecto tiene éxito, Aumento de Daño Universal aumenta un 20% durante 14 s.
+│   └ [T3] Espada de piedra (ID: 1020)
+│       Ataque especial: Cortar se cambia por Ataque especial: Golpe de escudo.
+├ [T2] Unidad de Ofensa y Defensa (ID: 2)
+│   Aumenta la Velocidad de Ataque en un 15% y al realizar Ataque normal, usa automáticamente Bloquear hacia el frente.
+│   ├ [T3] Cenizas Errantes (ID: 6)
+│   │   Daño de Ataque de Embestida aumenta un 60%. Inflige el 50% del daño de Ataque Rápido a los enemigos en el camino del dash. (Inflige el doble de daño al consumir Cantidad de Embestidas.)
+│   └ [T3] El Indomable (ID: 7)
+│       Aumenta el Daño de Ataque Normal en un 33%, pero Ataque especial: Cortar ya no se puede usar.
+├ [T2] Pequeña Destrucción (ID: 3)
+│   El daño de Ataque especial: Cortar aumenta un 40%.
+│   ├ [T3] Miedo Aterrador (ID: 9)
+│   │   Cada 3 s obtienes 1 acumulación de «Pavor creciente». (Número máximo de acumulaciones: 10)
+│   │   La velocidad de obtención de acumulaciones aumenta proporcionalmente a Velocidad de Ataque.
+│   └ [T3] Guardián Retornante (ID: 1023)
+│       Ataque especial: Cortar se cambia a Ataque especial: lanzamiento de escudo.
+├ [T2] Espada de Zanahoria (ID: 1000)
+│   Aumenta todo el daño elemental en 3.
+│   ├ [T3] Zanahoriacalibur (ID: 1001)
+│   │   Ataque normal cambia a Ataque normal: Técnica de Espada de Zanahoria, y la eficiencia de la Velocidad de Ataque adicional aumenta en un 20%.
+│   └ [T3] Espada de Cebolla Verde (ID: 1019)
+│       Aumenta todo el daño elemental en 2, y Daño de Grimorio se incrementa en un 15%.
+├ [T2] Florete (ID: 1006)
+│   Ataque Rápido se desactiva y Ataque normal pasa a considerarse Ataque Rápido. Velocidad de Ataque aumenta un 10%.
+│   └ [T3] Florete Deslumbrante (ID: 1007)
+│       Extiende el rango de la Estocada. Aumenta la Velocidad de Ataque en un 20%.
+├ [T2] Varita Mágica (ID: 1004)
+│   Ataque con arma cambiará para usar Misil mágico.
+│   ├ [T3] Mirada de Llamas (ID: 1008)
+│   │   Ataque con arma pasa a basarse en Daño de Fuego. El daño de Ataque normal aumenta un 20%.
+│   ├ [T3] Aliento de Hielo (ID: 1009)
+│   │   Ataque con arma pasa a basarse en Daño por Frío. El daño de Ataque Rápido aumenta un 40%.
+│   └ [T3] Alas de Relámpago (ID: 1010)
+│       Ataque con arma pasa a basarse en Daño por Rayo. El daño de Ataque Especial aumenta un 20%.
+├ [T2] Fragmento de Escarcha (ID: 1013)
+│   Daño por Frío aumenta en 5.
+│   ├ [T3] Hoja Glacial (ID: 1014)
+│   │   El proyectil del artefacto Vaina de Exorcismo se hace más pequeño, pero se carga un 50% más rápido.
+│   └ [T3] Víspera de Tormenta de Nieve (ID: 1015)
+│       Al consumir Cantidad de Embestidas, activa instantáneamente el Artefacto Martillo de Ventisca con un daño del 60%.
+├ [T2] Conductor (ID: 1016)
+│   Daño por Rayo aumenta en 5.
+│   ├ [T3] Espada Ballista (ID: 1017)
+│   │   Artefacto Las flechas de Mini Ballesta atraviesan paredes y se dirigen hacia los enemigos. Si Bloquear tiene éxito, dispara una flecha de inmediato.
+│   └ [T3] Superconductor (ID: 1018)
+│       Ataque especial: Cortar se cambia por Ataque Especial: Lanza Relámpago.
+└ [T2] Incendium (ID: 1024)
+    El daño de Ataque con arma se reduce en un 15%, pero se convierte en uno basado en Daño de Fuego.
+    ├ [T3] Solis Missio (ID: 1025)
+    │   Obtienes el efecto «Reignición». Durante Bloquear, la Velocidad de Movimiento se reduce un 90%.
+    └ [T3] Devorador de Llamas: Haetae (ID: 1026)
+        Ataque especial: Cortar se cambia a Ataque normal: Golpe ígneo
+
+================================================================================
+
+=== [T1] Gran Espada de Acero (ID: 10) ===
+[No effect text]
+├ [T2] Hipersensibilidad (ID: 11)
+│   El daño de Ataque Especial: Torbellino aumenta un 20% y su velocidad de carga aumenta en un 50%.
+│   ├ [T3] Negligencia (ID: 14)
+│   │   Daño de Ataque Especial aumenta un 15%.
+│   │   Ataque Especial: Torbellino se recarga de inmediato y Velocidad de ataque especial disminuye un 15%.
+│   ├ [T3] Mirada Amorosa (ID: 15)
+│   │   Aumenta el Probabilidad Crítica de Ataque Especial: Torbellino en un 100% y la Velocidad de ataque especial en un 50%.
+│   └ [T3] Alabarda de Hierro Negro (ID: 1111)
+│       El alcance de Ataque Especial: Torbellino aumenta. Al golpear la zona exterior, inflige un 50% de daño adicional y recupera PV equivalente al 0,7% del daño en la zona exterior.
+├ [T2] Sombra Enjambre (ID: 12)
+│   El tiempo de carga de Ataque Especial: Torbellino aumenta en un 100%, pero Daño de Ataque Normal aumenta en un 20%.
+│   ├ [T3] Arrepentimiento Rápido (ID: 16)
+│   │   Puedes realizar el ataque final de Ataque normal 2 veces adicionales. Aumenta el daño de Ataque normal un 10%.
+│   └ [T3] ... (ID: 1125)
+│       Ataque normal consume PM por 2 y aumenta el daño en un 24%
+├ [T2] Espadón Forjado en Brasa (ID: 1122)
+│   Cuando Ataque con arma, inflige daño adicional al objetivo igual al 30% de Daño de Fuego.
+│   ├ [T3] Triturar de la Serpiente Roja (ID: 1123)
+│   │   El daño infligido por Artefacto Ojos de Serpiente Roja aumenta en 33% y el enfriamiento se reduce en 2.5 s al usar Ataque normal
+│   └ [T3] Solis Cineris (ID: 1124)
+│       Al realizar Ataque con arma, Hoja Solar se activa 2 veces adicionales. El Daño Crítico de Hoja Solar aumenta en 36%.
+├ [T2] Garrote de Madera (ID: 1100)
+│   Ataque Rápido ya no se puede usar, pero el daño infligido por Ataque normal aumenta un 20%.
+│   ├ [T3] Garrote de Púas (ID: 1101)
+│   │   Dispara 3 picos perforantes al golpear con un Ataque con arma de Daño Crítico. Se añade un pico adicional por cada 20% de daño crítico adicional del ataque. (Daño: 26% de Daño Físico)
+│   └ [T3] Broma Traviesa (ID: 1119)
+│       Ataque Especial se cambia a Ataque Especial: Explosión de Hojas. Se añade Daño de Ataque Normal al daño de Ataque Especial.
+├ [T2] Hoja Ósea (ID: 1102)
+│   Ataque Especial: Torbellino se cambia a Ataque Especial: Reensamblar.
+│   └ [T3] Columna Crujiente (ID: 1103)
+│       Aumenta el alcance del ataque «Ataque Especial: Reensamblar» y la Velocidad de Ataque se acelera gradualmente hasta un 35%. (se reinicia al dejar de atacar)
+├ [T2] Gran Espada Helada (ID: 1104)
+│   Cuando Ataque con arma, inflige daño adicional al objetivo igual al 30% de Daño por Frío.
+│   ├ [T3] Gran Espada de Hielo Eterno (ID: 1105)
+│   │   El Daño por Frío adicional aumenta del 30% al 55%.
+│   │   Aumenta el alcance de Ataque normal y el combo básico se vuelve un 15% más rápido.(según el tiempo total)
+│   ├ [T3] Espada de Carámbano (ID: 1106)
+│   │   Ataque con arma tiene un 80% de probabilidad de infligir Escarcha. Aumenta el daño de Congelación en un 20%.
+│   └ [T3] Gran espada de Exorcismo (ID: 1114)
+│       El daño infligido con el artefacto Vaina de Exorcismo aumenta en 33%, y el artefacto se carga un 15% más rápido.
+├ [T2] Espina Carmesí (ID: 1107)
+│   Ataca al objetivo e inflige Herida.
+│   ├ [T3] Vórtice Carmesí (ID: 1108)
+│   │   Cambia Ataque normal y Ataque Rápido a combos de 3 golpes. El daño de cada golpe se ajusta al 40% del daño original. El máximo de acumulaciones de Herida aumenta en 6.
+│   └ [T3] El inquisidor (ID: 1115)
+│       El daño de Físico infligido con Arma se aplica como Caos. Ataque Especial: Torbellino se cambia por Ataque Especial: Explosión de Herida.
+├ [T2] Gran espada del rayo «E2G» (ID: 1112)
+│   Cuando Ataque con arma, inflige daño adicional al objetivo igual al 30% de Daño por Rayo.
+│   ├ [T3] Gran espada del rayo «E3G» (ID: 1109)
+│   │   Cada vez que completas esta cantidad de ataques (5), obtienes acumulaciones de Nube Tormentosa: 5. Al usar Ataque Especial: Torbellino, obtienes un Beneficio que aumenta Velocidad de consumo de Nube Tormentosa un 100% durante 10 segundos. (Máx. 5 acumulaciones)
+│   └ [T3] Gran espada del rayo «S3G» (ID: 1113)
+│       Al realizar Ataque con arma, aplica Electrocución al objetivo. Daño adicional de Electrocución aumenta en 33%.
+└ [T2] Deleite Inquietante (ID: 17)
+    Ataque con arma cambia a una variante que usa Láser.
+    ├ [T3] Legado del Ilusionista (ID: 1117)
+    │   El Grimorio Celeridad aumenta en un 50%.
+    ├ [T3] Forma Prístina (ID: 1118)
+    │   Las Ataque normal y Ataque Rápido de láser se vuelven más grandes y el daño se incrementa en un 25%.
+    └ [T3] Lazarion (ID: 1120)
+        Ataque Especial: Torbellino cambia a Ataque Especial: Invocación de amatista.
+
+================================================================================
+
+=== [T1] Daga (ID: 20) ===
+[No effect text]
+├ [T2] Sobre el Umbral (ID: 22)
+│   Al usar Ataque Rápido, obtienes un Beneficio de +20% al daño de Ataque normal y +30% al daño de Ataque Rápido durante 10 segundos. Ataque Especial: Furia se desactiva.
+│   ├ [T3] Sombra de Esperanza (ID: 26)
+│   │   Al consumir Desplazamiento, Ataque Rápido se cambia a Ataque de Avance: Prisión de Cuchillas.
+│   └ [T3] Envidia Absoluta (ID: 27)
+│       El daño del 3.º, 4.º y 5.º Ataque normal aumenta un 25% y el efecto de aturdimiento se potencia.
+├ [T2] Brisa Árida (ID: 23)
+│   El daño de Ataque Especial: Furia aumenta un 20%.
+│   ├ [T3] Desesperación Infiltrante (ID: 28)
+│   │   El daño de Ataque Especial: Furia aumenta un 10% adicional.
+│   │   Al ejecutar Ataque Especial: Parar con éxito, Trance se recargará dos veces.
+│   └ [T3] Prueba Difícil (ID: 29)
+│       Ya no puedes usar Ataque Especial: Parar, pero al usar Ataque con arma tienes un 30% de probabilidad de obtener Trance. (Trance puede cargarse hasta 4 veces)
+├ [T2] Daga de Fuego (ID: 1200)
+│   Cuando Ataque con arma, inflige daño adicional al objetivo igual al 25% de Daño de Fuego.
+│   ├ [T3] Hoja Caliente (ID: 1201)
+│   │   Ataque Especial: Parar se sustituye por Ataque Especial: Lanzamiento de daga.
+│   └ [T3] Solis Imber (ID: 1214)
+│       Al impactar con Ataque Especial: Furia, activa cada Hoja Solar.
+├ [T2] Daga de Rayo (ID: 1203)
+│   Cuando Ataque con arma, inflige daño adicional al objetivo igual al 25% de Daño por Rayo.
+│   ├ [T3] Nube de Tormenta Colgante (ID: 1204)
+│   │   Daño extra de Nube Tormentosa aumenta un 15%, Daño por Rayo aumenta un 5.
+│   └ [T3] Ira del Rayo (ID: 1205)
+│       Al realizar Ataque con arma, hay un 70% de probabilidad de aplicar el Perjuicio Electrocución. Electrocución acumulaciones aumenta en 1.
+├ [T2] Edelweiss Alpino (ID: 1206)
+│   Ataque con arma cambia a una versión que usa Lanzamiento de shuriken.
+│   ├ [T3] Adonis (ID: 1207)
+│   │   El Daño Crítico infligido por Ataque con arma aumenta un 30%.
+│   └ [T3] Entre bastidores (ID: 1210)
+│       Al realizar Ataque con arma, obtienes el Beneficio Dominio.
+├ [T2] Vestigio de Jade (ID: 1208)
+│   Ya no puedes usar Ataque Especial: Parar, pero obtienes Trance cada 2.8 segundos. (1% de aumento en la velocidad de carga por cada Evasión, hasta un máximo de 33%)
+│   └ [T3] Inmersión sin límite (ID: 1209)
+│       Por cada punto de Evasión, la velocidad de carga de Trance aumenta un 0,25% adicional. Se elimina el límite de la velocidad de carga otorgada por Evasión.
+├ [T2] Daga mágica de la Academia (ID: 1212)
+│   El Ataque Especial: Parar pasa a costar 0 PM, y al lograr un Ataque Especial: Parar exitoso, recuperas 30% de PM.
+│   ├ [T3] Libro de Imitación (ID: 1211)
+│   │   Ataque Especial: Furia se cambia a Grimorio: Clonar
+│   └ [T3] Espada mágica de la academia - Liberación (ID: 1213)
+│       Ataque Especial: Furia se cambia a Ataque Especial: Liberación.
+└ [T2] Escarcha durmiente (ID: 1215)
+    El daño de Ataque con arma se reduce en un 20%, pero se convierte en uno basado en Daño por Frío.
+    ├ [T3] Pepita congelada (ID: 1216)
+    │   Daño por Frío aumenta en 5 y, al golpear con Ataque Especial, aplica Escarcha 2 veces.
+    └ [T3] Drífa (ID: 1217)
+        Artefacto Martillo de Ventisca se convierte en «Guadaña de ventisca». El daño se reduce un 50%, pero vuela hasta el punto seleccionado y golpea continuamente a los enemigos.
+
+================================================================================
+
+=== [T1] Ballesta colosal (ID: 100) ===
+[No effect text]
+├ [T2] Ballesta colosal: Dispositivo de Recarga (ID: 101)
+│   El daño de Ataque normal se reduce un 45% Ataque Especial cambia a «Recarga Avanzada»
+│   ├ [T3] Ballesta colosal: Núcleo de aceleración (ID: 102)
+│   │   Al atacar, se acumula Velocidad de Ataque, añadiendo hasta un 60% a tu Velocidad de Ataque base.
+│   ├ [T3] Ballesta: Gemela (ID: 103)
+│   │   Ataque normal dispara dos proyectiles, permitiendo moverse con un poco más de libertad durante el ataque. La velocidad de disparo aumenta según el incremento de Velocidad de Movimiento.
+│   └ [T3] Cazarrecompensas (ID: 125)
+│       El cargador queda fijado en 6 balas y se recarga al instante al usar Desplazamiento.
+│       Ataque Rápido se desactiva y, por cada punto de la estadística Cantidad de Embestidas, el daño aumenta en 7%.
+├ [T2] Ballesta colosal: Lanzador de Dispersión (ID: 104)
+│   Ataque normal cambia a Ataque normal: Bala explosiva y el daño aumenta un 80%.
+│   ├ [T3] Ballesta colosal: Síntesis de pólvora (ID: 105)
+│   │   La Probabilidad Crítica de Ataque con arma aumenta un 35%, y si el ataque es un golpe crítico, se recargan 1 balas.
+│   ├ [T3] Ballesta colosal: Dispositivo explosivo (ID: 116)
+│   │   El daño de Ataque normal se incrementa en un 10%.
+│   └ [T3] El percebe (ID: 127)
+│       Con Ataque normal y Ataque Rápido, coloca Bomba adhesiva. Ataque Especial cambia a Ataque Especial: Explosión.
+├ [T2] Ballesta colosal: Perno Especial Mejorado (ID: 106)
+│   El rango de ataque de Ataque especial: Flecha potenciada se incrementa y el daño se incrementa en un 30%.
+│   └ [T3] Ballesta colosal: Dispositivo de Disparo Rápido (ID: 117)
+│       Cuando Ataque especial: Flecha potenciada se lanza consecutivamente (dentro de 2 segundos), inflige un 10% de daño adicional por cada lanzamiento consecutivo. (hasta un máximo de 50%)
+├ [T2] Ballesta colosal: Mina de fuego (ID: 108)
+│   El daño de Ataque con arma se reduce en un 20%, pero se convierte en uno basado en Daño de Fuego.
+│   ├ [T3] Ballesta colosal: Equipado con Módulo de Guiado (ID: 109)
+│   │   El coste de Ataque Especial se reduce a 3 y el daño aumenta un 0.9% por cada PM Adicional. Ataque Especial rastrea a los enemigos cercanos.
+│   ├ [T3] Mini Cañón (ID: 118)
+│   │   Dispara una Lanzamiento de granada con Ataque normal. Su velocidad de disparo no se ve afectada por Velocidad de Ataque, pero su daño y área aumentan un 1% por cada punto adicional de Velocidad de Ataque.
+│   └ [T3] Solis Iubar (ID: 124)
+│       Daño de Arma disminuye en 15%, pero Daño de Hoja Solar aumenta en 35%.
+├ [T2] Ballesta colosal: Marca de Relámpago Inestable (ID: 110)
+│   Al usar Ataque normal, hay un 40% de probabilidad de disparar «Flecha relámpago».
+│   ├ [T3] Ballesta colosal: Estabilización de Marca (ID: 111)
+│   │   Al acertar con «Flecha Relámpago», inflige un Perjuicio Electrocución. El daño de Electrocución aumenta en 25%.
+│   ├ [T3] Ballesta colosal: Recolector de Nubes (ID: 115)
+│   │   Cuando la «Flecha de Rayo» impacta a un enemigo, obtienes 3 puntos de Nube Tormentosa.
+│   └ [T3] Minigun (ID: 126)
+│       La probabilidad de disparar Flecha relámpago aumenta un 10%. Ataque Especial pasa a ser Ataque Especial: Andanada.
+├ [T2] Ballesta colosal: Velo de Escarcha (ID: 112)
+│   Ataque Especial se reemplaza con «Velo de Escarcha».
+│   ├ [T3] Ballesta colosal: Cristal de Congelación Rápida (ID: 113)
+│   │   Daño de Reliquia Helada aumenta en 20%.
+│   └ [T3] Ballesta colosal: Dispositivo de Expansión (ID: 114)
+│       Dispara proyectiles de Escarcha que atraviesan enemigos mientras Velo de Escarcha está activo.
+│       [Capacidad del cargador se fija en 5 rondas]
+├ [T2] Kagumede (ID: 119)
+│   Ataca al objetivo e inflige Veneno.
+│   ├ [T3] Forma de Karim (ID: 120)
+│   │   Polvo Espiritual de Heita, Polvo Espiritual de Tero, Polvo Espiritual de Ahmad atacan dos veces, y el daño infligido aumenta en un 25%
+│   └ [T3] Avispa Púrpura (ID: 121)
+│       Las acumulaciones de Veneno aumentan en 3
+└ [T2] M-9199 (ID: 122)
+    Ataque normal atraviesa a los enemigos y el daño aumenta un 15%. Ataque Especial se cambia por «Ataque especial: Compresión de munición».
+    └ [T3] XRA-9 (ID: 123)
+        Al usar la última bala con el ataque normal, el enfriamiento actual de todos los Grimorio y Artefacto de activación se reduce en un 25%.
+
+================================================================================
+
+=== [T1] Hoja (ID: 400) ===
+[No effect text]
+├ [T2] Espada larga «Onohara» (ID: 401)
+│   Ataque especial: Tajo pesado está afectado por Velocidad de Ataque. Velocidad de Ataque aumenta un 15%.
+│   ├ [T3] Espada «Muramasa» (ID: 402)
+│   │   Permanece siempre en estado Enfundar, y Ataque especial: Tajo pesado se cambia a Ataque Especial: Corte Rápido. La eficiencia de Velocidad de Ataque se incrementa en un 80%.
+│   └ [T3] Espada marcabestias «Hou» (ID: 403)
+│       La Velocidad de Ataque base de Ataque especial: Tajo pesado se reduce en un 24%, pero puede golpear a enemigos distantes. El daño aumenta un 1% por cada 2 Evasión.
+├ [T2] Helbanus (ID: 406)
+│   Cuando Ataque con arma, inflige daño adicional al objetivo igual al 30% de Daño de Fuego.
+│   ├ [T3] Helbanus Llameante (ID: 407)
+│   │   Quemadura acumulaciones aumenta en 2, y Daño de Fuego aumenta en 4.
+│   ├ [T3] Heidi (ID: 408)
+│   │   Al consumir Cantidad de Embestidas, obtienes acumulaciones de «Sobrecalentamiento». (1 por defecto, ganas 3 al usar Enfundar, hasta 9 veces) Consumirá acumulaciones al usar Ataque normal.
+│   └ [T3] Solis Ekli (ID: 422)
+│       Enfundar se cambia a Eclipse
+├ [T2] Espada Cortante: Cortacielos (ID: 409)
+│   Obtén Golpe de espada a través de Ataque normal. Ataque especial: Tajo pesado cambia a Ataque Normal: Tajo Iaido.
+│   ├ [T3] Espada de Corte: Sauce Elevado (ID: 410)
+│   │   Probabilidad Crítica aumenta un 30%, y el alcance de Ataque normal: Gran tajo Iaido se cambia a un ataque completo.
+│   └ [T3] Hoja del Desgarro: Danza Ruinosa (ID: 411)
+│       No puedes usar Ataque normal: Gran tajo Iaido, pero al alcanzar el 100% de la barra de Golpe de espada, obtienes el Beneficio Descarga.
+├ [T2] La espada azul expectante (ID: 412)
+│   Gana continuamente «Corte de hoja» al Enfundar. Consume 10 Corte de hoja al lanzar magia para aumentar el Daño de Grimorio en un 20%.
+│   ├ [T3] Daga Corta de Yui (ID: 413)
+│   │   Probabilidad de crítico de Grimorio aumenta un 30%.
+│   └ [T3] Juramento de Adamah (ID: 414)
+│       Al usar magia, invocas una «Hoja Mágica» que vuela hacia el enemigo y causa daño. (Daño: 20 + 70% del PM vacío)
+├ [T2] Sociedad de Sellado Espectral de la Biblioteca, Modelo I (ID: 416)
+│   Daño de Ataque de Embestida aumenta un 40%, y al consumir Cantidad de Embestidas, un espíritu realiza Ataque Rápido dos veces a los enemigos cercanos. (Enfriamiento: 2.5 s)
+│   └ [T3] Sociedad de Sellado Espectral de la Biblioteca, Modelo II (ID: 417)
+│       El enfriamiento de Ataque Rápido del espíritu se cambia a 1 segundo y se reduce un 10% por cada Cantidad de Embestidas.
+│       La duración de invencibilidad de Enfundar aumenta un 50%, y si se bloquea un ataque, el espíritu realiza Ataque Rápido tantas veces como Cantidad de Embestidas.
+├ [T2] Espada Boceto del Herrero de Invierno (ID: 419)
+│   Enfundar se reemplaza por Placaje. Añade un daño adicional del 15% de Daño por Frío en Ataque con arma. Daño por Frío aumenta en 3.
+│   ├ [T3] Silencio de la Escarcha Eterna (ID: 420)
+│   │   Placaje se cambia a Ataque Especial: Deslizamiento de Hielo. Bloquear ataques enemigos durante el tiempo de invencibilidad activa inmediatamente el artefacto Eco del Glaciar. Al activarse, inflige un Daño por Frío 120% de daño a los enemigos cercanos.
+│   └ [T3] Fragmento de Nastrond (ID: 421)
+│       Después de una acción de Placaje, al atacar se activa Reliquia Helada: Skaði.
+├ [T2] Espada de Truenos «Bronte» (ID: 404)
+│   El daño de Ataque con arma se reduce en un 20%, pero se convierte en uno basado en Daño por Rayo.
+│   └ [T3] Destello Relámpago (ID: 405)
+│       Al infligir daño con Electrocución obtienes 1 acumulación de «carga». (Máximo 10).
+│       Al usar Ataque especial: Tajo pesado consume 2 acumulaciones de «carga» para ejecutar Ataque especial: Issen.
+└ [T2] Hoja de Placas Trituradoras (ID: 423)
+    El daño de Ataque normal aumenta en un 1% por cada 2 del valor de Defensa.
+    └ [T3] Espada Rompedora (ID: 424)
+        Mientras no uses Enfundar, cada 0.8 s obtienes 1 acumulación de Endurecimiento.
+
+================================================================================
+
+=== [T1] bastón (ID: 500) ===
+[No effect text]
+├ [T2] Bastón del Florecimiento (ID: 501)
+│   Ataque normal se cambia a Ataque normal: Postura Flor
+│   ├ [T3] Bastón del Gran Poder (ID: 502)
+│   │   Daño de Ataque Normal aumenta un 30%, y durante el ataque obtienes Escudo equivalente al 5% de Defensa. (Se renueva cada 20 s)
+│   └ [T3] Bastón de Fusión Espiritual Ilronica (ID: 503)
+│       No se pueden lanzar hechizos Grimorio directos. Ataque normal: Postura Flor se cambia a Grimorio: Disparo a ráfagas de proyectiles.
+├ [T2] Bastón de Hierro Divino (ID: 505)
+│   Recibes el Beneficio Extender bastón al Ataque con arma.
+│   ├ [T3] Ancla del mar (ID: 506)
+│   │   Al tener éxito con Bloquear, obtienes el Beneficio Bastón pesado.
+│   └ [T3] Báculo sin anillas (ID: 507)
+│       Si la estadística de Probabilidad Crítica es inferior a 30%, el daño infligido aumenta en 20%.
+├ [T2] Luz estelar lejana (ID: 509)
+│   El daño de Ataque Especial: Riposte aumenta un 20%. Si PM Máximo es 100 o más, durante el uso de Ataque Especial: Riposte se realiza Bloquear en todas las direcciones.
+│   └ [T3] Fragmento del Mar Sagrado (ID: 510)
+│       Después de un Bloquear exitoso, usa «Explosion de cristal» al realizar un Ataque normal.
+├ [T2] Lanza de asalto Gioroide (ID: 513)
+│   Puedes usar Ataque normal: Ataque de lanza y Ataque Rápido: Ataque de lanza.
+│   ├ [T3] Lanza de asalto Luaŝlea (ID: 514)
+│   │   Velocidad de Ataque aumenta un 10%. Al atacar con el arma, por cada punto de la estadística Cantidad de Embestidas el daño aumenta un 5%.
+│   └ [T3] Lanza de asalto Puarska (ID: 515)
+│       Al lanzar Ataque Rápido: Ataque de lanza otorga Bloquear y el daño se incrementa en un 30% por cada Desplazamiento usado previamente. (Máximo de 6 veces)
+├ [T2] Bastón de brasas (ID: 517)
+│   El daño de Ataque con arma se reduce en un 15%, pero se convierte en uno basado en Daño de Fuego.
+│   ├ [T3] Mazo de presidencia de Piaola (ID: 518)
+│   │   Al aplicar Quemadura, crea Anillo de fuego y ataca a los enemigos durante 10 s. (Radio en casillas: 5. Daño: Daño de Fuego 40% cada 0.5 s; el daño aumenta según Daño de Quemadura)
+│   └ [T3] Solis Braca (ID: 519)
+│       Al recuperar Hoja Solar, se recuperan 1 más. Ataque Especial cambia a Ataque Especial: Forja de la Lanza Solar
+├ [T2] Báculo de Vestiduras Blancas (ID: 521)
+│   El daño de Ataque con arma se reduce en un 15%, pero se convierte en uno basado en Daño por Frío.
+│   ├ [T3] La profecía de la sacerdotisa (ID: 522)
+│   │   Si Ataque con arma impacta 3 veces, activa el artefacto Voluspa en la dirección apuntada.
+│   └ [T3] Malaspina (ID: 523)
+│       Al realizar un Ataque con arma tienes un 30% de probabilidad de aplicar Escarcha. Daño por Frío aumenta en 5.
+├ [T2] Bastón del trueno (ID: 525)
+│   El daño de Ataque con arma se reduce en un 15%, pero se convierte en uno basado en Daño por Rayo.
+│   ├ [T3] Biduка (ID: 526)
+│   │   El daño infligido por Chakram eléctrico aumenta un 20% y el radio de rotación se extiende hasta el punto de mira.
+│   └ [T3] Neporax (ID: 528)
+│       Ataque Rápido se cambia por Lanzar Botella de Nubes. Al impactar con Ataque Rápido, Nube Tormentosa se activa de inmediato en el objetivo e inflige 70% de daño.
+└ [T2] Jabalina (ID: 529)
+    Ataque normal cambia a Ataque normal: Lanza arrojadiza, y Daño de Arma aumenta en 10.
+    ├ [T3] Jarra sagrada (ID: 530)
+    │   Ataque normal combina las estadísticas de Daño del Compañero.
+    ├ [T3] Danza sin forma (ID: 531)
+    │   Ataque normal atrae a los enemigos y tiene una probabilidad de disparar dos veces. (Aumenta en 1% por cada 1 Evasión)
+    └ [T3] Sucesor (ID: 532)
+        Daño de Grimorio aumenta en un 30%.

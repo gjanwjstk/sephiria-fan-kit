@@ -1,0 +1,27 @@
+SEPHIRIA - 사용 폰트 (Fonts)
+
+아래 폰트는 SEPHIRIA에 사용된 서드파티 폰트입니다. **이 킷에 포함되어
+있지 않으며**, 각 폰트는 자기 라이선스를 따릅니다. 아래 출처에서 직접
+받으세요. (팬 폰트 등 재배포 불가 폰트가 있으니 배포 전 라이선스 확인)
+
+  - Galmuri (Galmuri11)
+      용도: EN / KO / ES / PT UI
+      라이선스: SIL Open Font License 1.1 [verified]
+      출처: https://github.com/quiple/galmuri
+
+  - GalCyrillic (Galmuri Cyrillic)
+      용도: RU UI
+      라이선스: Project-internal TMP SDF font (no standalone .ttf); a Cyrillic build derived from Galmuri, so inherits Galmuri's SIL OFL 1.1. No separate public distribution -- confirm the RU-build author.
+      출처: https://galmuri.quiple.dev (base font)
+
+  - JF Dot M+ 10 (JF-Dot-MPlus10)
+      용도: JA UI
+      라이선스: Jikasei dot font: copyright waived, free incl. commercial & redistribution (based on M+ BITMAP FONTS) [verified]
+      출처: http://jikasei.me/font/jf-dotfont/
+
+  - Fusion Pixel Font 10px
+      용도: ZH UI
+      라이선스: SIL OFL 1.1, reserved name 'Fusion Pixel' [verified]
+      출처: https://github.com/TakWolf/fusion-pixel-font
+
+(c) TEAM HORAY. 각 폰트의 저작권은 원저작자에게 있습니다.

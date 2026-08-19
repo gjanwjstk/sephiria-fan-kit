@@ -1,0 +1,200 @@
+﻿Combo effect text — 20 / language: pl-PL (pl-PL)
+================================================================================
+
+=== Akademia (ACADEMY) ===
+[Combo effect]
+  (2) +12 Przyspieszenie Grymuar
+  (4) +15% Zmniejszenie kosztu PM Grymuar
+  (6) +16 Przyspieszenie Grymuar
+  (8) +20 Przyspieszenie Grymuar
+  (10) +15% Obrażenia Grymuar, +8 Regeneracja PM
+
+================================================================================
+
+=== Alchemia (ALCHEMY) ===
+[Description]
+Po zdobyciu Tabliczka z nagrody w postaci przedmiotu wytwarzasz losową miksturę.
+[Combo effect]
+  (1) +1 Miejsce w torbie na mikstury
+  (2) +1 Miejsce w torbie na mikstury
+  (3) Losowe mikstury — liczba: 1 (Pospolity~Rzadki)
+
+================================================================================
+
+=== Towarzysz (COMPANION) ===
+[Combo effect]
+  (2) +6% Obrażenia towarzysza
+  (4) +8% Obrażenia towarzysza
+  (6) +10% Obrażenia towarzysza, +15 Obrona towarzysza
+  (8) +12% Obrażenia towarzysza, +20 Obrona towarzysza
+  (10) +20% Obrażenia towarzysza, +40% Przyspieszenie czasu wskrzeszenia towarzysza
+
+================================================================================
+
+=== Klątwa (CURSE) ===
+[Combo effect]
+  (2) +10% Obrażenia zadawane za pomocą Osłabienie, +7% Szybkość ruchu
+  (4) +15% Obrażenia zadawane za pomocą Osłabienie
+
+================================================================================
+
+=== Burzowa Chmura (DARKCLOUD) ===
+[Description]
+Przyzywa Chmura burzowa. Co 1 s razi pobliskich wrogów błyskawicami. (Obrażenia: Obrażenia od błyskawic 110%)
+Podczas walki co 5 s odzyskuje 5% kumulacji pojemności.
+[Combo effect]
+  (2) Aktywowano Chmura burzowa (Podstawowa pojemność: 15)
+  (4) +8 Pojemność Chmura burzowa
+  (6) +12 Pojemność Chmura burzowa
+  (8) +16 Pojemność Chmura burzowa
+  (10) +20 Pojemność Chmura burzowa, Chmura burzowa atakuje wielostrzałem 2
+
+================================================================================
+
+=== Żywioł (ELEMENTAL) ===
+[Combo effect]
+  (2) +5 Najwyższe obrażenia od żywiołów
+  (4) +6 Najwyższe obrażenia od żywiołów
+  (6) Wzmacnia wszystkie obrażenia od Żywioł o 10%
+
+================================================================================
+
+=== Żar (EMBER) ===
+[Description]
+Dotyk Płomienia: Nakłada osłabienie Oparzenie przy zadawaniu obrażeń od Ogień (z wyjątkiem obrażeń od osłabień). (Czas odnowienia: 2 s)
+[Combo effect]
+  (2) Aktywuj efekt Dotyk Płomienia
+  (4) +6 Obrażenia od ognia
+  (6) Przyspieszenie odnowienia Dotyk Płomienia: 150%
+  (8) +8 Obrażenia od ognia
+  (10) Bazowy mnożnik obrażeń Oparzenie zmienia się z 18 na 28%
+
+================================================================================
+
+=== Słoneczne Ostrze (FLAMESWORD) ===
+[Description]
+Gdy zadajesz obrażenia za pomocą Atak bronią lub Grymuar, rzucasz Słoneczne Ostrze. (Obrażenia: Obrażenia od ognia 115%) Rzucony Słoneczne Ostrze upada na ziemię i można go ponownie podnieść.
+[Combo effect]
+  (2) Aktywuj efekt (Podstawowy miecz ×5)
+  (4) +6% Obrażenia Słoneczne Ostrze
+  (6) +8% Obrażenia Słoneczne Ostrze, +1 Maksymalna liczba Słoneczne Ostrze
+  (8) +10% Obrażenia Słoneczne Ostrze, +2 Maksymalna liczba Słoneczne Ostrze
+  (10) +12% Obrażenia Słoneczne Ostrze, +6 Maksymalna liczba Słoneczne Ostrze
+
+================================================================================
+
+=== Relikt Mrozu (FROST) ===
+[Combo effect]
+  (2) +6% Szybkość ładowania Lodowa Relikwia
+  (4) +8% Szybkość ładowania Lodowa Relikwia
+  (6) +6% Obrażenia Lodowa Relikwia
+  (8) +8% Obrażenia Lodowa Relikwia
+  (10) Dodatkowe aktywacje Lodowa Relikwia: 1
+
+================================================================================
+
+=== Lodowiec (GLACIER) ===
+[Description]
+Dotyk Mrozu: Nakłada osłabienie Odmrożenie przy zadawaniu obrażeń od Lód (z wyjątkiem obrażeń od osłabień). (Czas odnowienia: 2 s)
+[Combo effect]
+  (2) Aktywuj efekt Dotyk Mrozu
+  (4) +6 Obrażenia od zimna
+  (6) Przyspieszenie odnowienia Dotyk Mrozu: 150%
+  (8) +8 Obrażenia od zimna
+  (10) Liczba kumulacje Odmrożenie wymagana do Zamrożenie -1
+
+================================================================================
+
+=== Strażnik (GUARDIAN) ===
+[Combo effect]
+  (2) +6 Obrona
+  (4) +7 Obrona
+  (6) +8 Obrona
+  (8) +10 Obrona
+  (10) +12 Obrona, +5% Ignorowanie obrony
+
+================================================================================
+
+=== Jezioro (LAKE) ===
+[Combo effect]
+  (3) +20 Maks. PM, +5 Regeneracja PM
+  (6) +30 Maks. PM, +10% Obrażenia umiejętności zużywających PM
+  (9) +40 Maks. PM, +25% Obrażenia umiejętności zużywających PM
+
+================================================================================
+
+=== Magotechnika (MAGITECH) ===
+[Description]
+Dotyk Porażenia: Nakłada osłabienie Porażenie prądem przy zadawaniu obrażeń od Błyskawice (z wyjątkiem obrażeń od osłabień). (Czas odnowienia: 2 s)
+[Combo effect]
+  (2) Aktywuj efekt Dotyk Porażenia
+  (4) +6 Obrażenia od błyskawic
+  (6) Przyspieszenie odnowienia Dotyk Porażenia: 150%
+  (8) +8 Obrażenia od błyskawic
+  (10) Czas aktywacji Porażenie prądem: -1s
+
+================================================================================
+
+=== Mistyczne (MYSTIC) ===
+[Description]
+Skuteczność poziomu artefaktu w określonym polu ekwipunku zostaje podwojona.
+[Combo effect]
+  (2) Losowe sloty: 1
+  (4) Losowe sloty: 2
+
+================================================================================
+
+=== Planeta (PLANET) ===
+[Combo effect]
+  (2) +8% Obrażenia planet
+  (4) +10% Obrażenia planet
+  (6) +12% Obrażenia planet
+  (8) +14% Obrażenia planet
+  (10) +16% Obrażenia planet, +12% Szybkość ataku planet
+
+================================================================================
+
+=== Precyzja (PRECISION) ===
+[Combo effect]
+  (2) +4% Szansa na trafienie krytyczne
+  (4) +6% Szansa na trafienie krytyczne
+  (6) +8% Szansa na trafienie krytyczne
+  (8) +10% Szansa na trafienie krytyczne
+  (10) +30% Obrażenia krytyczne
+
+================================================================================
+
+=== Negocjacje (SAVVY) ===
+[Combo effect]
+  (2) +10 Targowanie, +15% Opad liści
+  (4) +15 Targowanie, Złota Dłoń: obrażenia zadawane wrogom +1% za każde posiadane 200 Liść (maks. 20%)
+
+================================================================================
+
+=== Cień (SHADOW) ===
+[Combo effect]
+  (2) +4 Unik
+  (4) +5 Unik
+  (6) +6 Unik
+  (8) +8 Unik
+  (10) +10 Unik
+
+================================================================================
+
+=== Wytrzymałość (STURDY) ===
+[Combo effect]
+  (2) +2 Obrażenia fizyczne
+  (4) +4 Obrażenia fizyczne
+  (6) +6 Obrażenia fizyczne
+  (8) +8 Obrażenia fizyczne
+  (10) +15% Wzmocnienie Obrażenia fizyczne
+
+================================================================================
+
+=== Pieśń Wiatru (WINDSONG) ===
+[Combo effect]
+  (2) +8% Szybkość ataku
+  (4) +12% Szybkość ataku
+  (6) +16% Szybkość ataku
+  (8) +20% Szybkość ataku
+  (10) +15% Obrażenia Broń, +1 Liczba doskoków

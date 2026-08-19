@@ -1,0 +1,127 @@
+﻿======================================
+  Weapon_SwordAndShield_1
+======================================
+[Actions]
+  ■ Ataque normal
+    Input: Clic izquierdo (3 veces)
+  ■ Ataque Rápido
+    Input: (Después de correr) Clic izquierdo
+  ■ Bloquear
+    Input: Clic derecho (mantener)
+  ■ Ataque especial: Cortar
+    Input: Mientras bloquea Clic izquierdo
+
+[Tutorial text]
+  Bloqueo: Clic derecho Mantener presionado
+  Bloquear te permite evitar todos los ataques enemigos.
+  Defiende en la dirección del ataque enemigo. Defenderlo consumirá 10 PM.
+  Si usas Bloquear con una sincronización precisa, se activa Bloqueo Perfecto y consume la mitad de PM.
+  Cuando tu PM llega a 0, se cae tu guardia y no puedes bloquear ataques.
+  Guardia perfecta: bloquea en el momento adecuado
+  Barrido: Mientras bloqueas Clic izquierdo
+  Usar Barrido consume PM.
+  Bloquear con éxito reduce el coste de Barrido en un 50%, y bloquear perfectamente lo reduce en un 100%.
+
+======================================
+  Weapon_GreatSword_1
+======================================
+[Actions]
+  ■ Ataque normal
+    Input: Clic izquierdo (3 veces)
+  ■ Ataque Rápido
+    Input: Después de correr Clic izquierdo
+  ■ Ataque Especial: Torbellino
+    Input: Clic derecho cargar, luego soltar
+
+[Tutorial text]
+  No puedes bloquear ataques con una espada grande, pero su poderoso ATQ y alcance compensan esto.
+  Usa PM para realizar un poderoso ataque de Torbellino sobre un área grande.
+  La Barra de Furia puede llenarse usando las siguientes acciones.
+  - Cargar
+- Atacar enemigos
+- Recibir daño
+  Cargar: (mantener) Clic derecho
+  Torbellino: (Soltar) Clic derecho
+
+======================================
+  Weapon_Dagger_1
+======================================
+[Actions]
+  ■ Ataque normal
+    Input: Clic izquierdo (5 veces)
+  ■ Ataque Rápido
+    Input: (Después de correr) Clic izquierdo
+  ■ Ataque Especial: Parar
+    Input: Clic derecho
+    Description: Si tienes éxito con Ataque Especial: Parar, obtienes Trance.
+  ■ Ataque Especial: Furia
+    Input: Trance Durante el efecto del Beneficio Clic derecho
+
+[Tutorial text]
+  La daga es un arma con un alcance estrecho y bajo aturdimiento, pero permite realizar ataques rápidos.
+  Ataque Especial: Parar te permite desviar ataques enemigos consumiendo PM.
+  Ataque Especial: Parar solo desviará ataques enemigos mientras brillas en azul.
+  Si desvías un ataque con éxito usando Ataque Especial: Parar, obtienes el Beneficio Trance.
+  Mientras el Beneficio Trance está activo, puedes usar Ataque Especial: Furia.
+  Ataque Especial: Furia:
+  Ataque Especial: Furia: En estado Trance Clic derecho
+  Ataque Especial: Parar: Clic derecho
+
+======================================
+  Weapon_Crossbow
+======================================
+[Actions]
+  ■ Ataque normal
+    Input: Clic izquierdo
+    Description: Se recarga automáticamente cuando todas las flechas se agotan. Velocidad de Movimiento se reduce en un 40% durante los ataques.
+  ■ Ataque Rápido
+    Input: (Después de correr) Clic izquierdo
+    Description: Consume una carrera para desplegar una mina que dura 3 segundos. Explota automáticamente al detectar enemigos.
+  ■ Ataque especial: Flecha potenciada
+    Input: Clic derecho
+    Description: Consume 10 PM para disparar una flecha poderosa. No consume flechas.
+
+[Tutorial text]
+  La ballesta es un arma a distancia. Ataca consumiendo flechas en el cargador.
+  Cuando el cargador se vacíe por completo, puedes rellenarlo con Recarga.
+  Acción de Especialización de Arma (Recarga): G
+  Al lanzar Ataque Especial, dispara una «bala mejorada» que atraviesa a todos los enemigos.
+  Instala minas pequeñas en los alrededores mediante Ataque Rápido. (Consume la barra de carrera) Explotan cuando los enemigos se acercan.
+
+======================================
+  Weapon_Staff
+======================================
+[Actions]
+  ■ Ataque normal
+    Input: Clic izquierdo (4 veces)
+  ■ Ataque Rápido
+    Input: (Después de correr) Clic izquierdo
+  ■ Ataque Especial: Riposte
+    Input: Clic derecho
+
+[Tutorial text]
+  Bastón es un arma con la que puedes atacar y defenderte a la vez usando Ataque Especial: Riposte, que puede utilizarse incluso durante Ataque normal
+  Si durante Ataque Especial: Riposte ejecutas Bloqueo Perfecto contra el ataque de un enemigo, el segundo golpe de este Ataque Especial se potenciará.
+  Ataque Especial: Riposte: Clic derecho
+
+======================================
+  Weapon_Katana
+======================================
+[Actions]
+  ■ Ataque normal
+    Input: Clic izquierdo (3 veces)
+  ■ Ataque Rápido
+    Input: (Después de correr) Clic izquierdo
+  ■ Enfundar y Desenfundar
+    Input: Clic derecho
+  ■ Ataque especial: Tajo pesado
+    Input: En la funda Clic izquierdo
+
+[Tutorial text]
+  Hoja es un arma cuerpo a cuerpo que puede alternar entre los estados de Enfundar y Desenvainar.
+  En el estado de envainado, puedes usar Ataque especial: Tajo pesado consumiendo 5 PM.
+  Puedes bloquear los ataques enemigos durante el enfundado y desenvainado.
+  Desenvainar: Mientras está en estado Enfundar Clic derecho
+  Ataque especial: Tajo pesado: Mientras estás en estado Enfundar Clic izquierdo
+  Enfundar: Mientras está en estado de Desenvainar Clic derecho
+

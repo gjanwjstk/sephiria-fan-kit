@@ -1,0 +1,342 @@
+﻿Base weapon effect text (enhancement tree) — 6 / 212 / language: de-DE (de-DE)
+================================================================================
+
+=== [T1] Standardschwert und -schild (ID: 0) ===
+[No effect text]
+├ [T2] Schutz des Flaums (ID: 1)
+│   Bei erfolgreichem Blocken werden die MP-Kosten von Blocken um 50 % verringert.
+│   ├ [T3] Sternenlicht (ID: 4)
+│   │   Bei erfolgreichem Blocken werden 300 % des Schadens des Angreifers zurückgeworfen. (400 % bei Perfektes Blocken)
+│   ├ [T3] Gefrorene Wut (ID: 5)
+│   │   Bei erfolgreichem Perfektes Blocken erhöht sich Universeller Schadensbonus 14 Sekunden lang um 20 %.
+│   └ [T3] Steinschwert (ID: 1020)
+│       Spezialangriff: Hieb wird zu Spezialangriff: Schildstoß geändert.
+├ [T2] Perfekte Balance (ID: 2)
+│   Erhöht Angriffsgeschwindigkeit um 15 % und setzt beim Ausführen von Normaler Angriff automatisch Blocken nach vorne ein.
+│   ├ [T3] Treibende Asche (ID: 6)
+│   │   Dash-Angriffsschaden erhöht sich um 60 %. Fügt Gegnern auf dem Dashweg 50 % des Schadens von Dash-Angriff zu. (Verursacht doppelten Schaden, wenn Dash-Anzahl verbraucht wird.)
+│   └ [T3] Unbeugsam (ID: 7)
+│       Erhöht Schaden normaler Angriffe um 33 %, aber Spezialangriff: Hieb kann nicht mehr verwendet werden.
+├ [T2] Winzige Zerstörung (ID: 3)
+│   Der Schaden von Spezialangriff: Hieb erhöht sich um 40 %.
+│   ├ [T3] Griff der Angst (ID: 9)
+│   │   Erhalte alle 3 Sek. 1 Stapel 'Wachsende Furcht'. (Max. 10 Stapel)
+│   │   Die Stapelrate erhöht sich proportional zu Angriffsgeschwindigkeit.
+│   └ [T3] Rückkehr des Wächters (ID: 1023)
+│       Spezialangriff: Hieb wird zu Spezialangriff: Schildwurf geändert.
+├ [T2] Karottenschwert (ID: 1000)
+│   Erhöht allen Elementarschaden um 3.
+│   ├ [T3] Carrotcalibur (ID: 1001)
+│   │   Normaler Angriff wird zu Normaler Angriff: Karottenschwerttechnik, und die Wirksamkeit zusätzlicher Angriffsgeschwindigkeit erhöht sich um 20 %.
+│   └ [T3] Excallion (ID: 1019)
+│       Erhöht allen Elementarschaden um 2 und Grimoire-Schaden um 15 %.
+├ [T2] Rapier (ID: 1006)
+│   Dash-Angriff ist deaktiviert, und Normaler Angriff wird in den Typ Dash-Angriff geändert. Angriffsgeschwindigkeit erhöht sich um 10 %.
+│   └ [T3] Blitzendes Rapier (ID: 1007)
+│       Die Stoßreichweite wird erhöht. Angriffsgeschwindigkeit erhöht sich um 20 %.
+├ [T2] Zauberstab (ID: 1004)
+│   Waffenangriff wird zu einer Form geändert, die Magisches Geschoss verwendet.
+│   ├ [T3] Blick der Flammen (ID: 1008)
+│   │   Waffenangriff wird zu einer auf Feuerschaden basierenden Form. Der Schaden von Normaler Angriff erhöht sich um 20 %.
+│   ├ [T3] Atem des Eises (ID: 1009)
+│   │   Waffenangriff wird zu einer auf Kälteschaden basierenden Form. Der Schaden von Dash-Angriff erhöht sich um 40 %.
+│   └ [T3] Blitzflügel (ID: 1010)
+│       Waffenangriff wird zu einer auf Blitzschaden basierenden Form. Der Schaden von Spezialangriff erhöht sich um 20 %.
+├ [T2] Frostsplitter (ID: 1013)
+│   Kälteschaden erhöht sich um 5.
+│   ├ [T3] Gletscherklinge (ID: 1014)
+│   │   Das Projektil des Artefakts Exorzismus-Scheide wird kleiner, lädt sich jedoch um 50 % schneller auf.
+│   └ [T3] Vorabend des Schneesturms (ID: 1015)
+│       Wenn Dash-Anzahl verbraucht wird, wird das Artefakt Schneesturmhammer sofort mit 60 % Schaden aktiviert.
+├ [T2] Leiter (ID: 1016)
+│   Blitzschaden erhöht sich um 5.
+│   ├ [T3] Ballistaschwert (ID: 1017)
+│   │   Der Pfeil von Artefakt Mini-Balliste durchdringt Wände und verfolgt Gegner. Bei erfolgreichem Blocken wird sofort ein Pfeil abgefeuert.
+│   └ [T3] Supraleiter (ID: 1018)
+│       Spezialangriff: Hieb wird zu Spezialangriff: Blitzspeer.
+└ [T2] Incendium (ID: 1024)
+    Der von Waffenangriff verursachte Schaden wird um 15 % reduziert, aber zu Feuerschaden geändert.
+    ├ [T3] Solis Missio (ID: 1025)
+    │   Erhalte den Effekt 'Neu entfachen'. Während Blocken wird Bewegungstempo um 90 % verringert.
+    └ [T3] Flammenfresser: Haetae (ID: 1026)
+        Spezialangriff: Hieb wird zu Normaler Angriff: Flammenschlag
+
+================================================================================
+
+=== [T1] Stahlgroßschwert (ID: 10) ===
+[No effect text]
+├ [T2] Überempfindlichkeit (ID: 11)
+│   Der Schaden von Spezialangriff: Wirbelwind erhöht sich um 20 %, und die Aufladegeschwindigkeit erhöht sich um 50 %.
+│   ├ [T3] Nachlässigkeit (ID: 14)
+│   │   Spezialangriffsschaden erhöht sich um 15 %.
+│   │   Spezialangriff: Wirbelwind ist sofort aufgeladen, und Spezialangriffsgeschwindigkeit verringert sich um 15 %.
+│   ├ [T3] Liebender Blick (ID: 15)
+│   │   Erhöht Kritische Trefferchance von Spezialangriff: Wirbelwind um 100 % und Spezialangriffsgeschwindigkeit um 50 %.
+│   └ [T3] Schwarze Eisenhellebarde (ID: 1111)
+│       Die Reichweite von Spezialangriff: Wirbelwind erhöht sich. Beim Treffen des äußeren Bereichs fügst du 50 % zusätzlichen Schaden zu und stellst LP in Höhe von 0,7 % des Schadens im äußeren Bereich wieder her.
+├ [T2] Schwärmender Schatten (ID: 12)
+│   Die Ladezeit von Spezialangriff: Wirbelwind erhöht sich um 100 %, aber Schaden normaler Angriffe erhöht sich um 20 %.
+│   ├ [T3] Schnelle Reue (ID: 16)
+│   │   Du kannst den letzten Angriff von Normaler Angriff 2-mal zusätzlich ausführen. Der Schaden von Normaler Angriff erhöht sich um 10 %.
+│   └ [T3] ... (ID: 1125)
+│       Normaler Angriff verbraucht 2 MP und erhöht den Schaden um 24 %.
+├ [T2] Der Glutgeschmiedete (ID: 1122)
+│   Füge dem Ziel bei einem Waffenangriff zusätzlichen Schaden in Höhe von 30 % von Feuerschaden zu.
+│   ├ [T3] Zermalmer der Roten Schlange (ID: 1123)
+│   │   Der durch Artefakt Rote Schlangenaugen verursachte Schaden erhöht sich um 33%, und die Abklingzeit wird beim Einsatz von Normaler Angriff um 2.5 Sek. verringert.
+│   └ [T3] Solis Cineris (ID: 1124)
+│       Sonnenklinge wird bei Waffenangriff zusätzlich 2-mal ausgelöst. Erhöht die Kritischer Schaden von Sonnenklinge um 36 %.
+├ [T2] Holzknüppel (ID: 1100)
+│   Dash-Angriff kann nicht mehr verwendet werden, aber der von Normaler Angriff verursachte Schaden erhöht sich um 20 %.
+│   ├ [T3] Stachelkeule (ID: 1101)
+│   │   Feuert bei einem Kritischer Schaden-Treffer mit Waffenangriff 3 durchdringende Stacheln ab. Für je 20 % zusätzlichen kritischen Schaden des Angriffs wird ein weiterer Stachel hinzugefügt. (Schaden: 26 % von Physischer Schaden)
+│   └ [T3] Schelmischer Streich (ID: 1119)
+│       Spezialangriff wird zu Spezialangriff: Blattexplosion geändert. Schaden normaler Angriffe wird zum Schaden von Spezialangriff addiert.
+├ [T2] Knochenzahnradklinge (ID: 1102)
+│   Spezialangriff: Wirbelwind wird zu Spezialangriff: Zusammensetzen geändert.
+│   └ [T3] Knarrende Wirbelsäule (ID: 1103)
+│       Die Reichweite des Angriffs 'Spezialangriff: Zusammensetzen' erhöht sich, und Angriffsgeschwindigkeit steigt schrittweise um bis zu 35 %. (Wird zurückgesetzt, wenn du nicht mehr angreifst)
+├ [T2] Frostgebundenes Großschwert (ID: 1104)
+│   Füge dem Ziel bei einem Waffenangriff zusätzlichen Schaden in Höhe von 30 % von Kälteschaden zu.
+│   ├ [T3] Großschwert des ewigen Frosts (ID: 1105)
+│   │   Zusätzlicher Kälteschaden erhöht sich von 30 % auf 55 %.
+│   │   Die Reichweite von Normaler Angriff erhöht sich und die Standardkombo wird 15 % schneller (basierend auf der Gesamtzeit).
+│   ├ [T3] Eiszapfenschwert (ID: 1106)
+│   │   Waffenangriff hat eine Chance von 80 %, Erfrierung zuzufügen. Erhöht den Schaden von Einfrieren um 20 %.
+│   └ [T3] Exorzismus-Großschwert (ID: 1114)
+│       Erhöht den von Artefakt Exorzismus-Scheide verursachten Schaden um 33% und lädt sich um 15% schneller auf.
+├ [T2] Purpurdorn (ID: 1107)
+│   Greift das Ziel an und fügt Wunde zu.
+│   ├ [T3] Purpurwirbel (ID: 1108)
+│   │   Ändert Normaler Angriff und Dash-Angriff zu 3-Treffer-Kombos. Der Schaden jedes Treffers wird auf 40 % des ursprünglichen Schadens angepasst. Die maximale Anzahl der Stapel von Wunde erhöht sich um 6.
+│   └ [T3] Der Inquisitor (ID: 1115)
+│       Mit Waffe verursachter Physisch-Schaden wird als Chaos angewendet. Spezialangriff: Wirbelwind wird zu Spezialangriff: Wundenexplosion.
+├ [T2] Blitzgroßschwert „E2G“ (ID: 1112)
+│   Füge dem Ziel bei einem Waffenangriff zusätzlichen Schaden in Höhe von 30 % von Blitzschaden zu.
+│   ├ [T3] Blitzgroßschwert „E3G“ (ID: 1109)
+│   │   Nach jeweils 5 Angriff(en) erhältst du 5 Sturmwolke-Stapel. Beim Einsatz von Spezialangriff: Wirbelwind erhältst du 10 Sekunden lang eine Stärkung, die Verbrauchsgeschwindigkeit von Sturmwolke um 100 % erhöht. (Maximal 5 Stapel)
+│   └ [T3] Blitzgroßschwert „S3G“ (ID: 1113)
+│       Bei Waffenangriff wird dem Ziel Stromschlag zugefügt. Zusätzlicher Stromschlag-Schaden erhöht sich um 33 %.
+└ [T2] Beunruhigende Freude (ID: 17)
+    Waffenangriff wird zu einer Form geändert, die Laser verwendet.
+    ├ [T3] Vermächtnis des Illusionisten (ID: 1117)
+    │   Grimoire-Tempo erhöht sich um 50 %.
+    ├ [T3] Makellose Form (ID: 1118)
+    │   Die Laser von Normaler Angriff und Dash-Angriff werden größer und ihr Schaden erhöht sich um 25 %.
+    └ [T3] Lazarion (ID: 1120)
+        Spezialangriff: Wirbelwind wird zu Spezialangriff: Amethystbeschwörung.
+
+================================================================================
+
+=== [T1] Dolch (ID: 20) ===
+[No effect text]
+├ [T2] Jenseits der Schwelle (ID: 22)
+│   Bei Dash-Angriff erhältst du 10 Sekunden lang eine Stärkung: Normaler Angriff-Schaden +20 % und Dash-Angriff-Schaden +30 %. Deaktiviert Spezialangriff: Raserei.
+│   ├ [T3] Lichtlose Klinge (ID: 26)
+│   │   Bei Verwendung von Dash wird Dash-Angriff zu Dash-Angriff: Klingenkerker
+│   └ [T3] Absolute Eifersucht (ID: 27)
+│       Der Schaden des 3., 4. und 5. Normaler Angriff wird um 25 % erhöht und der Taumeleffekt verstärkt.
+├ [T2] Trockene Brise (ID: 23)
+│   Der Schaden von Spezialangriff: Raserei erhöht sich um 20 %.
+│   ├ [T3] Schleichende Verzweiflung (ID: 28)
+│   │   Der Schaden von Spezialangriff: Raserei wird zusätzlich um 10 % erhöht.
+│   │   Ein erfolgreich ausgeführtes Spezialangriff: Parade lädt Trance zweimal auf.
+│   └ [T3] Harte Prüfung (ID: 29)
+│       Spezialangriff: Parade kann nicht mehr eingesetzt werden, aber bei Verwendung von Waffenangriff besteht eine 30 %ige Chance, Trance zu erhalten. (Trance kann bis zu 4 Mal aufgeladen werden)
+├ [T2] Feuerdolch (ID: 1200)
+│   Füge dem Ziel bei einem Waffenangriff zusätzlichen Schaden in Höhe von 25 % von Feuerschaden zu.
+│   ├ [T3] Erhitzte Klinge (ID: 1201)
+│   │   Spezialangriff: Parade wird durch Spezialangriff: Dolch werfen ersetzt.
+│   └ [T3] Solis Imber (ID: 1214)
+│       Bei einem Treffer mit Spezialangriff: Raserei werden sämtliche Sonnenklinge aktiviert.
+├ [T2] Blitzdolch (ID: 1203)
+│   Füge dem Ziel bei einem Waffenangriff zusätzlichen Schaden in Höhe von 25 % von Blitzschaden zu.
+│   ├ [T3] Drohende Gewitterwolke (ID: 1204)
+│   │   Zusätzlicher Sturmwolke-Schaden erhöht sich um 15 %, Blitzschaden erhöht sich um 5.
+│   └ [T3] Zorn des Blitzes (ID: 1205)
+│       Bei Verwendung von Waffenangriff besteht eine Chance von 70 %, eine Stromschlag-Schwächung anzuwenden. Stromschlag-Stapel erhöht sich um 1.
+├ [T2] Alpines Edelweiß (ID: 1206)
+│   Waffenangriff wird in eine Form geändert, die Shuriken werfen verwendet.
+│   ├ [T3] Adonis (ID: 1207)
+│   │   Der durch Waffenangriff verursachte Kritischer Schaden wird um 30 % erhöht.
+│   └ [T3] Dunkler Schleier (ID: 1210)
+│       Erhält beim Einsatz von Waffenangriff die Stärkung Beherrschung
+├ [T2] Jaderelikt (ID: 1208)
+│   Spezialangriff: Parade kann nicht mehr eingesetzt werden, aber du erhältst alle 2,8 Sekunden Trance. (1 % erhöhte Aufladegeschwindigkeit pro Ausweichen, bis zu 33 %)
+│   └ [T3] Entfesselte Immersion (ID: 1209)
+│       Für je 1 Ausweichen erhöht sich die Aufladegeschwindigkeit von Trance zusätzlich um 0,25 %. Die Obergrenze der Aufladegeschwindigkeit durch Ausweichen wird aufgehoben.
+├ [T2] Verzaubertes Akademieschwert (ID: 1212)
+│   Die MP-Kosten von Spezialangriff: Parade werden 0, und bei einem erfolgreichen Spezialangriff: Parade werden 30 % MP wiederhergestellt.
+│   ├ [T3] Foliant der Mimikry (ID: 1211)
+│   │   Spezialangriff: Raserei wird zu Grimoire: Duplizieren.
+│   └ [T3] Akademie-Magieschwert – Befreiung (ID: 1213)
+│       Spezialangriff: Raserei wird zu Spezialangriff: Befreiung.
+└ [T2] Schlummernder Frost (ID: 1215)
+    Der von Waffenangriff verursachte Schaden wird um 20 % reduziert, aber zu Kälteschaden geändert.
+    ├ [T3] Gefrorzene Schmelze (ID: 1216)
+    │   Kälteschaden erhöht sich um 5, und bei Treffern mit Spezialangriff wird Erfrierung 2-mal angewendet.
+    └ [T3] Drífa (ID: 1217)
+        Artefakt Schneesturmhammer wird zu „Schneesturm-Sense“ geändert. Der Schaden wird um 50 % verringert, aber sie fliegt zum Zielort und trifft Gegner fortlaufend.
+
+================================================================================
+
+=== [T1] Kolossale Armbrust (ID: 100) ===
+[No effect text]
+├ [T2] Kolossale Armbrust: Nachladevorrichtung (ID: 101)
+│   Der Schaden von Normaler Angriff wird um 45 % reduziert und Spezialangriff wird zu 'Fortgeschrittenes Nachladen'.
+│   ├ [T3] Kolossale Armbrust: Beschleunigungskern (ID: 102)
+│   │   Beim Angreifen stapelt sich Angriffsgeschwindigkeit und erhöht deinen Basiswert von Angriffsgeschwindigkeit um bis zu +60 %.
+│   ├ [T3] Armbrust: Zwilling (ID: 103)
+│   │   Normaler Angriff feuert zwei Projektile ab und ermöglicht während des Angriffs etwas mehr Bewegungsfreiheit. Die Feuerrate steigt entsprechend der Erhöhung von Bewegungstempo.
+│   └ [T3] Kopfgeldjäger (ID: 125)
+│       Das Magazin ist auf 6 Schuss festgelegt und wird bei Verwendung von Dash sofort nachgeladen.
+│       Dash-Angriff ist deaktiviert, und der Schaden erhöht sich für jeden Punkt von Dash-Anzahl um 7%.
+├ [T2] Kolossale Armbrust: Streuschusswerfer (ID: 104)
+│   Normaler Angriff wird zu Normaler Angriff: Explosionsschuss, und der Schaden erhöht sich um 80 %.
+│   ├ [T3] Kolossale Armbrust: Schwarzpulversynthese (ID: 105)
+│   │   Erhöht Kritische Trefferchance von Waffenangriff um 35 % und lädt bei einem kritischen Treffer 1 Kugel(n) nach.
+│   ├ [T3] Kolossale Armbrust: Sprengvorrichtung (ID: 116)
+│   │   Der Schaden von Normaler Angriff erhöht sich um 10 %.
+│   └ [T3] Die Seepocke (ID: 127)
+│       Bringt bei Normaler Angriff und Dash-Angriff Haftbombe an. Spezialangriff wird zu Spezialangriff: Explosion.
+├ [T2] Kolossale Armbrust: Verbesserte Spezialbolzen (ID: 106)
+│   Die Angriffsreichweite von Spezialangriff: Mächtiger Pfeil wird erhöht, und der Schaden erhöht sich um 30 %.
+│   └ [T3] Kolossale Armbrust: Schnellfeuervorrichtung (ID: 117)
+│       Wenn Spezialangriff: Mächtiger Pfeil aufeinanderfolgend gewirkt wird (innerhalb von 2 Sekunden), verursacht es pro aufeinanderfolgendem Wirken 10 % zusätzlichen Schaden. (bis zu maximal 50 %)
+├ [T2] Kolossale Armbrust: Feuermine (ID: 108)
+│   Der von Waffenangriff verursachte Schaden wird um 20 % reduziert, aber zu Feuerschaden geändert.
+│   ├ [T3] Kolossale Armbrust: Mit Zielmodul ausgestattet (ID: 109)
+│   │   Die Kosten von Spezialangriff werden auf 3 reduziert, und der Schaden erhöht sich pro Zusätzliches MP um 0,9 %. Spezialangriff verfolgt Gegner in der Nähe.
+│   ├ [T3] Minikanone (ID: 118)
+│   │   Feuere mit Normaler Angriff eine Granatenabschuss ab. Die Feuerrate wird nicht von Angriffsgeschwindigkeit beeinflusst, aber Schaden und Wirkungsbereich erhöhen sich pro zusätzlichem Angriffsgeschwindigkeit um 1 %.
+│   └ [T3] Solis Iubar (ID: 124)
+│       Waffe-Schaden verringert sich um 15%, aber Schaden von Sonnenklinge erhöht sich um 35%.
+├ [T2] Kolossale Armbrust: Instabile Blitzmarkierung (ID: 110)
+│   Bei Verwendung von Normaler Angriff besteht eine Chance von 40 %, 'Blitzpfeil' abzufeuern.
+│   ├ [T3] Kolossale Armbrust: Markierungsstabilisierung (ID: 111)
+│   │   Verursacht bei einem Treffer mit 'Blitzpfeil' die Schwächung Stromschlag. Der Stromschlag-Schaden erhöht sich um 25 %.
+│   ├ [T3] Kolossale Armbrust: Wolkensammler (ID: 115)
+│   │   Wenn der 'Blitzpfeil' einen Gegner trifft, erhältst du 3 Punkt(e) Sturmwolke.
+│   └ [T3] Minigun (ID: 126)
+│       Die Auslösechance von Blitzpfeil erhöht sich um 10 %. Spezialangriff wird zu Spezialangriff: Salve.
+├ [T2] Kolossale Armbrust: Frostschleier (ID: 112)
+│   Spezialangriff wird durch 'Frostschleier' ersetzt.
+│   ├ [T3] Kolossale Armbrust: Schnellfrostkristall (ID: 113)
+│   │   Schaden von Frostrelikt erhöht sich um 20%.
+│   └ [T3] Kolossale Armbrust: Erweiterungsvorrichtung (ID: 114)
+│       Feuert während Frostschleier aktiv ist Erfrierung-Projektile ab, die Gegner durchdringen.
+│       [Magazinkapazität ist auf 5 Schuss festgelegt]
+├ [T2] Kagumede (ID: 119)
+│   Greift das Ziel an und fügt Gift zu.
+│   ├ [T3] Kalims Gestalt (ID: 120)
+│   │   Heitas Geisterpulver, Teros Geisterpulver und Ahmads Geisterpulver greifen zweimal an und verursachen 25 % mehr Schaden.
+│   └ [T3] Violette Jacke (ID: 121)
+│       Die Anzahl der Stapel von Gift erhöht sich um 3.
+└ [T2] M-9199 (ID: 122)
+    Normaler Angriff durchdringt Gegner und erhöht den Schaden um 15 %. Spezialangriff wird zu „Spezialangriff: Munitionskompression“ geändert.
+    └ [T3] XRA-9 (ID: 123)
+        Beim Abfeuern der letzten Kugel mit einem normalen Angriff wird die aktuelle Abklingzeit aller Grimoire und Aktives Artefakt um 25 % verringert.
+
+================================================================================
+
+=== [T1] Klinge (ID: 400) ===
+[No effect text]
+├ [T2] Langklinge 'Onohara' (ID: 401)
+│   Spezialangriff: Schwerer Hieb wird von Angriffsgeschwindigkeit beeinflusst. Angriffsgeschwindigkeit erhöht sich um 15 %.
+│   ├ [T3] Berühmtes Schwert 'Muramasa' (ID: 402)
+│   │   Bleibt stets im Zustand Einstecken, und Spezialangriff: Schwerer Hieb wird zu Spezialangriff: Schneller Hieb. Die Wirksamkeit von Angriffsgeschwindigkeit wird um 80 % erhöht.
+│   └ [T3] Schwert der Bestienzeichen 'Hou' (ID: 403)
+│       Die Basis-Angriffsgeschwindigkeit von Spezialangriff: Schwerer Hieb wird um 24 % reduziert, kann jedoch entfernte Gegner treffen. Der Schaden erhöht sich für je 2 Ausweichen um 1 %.
+├ [T2] Helbanus (ID: 406)
+│   Füge dem Ziel bei einem Waffenangriff zusätzlichen Schaden in Höhe von 30 % von Feuerschaden zu.
+│   ├ [T3] Lodernder Helbanus (ID: 407)
+│   │   Brand-Stapel erhöht sich um 2 und Feuerschaden um 4.
+│   ├ [T3] Heidi (ID: 408)
+│   │   Beim Verbrauch von Dash-Anzahl erhältst du Stapel von 'Überhitzung'. (Standardmäßig 1, bei Verwendung von Einstecken 3, bis zu 9-mal) Beim Einsatz von Normaler Angriff werden Stapel verbraucht.
+│   └ [T3] Solis Ekli (ID: 422)
+│       Einstecken wird zu Finsternis.
+├ [T2] Reißklinge: Himmelsriss (ID: 409)
+│   Erhalte Schwertschlag durch Normaler Angriff. Spezialangriff: Schwerer Hieb wird zu Normalangriff: Iaido-Hieb.
+│   ├ [T3] Reißklinge: Treibende Weide (ID: 410)
+│   │   Kritische Trefferchance erhöht sich um 30 %, und der Angriffsbereich von Normaler Angriff: Großer Iaido-Hieb wird zu einem Rundumangriff.
+│   └ [T3] Reißklinge: Ruinentanz (ID: 411)
+│       Du kannst Normaler Angriff: Großer Iaido-Hieb nicht verwenden, erhältst aber die Stärkung Salve, wenn die Schwertschlag-Leiste 100 % erreicht.
+├ [T2] Die wartende Azurklinge (ID: 412)
+│   Erhalte fortlaufend 'Klingenschlag', wenn Einstecken aktiv ist. Beim Wirken von Magie werden 10 Klingenschlag verbraucht, um Grimoire-Schaden um 20 % zu erhöhen.
+│   ├ [T3] Yuis kurzer Dolch (ID: 413)
+│   │   Grimoire-Kritische Trefferchance erhöht sich um 30 %.
+│   └ [T3] Adamahs Eid (ID: 414)
+│       Beim Einsatz von Magie wird eine 'Magieklinge' beschworen, die zum Gegner fliegt und Schaden verursacht. (Schaden: 20 + 70 % der fehlenden MP)
+├ [T2] Bibliotheksgesellschaft zur Spektralversiegelung Mark I (ID: 416)
+│   Dash-Angriffsschaden erhöht sich um 40 %, und beim Verbrauch von Dash-Anzahl führt ein Geist zweimal Dash-Angriff gegen nahe Gegner aus. (Abklingzeit: 2.5 Sek.)
+│   └ [T3] Bibliotheksgesellschaft zur Spektralversiegelung Mark II (ID: 417)
+│       Die Abklingzeit von Dash-Angriff des Geists wird auf 1 Sekunde geändert und pro Dash-Anzahl um 10 % verringert.
+│       Die Unverwundbarkeitsdauer von Einstecken wird um 50 % erhöht, und wenn ein Angriff geblockt wird, führt der Geist Dash-Angriff entsprechend Dash-Anzahl aus.
+├ [T2] Winter Smiths Rohklinge (ID: 419)
+│   Einstecken wird durch Ansturm ersetzt. Waffenangriff fügt zusätzlichen Schaden in Höhe von 15 % von Kälteschaden zu. Kälteschaden wird um 3 erhöht.
+│   ├ [T3] Schweigen des ewigen Frosts (ID: 420)
+│   │   Ansturm wird zu Spezialangriff: Eisgleiten. Das Blocken gegnerischer Angriffe während der Unverwundbarkeit löst das Artefakt Echo des Gletschers sofort aus. Bei Aktivierung fügt es nahen Gegnern Schaden in Höhe von 120 % Kälteschaden zu.
+│   └ [T3] Fragment von Nastrond (ID: 421)
+│       Nach einer Aktion von Ansturm wird beim Angreifen Frostrelikt: Skaði aktiviert.
+├ [T2] Donnerschwert 'Bronte' (ID: 404)
+│   Der von Waffenangriff verursachte Schaden wird um 20 % reduziert, aber zu Blitzschaden geändert.
+│   └ [T3] Blitzschlag (ID: 405)
+│       Erhalte 1 Stapel 'Elektrische Ladung', wenn du mit Stromschlag Schaden verursachst. (Max. 10)
+│       Verbrauche 2 Stapel 'Elektrische Ladung', um bei Spezialangriff: Schwerer Hieb Spezialangriff: Issen auszuführen.
+└ [T2] Rüstungsbieger (ID: 423)
+    Der durch Normaler Angriff verursachte Schaden erhöht sich für je 2 Verteidigung um 1 %.
+    └ [T3] Panzerbrecherklinge (ID: 424)
+        Solange Einstecken nicht aktiv ist, erhältst du alle 0.8 Sek. 1 Stapel Verhärtung.
+
+================================================================================
+
+=== [T1] Kampfstab (ID: 500) ===
+[No effect text]
+├ [T2] Prunkstab (ID: 501)
+│   Normaler Angriff wird zu Normaler Angriff: Blumenstab geändert
+│   ├ [T3] Stab großer Macht (ID: 502)
+│   │   Schaden normaler Angriffe erhöht sich um 30 %, und beim Angreifen erhältst du Schild in Höhe von 5 % von Verteidigung. (Wird alle 20 Sek. erneuert.)
+│   └ [T3] Ilonicas Geisterstab (ID: 503)
+│       Du kannst keine Grimoire direkt wirken. Normaler Angriff: Blumenstab wird durch Grimoire: Boltsalve ersetzt.
+├ [T2] Göttlicher Eisenstab (ID: 505)
+│   Erhalte bei einem Waffenangriff die Stärkung Stabverlängerung.
+│   ├ [T3] Gewicht des Meeres (ID: 506)
+│   │   Bei erfolgreichem Blocken erhältst du die Stärkung Schwerer Stab.
+│   └ [T3] Ringloser Stab (ID: 507)
+│       Wenn Kritische Trefferchance unter 30% liegt, erhöht sich der verursachte Schaden um 20%.
+├ [T2] Fernes Sternenlicht (ID: 509)
+│   Erhöht den Schaden von Spezialangriff: Riposte um 20 %. Wenn Max. MP mindestens 100 beträgt, wird Blocken während der Verwendung von Spezialangriff: Riposte in alle Richtungen ausgeführt.
+│   └ [T3] Schuppe des Astralmeers (ID: 510)
+│       Setze nach einem erfolgreichen Blocken bei Normaler Angriff 'Kristallexplosion' ein.
+├ [T2] Georoid-Speer (ID: 513)
+│   Du kannst Normaler Angriff: Speerstoß und Dash-Angriff: Speerangriff einsetzen.
+│   ├ [T3] Ruadhslea-Speer (ID: 514)
+│   │   Angriffsgeschwindigkeit erhöht sich um 10 %. Der Schaden erhöht sich beim Angriff mit einer Waffe für jeden Punkt des Attributs Dash-Anzahl um 5 %.
+│   └ [T3] Fuarsca-Speer (ID: 515)
+│       Blocken wird beim Wirken von Dash-Angriff: Speerangriff gewährt, und der Schaden erhöht sich für jeden zuvor verwendeten Dash um 30 %. (Bis zu 6-mal)
+├ [T2] Glutstab (ID: 517)
+│   Der von Waffenangriff verursachte Schaden wird um 15 % reduziert, aber zu Feuerschaden geändert.
+│   ├ [T3] Fiaolas Richtstab (ID: 518)
+│   │   Beim Anwenden von Brand wird Feuerring erschaffen und greift Gegner im Wirkungsbereich an (Radius in Kacheln: 5; Dauer: 10 Sek.). (Schaden: Feuerschaden 40 % alle 0.5 Sek., Schaden steigt mit Brand-Schaden)
+│   └ [T3] Solis Braca (ID: 519)
+│       Beim Zurückholen von Sonnenklinge holst du zusätzlich 1 zurück. Spezialangriff wird durch Spezialangriff: Sonnenspeer schmieden ersetzt.
+├ [T2] Reifstab (ID: 521)
+│   Der von Waffenangriff verursachte Schaden wird um 15 % reduziert, aber zu Kälteschaden geändert.
+│   ├ [T3] Orakelstab (ID: 522)
+│   │   Aktiviert das Artefakt Voluspa in Zielrichtung, nachdem Waffenangriff oft genug getroffen hat (erforderliche Treffer: 3).
+│   └ [T3] Malaspina (ID: 523)
+│       Bei Waffenangriff besteht eine Chance von 30 %, Erfrierung anzuwenden. Kälteschaden erhöht sich um 5.
+├ [T2] Stab der Stürme (ID: 525)
+│   Der von Waffenangriff verursachte Schaden wird um 15 % reduziert, aber zu Blitzschaden geändert.
+│   ├ [T3] Viduka (ID: 526)
+│   │   Der von Elektro-Chakram verursachte Schaden erhöht sich um 20 %, und sein Rotationsradius wird bis zum Fadenkreuz erweitert.
+│   └ [T3] Nephorhax (ID: 528)
+│       Dash-Angriff wird zu Wirf Wolkenflasche geändert. Bei einem Treffer mit Dash-Angriff wird Sturmwolke sofort auf dem Ziel ausgelöst und verursacht 70 % Schaden.
+└ [T2] Wurfspeer (ID: 529)
+    Normaler Angriff wird zu Normaler Angriff: Speerwurf, und Waffe-Schaden erhöht sich um 10.
+    ├ [T3] Heiliger Krug (ID: 530)
+    │   Normaler Angriff übernimmt die Werte von Schaden des Begleiters.
+    ├ [T3] Formloser Tanz (ID: 531)
+    │   Normaler Angriff lockt Gegner an und hat eine Chance, zweimal zu schießen. (Erhöht sich pro 1 Ausweichen um 1%)
+    └ [T3] Nachfolger (ID: 532)
+        Grimoire-Schaden erhöht sich um 30 %.

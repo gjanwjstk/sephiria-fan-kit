@@ -1,0 +1,342 @@
+﻿Base weapon effect text (enhancement tree) — 6 / 212 / language: pl-PL (pl-PL)
+================================================================================
+
+=== [T1] Domyślny miecz i tarcza (ID: 0) ===
+[No effect text]
+├ [T2] Ochrona Puchu (ID: 1)
+│   Po udanym Blok koszt PM Blok jest zmniejszony o 50%.
+│   ├ [T3] Światło gwiazd (ID: 4)
+│   │   Po udanym Blok odbija 300% obrażeń atakującego. (400% przy Perfekcyjny blok)
+│   ├ [T3] Mroźna furia (ID: 5)
+│   │   Po udanym Perfekcyjny blok Uniwersalne zwiększenie obrażeń zwiększa się o 20% na 14 sekund.
+│   └ [T3] Kamienny miecz (ID: 1020)
+│       Atak specjalny: Zamaszyste cięcie zmienia się w Atak specjalny: Uderzenie tarczą.
+├ [T2] Doskonała równowaga (ID: 2)
+│   Zwiększa Szybkość ataku o 15% i podczas wykonywania Zwykły atak automatycznie używa Blok przed sobą.
+│   ├ [T3] Dryfujący popiół (ID: 6)
+│   │   Obrażenia ataku podczas doskoku wzrasta o 60%. Zadaje wrogom na trasie doskoku obrażenia równe 50% obrażeń Atak z doskoku. (Zadaje podwójne obrażenia po zużyciu Liczba doskoków.)
+│   └ [T3] Nieugięty (ID: 7)
+│       Zwiększa Obrażenia normalnego ataku o 33%, ale Atak specjalny: Zamaszyste cięcie nie może już być używane.
+├ [T2] Drobne zniszczenie (ID: 3)
+│   Obrażenia Atak specjalny: Zamaszyste cięcie zwiększają się o 40%.
+│   ├ [T3] Uścisk strachu (ID: 9)
+│   │   Co 3 s zyskujesz 1 kumulację 'Narastający lęk'. (Maksymalna liczba kumulacji: 10)
+│   │   Szybkość zdobywania kumulacji wzrasta proporcjonalnie do Szybkość ataku.
+│   └ [T3] Powrót strażnika (ID: 1023)
+│       Atak specjalny: Zamaszyste cięcie zmienia się w Atak specjalny: Rzut tarczą.
+├ [T2] Marchewkowy Miecz (ID: 1000)
+│   Zwiększa wszystkie obrażenia od żywiołów o 3.
+│   ├ [T3] Marchewkalibur (ID: 1001)
+│   │   Zwykły atak zmienia się w Zwykły atak: Marchewkowa technika miecza, a dodatkowa Szybkość ataku działa o 20% skuteczniej.
+│   └ [T3] Excallion (ID: 1019)
+│       Zwiększa wszystkie obrażenia żywiołów o 2, a Obrażenia Grymuar zwiększa się o 15%.
+├ [T2] Rapier (ID: 1006)
+│   Atak z doskoku jest wyłączony, a Zwykły atak zmienia się w typ Atak z doskoku. Szybkość ataku zwiększa się o 10%.
+│   └ [T3] Błyskający rapier (ID: 1007)
+│       Zwiększa zasięg pchnięcia. Zwiększa Szybkość ataku o 20%.
+├ [T2] Magiczna różdżka (ID: 1004)
+│   Atak bronią zmienia się w formę używającą Magiczny pocisk.
+│   ├ [T3] Spojrzenie Płomieni (ID: 1008)
+│   │   Atak bronią zmienia się na oparty na Obrażenia od ognia. Obrażenia Zwykły atak zwiększają się o 20%.
+│   ├ [T3] Oddech Lodu (ID: 1009)
+│   │   Atak bronią zmienia się na oparty na Obrażenia od zimna. Obrażenia Atak z doskoku zwiększają się o 40%.
+│   └ [T3] Skrzydła błyskawic (ID: 1010)
+│       Atak bronią zmienia się na oparty na Obrażenia od błyskawic. Obrażenia Atak specjalny zwiększają się o 20%.
+├ [T2] Odłamek Mrozu (ID: 1013)
+│   Obrażenia od zimna zwiększa się o 5.
+│   ├ [T3] Lodowcowe Ostrze (ID: 1014)
+│   │   Pocisk artefaktu Pochwa Egzorcyzmu staje się mniejszy, ale ładuje się o 50% szybciej.
+│   └ [T3] Przed Zamiecią (ID: 1015)
+│       Po zużyciu Liczba doskoków natychmiast aktywuje artefakt Artefakt Młot zamieci z 60% obrażeń.
+├ [T2] Przewodnik (ID: 1016)
+│   Obrażenia od błyskawic zwiększa się o 5.
+│   ├ [T3] Miecz balistyczny (ID: 1017)
+│   │   Strzała Artefakt Miniaturowa balista przebija ściany i naprowadza się na wrogów. Przy udanym Blok natychmiast wystrzeliwuje strzałę.
+│   └ [T3] Nadprzewodnik (ID: 1018)
+│       Atak specjalny: Zamaszyste cięcie zmienia się w Atak specjalny: Włócznia Błyskawic.
+└ [T2] Incendium (ID: 1024)
+    Obrażenia zadawane przez Atak bronią zostają zmniejszone o 15%, ale są zmieniane na Obrażenia od ognia.
+    ├ [T3] Solis Missio (ID: 1025)
+    │   Zyskujesz efekt 'Rozpal ponownie'. Podczas Blok Szybkość ruchu zmniejsza się o 90%.
+    └ [T3] Pożeracz Płomieni: Haetae (ID: 1026)
+        Atak specjalny: Zamaszyste cięcie zmienia się w Atak podstawowy: Uderzenie Płomienia
+
+================================================================================
+
+=== [T1] Stalowy wielki miecz (ID: 10) ===
+[No effect text]
+├ [T2] Nadwrażliwość (ID: 11)
+│   Obrażenia Atak specjalny: Wir zwiększają się o 20%, a szybkość ładowania zwiększa się o 50%.
+│   ├ [T3] Zaniedbanie (ID: 14)
+│   │   Obrażenia ataku specjalnego zwiększa się o 15%.
+│   │   Atak specjalny: Wir ładuje się natychmiast, a Szybkość ataku specjalnego zmniejsza się o 15%.
+│   ├ [T3] Czułe spojrzenie (ID: 15)
+│   │   Zwiększa Szansa na trafienie krytyczne Atak specjalny: Wir o 100% oraz Szybkość ataku specjalnego o 50%.
+│   └ [T3] Halabarda z czarnego żelaza (ID: 1111)
+│       Zasięg Atak specjalny: Wir zwiększa się. Przy trafieniu w zewnętrzny obszar zadajesz o 50% więcej obrażeń i odzyskujesz PŻ w wysokości 0,7% obrażeń zadanych w zewnętrznym obszarze.
+├ [T2] Rój cieni (ID: 12)
+│   Czas ładowania Atak specjalny: Wir zwiększa się o 100%, ale Obrażenia normalnego ataku zwiększa się o 20%.
+│   ├ [T3] Prędka skrucha (ID: 16)
+│   │   Możesz wykonać ostatni atak Zwykły atak 2 dodatkowe razy. Obrażenia Zwykły atak zwiększają się o 10%.
+│   └ [T3] ... (ID: 1125)
+│       Zwykły atak zużywa 2 PM i zwiększa obrażenia o 24%.
+├ [T2] Wykuwany w Żarze (ID: 1122)
+│   Podczas wykonywania Atak bronią zadaj celowi dodatkowe obrażenia równe 30% Obrażenia od ognia.
+│   ├ [T3] Miażdżyciel Czerwonego Węża (ID: 1123)
+│   │   Artefakt Obrażenia zadawane przez Czerwone wężowe oczy zwiększają się o 33%, a czas odnowienia zostaje skrócony o 2.5 s przy użyciu Zwykły atak.
+│   └ [T3] Solis Cineris (ID: 1124)
+│       Przy Atak bronią Słoneczne Ostrze uruchamia się dodatkowo. Liczba dodatkowych aktywacji: 2. Zwiększa Obrażenia krytyczne Słoneczne Ostrze o 36%.
+├ [T2] Drewniana maczuga (ID: 1100)
+│   Atak z doskoku nie może już być używane, ale obrażenia zadawane przez Zwykły atak zwiększają się o 20%.
+│   ├ [T3] Kolczasta maczuga (ID: 1101)
+│   │   Przy trafieniu Obrażenia krytyczne za pomocą Atak bronią wystrzeliwuje 3 przebijające kolce. Za każde dodatkowe 20% obrażeń krytycznych ataku dodawany jest kolejny kolec. (Obrażenia: 26% Obrażenia fizyczne)
+│   └ [T3] Psotny figiel (ID: 1119)
+│       Atak specjalny zmienia się w Atak specjalny: Eksplozja liści. Do obrażeń Atak specjalny dodawane jest Obrażenia normalnego ataku.
+├ [T2] Kościany miecz zębaty (ID: 1102)
+│   Atak specjalny: Wir zmienia się w Atak specjalny: Przebudowa.
+│   └ [T3] Skrzypiący kręgosłup (ID: 1103)
+│       Zasięg ataku 'Atak specjalny: Przebudowa' zwiększa się, a Szybkość ataku stopniowo wzrasta maksymalnie o 35%. (Resetuje się po zaprzestaniu atakowania)
+├ [T2] Mroźny wielki miecz (ID: 1104)
+│   Podczas wykonywania Atak bronią zadaj celowi dodatkowe obrażenia równe 30% Obrażenia od zimna.
+│   ├ [T3] Wielki miecz wiecznego mrozu (ID: 1105)
+│   │   Dodatkowe Obrażenia od zimna zwiększa się z 30% do 55%.
+│   │   Zasięg Zwykły atak zwiększa się, a podstawowa kombinacja staje się o 15% szybsza (na podstawie całkowitego czasu).
+│   ├ [T3] Miecz z sopla (ID: 1106)
+│   │   Atak bronią ma 80% szansy na nałożenie Odmrożenie. Obrażenia Zamrożenie zwiększają się o 20%.
+│   └ [T3] Wielki miecz egzorcyzmów (ID: 1114)
+│       Zwiększa obrażenia zadawane przez Artefakt Pochwa Egzorcyzmu o 33% i przyspiesza ładowanie o 15%.
+├ [T2] Szkarłatny cierń (ID: 1107)
+│   Atakuje cel i nakłada Rana.
+│   ├ [T3] Szkarłatny wir (ID: 1108)
+│   │   Zmienia Zwykły atak i Atak z doskoku w kombinacje 3 trafień. Obrażenia każdego trafienia zostają dostosowane do 40% pierwotnych obrażeń. Maksymalna liczba kumulacje Rana zwiększa się o 6.
+│   └ [T3] Inkwizytor (ID: 1115)
+│       Obrażenia Fizyczne zadawane za pomocą Broń są traktowane jako Chaos. Atak specjalny: Wir zmienia się w Atak specjalny: Eksplozja ran.
+├ [T2] Piorunujący wielki miecz „E2G” (ID: 1112)
+│   Podczas wykonywania Atak bronią zadaj celowi dodatkowe obrażenia równe 30% Obrażenia od błyskawic.
+│   ├ [T3] Piorunujący wielki miecz „E3G” (ID: 1109)
+│   │   Po wykonaniu określonej liczby ataków (5) zyskujesz Chmura burzowa. Liczba kumulacji: 5. Przy użyciu Atak specjalny: Wir zyskujesz na 10 sekund wzmocnienie zwiększające Szybkość zużywania Chmura burzowa o 100%. (Maks. 5 kumulacji)
+│   └ [T3] Piorunujący wielki miecz „S3G” (ID: 1113)
+│       Przy Atak bronią nakłada na cel Porażenie prądem. Dodatkowe obrażenia Porażenie prądem zwiększa się o 33%.
+└ [T2] Niepokojąca rozkosz (ID: 17)
+    Atak bronią zmienia się w formę używającą Laser.
+    ├ [T3] Dziedzictwo iluzjonisty (ID: 1117)
+    │   Przyspieszenie Grymuar zwiększa się o 50%.
+    ├ [T3] Nieskazitelna forma (ID: 1118)
+    │   Lasery Zwykły atak i Atak z doskoku stają się większe, a ich obrażenia zwiększają się o 25%.
+    └ [T3] Lazarion (ID: 1120)
+        Atak specjalny: Wir zmienia się w Atak specjalny: Przyzwanie ametystu.
+
+================================================================================
+
+=== [T1] Sztylet (ID: 20) ===
+[No effect text]
+├ [T2] Poza progiem (ID: 22)
+│   Po użyciu Atak z doskoku zyskujesz na 10 sekund wzmocnienie: obrażenia Zwykły atak +20% i obrażenia Atak z doskoku +30%. Wyłącza Atak specjalny: Furia.
+│   ├ [T3] Bezświetlne ostrze (ID: 26)
+│   │   Po użyciu Doskok Atak z doskoku zmienia się w Atak z doskoku: Więzienie ostrzy
+│   └ [T3] Absolutna zazdrość (ID: 27)
+│       Obrażenia 3., 4. i 5. Zwykły atak są zwiększone o 25%, a efekt ogłuszenia jest wzmocniony.
+├ [T2] Suchy powiew (ID: 23)
+│   Obrażenia Atak specjalny: Furia zwiększają się o 20%.
+│   ├ [T3] Pełzająca rozpacz (ID: 28)
+│   │   Obrażenia Atak specjalny: Furia zwiększają się dodatkowo o 10%.
+│   │   Pomyślne wykonanie Atak specjalny: Parowanie naładuje Trans dwukrotnie.
+│   └ [T3] Surowa próba (ID: 29)
+│       Nie możesz już używać Atak specjalny: Parowanie, ale podczas używania Atak bronią masz 30% szans na zyskanie Trans. (Maksymalna liczba ładowań Trans: 4)
+├ [T2] Ognisty Sztylet (ID: 1200)
+│   Podczas wykonywania Atak bronią zadaj celowi dodatkowe obrażenia równe 25% Obrażenia od ognia.
+│   ├ [T3] Rozgrzane Ostrze (ID: 1201)
+│   │   Atak specjalny: Parowanie zostaje zastąpione przez Atak specjalny: Rzut sztyletem.
+│   └ [T3] Solis Imber (ID: 1214)
+│       Po trafieniu Atak specjalny: Furia aktywuje wszystkie Słoneczne Ostrze.
+├ [T2] Sztylet Błyskawic (ID: 1203)
+│   Podczas wykonywania Atak bronią zadaj celowi dodatkowe obrażenia równe 25% Obrażenia od błyskawic.
+│   ├ [T3] Zawisła chmura burzowa (ID: 1204)
+│   │   Dodatkowe obrażenia od Chmura burzowa zwiększa się o 15%, Obrażenia od błyskawic zwiększa się o 5.
+│   └ [T3] Gniew błyskawic (ID: 1205)
+│       Przy użyciu Atak bronią istnieje 70% szansy na nałożenie osłabienia Porażenie prądem. Porażenie prądem kumulacje zwiększa się o 1.
+├ [T2] Alpejska Szarotka (ID: 1206)
+│   Atak bronią zmienia się w formę używającą Rzut shurikenem.
+│   ├ [T3] Adonis (ID: 1207)
+│   │   Obrażenia krytyczne zadawane przez Atak bronią zwiększają się o 30%.
+│   └ [T3] Mroczna Zasłona (ID: 1210)
+│       Zyskujesz wzmocnienie Dominacja przy użyciu Atak bronią
+├ [T2] Jadeitowa Pozostałość (ID: 1208)
+│   Nie możesz już używać Atak specjalny: Parowanie, ale zyskujesz Trans co 2,8 sekundy. (Szybkość ładowania zwiększona o 1% za każde Unik, maksymalnie 33%)
+│   └ [T3] Nieskrępowane Zanurzenie (ID: 1209)
+│       Za każde 1 Unik szybkość ładowania Trans zwiększa się dodatkowo o 0,25%. Limit szybkości ładowania z Unik zostaje usunięty.
+├ [T2] Akademicki Zaklęty Miecz (ID: 1212)
+│   Koszt PM Atak specjalny: Parowanie wynosi 0, a po udanym Atak specjalny: Parowanie odzyskujesz 30% PM.
+│   ├ [T3] Księga Mimikry (ID: 1211)
+│   │   Atak specjalny: Furia zmienia się w Grymuar: Powtórzenie.
+│   └ [T3] Akademicki Magiczny Miecz - Wyzwolenie (ID: 1213)
+│       Atak specjalny: Furia zmienia się w Atak specjalny: Wyzwolenie.
+└ [T2] Uśpiony Mróz (ID: 1215)
+    Obrażenia zadawane przez Atak bronią zostają zmniejszone o 20%, ale są zmieniane na Obrażenia od zimna.
+    ├ [T3] Zamarznięty Wytop (ID: 1216)
+    │   Obrażenia od zimna zwiększa się o 5, a trafienie Atak specjalny nakłada Odmrożenie. Liczba nałożeń: 2.
+    └ [T3] Drífa (ID: 1217)
+        Artefakt Młot zamieci zmienia się w „Kosę Zamieci”. Obrażenia są zmniejszone o 50%, ale leci ona do wybranej lokalizacji i nieustannie atakuje wrogów.
+
+================================================================================
+
+=== [T1] Kolosalna kusza (ID: 100) ===
+[No effect text]
+├ [T2] Kolosalna kusza: Mechanizm przeładowania (ID: 101)
+│   Obrażenia Zwykły atak zostają zmniejszone o 45%, a Atak specjalny zmienia się w 'Zaawansowane przeładowanie'.
+│   ├ [T3] Kolosalna kusza: Rdzeń przyspieszenia (ID: 102)
+│   │   Podczas atakowania kumuluje się Szybkość ataku, zwiększając podstawową Szybkość ataku maksymalnie o +60%.
+│   ├ [T3] Kusza: Bliźniak (ID: 103)
+│   │   Zwykły atak wystrzeliwuje dwa pociski i zapewnia nieco większą swobodę ruchu podczas ataku. Szybkostrzelność wzrasta o wartość wzrostu Szybkość ruchu.
+│   └ [T3] Łowca Nagród (ID: 125)
+│       Magazynek jest ustawiony na stałe na 6 nabojów i natychmiast przeładowuje się przy użyciu Doskok.
+│       Atak z doskoku jest wyłączone, a obrażenia rosną o 7% za każdy punkt Liczba doskoków.
+├ [T2] Kolosalna kusza: Wyrzutnia rozrzutowa (ID: 104)
+│   Zwykły atak zmienia się w Zwykły atak: Wybuchowy strzał, a obrażenia zostają zwiększone o 80%.
+│   ├ [T3] Kolosalna kusza: Synteza prochu (ID: 105)
+│   │   Zwiększa Szansa na trafienie krytyczne Atak bronią o 35% i odnawia pociski (liczba: 1), jeśli atak trafi krytycznie.
+│   ├ [T3] Kolosalna kusza: Urządzenie wybuchowe (ID: 116)
+│   │   Obrażenia od Zwykły atak zostają zwiększone o 10%.
+│   └ [T3] Pąkla (ID: 127)
+│       Przy Zwykły atak i Atak z doskoku przyczepia Lepka bomba. Atak specjalny zmienia się w Atak specjalny: Eksplozja.
+├ [T2] Kolosalna kusza: Ulepszone specjalne bełty (ID: 106)
+│   Zasięg ataku Atak specjalny: Potężna strzała zostaje zwiększony, a obrażenia rosną o 30%.
+│   └ [T3] Kolosalna kusza: Mechanizm szybkostrzelny (ID: 117)
+│       Gdy Atak specjalny: Potężna strzała zostanie użyte kolejno (w ciągu 2 sekund), zadaje dodatkowe 10% obrażeń za każde kolejne użycie. (maksymalnie 50%)
+├ [T2] Kolosalna kusza: Mina ogniowa (ID: 108)
+│   Obrażenia zadawane przez Atak bronią zostają zmniejszone o 20%, ale są zmieniane na Obrażenia od ognia.
+│   ├ [T3] Kolosalna kusza: Z modułem naprowadzania (ID: 109)
+│   │   Koszt Atak specjalny zostaje zmniejszony do 3, a obrażenia rosną o 0,9% za każdy Dodatkowe PM. Atak specjalny namierza pobliskich wrogów.
+│   ├ [T3] Miniarmata (ID: 118)
+│   │   Wystrzeliwuje Wyrzut granatu za pomocą Zwykły atak. Na szybkość wystrzału nie wpływa Szybkość ataku, ale obrażenia i obszar działania rosną o 1% za każdy dodatkowy Szybkość ataku.
+│   └ [T3] Solis Iubar (ID: 124)
+│       Obrażenia Broń zmniejsza się o 15%, ale Obrażenia Słoneczne Ostrze zwiększa się o 35%.
+├ [T2] Kolosalna kusza: Niestabilne znamię błyskawicy (ID: 110)
+│   Przy użyciu Zwykły atak ma 40% szansy na wystrzelenie 'Strzała błyskawic'.
+│   ├ [T3] Kolosalna kusza: Stabilizacja znamienia (ID: 111)
+│   │   Nakłada osłabienie Porażenie prądem po trafieniu „Strzałą Błyskawic”. Obrażenia Porażenie prądem zwiększone o 25%.
+│   ├ [T3] Kolosalna kusza: Zbieracz chmur (ID: 115)
+│   │   Gdy 'Piorunująca strzała' trafi wroga, zyskujesz 3 pkt. Chmura burzowa.
+│   └ [T3] Minigun (ID: 126)
+│       Szansa na wystrzelenie Strzała błyskawic zwiększa się o 10%. Atak specjalny zmienia się w Atak specjalny: Salwa.
+├ [T2] Kolosalna kusza: Mroźna zasłona (ID: 112)
+│   Atak specjalny zostaje zastąpione przez 'Mroźna zasłona'.
+│   ├ [T3] Kolosalna kusza: Kryształ szybkiego zamrożenia (ID: 113)
+│   │   Obrażenia Lodowa Relikwia zwiększają się o 20%.
+│   └ [T3] Kolosalna kusza: Urządzenie rozszerzające (ID: 114)
+│       Wystrzeliwuje pociski Odmrożenie, które przebijają wrogów, gdy Mroźna zasłona jest aktywne.
+│       [Pojemność magazynka jest ustawione na stałe na 5 nabojów]
+├ [T2] Kagumede (ID: 119)
+│   Atakuje cel i nakłada Trucizna.
+│   ├ [T3] Forma Kalima (ID: 120)
+│   │   Ataki Proszek ducha Heity, Proszek ducha Tero, Proszek ducha Ahmada trafiają dwukrotnie i zadają o 25% więcej obrażeń.
+│   └ [T3] Fioletowa kurtka (ID: 121)
+│       kumulacja Trucizna zwiększa się o 3.
+└ [T2] M-9199 (ID: 122)
+    Zwykły atak przebija wrogów i zwiększa obrażenia o 15%. Atak specjalny zmienia się w „Atak specjalny: Kompresja amunicji”.
+    └ [T3] XRA-9 (ID: 123)
+        Przy użyciu ostatniego pocisku w normalnym ataku bieżący czas odnowienia wszystkich Grymuar i Aktywny artefakt jest zmniejszony o 25%.
+
+================================================================================
+
+=== [T1] Ostrze (ID: 400) ===
+[No effect text]
+├ [T2] Długie ostrze „Onohara” (ID: 401)
+│   Na Atak specjalny: Ciężkie cięcie wpływa Szybkość ataku. Szybkość ataku zwiększa się o 15%.
+│   ├ [T3] Słynny miecz „Muramasa” (ID: 402)
+│   │   Zawsze pozostajesz w stanie Pochowanie, a Atak specjalny: Ciężkie cięcie zmienia się w Atak specjalny: Szybkie cięcie. Skuteczność Szybkość ataku zwiększa się o 80%.
+│   └ [T3] Miecz Znaków Bestii „Hou” (ID: 403)
+│       Bazowe Szybkość ataku Atak specjalny: Ciężkie cięcie zmniejsza się o 24%, ale może ono trafiać odległych wrogów. Obrażenia zwiększają się o 1% za każde 2 Unik.
+├ [T2] Helbanus (ID: 406)
+│   Podczas wykonywania Atak bronią zadaj celowi dodatkowe obrażenia równe 30% Obrażenia od ognia.
+│   ├ [T3] Płonący Helbanus (ID: 407)
+│   │   Oparzenie kumulacje zwiększa się o 2, a Obrażenia od ognia zwiększa się o 4.
+│   ├ [T3] Heidi (ID: 408)
+│   │   Podczas zużywania Liczba doskoków zyskujesz kumulacje 'Przegrzanie'. (Domyślnie 1, 3 przy użyciu Pochowanie, maksymalnie 9 razy) Kumulacje są zużywane przy użyciu Zwykły atak.
+│   └ [T3] Solis Ekli (ID: 422)
+│       Pochowanie zmienia się w Zaćmienie.
+├ [T2] Rozpruwające Ostrze: Rozdarcie Niebios (ID: 409)
+│   Zyskujesz Uderzenie mieczem dzięki Zwykły atak. Atak specjalny: Ciężkie cięcie zmienia się w Atak podstawowy: Cięcie iaido.
+│   ├ [T3] Rozpruwające Ostrze: Dryfująca Wierzba (ID: 410)
+│   │   Szansa na trafienie krytyczne zwiększa się o 30%, a Atak podstawowy: Potężne cięcie iaido staje się atakiem obejmującym cały obszar.
+│   └ [T3] Rozpruwające Ostrze: Taniec Ruiny (ID: 411)
+│       Nie możesz używać Atak podstawowy: Potężne cięcie iaido, ale gdy wskaźnik Uderzenie mieczem wynosi 100%, zyskujesz wzmocnienie Nawałnica.
+├ [T2] Oczekujące Lazurowe Ostrze (ID: 412)
+│   Nieustannie zyskujesz 'Cięcie ostrza' w stanie Pochowanie. Przy rzucaniu magii zużywasz 10 Cięć ostrza, aby zwiększyć Obrażenia Grymuar o 20%.
+│   ├ [T3] Krótki Sztylet Yui (ID: 413)
+│   │   Szansa na trafienie krytyczne Grymuar zwiększa się o 30%.
+│   └ [T3] Przysięga Adamah (ID: 414)
+│       Przy użyciu magii przyzywa 'Magiczne ostrze', które leci w kierunku wroga i zadaje obrażenia. (Obrażenia: 20 + 70% brakującej wartości PM)
+├ [T2] Biblioteczne Towarzystwo Pieczętowania Widm, Model I (ID: 416)
+│   Obrażenia ataku podczas doskoku zwiększa się o 40%, a gdy zużywasz Liczba doskoków, duch dwukrotnie wykonuje Atak z doskoku na pobliskich wrogach. (Czas odnowienia: 2.5 s)
+│   └ [T3] Biblioteczne Towarzystwo Pieczętowania Widm, Model II (ID: 417)
+│       Czas odnowienia Atak z doskoku ducha zostaje zmieniony na 1 sekundę i skraca się o 10% za każdy punkt Liczba doskoków.
+│       Czas niewrażliwości Pochowanie zwiększa się o 50%, a jeśli atak zostanie zablokowany, duch wykonuje Atak z doskoku tyle razy, ile wynosi Liczba doskoków.
+├ [T2] Ostrze Przeciągu Kowala Zimy (ID: 419)
+│   Pochowanie zostaje zastąpione przez Szarża. Dodaje dodatkowe obrażenia równe 15% Obrażenia od zimna do Atak bronią. Obrażenia od zimna zwiększa się o 3.
+│   ├ [T3] Cisza Wiecznego Mrozu (ID: 420)
+│   │   Szarża zmienia się w Atak specjalny: Lodowy ślizg. Blokowanie ataków wroga podczas niewrażliwości natychmiast aktywuje artefakt Echo lodowca. Po aktywacji zadaje pobliskim wrogom 120% obrażeń Obrażenia od zimna.
+│   └ [T3] Fragment Nastrondu (ID: 421)
+│       Po akcji Szarża, podczas ataku aktywuje Lodowa Relikwia: Skaði.
+├ [T2] Miecz Gromu „Bronte” (ID: 404)
+│   Obrażenia zadawane przez Atak bronią zostają zmniejszone o 20%, ale są zmieniane na Obrażenia od błyskawic.
+│   └ [T3] Błysk Pioruna (ID: 405)
+│       Zyskujesz 1 kumulację 'Ładunku elektrycznego' przy zadawaniu obrażeń Porażenie prądem. (Maks. 10)
+│       Zużyj 2 kumulacje 'Ładunku elektrycznego', aby wykonać Atak specjalny: Issen przy użyciu Atak specjalny: Ciężkie cięcie.
+└ [T2] Giętacz Pancerzy (ID: 423)
+    Obrażenia zadawane przez Zwykły atak zwiększają się o 1% za każde 2 Obrona.
+    └ [T3] Ostrze Kruszące Płyty (ID: 424)
+        Gdy nie jesteś w stanie Pochowanie, zyskujesz 1 kumulację Utwardzenie co 0.8 sekundy.
+
+================================================================================
+
+=== [T1] Kij bojowy (ID: 500) ===
+[No effect text]
+├ [T2] Laska Rozkwitu (ID: 501)
+│   Zwykły atak zmienia się w Zwykły atak: Kwiatowy kostur
+│   ├ [T3] Laska Wielkiej Mocy (ID: 502)
+│   │   Obrażenia normalnego ataku zwiększa się o 30%, a podczas atakowania zyskujesz Tarcza równą 5% Obrona. (Odświeża się co 20 s.)
+│   └ [T3] Duchowa Laska Iloniki (ID: 503)
+│       Nie można bezpośrednio rzucać żadnej Grymuar. Zwykły atak: Kwiatowy kostur zmienia się w Grymuar: Salwa pocisków.
+├ [T2] Laska Boskiego Żelaza (ID: 505)
+│   Zyskaj wzmocnienie Wydłużony kostur przy Atak bronią.
+│   ├ [T3] Ciężar Morza (ID: 506)
+│   │   Po udanym Blok zyskujesz wzmocnienie Ciężki kostur.
+│   └ [T3] Laska Bez Pierścieni (ID: 507)
+│       Jeśli Szansa na trafienie krytyczne jest niższa niż 30%, zwiększa zadawane obrażenia o 20%.
+├ [T2] Dalekie Światło Gwiazd (ID: 509)
+│   Zwiększa obrażenia Atak specjalny: Riposta o 20%. Jeśli Maks. PM wynosi co najmniej 100, podczas używania Atak specjalny: Riposta zyskujesz Blok we wszystkich kierunkach.
+│   └ [T3] Łuska Astralnego Morza (ID: 510)
+│       Po udanym Blok użyj 'Eksplozja kryształu' za pomocą Zwykły atak.
+├ [T2] Włócznia Georoidu (ID: 513)
+│   Możesz używać Zwykły atak: Pchnięcie włócznią i Atak z doskoku: Atak włócznią.
+│   ├ [T3] Włócznia Ruadhslea (ID: 514)
+│   │   Szybkość ataku zwiększa się o 10%. Obrażenia zwiększają się o 5% za każdy punkt atrybutu Liczba doskoków podczas ataku bronią.
+│   └ [T3] Włócznia Fuarsca (ID: 515)
+│       Podczas używania Atak z doskoku: Atak włócznią zyskujesz Blok, a obrażenia zwiększają się o 30% za każdy wcześniej użyty Doskok. (Maksymalna liczba zastosowań: 6)
+├ [T2] Laska Żaru (ID: 517)
+│   Obrażenia zadawane przez Atak bronią zostają zmniejszone o 15%, ale są zmieniane na Obrażenia od ognia.
+│   ├ [T3] Laska Sądu Fiaoli (ID: 518)
+│   │   Po nałożeniu Oparzenie tworzy Krąg Ognia. Zasięg: 5 (jednostka: kafelki); przez 10 sek. atakuje pobliskich wrogów. (Obrażenia: Obrażenia od ognia 40% co 0.5 sek.; obrażenia rosną wraz z Obrażenia Oparzenie)
+│   └ [T3] Solis Braca (ID: 519)
+│       Przy odzyskiwaniu Słoneczne Ostrze odzyskujesz dodatkowo 1. Atak specjalny zmienia się w Atak specjalny: Wykucie Włóczni Słońca.
+├ [T2] Laska Szronu (ID: 521)
+│   Obrażenia zadawane przez Atak bronią zostają zmniejszone o 15%, ale są zmieniane na Obrażenia od zimna.
+│   ├ [T3] Laska Wyroczni (ID: 522)
+│   │   Po osiągnięciu wymaganej liczby trafień Atak bronią aktywujesz artefakt Voluspa w wybranym kierunku. (Wymagana liczba trafień: 3)
+│   └ [T3] Malaspina (ID: 523)
+│       Podczas Atak bronią istnieje 30% szansy na nałożenie Odmrożenie. Obrażenia od zimna zwiększa się o 5.
+├ [T2] Laska Burz (ID: 525)
+│   Obrażenia zadawane przez Atak bronią zostają zmniejszone o 15%, ale są zmieniane na Obrażenia od błyskawic.
+│   ├ [T3] Viduka (ID: 526)
+│   │   Obrażenia zadawane przez Elektroczakram zwiększają się o 20%, a promień jego obrotu rozszerza się do celownika.
+│   └ [T3] Nephorhax (ID: 528)
+│       Atak z doskoku zmienia się w Rzuć Butelka na chmury. Po trafieniu Atak z doskoku natychmiast aktywuje się Chmura burzowa na celu, zadając 70% obrażeń.
+└ [T2] Oszczep (ID: 529)
+    Zwykły atak zmienia się w Zwykły atak: Rzut włócznią, a Obrażenia Broń wzrasta o 10.
+    ├ [T3] Święty Dzban (ID: 530)
+    │   Zwykły atak uwzględnia statystyki Obrażenia towarzysza.
+    ├ [T3] Bezkształtny Taniec (ID: 531)
+    │   Zwykły atak przyciąga wrogów i ma szansę wystrzelić dwukrotnie. (Wzrasta o 1% za każdy 1 Unik)
+    └ [T3] Następca (ID: 532)
+        Obrażenia Grymuar zwiększa się o 30%.

@@ -1,0 +1,2920 @@
+﻿All item effect text — 426 / language: en-US (en-US)
+================================================================================
+
+── activeType: Default — 211 ──
+
+=== Restorative Potion (ID: 0) [Default] [Potion] [Rarity: Common] ===
+Restores 20% HP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Large Restorative Potion (ID: 1) [Default] [Potion] [Rarity: Advanced] ===
+Restores 50% HP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bunnyville Special Carrot (ID: 7) [Default] [Misc] [Rarity: Common] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Large Focus Potion (ID: 26) [Default] [Potion] [Rarity: Common] ===
+Recover MP 1 every 0.25 seconds for 25 seconds
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Apple Juice (ID: 27) [Default] [Potion] [Rarity: Common] ===
+Restores 1 HP every second for 30 seconds
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Nebbiolo’s Stubbornness (ID: 28) [Default] [Potion] [Rarity: Rare] ===
+Physical Damage +4
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ugni Blanc’s Mist (ID: 29) [Default] [Potion] [Rarity: Rare] ===
+Cold Damage +4
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tempranillo’s Passion (ID: 30) [Default] [Potion] [Rarity: Rare] ===
+Fire Damage +4
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Malbec’s Depth (ID: 31) [Default] [Potion] [Rarity: Rare] ===
+Lightning Damage +4
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Grenache’s Whimsy (ID: 32) [Default] [Potion] [Rarity: Rare] ===
+Grants a random effect.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Large Dice Potion (ID: 33) [Default] [Potion] [Rarity: Rare] ===
+Acquire 3 dice
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Small Dice Potion (ID: 34) [Default] [Potion] [Rarity: Advanced] ===
+Acquire 2 dice
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Oath of the Vampire Lord (ID: 36) [Default] [Potion] [Rarity: Legendary] ===
+Life Steal +1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Potion of Regeneration (Sample) (ID: 37) [Default] [Potion] [Rarity: Common] ===
+Restores 1% HP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Potion of Awakening (ID: 38) [Default] [Potion] [Rarity: Rare] ===
+Enchant an artifact once
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mushroom Soup (ID: 39) [Default] [Potion] [Rarity: Rare] ===
+Increase highest elemental damage by 6
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sanctity of Trappist (ID: 40) [Default] [Potion] [Rarity: Advanced] ===
+Physical Damage +2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Smoke of Märzen (ID: 41) [Default] [Potion] [Rarity: Advanced] ===
+Fire Damage +2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Crystal of Aventinus (ID: 42) [Default] [Potion] [Rarity: Advanced] ===
+Cold Damage +2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Morning of Gose (ID: 43) [Default] [Potion] [Rarity: Advanced] ===
+Lightning Damage +2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Moment of Lambic (ID: 44) [Default] [Potion] [Rarity: Advanced] ===
+Grants a random effect.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Madeira's Tenacity (ID: 45) [Default] [Potion] [Rarity: Rare] ===
+Final HP +5%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sagrantino’s Endurance (ID: 47) [Default] [Potion] [Rarity: Rare] ===
+Defense +5
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Poulsard’s Margin (ID: 48) [Default] [Potion] [Rarity: Rare] ===
+Evasion +5
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Madiran’s Poise (ID: 49) [Default] [Potion] [Rarity: Advanced] ===
+Defense +3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Grisette’s Lightness (ID: 50) [Default] [Potion] [Rarity: Advanced] ===
+Evasion +3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gueuze’s Ensemble (ID: 51) [Default] [Potion] [Rarity: Advanced] ===
+Highest Elemental Damage +2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Charm of Strength (ID: 1000) [Default] [Charm] [Rarity: Common] ===
+[Category] Sturdy(STURDY)
++2/3/4/6 Physical Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Charm of Skill (ID: 1001) [Default] [Charm] [Rarity: Common] ===
+[Category] Shadow(SHADOW)
++3/6 Evasion
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Charm of Intelligence (ID: 1002) [Default] [Charm] [Rarity: Common] ===
+[Category] Glacier(GLACIER)
++3/4/6/8 Cold Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Broken Root (ID: 1004) [Default] [Charm] [Rarity: Rare] ===
+[Category] Lake(LAKE)
+Max MP +5/60
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Heart-Shaped Carrot (ID: 1005) [Default] [Charm] [Rarity: Rare] ===
+[Category] Lake(LAKE)
+Max HP +5/10/15/20/30
+Max MP +5/10/15/20/30
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Wind Sheet Music (ID: 1008) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Wind Song(WINDSONG)
++10/20/30/40/50% increase in Melee Attack range
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sword Training Manual (ID: 1009) [Default] [Charm] [Rarity: Rare] ===
+[Category] Wind Song(WINDSONG)
+Attack Speed +7/14/26%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Shield Training Manual (ID: 1010) [Default] [Charm] [Rarity: Common] ===
+[Category] Sturdy(STURDY)
++5/8% Special Attack Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Windgrass Scarf (ID: 1011) [Default] [Charm] [Rarity: Common] ===
+[Category] Wind Song(WINDSONG)
+Dash Attack Damage +30/80%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Keel Fragment (ID: 1012) [Default] [Charm] [Rarity: Common] ===
+[Category] Mystic(MYSTIC)
+Max HP +5/20
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Electro Chakram (ID: 1013) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Magitech(MAGITECH)
+Launch +1/2/2/3/3//4/4 chakrams that periodically attack nearby enemies
+[Damage: +50/50/80/80/110 (Lightning Damage+50/50/80/80/110%)]
+On Chakram hit, inflict Electrocution with a +10/10/10/10/30% chance.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Scabbard of Exorcism (ID: 1014) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Frost Relic(FROST)
+Charges every 6 seconds, unleashes a Ice slash on normal attack
+[Damage: 24 (24 + Cold Damage+100/150/200/260/320//380/460%)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blue Planet (ID: 1015) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Planet(PLANET)
+Summons a blue planet that shoots Physical projectiles
+[Damage: +10/14/18/22/26/30]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Red Mist (ID: 1016) [Default] [Charm] [Rarity: Common] ===
+[Category] Precision(PRECISION)
+On critical hit, deal damage to nearby enemies equal to +10/14/21/30% of the highest attribute value
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Warm Stone (ID: 1018) [Default] [Charm] [Rarity: Rare] ===
+[Category] Precision(PRECISION)
+Critical Damage +10/20/30/40/50%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dried Flower (ID: 1023) [Default] [Charm] [Rarity: Common] ===
+[Category] Lake(LAKE)
++2/4/6% Critical Chance
++2/4/6 Max MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Golden Crown of Arrogance (ID: 1025) [Default] [Charm] [Rarity: Rare] ===
+[Category] Precision(PRECISION)
+The last hit of the combo gains Critical Chance +15/30/50/75/100%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Simple Contract (ID: 1026) [Default] [Charm] [Rarity: Common] ===
+[Category] Companion(COMPANION)
+Companion Max HP +25/55/88/120/150%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cold Lock (ID: 1027) [Default] [Charm] [Rarity: Advanced] ===
++8/12/16/20/25% Universal Damage Boost
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Golden Handbell (ID: 1029) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Companion(COMPANION)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Endoditte’s Paperweight (ID: 1031) [Default] [Charm] [Rarity: Common] ===
+[Category] Lake(LAKE)
++3/6/9 MP Regeneration
++3/6/9 Max MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Red Snake Eyes (ID: 1032) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Ember(EMBER)
+Drops +1/1/2/2/3/4 meteors near the player that deal +130/150/150/170/170/170% fire damage
+Inflicts Burn on enemies struck by the meteors
+Cooldown: 5 seconds
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Shieldmate (ID: 1034) [Default] [Charm] [Rarity: Legendary] ===
+[Category] Sturdy(STURDY)
++2/4/6/9/12//15/20% Weapon Damage
+-20/20/20/10/5//5/0% Attack Speed
+Special Attack MP Cost +15/30/45/60/70//80/100
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cloud Bottle (ID: 1035) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Storm Cloud(DARKCLOUD)
++5/10/15/20/25/30% Consumption Speed of Storm Cloud
+A successful Dash attack grants +1/2/3/5/7/10 Storm Cloud (Cooldown: +3.5 seconds)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Warrior Seal (ID: 1036) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Sturdy(STURDY)
++1/2/3/4/6//8/10/13 Physical Damage
++5/5/5/10/10//10/15/15% Attack Speed
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== White Branch (ID: 1040) [Default] [Charm] [Rarity: Rare] ===
+[Category] Lake(LAKE)
+MP Regeneration +5/9/15/22/30
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Magic Carrot (ID: 1048) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Elemental(ELEMENTAL)
++2/3/4/6/8 Highest Elemental Damage
++2/4/6/8/10% Move Speed
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Radiating Charm (ID: 1050) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Sturdy(STURDY)
+Upon a successful block, +2/4/6/8/10/15 physical damage for 25.5 seconds
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Riposte Blade Fragment (ID: 1051) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Sturdy(STURDY)
+Counter: Perform a short melee attack forward when blocking (+0.5/0/0.7/1.6/2.8/4.5% of physical damage)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bronze Mirror Fragment (ID: 1056) [Default] [Charm] [Rarity: Rare] ===
+[Category] Sturdy(STURDY)
++20/30/40/50% Reduce MP Cost of Special Attack
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Library Minute Hand Miniature (ID: 1058) [Default] [Charm] [Rarity: Rare] ===
+[Category] Precision(PRECISION)
++0.1/0.2/0.3/0.4/0.5s Invincibility Duration During Special Attack: Fury
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Seren’s Rushed Letter (ID: 1060) [Default] [Charm] [Rarity: Rare] ===
+[Category] Guardian(GUARDIAN)
+Each time you use 40 MP in combat, gain a Shield with +5/10/15 hit points (lasts for 15 seconds)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tiny Magic Conch (ID: 1063) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Frost Relic(FROST)
++3/6/10% Frost Relic damage
++5/8/12% Critical Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Model Mast (ID: 1065) [Default] [Charm] [Rarity: Common] ===
+[Category] Storm Cloud(DARKCLOUD)
++20/40/60% Consumption Speed of Storm Cloud
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stone Flower (ID: 1066) [Default] [Charm] [Rarity: Common] ===
+[Category] Storm Cloud(DARKCLOUD)
++3/6 Lightning Damage
++3/6% Critical Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Chalcedony Key (ID: 1067) [Default] [Charm] [Rarity: Advanced] ===
+Gain a combo of either Sturdy, Ember, Glacier, or Magitech depending on the row you are in
+Deals +2/4/6/8 elemental damage based on the granted combo.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sapote Fruit (ID: 1068) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Storm Cloud(DARKCLOUD)
++4/8/12/16/20 Storm Cloud Capacity
++1/2/3/4/5 MP Regeneration
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sharp Acorn (ID: 1070) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Storm Cloud(DARKCLOUD)
++3/6/9/12% Storm Cloud Recovery Rate during Combat
++3/3/6/6 Evasion
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mini Ballista (ID: 1071) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Companion(COMPANION), Storm Cloud(DARKCLOUD)
+Summon a companion to fight with you
+Gain Storm Cloud with a +20/34/48/61/75% chance when a lightning arrow hits an enemy.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Leaf Bird Leather (ID: 1072) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Storm Cloud(DARKCLOUD)
++2/2/3/4% Extra Storm Cloud damage
+When Normal Attack or Dash attack hit, there's a +100/175/275/400% chance to immediately consume 1 Storm Cloud (Cooldown: +1.2/0.9/0.8/0.6 seconds)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Zappy Custard Pastry (ID: 1074) [Default] [Charm] [Rarity: Common] ===
+[Category] Storm Cloud(DARKCLOUD)
+33% chance that enemies drop lightning bread upon death. Lightning bread grants Storm Cloud +1/2/3/4/5
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Standards of Magic (ID: 1076) [Default] [Charm] [Rarity: Rare] ===
+[Category] Elemental(ELEMENTAL)
++2/4/6/8/10 Highest Elemental Damage
++3/6/9/12/15% Grimoire Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Broken Sapphire (ID: 1077) [Default] [Charm] [Rarity: Rare] ===
+[Category] Shadow(SHADOW)
++2/4/6 Evasion
++2/4/6 Defense
+Gain a shroud that guarantees to Evasion every attack every +16/14/12 seconds
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Artificial Fairy, Iphiel (ID: 1078) [Default] [Charm] [Rarity: Rare] ===
+[Category] Lake(LAKE)
+While blocking, grants +5/10/15/20/30/50 MP Regeneration but reduces Move Speed by 90%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sharp Flint (ID: 1079) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Elemental(ELEMENTAL)
++2/4/6/8% Critical Chance
++1/2/3/4 Highest Elemental Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Crown of Humility (ID: 1080) [Default] [Charm] [Rarity: Legendary] ===
+[Category] Sturdy(STURDY)
+The last hit of the combo deals +10/22/40/60/84% increased damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Model Beak (ID: 1081) [Default] [Charm] [Rarity: Rare] ===
+[Category] Shadow(SHADOW)
++1/2/3/5/8 Physical Damage
++2/3/4/5/6 Evasion
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Compression Bandage (ID: 1082) [Default] [Charm] [Rarity: Common] ===
+[Category] Wind Song(WINDSONG)
++10/15/30/50/80% Dash Recovery Speed
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Charm of Aspiration (ID: 1083) [Default] [Charm] [Rarity: Common] ===
+[Category] Precision(PRECISION)
+Weapon Attack Critical Chance increases by +3/6/10/14/20%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Silver Plate (ID: 1086) [Default] [Charm] [Rarity: Common] ===
+[Category] Sturdy(STURDY)
++3/6/10% Normal Attack Damage
++3/6/10% Special Attack Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kriton’s Seal (ID: 1087) [Default] [Charm] [Rarity: Common] ===
+[Category] Negotiation(SAVVY)
+Increases Leaf gain by +10/50%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Green Sawblade (ID: 1088) [Default] [Charm] [Rarity: Common] ===
+[Category] Precision(PRECISION)
+Each time you use MP 15 in combat, receive a 3% Critical Chance buff (stacks up to 3 times and lasts 20 seconds)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Slim Cushion (ID: 1090) [Default] [Charm] [Rarity: Rare] ===
+[Category] Companion(COMPANION)
++5/10/15/20/30//40/50% Companion Revive Time Haste
+Companions attack +20/25/30/35/40//50/60% more frequently
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Amber (ID: 1094) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Mystic(MYSTIC)
+Deals +10/20/40/80% additional damage to enemies with full health
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dragoncense (ID: 1100) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Ember(EMBER)
++2/4/6/8/10 Fire Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ohia Lehua (ID: 1101) [Default] [Charm] [Rarity: Common] ===
+[Category] Ember(EMBER)
+When dealing damage with Weapon Attack or Grimoire, inflict +10/20/30 Fire Damage on target (Cooldown 2 sec)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Oak Tree Coal (ID: 1102) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Ember(EMBER)
++10/20/30/40/50//60/70/80/90% Attack Speed of Burn
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fretted Clay Tablet (ID: 1104) [Default] [Charm] [Rarity: Legendary] ===
+[Category] Storm Cloud(DARKCLOUD)
+Storm Cloud is not consumed with a 10/20/30/40/50% chance
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yellow Planet (ID: 1105) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Planet(PLANET)
+Summons a yellow planet that shoots bouncing Physical projectiles
+[Damage: +20/26/32/38/45//52/60]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Red Planet (ID: 1106) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Planet(PLANET)
+Summons Red Planet that fires Fire missiles
+[Damage: +26/31/36/42/48//54/60]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sky Blue Planet (ID: 1107) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Planet(PLANET)
+Summons a sky blue planet that shoots Lightning laser beams
+[Damage: +30/40/45/50/55/60]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Giant Telescope (ID: 1108) [Default] [Charm] [Rarity: Rare] ===
+[Category] Planet(PLANET)
++5/10/15% Planet Attack Speed
+Enlarge planets located within 8 slots (Enlarged planets have larger projectiles and deal 50% increased damage)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tainted Bandage (ID: 1109) [Default] [Charm] [Rarity: Common] ===
+[Category] Precision(PRECISION)
++1/3/6/9% Critical Chance
++1/2/3/3 Physical Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Discarded Golden Ring (ID: 1111) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Sturdy(STURDY)
+Special Attack Range +10/20/30%
+Defeat 40 enemies with Special Attack to transform into Absolute Ring
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Absolute Ring (ID: 1112) [Default] [Charm] [Rarity: Legendary] ===
+[Category] Sturdy(STURDY)
+Special Attack Range +30/45/60%
+Special Attack Damage +10/20/45%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lightning Rod (ID: 1113) [Default] [Charm] [Rarity: Legendary] ===
+[Category] Storm Cloud(DARKCLOUD)
++5/10/15/20/25//30/35/40 Storm Cloud Capacity
++3/6/9/12/15//18/21/24% Storm Cloud Recovery Rate during Combat
++1/2/3/4/5//6/7/8 Lightning Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Balisong (ID: 1114) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Precision(PRECISION)
+Damage dealt to enemies within 2.5 tiles: +6/8/11/14%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== White Eggshell (ID: 1118) [Default] [Charm] [Rarity: Rare] ===
+[Category] Mystic(MYSTIC)
+If the target’s HP is below +4/8/12/16/20%, they die immediately (does not affect bosses)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== White Crust Bread (ID: 1119) [Default] [Charm] [Rarity: Legendary] ===
+[Category] Guardian(GUARDIAN)
+Upon taking damage, gain invincibility for +0.4/0.8/1.2 seconds
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blood Stone Ring (ID: 1120) [Default] [Charm] [Rarity: Rare] ===
+[Category] Mystic(MYSTIC)
+Upon attaining +15/13/10 kills, recover 5 HP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Neutralizer Noir (ID: 1121) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Curse(CURSE)
++4/8/12/16% Damage dealt with Debuff
+-10/10/6/6% Critical Chance
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pouch of Black Tea (ID: 1122) [Default] [Charm] [Rarity: Rare] ===
+Each time you defeat a Mini Boss, increase Universal Damage Boost by +4/8/12% (up to 3 stacks)
+Current stacks: 0
+Damage taken from Mini Boss +30%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Helena’s Model Stairway (ID: 1125) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Wind Song(WINDSONG)
+When entering another place, gain a buff that increases Move Speed by +10/14/18/22/26/30% and Attack Speed by +10/14/16/20/25/30% for 90 seconds
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Golden Maple Leaf (ID: 1126) [Default] [Charm] [Rarity: Common] ===
+[Category] Negotiation(SAVVY)
++10/15/20/25/30% Experience Drop
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ball of Red Yarn (ID: 1128) [Default] [Charm] [Rarity: Rare] ===
+[Category] Ember(EMBER)
++20/40/60/80/100% Burn Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cloud Seed Arrowhead (ID: 1129) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Storm Cloud(DARKCLOUD)
+5/10/15/23/35/50% chance for enhanced Storm Cloud lightning bolts
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Alfonso’s Horn (ID: 1130) [Default] [Charm] [Rarity: Rare] ===
+[Category] Companion(COMPANION)
++1/2/3/4/5//6/8/10 Evasion
++10/20/30/40/50//60/70/80% Companion Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Green Ink Bottle (ID: 1132) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Curse(CURSE)
+When you inflict a debuff, there is a +20/30/40/50% chance to also inflict it on a nearby enemy (Cooldown: 0.4 sec)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Voluspa (ID: 1137) [Default] [Charm] [Rarity: Rare] ===
+[Category] Frost Relic(FROST)
+Charges every 6 seconds during combat. Activates the following effect if there are enemies nearby after charging.
+Ice spear flies in and attacks enemies +1/1/1/1/1//2/2/2/3 times
+[Damage: 20 (20+Cold Damage+100/140/180/220/260//155/170/130/150%)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lightning-Struck Branch (ID: 1141) [Default] [Charm] [Rarity: Common] ===
+[Category] Magitech(MAGITECH)
+When dealing damage with Weapon Attack or Grimoire, inflict +10/20/30 Lightning Damage on target (Cooldown 2 sec)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Golden Cloak (ID: 1149) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Wind Song(WINDSONG)
++1/1/2 Dash Count
++3/6/9% Attack Speed
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Flame Herb Root (ID: 1153) [Default] [Charm] [Rarity: Rare] ===
+[Category] Ember(EMBER)
++6/12/20 Max MP
+On Special Attack: Fury hit, deal +200/400/600% Fire damage to nearby enemies
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Captivating Lure (ID: 1162) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Lake(LAKE), Elemental(ELEMENTAL)
++3/5/8 MP Regeneration
++1/1/2 Fire Damage
++1/1/2 Cold Damage
++1/1/2 Lightning Damage
++1/1/2 Physical Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Magic Glasses (ID: 1163) [Default] [Charm] [Rarity: Rare] ===
+[Category] Shadow(SHADOW)
++3/6/9/12 Evasion
++7/14/22/30 Max MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Straw Doll (ID: 1164) [Default] [Charm] [Rarity: Common] ===
+[Category] Lake(LAKE)
++3/6/9 MP Regeneration
++2/3/5% Critical Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frostium Ring (ID: 1175) [Default] [Charm] [Rarity: Common] ===
+[Category] Glacier(GLACIER)
+When dealing damage with Weapon Attack or Grimoire, inflict +10/20/30 Cold Damage on target (Cooldown 2 sec)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Snowflake Necklace (ID: 1176) [Default] [Charm] [Rarity: Common] ===
+[Category] Glacier(GLACIER)
++1/3/5 Cold Damage
++1/3/5% Move Speed
+Further reduces Move Speed by +5/10/15% for targets afflicted by Frostbite
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fluffy Fur Gloves (ID: 1177) [Default] [Charm] [Rarity: Rare] ===
+[Category] Glacier(GLACIER)
+Targets afflicted by Frostbite take an additional +5/10/15/20/25% damage from Cold Damage (also applies to Companion damage)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Echo of the Glacier (ID: 1178) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Glacier(GLACIER)
++3/6/10 Defense
+Inflict Frostbite on nearby enemies every +5/4/3/2.5 seconds
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Feet of the Ice Gull (ID: 1180) [Default] [Charm] [Rarity: Rare] ===
+[Category] Glacier(GLACIER)
+Gain the Frozen Touch buff whenever inflicting Frostbite on a target
+Frozen Touch: Increases Cold Damage by 1 for 7 seconds (up to +5/10/15/20 stacks)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Scrap of Red Cloth (ID: 1183) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Curse(CURSE)
+When dealing damage to an enemy, deal an additional +4/5/7/10% damage for each debuff applied to the target
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Flaming Eye Patch (ID: 1185) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Ember(EMBER)
++2/4/6% Attack Speed
+Fire element damage Critical Damage +11/22/33% (applies to Companion damage)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== White Cape (ID: 1186) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Mystic(MYSTIC)
++30/60/100/130/160/200% Duration of Buffs Applied by Self
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Clear Cube (ID: 1189) [Default] [Charm] [Rarity: Rare] ===
+[Category] Wind Song(WINDSONG)
++1/1/2/2/3 True Damage
++5/6/7/9/12% Move Speed
++5/6/7/9/12% Attack Speed
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pan Lid (ID: 1190) [Default] [Charm] [Rarity: Rare] ===
+[Category] Guardian(GUARDIAN)
++2/4/6/8/11/15 MP Regeneration
++1/2/3/4/5/6 Evasion
+Gain the Endure buff with each physical critical hit on an enemy (Increases defense by 3 for 6 seconds, up to 3 stacks)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Valter’s Work Monocle (ID: 1191) [Default] [Charm] [Rarity: Legendary] ===
+[Category] Precision(PRECISION)
++10/19/28/35/45% Critical Chance
+If an enemy is within 3 tiles, critical damage -30%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Spiny Shell (ID: 1192) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Guardian(GUARDIAN)
++150/300/450% Thorns
++1/2/3 Defense
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Solis Fracto (ID: 1193) [Default] [Charm] [Rarity: Common] ===
+[Category] Solar Blade(FLAMESWORD)
++2/3/5 Fire Damage
++2/4/6 Max HP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Silver Bracelet (ID: 1194) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Wind Song(WINDSONG)
++4/8/12/16% Attack Speed
+-4/6/8/10% Move Speed
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kaleidoscope (ID: 1195) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Precision(PRECISION)
++15/25/35/45/55% Extra damage to target’s Super Armor
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Hiring Crest “Collin” (ID: 1197) [Default] [Charm] [Rarity: Rare] ===
+[Category] Companion(COMPANION)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blizzard Hammer (ID: 1208) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Frost Relic(FROST)
+Recharges every 7 seconds during combat. Activates the following effect after dashing when charged.
+Throw a hammer at nearby enemies to deal Cold Damage damage
+[Damage: 14 (14+Cold Damage+50/100/150/200/250//300/350/400/450/500%)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frozen Heart (ID: 1209) [Default] [Charm] [Rarity: Rare] ===
+[Category] Frost Relic(FROST)
++10/18/26/40/55//70/85/100% Frost Relic Charge Speed
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ice Star (ID: 1210) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Frost Relic(FROST)
+Additional activation of Frost Relic 0/0/0/0/0/1 times
+0/0/0/0/0/-10% Frost Relic damage
+0/0/1/1/2/2 Luck
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Magma Bead (ID: 1213) [Default] [Charm] [Rarity: Legendary] ===
+[Category] Ember(EMBER)
+Grants Burn 0/1/1/2 additional times
++1/1/1/2 Burn stacks
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Phoenix Wing (ID: 1214) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Ember(EMBER)
++2/3/5 Fire Damage
+Summon feathers in combat that fly at +1/2/3 nearby enemies and inflict Burn (Cooldown: 3.5 seconds)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cloth Armor (ID: 1215) [Default] [Charm] [Rarity: Common] ===
+[Category] Guardian(GUARDIAN)
++3/6/9/12 Defense
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Begonia Sachet (ID: 1218) [Default] [Charm] [Rarity: Common] ===
+[Category] Sturdy(STURDY)
++5/10% Normal Attack Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Crossbow Quiver (ID: 1223) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Sturdy(STURDY)
++20/40/65/100 Crossbow Reload Speed
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Reloading Wooden Crate (ID: 1224) [Default] [Charm] [Rarity: Rare] ===
+[Category] Sturdy(STURDY)
+0/1/1/1/2 Magazine Count
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Brass Mirror Fragment (ID: 1225) [Default] [Charm] [Rarity: Rare] ===
+[Category] Sturdy(STURDY)
++20/30/40/50% Reduce MP Cost of Special Attack
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ancient Anvil (ID: 1229) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Solar Blade(FLAMESWORD)
+Solar Blade falls to the ground 10/20/30/40% faster
++2/4/6/8 Fire Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Crimson Sunset (ID: 1230) [Default] [Charm] [Rarity: Rare] ===
+[Category] Solar Blade(FLAMESWORD)
+Solar Blade has a 20/40/60/80/100% chance to grow in size and increase damage by 33% when thrown
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Eternal Furnace (ID: 1231) [Default] [Charm] [Rarity: Common] ===
+[Category] Solar Blade(FLAMESWORD)
++1/2.5/5% Critical Chance
+Create 1 Solar Blade every +10/8/5 seconds (only when Solar Blade effect is active)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Solis Parvo (ID: 1232) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Solar Blade(FLAMESWORD)
++1/1/2/2/3 Solar Blade Maximum Count
++1/2/4/6/8% Move Speed
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Solis Decussa (ID: 1233) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Solar Blade(FLAMESWORD)
++5/10/15/20% Solar Blade Damage
++4/8/12/16% Critical Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Thrust Manual (ID: 1235) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Sturdy(STURDY)
+Every 2 seconds, Dash attack is enhanced to increase damage by +30/60/90/120% and convert to an attack based on the highest attribute
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Meteorite Earrings (ID: 1236) [Default] [Charm] [Rarity: Legendary] ===
+[Category] Solar Blade(FLAMESWORD)
++5/10/15% Solar Blade Damage
++2/4/7 Fire Damage
+Solar Blade Falls near you when thrown
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Meteorite Pauldrons (ID: 1237) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Solar Blade(FLAMESWORD)
+Retrieve all Solar Blade that have fallen to the ground, dealing Solar Blade damage to enemies in the path
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Thunder's Earring (ID: 1239) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Magitech(MAGITECH)
++1/2/3/4/5/6 Lightning Damage
+Every 4 seconds, deal Lightning Damage 30% to +1/2/2/3/3/4 nearby enemies and inflict Electrocution.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Solis Dekri (ID: 1240) [Default] [Charm] [Rarity: Legendary] ===
+[Category] Solar Blade(FLAMESWORD)
+Ignore target's defense by +2/4/6/8/10//12/14% with Solar Blade
++5/10/15/22/30//40/50% Critical Chance of Solar Blade
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dark Planet (ID: 1241) [Default] [Charm] [Rarity: Legendary] ===
+[Category] Planet(PLANET)
+Summon a dark planet that fires Chaos bullets 
+[Damage: +50/60/70/80/90/100]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ashen Planet (ID: 1242) [Default] [Charm] [Rarity: Common] ===
+[Category] Planet(PLANET)
+Summons a gray planet that shoots Ice projectiles
+[Damage: +15/20/25/30/35/40]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frozen Bow (ID: 1247) [Default] [Charm] [Rarity: Legendary] ===
+[Category] Frost Relic(FROST)
+Automatically reloads 1 shot every 0.8 seconds (up to 7)
+Fire an arrow at the enemy dealing Cold Damage
+[Damage: 12 (12+Cold Damage+50/60/70/80/100//120/130/140/150/160%)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cloak of Verdant Spirit (ID: 1252) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Shadow(SHADOW)
+0/1/1 Dash Count
++4/6/8 Evasion
++1/2/4% Critical Chance
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Crystal of Harmony (ID: 1270) [Default] [Charm] [Rarity: Legendary] ===
+[Category] Mystic(MYSTIC)
+Increase Universal Damage Boost by +1/2% per Artifact Level within 8 slots
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lucky Medal (ID: 1271) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Negotiation(SAVVY)
++2/6/10 Barter
+Generate +100/150/200 Leaf when trading with a merchant (activates once per merchant)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Charm of Lightning (ID: 1272) [Default] [Charm] [Rarity: Common] ===
+[Category] Magitech(MAGITECH)
++3/4/6/8 Lightning Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bucket of Plump Berries (ID: 1273) [Default] [Charm] [Rarity: Rare] ===
+[Category] Lake(LAKE)
+Restore MP+50/100% immediately on use
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Multicolored Candy Glass Jar (ID: 1277) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Elemental(ELEMENTAL)
+Fire +1/2/3/4 elemental bombs dealing +100/150/200/250% of the highest elemental damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Amulet of Courage (ID: 1283) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Sturdy(STURDY)
++3/6/10% Weapon Damage
++1/1/1 Life Steal
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Counterattack Bracelet (ID: 1287) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Sturdy(STURDY)
+On Perfect guard, increase Universal Damage Boost by +4/8/12/16% for 7s
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Riposte Staff Fragment (ID: 1288) [Default] [Charm] [Rarity: Advanced] ===
+[Category] Sturdy(STURDY)
+Counter: Perform a short melee attack forward when blocking (0/1/2.1/3.4/4.8/6.2% of physical damage)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Hope (ID: 2001) [Default] [StoneTablet] [Rarity: Common] ===
+[Tablet effect]
+  RIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Surge (ID: 2002) [Default] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  RIGHT IGNORECRITERIA
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Miracle (ID: 2003) [Default] [StoneTablet] [Rarity: Legendary] ===
+[Tablet effect]
+  HORIZONTAL 1
+  VERTICAL 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Transference (ID: 2004) [Default] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  HORIZONTAL +1
+  VERTICAL -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Exploitation (ID: 2005) [Default] [StoneTablet] [Rarity: Common] ===
+[Tablet effect]
+  RIGHT 1
+  LEFT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cohesion (ID: 2006) [Default] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  HORIZONTAL -1
+  UP +3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Good Will (ID: 2007) [Default] [StoneTablet] [Rarity: Common] ===
+[Placement condition]
+  BOTTOM PLACED
+[Tablet effect]
+  RIGHT 1
+  LEFT 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Justice (ID: 2008) [Default] [StoneTablet] [Rarity: Advanced] ===
+[Placement condition]
+  LEFTEND PLACED
+  RIGHTEND PLACED
+[Tablet effect]
+  VERTICAL +1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Unity (ID: 2009) [Default] [StoneTablet] [Rarity: Common] ===
+[Tablet effect]
+  UP -1
+  RIGHT +1
+  LEFT -1
+  DOWN +1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Destiny (ID: 2010) [Default] [StoneTablet] [Rarity: Common] ===
+[Tablet effect]
+  DOWN +1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Chivalry (ID: 2011) [Default] [StoneTablet] [Rarity: Common] ===
+[Tablet effect]
+  KNIGHTUPLEFT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Wit (ID: 2012) [Default] [StoneTablet] [Rarity: Common] ===
+[Tablet effect]
+  DIAUPLEFT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gaze (ID: 2013) [Default] [StoneTablet] [Rarity: Common] ===
+[Tablet effect]
+  DIAUPLEFT 1
+  DIADOWNRIGHT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pulsation (ID: 2014) [Default] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  UPUP 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Nurture (ID: 2015) [Default] [StoneTablet] [Rarity: Common] ===
+[Tablet effect]
+  DIAUPLEFT 1
+  DIAUPRIGHT 1
+  UP 1
+  DOWN -1
+  DOWNDOWN -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Shade (ID: 2016) [Default] [StoneTablet] [Rarity: Rare] ===
+[Placement condition]
+  TOP PLACED
+[Tablet effect]
+  BOTTOM 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Binary Star (ID: 2017) [Default] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  UPUP 2
+  DOWNDOWN 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Link (ID: 2018) [Default] [StoneTablet] [Rarity: Rare] ===
+[Tablet effect]
+  UP 2
+  DOWN IGNORECRITERIA
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Competition (ID: 2019) [Default] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  DIAUPLEFT -1
+  UP -1
+  DOWN +3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Desire (ID: 2020) [Default] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  UP 2
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Advent (ID: 2021) [Default] [StoneTablet] [Rarity: Common] ===
+[Tablet effect]
+  UP 1
+  UPUP 1
+  DOWN -1
+  DOWNDOWN -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vigilance (ID: 2022) [Default] [StoneTablet] [Rarity: Legendary] ===
+[Tablet effect]
+  TOP 1
+  BOTTOM 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Wave (ID: 2023) [Default] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  DIAUPRIGHT 3
+  UP -1
+  RIGHT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Trick (ID: 2024) [Default] [StoneTablet] [Rarity: Common] ===
+[Tablet effect]
+  UP 1
+  DIAUPLEFT 1
+  DIAUPRIGHT 1
+  LEFT -1
+  RIGHT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dedication (ID: 2025) [Default] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  DIAUPLEFT 1
+  DIAUPRIGHT 1
+  DIADOWNLEFT 1
+  DIADOWNRIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cheers (ID: 2026) [Default] [StoneTablet] [Rarity: Common] ===
+[Tablet effect]
+  UP 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Harvest (ID: 2027) [Default] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  UP 2
+  DOWN 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Advance (ID: 2028) [Default] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  UP 1
+  UPUP 1
+  UPUPUP 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Foundation (ID: 2029) [Default] [StoneTablet] [Rarity: Rare] ===
+[Tablet effect]
+  HORIZONTAL 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Distribution (ID: 2030) [Default] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  UP 1
+  DOWN 1
+  LEFT 1
+  RIGHT 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Three-Headed (ID: 2038) [Default] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  UP 1
+  LEFT 1
+  RIGHT 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Past (ID: 2039) [Default] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  UP 1
+  RIGHT 1
+  DIAUPLEFT 1
+  DIAUPRIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Future (ID: 2040) [Default] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  UP 1
+  LEFT 1
+  DIAUPLEFT 1
+  DIAUPRIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stack (ID: 2041) [Default] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  UP 1
+  DIAUPLEFT 1
+  KNIGHTUPLEFT 1
+  UPUP 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Brilliance (ID: 2042) [Default] [StoneTablet] [Rarity: Legendary] ===
+[Tablet effect]
+  HORIZONTAL 1
+  UP 2
+  DOWN 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Handshake (ID: 2043) [Default] [StoneTablet] [Rarity: Common] ===
+[Tablet effect]
+  UP 1
+  DOWN 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Approximation (ID: 2044) [Default] [StoneTablet] [Rarity: Common] ===
+[Tablet effect]
+  UP 1
+  RIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Power (ID: 2045) [Default] [StoneTablet] [Rarity: Rare] ===
+[Tablet effect]
+  UP 3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Compression (ID: 2046) [Default] [StoneTablet] [Rarity: Legendary] ===
+[Tablet effect]
+  UP 3
+  UPUP 2
+  UPUPUP 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dry (ID: 2047) [Default] [StoneTablet] [Rarity: Common] ===
+[Tablet effect]
+  DOWN 1
+  UP 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Simultaneity (ID: 2048) [Default] [StoneTablet] [Rarity: Rare] ===
+[Tablet effect]
+  VERTICAL 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Disconnection (ID: 2049) [Default] [StoneTablet] [Rarity: Rare] ===
+[Tablet effect]
+  UP 3
+  DOWN 3
+  LEFT -1
+  RIGHT -1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blessing (ID: 3031) [Default] [Charm] [Rarity: Common] ===
+Acquire Skill Blessing
+Gain a buff that increases all damage dealt by 5%
+CD: 20s
+MP: 16/13/10
+Duration: 12
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Unidentified Common Artifact (ID: 10000) [Default] [Identifiable] [Rarity: Common] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Unidentified Advanced Artifact (ID: 10001) [Default] [Identifiable] [Rarity: Advanced] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Unidentified Rare Artifact (ID: 10002) [Default] [Identifiable] [Rarity: Rare] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Unidentified Bolt Grimoire (ID: 10004) [Default] [Identifiable] [Rarity: Common] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Unidentified Bolt Grimoire Support Artifact (ID: 10005) [Default] [Identifiable] [Rarity: Common] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Unidentified Sword and Shield Artifact (ID: 10006) [Default] [Identifiable] [Rarity: Common] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Unidentified Summoning Grimoire (ID: 10007) [Default] [Identifiable] [Rarity: Common] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Unidentified Friend Artifact (ID: 10008) [Default] [Identifiable] [Rarity: Common] ===
+[No effect text]
+
+================================================================================
+
+── activeType: Locked — 144 ──
+
+=== Shield Earrings (ID: 1017) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Guardian(GUARDIAN)
++5/10/15/20 Max HP
+-5/4/3/2 Evasion
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dull Bell (ID: 1021) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Curse(CURSE)
+On Weapon Attack, has a 1/4% chance to inflict Stun
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Thorn Charm (ID: 1028) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Sturdy(STURDY)
++2/4/6/10% Critical Chance
++1/1/2/3 Physical Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Multipurpose Belt (ID: 1030) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Mystic(MYSTIC)
+The following effects stack for each artifact in a top-row slot of your inventory
+Fire Damage +1/1/1/2
+Lightning Damage +1/1/1/2
+Cold Damage +1/1/1/2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sword Earrings (ID: 1033) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Precision(PRECISION)
++10/16/24/33% Critical Damage
+-16/13/10/7 Max MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yakumo Short Blade (ID: 1049) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Sturdy(STURDY)
++10/20/30/40/50% Dash Attack Damage
++4/8/12/16/20% Dash Recovery Speed
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Shield Bag (ID: 1053) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Guardian(GUARDIAN), Academy(ACADEMY)
+Gain the following effect for every 10 Defense
+Fire Damage +1/1/2/3
+Cold Damage +1/1/2/3
+Lightning Damage +1/1/2/3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bicorn Pipe (ID: 1062) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Academy(ACADEMY)
+Fires Bolt Magic in three directions. (Each spell’s damage is reduced by +0.7/0.6/0.6/0.5/0.5//0.4/0.3%) MP cost increased by 0/25/50/75/100//125/150%.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mage's Coin (ID: 1064) [Locked] [Charm] [Rarity: Common] ===
+[Category] Academy(ACADEMY)
++15/20/30/50/65 Grimoire Haste
+Increase the chance of Grimoire appearing in rewards by 25%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ray’s Star Fragment (ID: 1069) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Academy(ACADEMY)
+Reduces MP cost of the Grimoire in the left slot by +30/35/42/55%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mouse Mage’s Pendant (ID: 1073) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Academy(ACADEMY)
+Bolt Magic homes in on enemies
++2/5 MP Regeneration
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Empty Hilt (ID: 1075) [Locked] [Charm] [Rarity: Legendary] ===
+[Category] Academy(ACADEMY)
++5/10/15/20/25/30% Grimoire Damage
++7/9/11/13/15/20% Final MP
++2/2/2/4/4/6 MP Regeneration
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blue Ring (ID: 1085) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Mystic(MYSTIC)
+If current HP is 70% or more, Universal Damage Boost +6/8/10/15/18/20%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pearl Dust (ID: 1089) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Academy(ACADEMY)
++8/10/12% Grimoire Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ebony Scale (ID: 1091) [Locked] [Charm] [Rarity: Legendary] ===
+[Category] Precision(PRECISION)
+Increases Critical Chance by +100/150/200/250/350% for every tablet in your inventory
+Current number of tablets: 0
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pinwheel (ID: 1092) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Wind Song(WINDSONG), Shadow(SHADOW)
++3/6/9% Attack Speed
++2/4/6 Evasion
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Thorn Bush (ID: 1093) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Wind Song(WINDSONG)
+Attacks the enemy touched during the dash for 30/100% physical damage
+(Deals double damage if Dash Count is consumed)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Broken Mirror (ID: 1095) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Guardian(GUARDIAN)
++4/8 Defense
+Gain Shield durability +5/12 when moving locations
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Orb of Yearning (ID: 1115) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Academy(ACADEMY)
+Reserve 15 MP, increasing Grimoire damage dealt by +10/12/15/18%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tuning Fork (ID: 1117) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Academy(ACADEMY), Sturdy(STURDY)
+Gain a 'Sonic Wave' stack each time Grimoire is cast every 0.8 seconds (up to 5 stacks)
+Consume all stacks with Weapon Attack to deal Chaos damage at the attack point (considered as Grimoire damage)
+Damage: Average damage of all elemental types +200/250/300/350/450/550% (Grimoire Haste 1 increases Tuning Fork damage by 1%)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Star Ruby (ID: 1123) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Lake(LAKE)
++10/20/33/45/60% Final HP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Star Aquamarine (ID: 1124) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Lake(LAKE)
++10/20/33/45/60% Final MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Water Bag (ID: 1138) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Lake(LAKE)
+Increases Max MP by 1 every time you use MP (up to +10/15/20/25, cooldown: 5 seconds)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ice Vine (ID: 1139) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Glacier(GLACIER)
+When using Special Attack, creates 1 line of ice thorns forward (Damage: 10 + +50/90/140% Cold Damage)
+When thorns hit an enemy, inflict Frostbite
+Cooldown: 0.8 seconds
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Banner of Encouragement (ID: 1140) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Wind Song(WINDSONG)
+Summon a flag at the designated location. Allies within the flag's range have their Attack Speed increased by +10/20/30%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Wings (ID: 1143) [Locked] [Charm] [Rarity: Legendary] ===
+[Category] Wind Song(WINDSONG)
++3/6/9/12/15/18% Attack Speed
+Additional Attack Speed +25/20/15/9/6/5% increases Universal Damage Boost by 1%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Scale of Conflict (ID: 1144) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Ember(EMBER), Glacier(GLACIER)
+Grants Fire to the left side of inventory, and Ice to the right
+Granted element damage: +2/15
+Opposing element damage: +0/5
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blue Claw (ID: 1145) [Locked] [Charm] [Rarity: Legendary] ===
+[Category] Glacier(GLACIER)
++2/4/6/9 Cold Damage
++5/10/15/20 Max MP
+Frostbite has a 30/60% chance to be applied an additional time when granted.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cintamani Stone (ID: 1146) [Locked] [Charm] [Rarity: Legendary] ===
+[Category] Mystic(MYSTIC)
+When receiving fatal damage, this item is destroyed and the following effects are activated
+Recover 50% HP and become momentarily invincible
+Inventory slot level: +3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rainbow Feather (ID: 1147) [Locked] [Charm] [Rarity: Legendary] ===
+[Category] Wind Song(WINDSONG)
+Get additional 0/0/1 when acquiring Trance
++10/16/22% Special Attack Damage
++5/5/10% Dash Recovery Speed
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frozen Egg (ID: 1150) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Glacier(GLACIER)
+-9/6/3/0 MP Regeneration
+Increases the Critical Chance of ice attacks by +5/10/15/20% (also applies to Companion damage)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pointed Club (ID: 1151) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Precision(PRECISION)
++20/40/60% Critical Damage
+Attacks have a 10% chance to miss (Reduces damage by -20%)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kunai (ID: 1152) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Precision(PRECISION)
+Normal attacks have a +100/125/150% chance to fire a kunai
+[Damage: 10 (10+Critical Damage20/30%)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Six-leaf Clover (ID: 1155) [Locked] [Charm] [Rarity: Legendary] ===
+[Category] Shadow(SHADOW)
++3/6/9/12 Evasion
++3/6/9/12 Luck
++2/4/6/8% Critical Chance
++1/1/2/2 True Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Glass Hammer (ID: 1156) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Sturdy(STURDY)
++3/6/9/12% Weapon Damage
+-3/6/9/12% Final HP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bunnyville Guard Helmet (ID: 1157) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Sturdy(STURDY)
++4/8/12/16% Weapon Damage
+-4/4/8/8 Evasion
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Enhancement Potion Cap (ID: 1158) [Locked] [Charm] [Rarity: Common] ===
+[Category] Alchemy(ALCHEMY)
+If HP is at or below 30%, HP Potion Bonus increases by +30%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Firefly (ID: 1159) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Magitech(MAGITECH)
++4/8/12 Lightning Damage (Deactivated for 6 seconds upon hit)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Green Gi (ID: 1160) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Shadow(SHADOW)
++2/3/4/5 Evasion
++5/7/9/12% Move Speed
+Upon a successful Evasion, casts Tiger Strike forward
+[Damage: 30 (30 + Physical Damage +200/300/450/650%)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Crabapple Fruit (ID: 1161) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Academy(ACADEMY)
++6/10/14 Grimoire Haste
++5/8/12% Dash Recovery Speed
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rylie’s Pocket Watch (ID: 1165) [Locked] [Charm] [Rarity: Legendary] ===
+[Category] Academy(ACADEMY)
++40/60/80 Grimoire Haste
++8/14/20% Critical Damage
++5/5/10% Reduce MP Cost of Grimoire
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Jeweled Armor (ID: 1166) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Academy(ACADEMY)
++10/20/30% Grimoire Critical Chance
++4/6/8 MP Regeneration
+-3/5/7 Physical Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Thunderstorm Tracking Compass (ID: 1167) [Locked] [Charm] [Rarity: Legendary] ===
+[Category] Magitech(MAGITECH)
+When Electrocution is applied, apply Enhanced Electrocution with a 15/30/45/60% chance
++2/4/6/8 Lightning Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Glowing Hourglass (ID: 1168) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Academy(ACADEMY)
+Increases the Grimoire Haste of the Grimoire in the right slot by +60/100/140%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Battle Mage’s Gloves (ID: 1169) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Academy(ACADEMY)
++10/12/15/20% Grimoire Damage
++3/4/5/6% Move Speed
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kirin's Horn (ID: 1170) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Magitech(MAGITECH)
+-2/4/6 Cold Damage
+Lightning element attack Critical Chance +10/20/30% (also applies to Companion damage)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blood of Obrus (ID: 1171) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Lake(LAKE)
++3/6/9/12 MP Steal
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Scythe of Berut (ID: 1173) [Locked] [Charm] [Rarity: Legendary] ===
+[Category] Precision(PRECISION)
++2.5/5/7.5/10% Critical Chance
+When Critical Chance exceeds 100%, the excess is converted into Execution Chance.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Agma Projection Sword No. 190, 191 (ID: 1181) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Sturdy(STURDY)
++2/3/4/6/8//10/12/14 Physical Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Oink Shaman’s Necklace (ID: 1182) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Curse(CURSE)
++20/40/60/80/100% Duration of all debuffs inflicted on enemies
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ruby Brooch (ID: 1187) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Storm Cloud(DARKCLOUD), Ember(EMBER)
++3/5/7/10 Lightning Damage
++3/5/7/10 Fire Damage
+Inflicts Burn on enemies struck by Storm Cloud
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vital Touch (ID: 1196) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Sturdy(STURDY)
+-55/48/40/33% Final HP
+Recovers HP by +1/1/1/1 on Weapon Attack (Cooldown 1 seconds)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Heita’s Spirit Powder (ID: 1198) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Companion(COMPANION), Glacier(GLACIER)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tero’s Spirit Powder (ID: 1199) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Companion(COMPANION), Ember(EMBER)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ahmad’s Spirit Powder (ID: 1200) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Companion(COMPANION), Magitech(MAGITECH)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mining Supervisor Armband (ID: 1202) [Locked] [Charm] [Rarity: Legendary] ===
+[Category] Companion(COMPANION)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Flame Bug (ID: 1211) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Ember(EMBER)
+0/1/1/2/3/4 Burn stacks
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ice Bug (ID: 1212) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Glacier(GLACIER)
+10/15/20/25/30//40/50% Freeze Debuff Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Academy Brigandine (ID: 1216) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Guardian(GUARDIAN), Academy(ACADEMY)
++2/3/4/6/8/10 Defense
++14/18/20/24/29/35 Grimoire Haste
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Meditation Book (ID: 1228) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Academy(ACADEMY)
+Instantly cast all Grimoire without action
++6/8/11/14% Grimoire Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Hand Mirror (ID: 1234) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Guardian(GUARDIAN)
++3/6/9 Defense
+Gain Shield 5/10 for 5s when using Dash (Cooldown: 5s)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Zap Bug (ID: 1238) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Magitech(MAGITECH)
+0/1/1/2/2/3 Electrocution stacks
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Icebound Tejas (ID: 1243) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Ember(EMBER), Glacier(GLACIER)
+Burn changes to Blue Burn
++3/6/9/12/15% Burn Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Thunderfrost Butterfly (ID: 1244) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Storm Cloud(DARKCLOUD), Glacier(GLACIER)
+Storm Cloud changes to Snowstorm Cloud
++2/4/6/8 Cold Damage
++6/12/18/24% Consumption Speed of Storm Cloud
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sheet Music 'The Typhoon' (ID: 1245) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Storm Cloud(DARKCLOUD), Wind Song(WINDSONG)
++4/8/12% Attack Speed
+Consumption Speed of Storm Cloud increases by +25/50/100% of Attack Speed
+Inflicts +5/10/15 Lightning Damage on Weapon Attack
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rock Elephant (ID: 1246) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Guardian(GUARDIAN), Wind Song(WINDSONG)
+Fire 3 rock spears that deal damage equal to +70/95/125/160/200% of Defense
+Additional Rock Spear count per extra Attack Speed 15%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Droplet of Plitvice (ID: 1248) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Frost Relic(FROST), Lake(LAKE)
+When Frost Relic is activated, consume 4 MP to summon rotating ice swords (up to 5).
+[Damage: Basic attack damage x 50% of Additional MP (Current: 1.2)]
+Basic attack damage: 6% of Cold Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tactical Manual (ID: 1249) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Companion(COMPANION), Precision(PRECISION)
+Player Critical Chance and Critical Damage contribute +30/60/90/120% to Companion
++2/4/6/8% Critical Chance
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Shimmering Eye (ID: 1250) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Shadow(SHADOW), Precision(PRECISION)
+Gain a 'Mirage' stack on critical hits. At 100% Mirage, automatically evade the next attack and deal Evasion +300/600/900/1200/1500% Chaos damage to surrounding enemies.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sheet Music 'Galaxy' (ID: 1251) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Planet(PLANET), Wind Song(WINDSONG)
++4/8/12% Attack Speed
+Each Weapon Attack speeds up the attack cycle of planets
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== White Paper (ID: 1258) [Locked] [Charm] [Rarity: Advanced] ===
++3/6% Universal Damage Boost
+Increase combo count by 1 if artifacts in both adjacent slots have the same combo
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Eternal Eclipse (ID: 1259) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Solar Blade(FLAMESWORD), Frost Relic(FROST)
++6/13/21/30% Frost Relic damage
++6/13/21/30% Solar Blade Damage
+Solar Blade activates even with Frost Relic attack
+If the item is on the left side of the inventory, the Frost Relic artifact is converted to be based on Fire Damage, and if on the right side, the Solar Blade artifact is converted to be based on Cold Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mystical Pendulum (ID: 1262) [Locked] [Charm] [Rarity: Legendary] ===
+[Category] Sturdy(STURDY)
++22/26/32/40/50% Normal Attack Damage
+-10/10/10/10/10% Attack Speed
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Flux Coupler Mk.2 (ID: 1263) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Storm Cloud(DARKCLOUD), Companion(COMPANION)
++3/6/9/12% Companion Damage
+Activates Storm Cloud +1/1/1/1 times when a companion deals Lightning damage (Cooldown per companion: 0.1 sec)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Devotion Insignia (ID: 1264) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Companion(COMPANION)
++6/12/18/24 Companion Defense
+Companion placed in the same Row of the Inventory deal Chaos damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Impact Amplifier (ID: 1267) [Locked] [Charm] [Rarity: Legendary] ===
+[Category] Mystic(MYSTIC)
++1/1/1/2/2//3/4/4/5/6//7/8/9/12/14 True Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Eternal Winter (ID: 1268) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Glacier(GLACIER), Sturdy(STURDY)
+When Normal Attack hits, deal additional damage with a +80/120/180% chance. 
+[Damage: Physical Damage +40/75/125% + Cold Damage +80/150/250% (considered as Normal Attack damage)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Faultfinder Needle (ID: 1274) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Precision(PRECISION)
++3/6/9/12/15//18/21% Critical Chance
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Wanderer's Necklace (ID: 1275) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Wind Song(WINDSONG)
++6/12/18% Attack Speed
++2/4/6 Highest Elemental Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Beast's Heart (ID: 1276) [Locked] [Charm] [Rarity: Legendary] ===
+[Category] Guardian(GUARDIAN)
++4/8/12/16/20 Defense
++2/4/6/8/10% Universal Damage Boost
++2/2/4/4/6 Luck
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stone Spindle Whorl (ID: 1278) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Lake(LAKE)
++6/12/18/24/30% Damage of abilities consuming MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Battle Bracelet of Lerid (ID: 1279) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Shadow(SHADOW)
+0/1/1/2 Dash Count
++1/1/2/3 True Damage
++2/4/6/8% Move Speed
+Dash invincibility is treated as a Evasion success effect
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Elastic Band (ID: 1285) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Shadow(SHADOW)
++2/4/6/8% Critical Damage
++1/2/3/4 Evasion
+Recover Dash Count by +1/1/2 when Evasion activates
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Golden Needle of the North (ID: 1289) [Locked] [Charm] [Rarity: Rare] ===
+Damage of the Artifact in the above slot +6/8/10%
+If Rarity is Advanced or below, bonus damage +15/20/25%
+Applies only to Artifact that deal direct damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Academy Fountain Pen (ID: 1291) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Shadow(SHADOW), Academy(ACADEMY)
+Accelerate all Grimoire cooldowns by 5/10/15/20/25% upon successful Evasion
+Gain Grimoire Damage 1% per 4 Evasion
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Jolow's Watering Can (ID: 1292) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Lake(LAKE), Academy(ACADEMY)
++3/6/9/12/15% Grimoire Damage
+If Max MP is at least +500/400/320/250/200, cast Grimoire 1 additional times
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Snow Mountain Long-eared Bat (ID: 1293) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Glacier(GLACIER), Wind Song(WINDSONG)
++2/5/6/8/10% Attack Speed
+Fire an ice projectile at enemies afflicted with Frostbite every 0.5 sec
+[Damage: 0 (Cold Damage's 45% × Attack Speed's 120%)]
+This damage is not affected by Frost Touch
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Plasma Helmet (ID: 1294) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Ember(EMBER), Magitech(MAGITECH)
+Burn and Electrocution change to Plasma
+-15/10/5/0/5% Plasma Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Red Planet Observation Log (ID: 1295) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Planet(PLANET), Ember(EMBER)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Water Spirit (ID: 1296) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Lake(LAKE), Precision(PRECISION)
+Cast 'Water Grab' at the targeted location using Max MP 30%
+[Damage: Max MP × +160/240/320/400/500]
+Amplify this attack's Critical Damage +10/15/20/25/30%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Angry Potato (ID: 1300) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Alchemy(ALCHEMY)
++4/7/11/15% Ignore Defense
++1/2/3/4 Luck
++5/5/10/10% Move Speed
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Traveler's Blessing (ID: 1301) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Alchemy(ALCHEMY)
++4/8/12% Weapon Damage
++4/8/12% Grimoire Damage
+0/1/2 True Damage
++3/6/9% Move Speed
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Alchemist's Flask (ID: 1302) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Alchemy(ALCHEMY)
+Drink a potion to gain a buff that increases Universal Damage Boost by +5/10/15 for 15 sec
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Guillotine of Bitter Cold (ID: 1303) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Frost Relic(FROST), Magitech(MAGITECH)
+Every 6s, summons Ice+Lightning blades on up to 4 nearby enemies. Dealing Electrocution damage reduces the cooldown by 1s
+Damage : +150/200/250% of (the higher of Lightning Damage and Cold Damage + 30% of the lower)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sun of the Archives (ID: 1311) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Solar Blade(FLAMESWORD), Academy(ACADEMY)
+Each 1% of Grimoire Damage increases Solar Blade damage by 1%
+When dealing Grimoire damage, additionally activates Solar Blade 0/0/1/1/2 times
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Preparation (ID: 2031) [Locked] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  DIADOWNRIGHT 2
+  DIAUPLEFT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Entrance (ID: 2032) [Locked] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  DIAUPRIGHT 1
+  DIAUPLEFT 1
+  UP 2
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Daydream (ID: 2033) [Locked] [StoneTablet] [Rarity: Legendary] ===
+[Tablet effect]
+  DIAUPRIGHT 2
+  DIAUPLEFT 2
+  DIADOWNRIGHT 2
+  DIADOWNLEFT 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Oaths (ID: 2034) [Locked] [StoneTablet] [Rarity: Rare] ===
+[Tablet effect]
+  LEFT 1
+  RIGHT 1
+  DOWN 1
+  UP 1
+  UPUP 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Thorns (ID: 2035) [Locked] [StoneTablet] [Rarity: Legendary] ===
+[Tablet effect]
+  LEFT 1
+  RIGHT 1
+  DOWN 2
+  UP 2
+  DIAUPRIGHT 1
+  DIAUPLEFT 1
+  DIADOWNRIGHT 1
+  DIADOWNLEFT 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Junction (ID: 2036) [Locked] [StoneTablet] [Rarity: Rare] ===
+[Tablet effect]
+  UP 1
+  UPUP 1
+  UPUPUP 1
+  RIGHT 1
+  RIGHTRIGHT 1
+  RIGHTRIGHTRIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rebellion (ID: 2037) [Locked] [StoneTablet] [Rarity: Rare] ===
+[Tablet effect]
+  RIGHT_RISING 1
+  LEFT_FALLING 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Conviction (ID: 2051) [Locked] [StoneTablet] [Rarity: Legendary] ===
+[Tablet effect]
+  UP 5
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rally (ID: 2052) [Locked] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  UP 2
+  LEFT 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Progress (ID: 2053) [Locked] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  DIAUPLEFT 2
+  UP 1
+  LEFT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Peace (ID: 2054) [Locked] [StoneTablet] [Rarity: Legendary] ===
+[Tablet effect]
+  LEFT 3
+  RIGHT 3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Courage (ID: 2055) [Locked] [StoneTablet] [Rarity: Legendary] ===
+[Tablet effect]
+  LEFT_RISING 1
+  RIGHT_FALLING 1
+  DIAUPRIGHT 2
+  DIADOWNLEFT 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Hospitality (ID: 2056) [Locked] [StoneTablet] [Rarity: Legendary] ===
+[Tablet effect]
+  LEFT 1
+  UP 2
+  UP IGNORECRITERIA
+  LEFT IGNORECRITERIA
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Honor (ID: 2057) [Locked] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  KNIGHTUPLEFT 1
+  UP 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Last Stand (ID: 2058) [Locked] [StoneTablet] [Rarity: Rare] ===
+[Tablet effect]
+  UP 5
+  DOWN -1
+  LEFT -1
+  RIGHT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Flag (ID: 2059) [Locked] [StoneTablet] [Rarity: Rare] ===
+[Placement condition]
+  LEFTEND PLACED
+[Tablet effect]
+  UP 1
+  DOWN -1
+  RIGHT 1
+  RIGHTRIGHT 2
+  RIGHTRIGHTRIGHT 3
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Defensive Move (ID: 2060) [Locked] [StoneTablet] [Rarity: Rare] ===
+[Tablet effect]
+  DIAUPLEFT 1
+  DIAUPRIGHT 2
+  DIADOWNLEFT 2
+  DIADOWNRIGHT 1
+  LEFT -1
+  RIGHT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fire Bolt (ID: 3002) [Locked] [Charm] [Rarity: Common] ===
+[Category] Ember(EMBER)
+Acquire Skill Fire Bolt
+Hurls a small flame projectile
+CD: 1s
+MP: 2
+Damage: 25/28 + Fire Damage 50/80%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lightning Bolt (ID: 3011) [Locked] [Charm] [Rarity: Common] ===
+[Category] Magitech(MAGITECH)
+Acquire Skill Lightning Bolt
+Additionally fires projectiles at nearby enemies
+CD: 1s
+MP: 2
+Damage: 20/22 + Lightning Damage 40/60%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fire Arrow (ID: 3012) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Ember(EMBER)
+Acquire Skill Fire Arrow
+Fires an arrow that pierces enemies
+CD: 9s
+MP: 15/17/19
+Damage: 18/20/22 + Fire Damage 120/240/360%
+Burn stacks: 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fire Circus (ID: 3013) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Ember(EMBER)
+Acquire Skill Fire Circus
+Summon 8 fire orbs that fly to the target location.
+CD: 10s
+MP: 16/18/19/20
+Damage: 18 + Fire Damage 55/75/100/130%
+Bonus: +10/16/22/30%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sharp Eye (ID: 3018) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Precision(PRECISION)
+Acquire Skill Sharp Eye
+Gain a buff that increases critical chance by 12%
+CD: 30s
+MP: 24/16/6
+Duration: 15
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Haste (ID: 3019) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Wind Song(WINDSONG)
+Acquire Skill Haste
+Gain a buff that increases ATKSPD and Move Speed by 15%
+CD: 38s
+MP: 36/24/12
+Duration: 24
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frost Dagger (ID: 3020) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Glacier(GLACIER)
+Acquire Skill Frost Dagger
+Summon 4 daggers that fly towards nearby enemies and explode
+CD: 10s
+MP: 10/11/12/13/14
+Damage: 25 + Cold Damage 90/135/180/220/260%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Meteor Shower (ID: 3022) [Locked] [Charm] [Rarity: Legendary] ===
+[Category] Ember(EMBER)
+Acquire Skill Meteor Shower
+Randomly drops meteors within the casting area
+CD: 26s
+MP: 35/38/41/44
+Damage: 22 + Fire Damage 50/100/180/200%
+Number of Meteors: 20/25/30/35
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rain of Arrows (ID: 3023) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Glacier(GLACIER)
+Acquire Skill Rain of Arrows
+Creates multiple ice arrows at the casting location (Applies Frostbite to enemies on hit with a certain chance)
+CD: 16s
+MP: 22/24/26/28
+Damage: 10/12/14/16 + Cold Damage 40/70/100/130%
+Frostbite Chance: 66%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ice Bolt (ID: 3027) [Locked] [Charm] [Rarity: Common] ===
+[Category] Glacier(GLACIER)
+Acquire Skill Ice Bolt
+Fires 2 crystallized water projectiles
+CD: 1s
+MP: 2
+Damage: 14/16 + Cold Damage 20/30%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Thunder Armor (ID: 3028) [Locked] [Charm] [Rarity: Rare] ===
+[Category] Magitech(MAGITECH)
+Acquire Skill Thunder Armor
+Creates a lightning armor that casts chain lightning to attack nearby enemies 3 times.
+CD: 25s
+MP: 36/33/30/30/30
+Duration: 10
+Damage: 2/2/2/3/3 + Lightning Damage 60/70/80/95/110%
+Attack Interval: 0.33
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Smoke Screen (ID: 3030) [Locked] [Charm] [Rarity: Common] ===
+[Category] Shadow(SHADOW)
+Acquire Skill Smoke Screen
+Summons a smokescreen that allows you to evade enemy attacks 3 times. The smokescreen disappears after 3 evasions.
+CD: 30s
+MP: 24
+Duration: 10
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Great Blessing (ID: 3032) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Mystic(MYSTIC)
+Acquire Skill Great Blessing
+Gain a buff that increases all damage dealt by 12%
+CD: 20s
+MP: 19/15/12
+Duration: 12
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Shield (ID: 3033) [Locked] [Charm] [Rarity: Common] ===
+[Category] Guardian(GUARDIAN)
+Acquire Skill Shield
+Grants a buff that gives 12 Barrier
+CD: 20s
+MP: 20/12
+Duration: 6
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lightning Boomerang (ID: 3034) [Locked] [Charm] [Rarity: Advanced] ===
+[Category] Magitech(MAGITECH)
+Acquire Skill Lightning Boomerang
+Launch a boomerang wrapped in electricity (recover part of cooldown by retrieving the returning boomerang)
+CD: 10s
+MP: 9/10/11/12/12
+Damage: 30 + Lightning Damage 180/240/310/380/450%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Judgment of Thunder (ID: 3036) [Locked] [Charm] [Rarity: Legendary] ===
+[Category] Magitech(MAGITECH)
+Acquire Skill Judgment of Thunder
+Emit a massive lightning beam to attack 10 times
+CD: 25s
+MP: 24/28/32/36/36
+Damage: 12 + Lightning Damage 100/120/140/160/180%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Picture Fragment (ID: 6000) [Locked] [Identifiable] [Rarity: Advanced] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Picture Fragment (ID: 6001) [Locked] [Identifiable] [Rarity: Advanced] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Picture Fragment (ID: 6002) [Locked] [Identifiable] [Rarity: Advanced] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Picture Fragment (ID: 6003) [Locked] [Identifiable] [Rarity: Advanced] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Picture Fragment (ID: 6004) [Locked] [Identifiable] [Rarity: Advanced] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Picture Fragment (ID: 6005) [Locked] [Identifiable] [Rarity: Advanced] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Picture Fragment (ID: 6006) [Locked] [Identifiable] [Rarity: Advanced] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Picture Fragment (ID: 6007) [Locked] [Identifiable] [Rarity: Advanced] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Picture Fragment (ID: 6008) [Locked] [Identifiable] [Rarity: Advanced] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Picture Fragment (ID: 6009) [Locked] [Identifiable] [Rarity: Advanced] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Picture Fragment (ID: 6010) [Locked] [Identifiable] [Rarity: Advanced] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Picture Fragment (ID: 6011) [Locked] [Identifiable] [Rarity: Advanced] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Picture Fragment (ID: 6012) [Locked] [Identifiable] [Rarity: Advanced] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Picture Fragment (ID: 6013) [Locked] [Identifiable] [Rarity: Advanced] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Picture Fragment (ID: 6014) [Locked] [Identifiable] [Rarity: Advanced] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Picture Fragment (ID: 6015) [Locked] [Identifiable] [Rarity: Advanced] ===
+[No effect text]
+
+================================================================================
+
+── activeType: PocketDimensionShop — 8 ──
+
+=== Lightning Stone (ID: 1055) [PocketDimensionShop] [Charm] [Rarity: Rare] ===
+[Category] Storm Cloud(DARKCLOUD)
++25/30/35/40/45//50/60% Extra Storm Cloud damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pallas’s Cards (ID: 1172) [PocketDimensionShop] [Charm] [Rarity: Advanced] ===
+[Category] Wind Song(WINDSONG)
+Normal attacks have a 50% chance to fire a card
+For every 1 Luck, the chance to fire a card increases by 0/2.5/5/7.5/10% (Current: -%)
+[Damage: 24]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ice Wings (ID: 1179) [PocketDimensionShop] [Charm] [Rarity: Legendary] ===
+[Category] Frost Relic(FROST)
+Additional activation of Frost Relic 0/0/0/1/1//1/2 times
+0/0/0/-10/10//10/20% Frost Relic damage
++2/4/6/8/10//12/20% Critical Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bloodstone Earrings (ID: 1188) [PocketDimensionShop] [Charm] [Rarity: Legendary] ===
++8/8/8/8 Life Steal
+-30/25/20/10 Defense
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lizard Plate Armor (ID: 1217) [PocketDimensionShop] [Charm] [Rarity: Rare] ===
+[Category] Guardian(GUARDIAN)
++14/16/18/21/24 Defense
+-2/4/6/8/10% Move Speed
+-2/4/6/8/10% Attack Speed
+-2/4/6/8/10 Grimoire Haste
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== White Planet (ID: 1220) [PocketDimensionShop] [Charm] [Rarity: Rare] ===
+[Category] Planet(PLANET)
+Summon White Planet that fires Ice Bullets
+[Damage: +30/36/42/48/54//60/66/72]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blue Wrist Guard (ID: 1221) [PocketDimensionShop] [Charm] [Rarity: Legendary] ===
+[Category] Sturdy(STURDY)
++7/14/21/28/35//42/50% Special Attack Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Exit (ID: 2050) [PocketDimensionShop] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  DIADOWNLEFT 1
+  DOWN 2
+  DIADOWNRIGHT 1
+[Cannot rotate]
+
+================================================================================
+
+── activeType: Hidden — 50 ──
+
+=== Large Blue Potion (ID: 20) [Hidden] [Potion] [Rarity: Common] ===
+???
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Small Blue Potion (ID: 21) [Hidden] [Potion] [Rarity: Common] ===
+???
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Focus Potion (ID: 25) [Hidden] [Potion] [Rarity: Common] ===
+Restores 20% MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dew of Dawn (ID: 35) [Hidden] [Potion] [Rarity: Legendary] ===
+Universal Damage Boost +4%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Solera's Serendipity (ID: 46) [Hidden] [Potion] [Rarity: Rare] ===
+Increases the combo count of one random combo by 1.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Combustible Oil (ID: 1038) [Hidden] [Charm] [Rarity: Advanced] ===
+[Category] Ember(EMBER)
++3/6/9/12 Fire Damage
+-2/2/4/4 Cold Damage
+When performing Special Attack: Whirlwind, creates Blazing Field within a radius of +2.5/2.5/2.5/2.5 tiles
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Azure Pearl (ID: 1059) [Hidden] [Charm] [Rarity: Advanced] ===
++1/2/3/4 MP Steal
+Inflicts Corrosion on enemies you have damaged that are 3 or more tiles away
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Magic Bucket (ID: 1098) [Hidden] [Charm] [Rarity: Common] ===
+Move Speed +0/0.1/0.1%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Magic Bucket Full of Water (ID: 1099) [Hidden] [Charm] [Rarity: Common] ===
+Move Speed -0.4%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Hoop-Rolling Stick (ID: 1135) [Hidden] [Charm] [Rarity: Advanced] ===
+[Category] Sturdy(STURDY)
+When a Normal Attack hits, Dash Attack Damage increases by {DAMAGE}% (resets upon Dash attack)
+This effect resets on Normal Attack hit
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Processed Wood (ID: 1142) [Hidden] [Charm] [Rarity: Common] ===
+Move Speed -0.4%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fairy Jar (ID: 1148) [Hidden] [Charm] [Rarity: Advanced] ===
+[Category] Mystic(MYSTIC)
+When breaking boxes or jars, there’s a +3/4/5% chance to create a Life Orb
+Life Orb: Restores 15 HP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Elru’s Naptime Pillow (ID: 1174) [Hidden] [Charm] [Rarity: Advanced] ===
+After combat ends, heal +1/2/3 HP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lantern (ID: 1227) [Hidden] [Charm] [Rarity: Common] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Item_PlanetComet_Name (ID: 1254) [Hidden] [Charm] [Rarity: Advanced] ===
+[Category] Planet(PLANET)
+Summons a blue planet that shoots Physical projectiles
+[Damage: {DAMAGE}]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Thunderous Steps (ID: 1260) [Hidden] [Charm] [Rarity: Advanced] ===
+[Category] Magitech(MAGITECH)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Droplet of Plitvice (ID: 1261) [Hidden] [Charm] [Rarity: Rare] ===
+[Category] Frost Relic(FROST), Lake(LAKE)
++1 When Frost Relic activates, consume 4 MP and increase damage by the amount of increased Max MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Protection of Nature (ID: 1265) [Hidden] [Charm] [Rarity: Legendary] ===
+Activate MP Shield for 10 seconds on use
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== ... (ID: 1266) [Hidden] [Charm] [Rarity: Rare] ===
+[Category] Academy(ACADEMY), Lake(LAKE)
+Increases damage by 2/4/6/8/10% for every 10 MP consumed by Grimoire
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== ... (ID: 1269) [Hidden] [Charm] [Rarity: Legendary] ===
+[Category] Sturdy(STURDY), Curse(CURSE)
+Weapon Damage {DAMAGE}% increase per stack of debuff applied to the enemy
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frozen Shield (ID: 1280) [Hidden] [Charm] [Rarity: Rare] ===
+[Category] Frost Relic(FROST), Wind Song(WINDSONG)
++3% Chance for Frost Relic to trigger again every Attack Speed10%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== item_ShieldDamageBonus_Name (ID: 1281) [Hidden] [Charm] [Rarity: Legendary] ===
+[Category] Guardian(GUARDIAN)
+Increase damage dealt to enemies by +5/10/18/30/48//70/100% of Shield value while Shield is active
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Log (ID: 1286) [Hidden] [Charm] [Rarity: Common] ===
+Move Speed -0.4%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blue Needle of the North (ID: 1290) [Hidden] [Charm] [Rarity: Rare] ===
+Damage of the Artifact in the above slot +6/8/10%
+If Rarity is Advanced or below, bonus damage +15/20/25%
+Applies only to Artifact that deal direct damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Heavy Heart (ID: 1304) [Hidden] [Charm] [Rarity: Common] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Oppression (ID: 2000) [Hidden] [StoneTablet] [Rarity: Advanced] ===
+[Tablet effect]
+  RIGHT X
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Hell (ID: 2098) [Hidden] [StoneTablet] [Rarity: Eternal] ===
+[Tablet effect]
+  CHECKERBOARD2 -9
+  CHECKERBOARD -9
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Heaven (ID: 2099) [Hidden] [StoneTablet] [Rarity: Eternal] ===
+[Tablet effect]
+  CHECKERBOARD2 9
+  CHECKERBOARD 9
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== ... (ID: 2101) [Hidden] [StoneTablet] [Rarity: Legendary] ===
+[Custom tablet (query generated at runtime)]
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Air Bolt (ID: 3000) [Hidden] [Charm] [Rarity: Common] ===
+Acquire Skill Air Bolt
+Compresses and rapidly fires the surrounding air
+CD: 1s
+MP: 2
+0 + Physical Damage 100/110%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Healing Stream (ID: 3005) [Hidden] [Charm] [Rarity: Advanced] ===
+Acquire Skill Healing Stream
+The consumed MP is permanently Reserve
+Restores HP. (The MP cost will be permanently reserved.)
+CD: 30s
+MP: 15
+Heal Amount: 20
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stone Wave (ID: 3015) [Hidden] [Charm] [Rarity: Common] ===
+Acquire Skill Stone Wave
+Summons stone piles in front and behind to attack enemies within range
+CD: 9s
+MP: 24/20
+Damage: 0 + Physical Damage 100/120%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rock Oink (ID: 3016) [Hidden] [Charm] [Rarity: Common] ===
+[Category] Companion(COMPANION)
+Acquire Skill Rock Oink
+Summons a rock Oink that fights with you (a portion of MP equal to the summoning cost will be locked)
+CD: 10s
+MP: 30
+Damage: 15 + Physical Damage 0%
+HP: 250
+Duration: 60
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Water Bolt (ID: 3017) [Hidden] [Charm] [Rarity: Common] ===
+Acquire Skill Water Bolt
+Hurls a small water projectile
+CD: 1s
+MP: 2
+Damage: 0 + Cold Damage 100/110%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fire Needle (ID: 3024) [Hidden] [Charm] [Rarity: Common] ===
+Acquire Skill Fire Needle
+Summons a needle that stitches Fire-element yarn
+CD: 0.5s
+MP: 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ice Needle (ID: 3025) [Hidden] [Charm] [Rarity: Common] ===
+Acquire Skill Ice Needle
+Summons a needle that stitches Ice-element yarn
+CD: 0.5s
+MP: 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lightning Needle (ID: 3026) [Hidden] [Charm] [Rarity: Common] ===
+Acquire Skill Lightning Needle
+Summons a needle that stitches Lightning-element yarn
+CD: 0.5s
+MP: 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fire Circus (ID: 3035) [Hidden] [Charm] [Rarity: Common] ===
+Acquire Skill Fire Circus
+Summon 8 fire orbs that fly to the target location.
+CD: 1s
+MP: 16/18/19/20
+Damage: 0 + Fire Damage 100/120/140/160%
+Bonus: +0%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Warning Letter (ID: 5000) [Hidden] [Charm] [Rarity: Rare] ===
++4/8% Move Speed
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Companion Token 'Isaac' (ID: 5001) [Hidden] [Charm] [Rarity: Rare] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Companion Token 'Khakha' (ID: 5002) [Hidden] [Charm] [Rarity: Rare] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Companion Token 'Maru' (ID: 5003) [Hidden] [Charm] [Rarity: Rare] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Companion Token 'Aiba' (ID: 5004) [Hidden] [Charm] [Rarity: Rare] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Companion Token 'Kenny' (ID: 5005) [Hidden] [Charm] [Rarity: Rare] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Companion Token 'Pillix' (ID: 5006) [Hidden] [Charm] [Rarity: Rare] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Companion Token 'Rolf' (ID: 5007) [Hidden] [Charm] [Rarity: Rare] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Companion Token 'Thunder' (ID: 5008) [Hidden] [Charm] [Rarity: Rare] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Unidentified Legendary Artifact (ID: 10003) [Hidden] [Identifiable] [Rarity: Legendary] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Curse (ID: 12000) [Hidden] [StoneTablet] [Rarity: Legendary] ===
+[Tablet effect]
+  CHECKERBOARD2 1
+  CHECKERBOARD -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+===  (ID: 12002) [Hidden] [StoneTablet] [Rarity: Rare] ===
+[Tablet effect]
+  O MUL/2
+
+================================================================================
+
+── activeType: WitchHat — 13 ──
+
+=== Toxic Spore Pouch (ID: 1154) [WitchHat] [Charm] [Rarity: Rare] ===
++4/6/8/10% Bonus damage dealt to Boss and Mini Boss
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lunch Box (ID: 1282) [WitchHat] [Charm] [Rarity: Advanced] ===
++1/1/1/1/2 Life Steal
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Garnet Badge (ID: 1297) [WitchHat] [Charm] [Rarity: Advanced] ===
++2/4/6/8/10% Weapon Damage
++2/3/4/5/6 Fire Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Topaz Badge (ID: 1298) [WitchHat] [Charm] [Rarity: Advanced] ===
++2/4/6/8/10% Weapon Damage
++2/3/4/5/6 Lightning Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Diamond Badge (ID: 1299) [WitchHat] [Charm] [Rarity: Advanced] ===
++2/4/6/8/10% Weapon Damage
++2/3/4/5/6 Cold Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Red Mushroom (ID: 1305) [WitchHat] [Charm] [Rarity: Advanced] ===
+For every 3% Damage dealt with Debuff, increase Attack Speed by 1%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Whirlwind Stone (ID: 1306) [WitchHat] [Charm] [Rarity: Advanced] ===
++2/4/6/8% Universal Damage Boost
++6/12/18/24% Move Speed
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tome of Transmutation - Fire (ID: 1307) [WitchHat] [Charm] [Rarity: Rare] ===
+Additional Physical Damage becomes 0, and that 20/40/60/80/100% is converted to Fire Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tome of Transmutation - Ice (ID: 1308) [WitchHat] [Charm] [Rarity: Rare] ===
+Additional Physical Damage becomes 0, and that 20/40/60/80/100% is converted to Cold Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tome of Transmutation - Lightning (ID: 1309) [WitchHat] [Charm] [Rarity: Rare] ===
+Additional Physical Damage becomes 0, and that 20/40/60/80/100% is converted to Lightning Damage
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cursed Letter (ID: 1310) [WitchHat] [Charm] [Rarity: Advanced] ===
++50/100/200% Thorns
+-6/5/4% Attack Speed
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Wedge (ID: 2061) [WitchHat] [StoneTablet] [Rarity: Rare] ===
+[Tablet effect]
+  DIAUPLEFT 3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Requital (ID: 2100) [WitchHat] [StoneTablet] [Rarity: Eternal] ===
+[Tablet effect]
+  HORIZONTAL 3

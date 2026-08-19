@@ -1,0 +1,75 @@
+﻿file,sprite,name_key,name_en,name_ko
+ActiveCharm,ActiveCharm,Status_ActiveCharm_Name,Active Artifact,발동형 아티팩트
+AddMagazine,AddMagazine,Status_CrossbowAdditionalMagazine_Name,Magazine Count,탄창 개수
+AllElementalDamage,AllElementalDamage,,,
+AmmoCount,AmmoCount,Status_CrossbowAmmo_Name,Magazine Capacity,탄창 용량
+AP,AP,Status_FinalAP_Name,Final AP,최종 주문력
+AttackSpeed,AttackSpeed,Status_AttackSpeed_Name,Attack Speed,공격 속도
+BasicAttackDamage,BasicAttackDamage,Status_LastBasicAttackDamage_Name,Last Combo Damage of Normal Attack,일반 공격의 마지막 연격 피해
+BlueBurn,BlueBurn,Debuff_BlueBurn,Blue Burn,푸른 화상
+ChaosDamage,ChaosDamage,Elemental_Chaos,Chaos,혼돈
+Chim,Chim,Status_ChimDamageBonus_Name,Extra  damage,피해량
+Companion,Companion,Companion,Companion,동료
+CooldownRecovey,CooldownRecovey,Status_MagicHaste_Name,Haste,가속
+CriticalChance,CriticalChance,Status_WeaponCriticalChance_Name,Critical Hit Chance of,의 치명타 확률
+CriticalDamageRate,CriticalDamageRate,Status_MaxDice_Name,Initial Number of Dice,시작 주사위 개수
+DarkCloud,DarkCloud,Status_DarkCloud_Name,Storm Cloud,먹구름
+DarkCloudIce,DarkCloudIce,Status_SnowCloud_Name,Snowstorm Cloud,눈보라 구름
+DashAttackDamage,DashAttackDamage,Status_DashAttackDamage_Name,Dash Attack Damage,대시 공격 피해
+DashDistance,DashDistance,Status_DashSpeed_Name,Dash speed,대시 속도
+DashRecovery,DashRecovery,Status_InfinityDash_Name,Infinity Dash,무한 대시
+Defense,Defense,Status_Defense_Name,Defense,방어력
+Dice,Dice,Status_GiveUpRewardDice_Name,Acquire dice when forfeiting item rewards,아이템 보상 포기 시 주사위 획득
+Effect,Effect,Keyword_Effect,Effect,이펙트
+Evasion,Evasion,Status_Evasion_Name,Evasion,회피
+Execution,Execution,Status_Execution_Name,Execution,처형
+Exp,Exp,Status_EXPDrop_Name,Experience Drop,경험치 드롭
+FinalDamage,FinalDamage,Status_AllDamage_Name,Universal Damage Boost,모든 피해 증폭
+FinalWeaponDamage,FinalWeaponDamage,Status_FinalWeaponDamage_Name,Damage,피해량
+FireAndIce,FireAndIce,Elemental_FireAndIce,+,+
+FireAndLightning,FireAndLightning,Elemental_FireAndLightning,+,+
+FireSpeed,FireSpeed,Status_CrossbowFireSpeed_Name,Crossbow Firing Speed,석궁 발사 속도
+FlameGround,FlameGround,Status_FlameGround_Range_Name,Blazing Field Radius,불길 범위
+FlameGroundDuration,FlameGroundDuration,Status_FlameGround_Duration_Name,Blazing Field Duration,불길 지속시간
+FlameSword,FlameSword,Status_FlameSword_Name,Solar Blade,태양검
+FollowerCritical,FollowerCritical,Status_FollowerCritical_Name,Companion Critical Chance,동료 공격 시 치명타 확률
+FollowerDamage,FollowerDamage,Status_FollowerDamage_Name,Companion Damage,동료가 입히는 피해량
+FollowerDefense,FollowerDefense,Status_FollowerDefense_Name,Companion Defense,동료들의 방어력
+FrostRelic,FrostRelic,Status_FrostRelic_Name,Frost Relic,얼음 무구
+HighestElementalDamage,HighestElementalDamage,Status_HighestElementalDamage_Name,Highest Elemental Damage,가장 높은 속성 피해
+HP,HP,Status_MaxHP_Name,Max HP,최대 HP
+HPRegen,HPRegen,Status_MPPotionBonus_Name,MP Potion Bonus,MP 포션 효과
+HPSteal,HPSteal,Status_HPSteal_Name,Life Steal,HP 흡수
+IceAndLightning,IceAndLightning,Elemental_IceAndLightning,+,+
+IceDamage,IceDamage,Status_IceDamage_Name,Cold Damage,얼음속성 피해
+IgnoreDefense,IgnoreDefense,Status_IgnoreDefense_Name,Ignore Defense,방어 관통
+Inventory,Inventory,,,
+InventoryCol,InventoryCol,UI_Options_Controls_Inventory_Col,Column,세로줄
+InventoryRow,InventoryRow,UI_Options_Controls_Inventory_Row,Row,가로줄
+Leaf,Leaf,Status_LeafDrop_Name,Leaf Drop,잎 드롭
+LightningDamage,LightningDamage,Status_LightningDamage_Name,Lightning Damage,번개속성 피해
+LockItem,LockItem,Keyword_Locked,Locked,잠겨있음
+Luck,Luck,Status_Luck_Name,Luck,행운
+MagicBook,MagicBook,Status_BoltGrimoire_Name,Bolt,볼트
+MagicDamageBonus,MagicDamageBonus,Status_MagicDamageBonus_Name,Damage,피해량
+MoveSpeed,MoveSpeed,Status_MoveSpeed_Name,Move Speed,이동 속도
+MP,MP,Status_MPSkillDamage_Name,Damage of abilities consuming MP,MP를 소모하는 능력의 피해량
+MPRegen,MPRegen,Status_MPResonance_Name,,
+MPSteal,MPSteal,Status_MPSteal_Name,MP Steal,MP 흡수
+Negative,Negative,,,
+Negotiation,Negotiation,Status_Negotiation_Name,Barter,협상력
+PhysicalDamage,PhysicalDamage,Status_PhysicalDamage_Name,Physical Damage,물리 피해
+Plasma,Plasma,Debuff_Plasma,Plasma,플라즈마
+Positive,Positive,,,
+ProtectionPoint,ProtectionPoint,Status_ProtectionPoint_Name,Protection Points,보호 포인트
+Reload,Reload,Status_CrossbowReloadSpeed_Name,Crossbow Reload Speed,석궁 재장전 속도
+ReservedMP,ReservedMP,Keyword_ReservedMP_Name,Reserve,점유
+Sapphire,Sapphire,Status_SapphireBonus_Name,Sapphire Acquisition Bonus,사파이어 획득 보너스
+SpecialAttackDamage,SpecialAttackDamage,Status_SpecialAttackDamage_Name,Special Attack Damage,특수 공격 피해
+SpecialAttackSpeed,SpecialAttackSpeed,Status_SpecialAttackSpeed_Name,Special Attack Speed,특수 공격 속도
+SuperArmor,SuperArmor,Status_SuperArmor_Name,Super Armor,슈퍼 아머
+Thorns,Thorns,Status_Thorns_Name,Thorns,가시
+Toughness,Toughness,Status_Toughness_Name,Toughness,강인함
+TrueDamage,TrueDamage,Status_TrueDamage_Name,True Damage,고정 피해
+VoidDamage,VoidDamage,Elemental_Normal,Void,공허
+Warning,Warning,,,

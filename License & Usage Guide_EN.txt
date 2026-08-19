@@ -1,0 +1,53 @@
+SEPHIRIA Fan Kit - License & Usage Guide
+Version 2.1  |  2026-08-19
+
+(c) TEAM HORAY. All rights reserved.
+
+Official fan kit for the SEPHIRIA project by TEAM HORAY. Everything in this kit
+-- images, icons, UI elements, and the in-game text and data files (the index
+CSVs and the Effects/ folder) -- is copyrighted by TEAM HORAY and distributed
+under the Creative Commons Attribution-NonCommercial 4.0 International
+(CC BY-NC 4.0).
+
+--------------------------------------------------------------------------
+YOU MAY FREELY
+  - Share:  copy and redistribute in any medium or format.
+  - Adapt:  remix, transform, build upon it (fan art, guides, wikis,
+            overlays, emotes, thumbnails, ...).
+PROVIDED THAT
+  - Attribution:  credit TEAM HORAY. Example:  SEPHIRIA by TEAM HORAY (Discord: https://discord.com/invite/g7AaeBuyMV)
+  - NonCommercial:  don't SELL the assets or products made from them
+                    (paid games, paid asset packs, merch for sale).
+  - No additional restrictions.
+
+STREAMING & VIDEO -- ALWAYS WELCOME
+  Using these assets in videos or livestreams is always fine, INCLUDING on
+  monetized channels (YouTube, Twitch, ...). Monetization is not "commercial
+  use" here.
+
+FAN SITES & WIKIS -- ADS ARE FINE
+  Free fan sites, wikis and guide pages may run standard banner ads or
+  affiliate links to cover hosting costs. That is not "commercial use" either.
+  What is not allowed: putting the assets behind a paywall or subscription,
+  offering them as a downloadable asset pack, or selling them in any form.
+
+PERSONAL FAN GOODS
+  Making a physical item for yourself / as a not-for-sale gift is fine.
+  Selling fan merch needs prior written permission.
+
+--------------------------------------------------------------------------
+TEXT & DATA
+  The effect text and the index CSVs may be republished, reformatted, translated
+  and built into databases on the same terms as the images. They are a snapshot
+  of one game build (see README_EN.txt), so please note the version on pages
+  that quote numbers, and re-pull them after a patch.
+
+NOTES
+  - Don't impersonate TEAM HORAY or present your work as official content.
+  - This kit may be updated or withdrawn at any time.
+  - Commercial requests / anything not covered above: just ask.
+
+CONTACT   team.horay.game@gmail.com   |   https://discord.com/invite/g7AaeBuyMV
+Full license: https://creativecommons.org/licenses/by-nc/4.0/
+
+Licensed under CC BY-NC 4.0.  (c) TEAM HORAY

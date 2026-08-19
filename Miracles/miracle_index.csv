@@ -1,0 +1,17 @@
+﻿file,sprite,id,kind,rarity,status,name_key,name_en,name_ko
+Angler,0MiracleIcon_Angler,Angler,miracle,,active,Miracle_Angler_Name,Angler,낚시꾼
+Assassin,0MiracleIcon_Assassin,Assasin,miracle,,active,Miracle_Assassin_Name,Assassin,어쌔신
+Astronomer,0MiracleIcon_Astronomer,Astronomer,miracle,,active,Miracle_Astronomer_Name,Astronomer,천문학자
+Attendant,0MiracleIcon_AegisOfTree,AegisOfTree,miracle,,active,Miracle_AegisOfTree_Name,Attendant,시종
+Chef,0MiracleIcon_New24,Chef,miracle,,active,Miracle_Chef_Name,Chef,요리사
+Duelist,0MiracleIcon_Duelist,Duelist,miracle,,active,Miracle_Duelist_Name,Duelist,결투가
+Electromancer,0MiracleIcon_New26_magitech,Electromancer,miracle,,active,Miracle_Electromancer_Name,Electromancer,전격술사
+Elementalist,0MiracleIcon_New23,Elementalist,miracle,,active,Miracle_Elementalist_Name,Elementalist,원소술사
+General,0MiracleIcon_General,General,miracle,,active,Miracle_General_Name,General,장군
+Hunter,0MiracleIcon_Hunter,Hunter,miracle,,active,Miracle_Hunter_Name,Hunter,사냥꾼
+Ice Blacksmith,0MiracleIcon_New25,FrostSmith,miracle,,active,Miracle_FrostSmith_Name,Ice Blacksmith,얼음 대장장이
+Meteorite Blacksmith,0MiracleIcon_Warlock_flamesword,FlameSword,miracle,,active,Miracle_FlameSword_Name,Meteorite Blacksmith,운철 대장장이
+Meteorologist,0MiracleIcon_Meteorologist,Meteorologist,miracle,,active,Miracle_Meteorologist_Name,Meteorologist,기상학자
+Rogue,0MiracleIcon_Rogue,Rogue,miracle,,active,Miracle_Rogue_Name,Rogue,로그
+Scholar,0MiracleIcon_Scholar,Scholar,miracle,,active,Miracle_Scholar_Name,Scholar,학자
+Snowfield Sentinel,0MiracleIcon_New27,SnowSentinel,miracle,,active,Miracle_SnowSentinel_Name,Snowfield Sentinel,설원 경비병

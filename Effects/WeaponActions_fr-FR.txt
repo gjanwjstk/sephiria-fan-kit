@@ -1,0 +1,127 @@
+﻿======================================
+  Weapon_SwordAndShield_1
+======================================
+[Actions]
+  ■ Attaque normale
+    Input: Clic gauche (3 fois)
+  ■ Attaque de ruée
+    Input: (Après une ruée) Clic gauche
+  ■ Garde
+    Input: Clic droit (maintenir)
+  ■ Attaque spéciale : Balayage
+    Input: En garde Clic gauche
+
+[Tutorial text]
+  Garde : Clic droit Maintenir
+  La Garde vous permet de bloquer toutes les attaques ennemies.
+  Bloquez dans la direction de l’attaque ennemie. Bloquer consomme 10 PM.
+  Si vous utilisez Garde au bon moment, Garde parfaite s’active et réduit de moitié le coût en PM.
+  Lorsque vos PM atteignent 0, votre garde est brisée et vous ne pouvez plus bloquer les attaques.
+  Garde parfaite : bloquez au bon moment
+  Balayage : Pendant le blocage Clic gauche
+  Utiliser le Balayage consomme des PM.
+  Réussir une garde réduit le coût du Balayage de 50 %, et une garde parfaite le réduit de 100 %.
+
+======================================
+  Weapon_GreatSword_1
+======================================
+[Actions]
+  ■ Attaque normale
+    Input: Clic gauche (3 fois)
+  ■ Attaque en ruée
+    Input: Après une ruée Clic gauche
+  ■ Attaque spéciale : Tourbillon
+    Input: Maintenir R puis relâcher
+
+[Tutorial text]
+  Vous ne pouvez pas bloquer les attaques avec un espadon, mais ses dégâts élevés et sa grande portée compensent ce défaut.
+  Utilisez des PM pour effectuer une puissante attaque de Tourbillon sur une vaste zone.
+  La Jauge de rage peut être remplie avec les actions suivantes.
+  - Charger
+- Attaquer des ennemis
+- Subir des dégâts
+  Charge : (maintenir) Clic droit
+  Tourbillon : (Relâcher) Clic droit
+
+======================================
+  Weapon_Dagger_1
+======================================
+[Actions]
+  ■ Attaque normale
+    Input: Clic gauche (5 fois)
+  ■ Attaque en ruée
+    Input: (Après une ruée) Clic gauche
+  ■ Attaque spéciale : Parade
+    Input: Clic droit
+    Description: En cas de Attaque spéciale : Parade réussie, obtenez Transe.
+  ■ Attaque spéciale : Furie
+    Input: Transe active Clic droit
+
+[Tutorial text]
+  La dague est une arme à faible portée et faible étourdissement, mais elle permet d’attaquer rapidement.
+  Attaque spéciale : Parade vous permet de dévier les attaques ennemies en consommant des PM.
+  Attaque spéciale : Parade ne dévie les attaques ennemies que lorsque vous brillez en bleu.
+  Si vous déviez une attaque avec Attaque spéciale : Parade, vous obtenez le bonus Transe.
+  Lorsque le bonus Transe est actif, vous pouvez utiliser Attaque spéciale : Furie.
+  Attaque spéciale : Furie :
+  Attaque spéciale : Furie : En état de Transe Clic droit
+  Attaque spéciale : Parade : Clic droit
+
+======================================
+  Weapon_Crossbow
+======================================
+[Actions]
+  ■ Attaque normale
+    Input: Clic gauche
+    Description: Recharge automatiquement lorsque toutes les flèches sont épuisées. Vitesse de déplacement est réduit de 40 % pendant les attaques.
+  ■ Attaque en ruée
+    Input: (Après une ruée) Clic gauche
+    Description: Consomme une ruée pour poser une mine qui dure 3 secondes. Elle explose automatiquement lorsqu’un ennemi est détecté.
+  ■ Attaque spéciale : Flèche puissante
+    Input: Clic droit
+    Description: Consomme 10 PM pour tirer une flèche puissante. Ne consomme pas de flèches.
+
+[Tutorial text]
+  L’arbalète est une arme à distance. Elle attaque en consommant les carreaux du chargeur.
+  Lorsque le chargeur est complètement vide, vous pouvez le remplir grâce au Rechargement.
+  Action de spécialisation d’arme (Rechargement) : G
+  Lorsqu’une Attaque spéciale est utilisée, elle tire un « projectile amélioré » qui transperce tous les ennemis.
+  Installez de petites mines à proximité avec Attaque en ruée. (Consomme la jauge de ruée) Elles explosent lorsque des ennemis s’approchent.
+
+======================================
+  Weapon_Staff
+======================================
+[Actions]
+  ■ Attaque normale
+    Input: Clic gauche (4 fois)
+  ■ Attaque en ruée
+    Input: (Après une ruée) Clic gauche
+  ■ Attaque spéciale : Riposte
+    Input: Clic droit
+
+[Tutorial text]
+  Bâton est une arme qui peut attaquer et se défendre simultanément grâce à Attaque spéciale : Riposte, utilisable même pendant Attaque normale.
+  Si vous réussissez une Garde parfaite contre une attaque ennemie pendant Attaque spéciale : Riposte, le second coup de cette Attaque spéciale est renforcé.
+  Attaque spéciale : Riposte : Clic droit
+
+======================================
+  Weapon_Katana
+======================================
+[Actions]
+  ■ Attaque normale
+    Input: Clic gauche (3 fois)
+  ■ Attaque de ruée
+    Input: (Après une ruée) Clic gauche
+  ■ Rengainer et dégainer
+    Input: Clic droit
+  ■ Attaque spéciale : Entaille lourde
+    Input: Rengainé Clic gauche
+
+[Tutorial text]
+  Lame est une arme de mêlée pouvant alterner entre les états Rengainer et Dégainer.
+  Dans l’état Rengainé, vous pouvez utiliser Attaque spéciale : Entaille lourde en consommant 5 PM.
+  Vous pouvez bloquer les attaques ennemies lors du rengainage et du dégainage.
+  Dégainer : Lorsque vous êtes en état Rengainer Clic droit
+  Attaque spéciale : Entaille lourde : Lorsque vous êtes en état Rengainer Clic gauche
+  Rengainer : Lorsque vous êtes en état Dégainer Clic droit
+

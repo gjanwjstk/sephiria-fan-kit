@@ -1,0 +1,127 @@
+﻿======================================
+  Weapon_SwordAndShield_1
+======================================
+[Actions]
+  ■ Normalattack
+    Input: Vänsterklick (3 gånger)
+  ■ Rusningsattack
+    Input: (Efter rusning) Vänsterklick
+  ■ Blockering
+    Input: Högerklick (håll)
+  ■ Specialattack: Klyvning
+    Input: Medan du blockerar Vänsterklick
+
+[Tutorial text]
+  Blockera: Högerklick Håll inne
+  Blockering låter dig avvärja alla fiendeattacker.
+  Blockera i riktningen för fiendens attack. Att blockera förbrukar 10 MP.
+  Om du använder Blockering med exakt tajming aktiveras Perfekt blockering och förbrukar hälften så mycket MP.
+  När din MP når 0 bryts din blockering och du kan inte blockera attacker.
+  Perfekt blockering: blockera vid rätt tillfälle
+  Klyvning: Medan du blockerar Vänsterklick
+  Att använda Klyvning förbrukar MP.
+  En lyckad blockering minskar kostnaden för Klyvning med 50 %, och en perfekt blockering minskar den med 100 %.
+
+======================================
+  Weapon_GreatSword_1
+======================================
+[Actions]
+  ■ Normalattack
+    Input: Vänsterklick (3 gånger)
+  ■ Rusningsattack
+    Input: Efter rusning Vänsterklick
+  ■ Specialattack: Virvelvind
+    Input: Ladda R , släpp sedan
+
+[Tutorial text]
+  Du kan inte blockera attacker med ett tvåhandssvärd, men dess höga ATK och räckvidd kompenserar för det.
+  Använd MP för att utföra en kraftfull Virvelvind-attack över ett stort område.
+  Vredesmätaren kan fyllas på med följande handlingar.
+  - Laddning
+- Attackera fiender
+- Ta skada
+  Ladda: (håll inne) Högerklick
+  Virvelvind: (Släpp) Högerklick
+
+======================================
+  Weapon_Dagger_1
+======================================
+[Actions]
+  ■ Normalattack
+    Input: Vänsterklick (5 gånger)
+  ■ Rusningsattack
+    Input: (Efter rusning) Vänsterklick
+  ■ Specialattack: Parering
+    Input: Högerklick
+    Description: Vid lyckad Specialattack: Parering, få Trans.
+  ■ Specialattack: Raseri
+    Input: Trans-buff aktiv Högerklick
+
+[Tutorial text]
+  Dolken är ett vapen med kort räckvidd och låg avbrottskraft, men den möjliggör snabba attacker.
+  Specialattack: Parering låter dig avleda fiendeattacker genom att förbruka MP.
+  Specialattack: Parering avleder endast fiendeattacker medan du glöder blått.
+  Om du lyckas avleda en attack med Specialattack: Parering får du buffen Trans.
+  Medan buffen Trans är aktiv kan du använda Specialattack: Raseri.
+  Specialattack: Raseri:
+  Specialattack: Raseri: I tillståndet Trans Högerklick
+  Specialattack: Parering: Högerklick
+
+======================================
+  Weapon_Crossbow
+======================================
+[Actions]
+  ■ Normalattack
+    Input: Vänsterklick
+    Description: Laddar automatiskt om när alla pilar är slut. Rörelsehastighet minskas med 40 % under attacker.
+  ■ Rusningsattack
+    Input: (Efter rusning) Vänsterklick
+    Description: Förbrukar en rusning för att placera ut en mina som varar i 3 sekunder. Den exploderar automatiskt när en fiende upptäcks.
+  ■ Specialattack: Kraftpil
+    Input: Högerklick
+    Description: Förbruka 10 MP för att avfyra en kraftfull pil. Förbrukar inga pilar.
+
+[Tutorial text]
+  Armborstet är ett distansvapen. Det attackerar genom att förbruka pilar i magasinet.
+  När magasinet är helt tomt kan du fylla på det genom att ladda om.
+  Vapenspecialisering (Ladda om): G
+  När en Specialattack används avfyrar den en förstärkt projektil som genomborrar alla fiender.
+  Placera ut små minor i närheten med Rusningsattack. (Förbrukar rusningsmätaren) De exploderar när fiender kommer nära.
+
+======================================
+  Weapon_Staff
+======================================
+[Actions]
+  ■ Normalattack
+    Input: Vänsterklick (4 gånger)
+  ■ Rusningsattack
+    Input: (Efter rusning) Vänsterklick
+  ■ Specialattack: Ripost
+    Input: Högerklick
+
+[Tutorial text]
+  Stav är ett vapen som kan anfalla och försvara samtidigt genom att använda Specialattack: Ripost, som kan användas även under Normalattack.
+  Om du utför en Perfekt blockering mot en fiendeattack under Specialattack: Ripost, blir den andra träffen i denna Specialattack förstärkt.
+  Specialattack: Ripost: Högerklick
+
+======================================
+  Weapon_Katana
+======================================
+[Actions]
+  ■ Normalattack
+    Input: Vänsterklick (3 gånger)
+  ■ Rusningsattack
+    Input: (Efter rusning) Vänsterklick
+  ■ Sätt i och dra
+    Input: Högerklick
+  ■ Specialattack: Tungt hugg
+    Input: Medan vapnet är i skidan Vänsterklick
+
+[Tutorial text]
+  Klinga är ett närstridsvapen som kan växla mellan tillstånden Sätt i skidan och Dra svärdet.
+  I tillståndet Sheath kan du använda Specialattack: Tungt hugg genom att förbruka 5 MP.
+  Du kan blockera fiendeattacker medan du drar eller sticker tillbaka vapnet i skidan.
+  Dra svärdet: I tillståndet Sätt i skidan Högerklick
+  Specialattack: Tungt hugg: I tillståndet Sätt i skidan Vänsterklick
+  Sätt i skidan: I tillståndet Dra svärdet Högerklick
+

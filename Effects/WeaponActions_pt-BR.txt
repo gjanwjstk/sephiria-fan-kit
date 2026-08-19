@@ -1,0 +1,127 @@
+﻿======================================
+  Weapon_SwordAndShield_1
+======================================
+[Actions]
+  ■ Ataque normal
+    Input: Clique esquerdo (3 vezes)
+  ■ Ataque de arrancada
+    Input: (Após a arrancada) Clique esquerdo
+  ■ Bloqueio
+    Input: Clique direito (segurar)
+  ■ Ataque especial: Corte
+    Input: Ao defender Clique esquerdo
+
+[Tutorial text]
+  Bloqueio: Clique direito Manter pressionado
+  O Bloqueio permite que você bloqueie todos os ataques dos inimigos.
+  Vire para a direção de um ataque. Para defendê-lo, serão necessários o consumo de 10 PM.
+  Se você usar Bloqueio com o tempo preciso, Defesa perfeita é ativado e consome metade do PM.
+  Quando os seus PM atingirem 0, a sua guarda será baixada e você não poderá bloquear os ataques.
+  Defesa perfeita: bloqueie no tempo certo
+  Corte Ao bloquear Clique esquerdo
+  Usar o Corte gastará os PM.
+  Bloqueios bem-sucedidos reduzem o custo do Corte em 50%, e defesa com perfeição reduzirá em 100%.
+
+======================================
+  Weapon_GreatSword_1
+======================================
+[Actions]
+  ■ Ataque normal
+    Input: Clique esquerdo (3 vezes)
+  ■ Ataque de arrancada
+    Input: Após a arrancada Clique esquerdo
+  ■ Ataque especial: Redemoinho
+    Input: Clique direito para carregar, depois soltar
+
+[Tutorial text]
+  A grande espada não pode bloquear ataques, mas possui alto dano e amplo alcance.
+  Use PM para realizar um ataque poderoso de Redemoinho, alcançando uma grande área.
+  O Medidor de Raiva pode ser abastecido usando as seguintes ações.
+  - Carregando
+- Atacando inimigos
+- Recebendo dano
+  Carregar: (segure) Clique direito
+  Redemoinho: (Soltar) Clique direito
+
+======================================
+  Weapon_Dagger_1
+======================================
+[Actions]
+  ■ Ataque normal
+    Input: Clique esquerdo (5 vezes)
+  ■ Ataque de arrancada
+    Input: (Após a arrancada) Clique esquerdo
+  ■ Ataque especial: Bloqueio
+    Input: Clique direito
+    Description: Ao ter sucesso com Ataque especial: Bloqueio, você obtém Êxtase.
+  ■ Ataque especial: Fúria
+    Input: Êxtase Durante o efeito do Buff Clique direito
+
+[Tutorial text]
+  A adaga é uma arma com alcance curto e baixo poder de atordoamento, mas entrega ataques rápidos.
+  Ataque especial: Bloqueio permite desviar ataques inimigos consumindo PM.
+  Ataque especial: Bloqueio só desvia ataques inimigos enquanto você estiver brilhando em azul.
+  Se você desviar um ataque com sucesso usando Ataque especial: Bloqueio, recebe o Buff Êxtase.
+  Enquanto o Buff Êxtase estiver ativo, você pode usar Ataque especial: Fúria.
+  Ataque especial: Fúria:
+  Ataque especial: Fúria: No estado Êxtase Clique direito
+  Ataque especial: Bloqueio: Clique direito
+
+======================================
+  Weapon_Crossbow
+======================================
+[Actions]
+  ■ Ataque normal
+    Input: Clique esquerdo
+    Description: Recarrega automaticamente quando todos os virotes esgotarem. A Velocidade de movimento é reduzida em 40% durante os ataques.
+  ■ Ataque de arrancada
+    Input: (Após a arrancada) Clique esquerdo
+    Description: Consome uma arrancada para soltar uma mina que dura 3 segundos. Ela explodirá automaticamente quando um inimigo for detectado.
+  ■ Ataque especial: Virote poderoso
+    Input: Clique direito
+    Description: Consome 10 de PM para disparar um virote poderoso. Não consumirá a carga de virotes.
+
+[Tutorial text]
+  A besta é uma arma de longo alcance. Ela ataca consumindo flechas no carregador.
+  Quando o carregador esvaziar completamente, você pode reabastecê-lo usando Recarga.
+  Ação de Especialização de Arma (Recarga): G
+  Quando um Ataque especial for lançado, ele disparará uma "bala aprimorada" que perfura todos os inimigos.
+  Instale pequenas minas nas proximidades usando Ataque de arrancada. (Consome o medidor de arrancada). Elas explodem quando os inimigos se aproximarem.
+
+======================================
+  Weapon_Staff
+======================================
+[Actions]
+  ■ Ataque normal
+    Input: Clique esquerdo (4 vezes)
+  ■ Ataque de arrancada
+    Input: (Após a arrancada) Clique esquerdo
+  ■ Ataque especial: Riposta
+    Input: Clique direito
+
+[Tutorial text]
+  Cajado é uma arma com a qual você pode atacar e se defender ao mesmo tempo usando Ataque especial: Riposta, que pode ser usada até mesmo durante Ataque normal
+  Se durante Ataque especial: Riposta você executar Defesa perfeita contra o ataque de um inimigo, o segundo golpe deste Ataque especial será fortalecido.
+  Ataque especial: Riposta: Clique direito
+
+======================================
+  Weapon_Katana
+======================================
+[Actions]
+  ■ Ataque normal
+    Input: Clique esquerdo (3 vezes)
+  ■ Ataque de arrancada
+    Input: (Após a arrancada) Clique esquerdo
+  ■ Bainha e saque
+    Input: Clique direito
+  ■ Ataque especial: Golpe pesado
+    Input: No estado de Bainha Clique esquerdo
+
+[Tutorial text]
+  Lâmina é uma arma de combate corpo a corpo que pode alternar entre os estados Bainha e Desembainhar.
+  No estado de Bainha, você pode utilizar Ataque especial: Golpe pesado consumindo 5 PM.
+  Você pode bloquear ataques inimigos enquanto embainha e desembainha.
+  Desembainhar: Enquanto no estado Bainha. Clique direito
+  Ataque especial: Golpe pesado: Enquanto no estado Bainha. Clique esquerdo
+  Bainha: Enquanto no estado Desembainhar. Clique direito
+

@@ -1,0 +1,200 @@
+﻿Combo effect text — 20 / language: es-ES (es-ES)
+================================================================================
+
+=== Academia (ACADEMY) ===
+[Combo effect]
+  (2) +12 Grimorio Celeridad
+  (4) +15% Reducir el coste de MP de Grimorio
+  (6) +16 Grimorio Celeridad
+  (8) +20 Grimorio Celeridad
+  (10) +15% Daño de Grimorio, +8 Regeneración de PM
+
+================================================================================
+
+=== Alquimia (ALCHEMY) ===
+[Description]
+Al obtener Tabla como recompensa de objeto, fabricas una poción al azar.
+[Combo effect]
+  (1) +1 Ranura de bolsa de pociones
+  (2) +1 Ranura de bolsa de pociones
+  (3) 1 pociones aleatorias (Común~Raro)
+
+================================================================================
+
+=== Compañero (COMPANION) ===
+[Combo effect]
+  (2) +6% Daño del Compañero
+  (4) +8% Daño del Compañero
+  (6) +10% Daño del Compañero, +15 Defensa del Compañero
+  (8) +12% Daño del Compañero, +20 Defensa del Compañero
+  (10) +20% Daño del Compañero, +40% Reducción del Tiempo de Resurrección del Compañero
+
+================================================================================
+
+=== Maldición (CURSE) ===
+[Combo effect]
+  (2) +10% Daño infligido con Perjuicio, +7% Velocidad de Movimiento
+  (4) +15% Daño infligido con Perjuicio
+
+================================================================================
+
+=== Nube Tormentosa (DARKCLOUD) ===
+[Description]
+Invoca una Nube Tormentosa. Golpea a los enemigos cercanos con un rayo cada 1 s. (Daño: Daño por Rayo 110%)
+Recupera el 5% de la capacidad en acumulaciones cada 5 segundos durante el combate.
+[Combo effect]
+  (2) Nube Tormentosa activado (Capacidad básica 15)
+  (4) +8 Capacidad de Nube Tormentosa
+  (6) +12 Capacidad de Nube Tormentosa
+  (8) +16 Capacidad de Nube Tormentosa
+  (10) +20 Capacidad de Nube Tormentosa, Nube Tormentosa Ataca con un disparo múltiple de 2
+
+================================================================================
+
+=== Elementos (ELEMENTAL) ===
+[Combo effect]
+  (2) +5 Mayor daño elemental
+  (4) +6 Mayor daño elemental
+  (6) Todo el daño Elemento aumenta en 10%
+
+================================================================================
+
+=== Ascua (EMBER) ===
+[Description]
+Toque de Llama: al infligir daño Fuego (excepto daño por Perjuicios) aplica el Perjuicio Quemadura. (Enfriamiento: 2 seg)
+[Combo effect]
+  (2) Activar efecto Toque de Llama
+  (4) +6 Daño de Fuego
+  (6) Reducción del enfriamiento de Toque de Llama 150%
+  (8) +8 Daño de Fuego
+  (10) El multiplicador de daño base de Quemadura se cambia de 18 a 28%
+
+================================================================================
+
+=== Hoja Solar (FLAMESWORD) ===
+[Description]
+Cuando haces daño con un Ataque con arma o Grimorio, lanzas una Hoja Solar. (Daño: Daño de Fuego 115%) La Hoja Solar lanzada cae al suelo y se puede recoger de nuevo.
+[Combo effect]
+  (2) Activar efecto (Espada básica ×5)
+  (4) +6% Daño de Hoja Solar
+  (6) +8% Daño de Hoja Solar, +1 Recuento máximo de Hoja Solar
+  (8) +10% Daño de Hoja Solar, +2 Recuento máximo de Hoja Solar
+  (10) +12% Daño de Hoja Solar, +6 Recuento máximo de Hoja Solar
+
+================================================================================
+
+=== Reliquia Helada (FROST) ===
+[Combo effect]
+  (2) +6% Velocidad de carga Reliquia Helada
+  (4) +8% Velocidad de carga Reliquia Helada
+  (6) +6% Daño de Reliquia Helada
+  (8) +8% Daño de Reliquia Helada
+  (10) Reliquia Helada se activa 1 veces más
+
+================================================================================
+
+=== Glaciar (GLACIER) ===
+[Description]
+Toque de Escarcha: al infligir daño Hielo (excepto daño por Perjuicios) aplica el Perjuicio Escarcha. (Enfriamiento: 2 seg)
+[Combo effect]
+  (2) Activar efecto Toque de Escarcha
+  (4) +6 Daño por Frío
+  (6) Reducción del enfriamiento de Toque de Escarcha 150%
+  (8) +8 Daño por Frío
+  (10) Número de acumulaciones de Escarcha necesarias para Congelación -1
+
+================================================================================
+
+=== Guardián (GUARDIAN) ===
+[Combo effect]
+  (2) +6 Defensa
+  (4) +7 Defensa
+  (6) +8 Defensa
+  (8) +10 Defensa
+  (10) +12 Defensa, +5% Ignorar Defensa
+
+================================================================================
+
+=== Lago (LAKE) ===
+[Combo effect]
+  (3) +20 PM Máximo, +5 Regeneración de PM
+  (6) +30 PM Máximo, +10% Daño de habilidades que consumen PM
+  (9) +40 PM Máximo, +25% Daño de habilidades que consumen PM
+
+================================================================================
+
+=== Magitecnología (MAGITECH) ===
+[Description]
+Toque de Choque: al infligir daño Rayo (excepto daño por Perjuicios) aplica el Perjuicio Electrocución. (Enfriamiento: 2 seg)
+[Combo effect]
+  (2) Activar efecto Toque de Choque
+  (4) +6 Daño por Rayo
+  (6) Reducción del enfriamiento de Toque de Choque 150%
+  (8) +8 Daño por Rayo
+  (10) Tiempo de activación de Electrocución -1s
+
+================================================================================
+
+=== Místico (MYSTIC) ===
+[Description]
+La eficiencia del nivel de artefacto en una posición específica del inventario se duplica.
+[Combo effect]
+  (2) 1 ranuras aleatorias
+  (4) 2 ranuras aleatorias
+
+================================================================================
+
+=== Planeta (PLANET) ===
+[Combo effect]
+  (2) +8% Daño Planetario
+  (4) +10% Daño Planetario
+  (6) +12% Daño Planetario
+  (8) +14% Daño Planetario
+  (10) +16% Daño Planetario, +12% Velocidad de ataque planetario
+
+================================================================================
+
+=== Precisión (PRECISION) ===
+[Combo effect]
+  (2) +4% Probabilidad Crítica
+  (4) +6% Probabilidad Crítica
+  (6) +8% Probabilidad Crítica
+  (8) +10% Probabilidad Crítica
+  (10) +30% Daño Crítico
+
+================================================================================
+
+=== Negociación (SAVVY) ===
+[Combo effect]
+  (2) +10 Negociación, +15% Caída de Hojas
+  (4) +15 Negociación, Mano Dorada: daño al enemigo por cada Hoja 200 que poseas +1% (máximo 20%)
+
+================================================================================
+
+=== Sombra (SHADOW) ===
+[Combo effect]
+  (2) +4 Evasión
+  (4) +5 Evasión
+  (6) +6 Evasión
+  (8) +8 Evasión
+  (10) +10 Evasión
+
+================================================================================
+
+=== Robusto (STURDY) ===
+[Combo effect]
+  (2) +2 Daño Físico
+  (4) +4 Daño Físico
+  (6) +6 Daño Físico
+  (8) +8 Daño Físico
+  (10) +15% Daño Físico Amplificación
+
+================================================================================
+
+=== Canción del Viento (WINDSONG) ===
+[Combo effect]
+  (2) +8% Velocidad de Ataque
+  (4) +12% Velocidad de Ataque
+  (6) +16% Velocidad de Ataque
+  (8) +20% Velocidad de Ataque
+  (10) +15% Daño de Arma, +1 Cantidad de Embestidas

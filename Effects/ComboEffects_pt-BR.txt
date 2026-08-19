@@ -1,0 +1,200 @@
+﻿Combo effect text — 20 / language: pt-BR (pt-BR)
+================================================================================
+
+=== Academia (ACADEMY) ===
+[Combo effect]
+  (2) +12 Aceleração de Grimório
+  (4) +15% Reduzir o custo de MP de Grimório
+  (6) +16 Aceleração de Grimório
+  (8) +20 Aceleração de Grimório
+  (10) +15% Dano de Grimório, +8 Regeneração dos PM
+
+================================================================================
+
+=== Alquimia (ALCHEMY) ===
+[Description]
+Ao obter Tábua como recompensa de item, fabrique uma poção aleatória.
+[Combo effect]
+  (1) +1 Slot de bolsa de poção
+  (2) +1 Slot de bolsa de poção
+  (3) 1 poção aleatória (Comum~Raro)
+
+================================================================================
+
+=== Companheiro (COMPANION) ===
+[Combo effect]
+  (2) +6% Dano do companheiro
+  (4) +8% Dano do companheiro
+  (6) +10% Dano do companheiro, +15 Defesa do companheiro
+  (8) +12% Dano do companheiro, +20 Defesa do companheiro
+  (10) +20% Dano do companheiro, +40% Velocidade do tempo de renascimento do companheiro
+
+================================================================================
+
+=== Maldição (CURSE) ===
+[Combo effect]
+  (2) +10% Dano causado com Debuff, +7% Velocidade de movimento
+  (4) +15% Dano causado com Debuff
+
+================================================================================
+
+=== Nuvem de Tempestade (DARKCLOUD) ===
+[Description]
+Conjura uma Nuvem de tempestade. Acerta os inimigos nas proximidades com raios a cada 1 s. (Dano: 110% de Dano elétrico)
+Recupera 5% da capacidade dos pontos acumulados a cada 5 segundos durante o combate.
+[Combo effect]
+  (2) Nuvem de tempestade foi ativada (Capacidade base de 15)
+  (4) +8 Capacidade de Nuvem de tempestade
+  (6) +12 Capacidade de Nuvem de tempestade
+  (8) +16 Capacidade de Nuvem de tempestade
+  (10) +20 Capacidade de Nuvem de tempestade, Ataques de Nuvem de tempestade com 2 disparos múltiplos
+
+================================================================================
+
+=== Elementos (ELEMENTAL) ===
+[Combo effect]
+  (2) +5 Maior dano elemental
+  (4) +6 Maior dano elemental
+  (6) Todo o dano Elemento amplificado em 10%
+
+================================================================================
+
+=== Brasa (EMBER) ===
+[Description]
+Toque Ígneo: Inflige o Debuff Queimação ao causar dano do tipo Fogo (excluindo o dano de Debuff). (Tempo de recarga: 2 s)
+[Combo effect]
+  (2) Ativa o Efeito Toque Ígneo
+  (4) +6 Dano de fogo
+  (6) Aceleração do tempo de recarga de 150% para Toque Ígneo
+  (8) +8 Dano de fogo
+  (10) O multiplicador de dano base para Queimação muda de 18 para 28%
+
+================================================================================
+
+=== Espada Solar (FLAMESWORD) ===
+[Description]
+Quando você causar dano com Ataque da arma ou Grimório, você arremessa uma Espada solar. (Dano: 115% de Dano de fogo) A Espada solar arremessada cairá no solo e poderá ser coletada novamente.
+[Combo effect]
+  (2) Ativa o efeito (Espada Básica ×5)
+  (4) +6% Dano de Espada solar
+  (6) +8% Dano de Espada solar, +1 Contagem máxima de Espada solar
+  (8) +10% Dano de Espada solar, +2 Contagem máxima de Espada solar
+  (10) +12% Dano de Espada solar, +6 Contagem máxima de Espada solar
+
+================================================================================
+
+=== Relíquia de Geada (FROST) ===
+[Combo effect]
+  (2) +6% Velocidade de carga de Relíquia de geada
+  (4) +8% Velocidade de carga de Relíquia de geada
+  (6) +6% Dano de Relíquia de geada
+  (8) +8% Dano de Relíquia de geada
+  (10) Ativação adicional de Relíquia de geada de 1 vezes
+
+================================================================================
+
+=== Geleira (GLACIER) ===
+[Description]
+Toque Gélido: Inflige o Debuff Congelamento ao causar dano do tipo Gelo (excluindo o dano de Debuff). (Tempo de recarga: 2 s)
+[Combo effect]
+  (2) Ativa o Efeito Toque Gélido
+  (4) +6 Dano gélido
+  (6) Aceleração do tempo de recarga de 150% para Toque Gélido
+  (8) +8 Dano gélido
+  (10) O número de acúmulos de Congelamento necessários para Congelar é de -1
+
+================================================================================
+
+=== Guardião (GUARDIAN) ===
+[Combo effect]
+  (2) +6 Defesa
+  (4) +7 Defesa
+  (6) +8 Defesa
+  (8) +10 Defesa
+  (10) +12 Defesa, +5% Ignorar defesa
+
+================================================================================
+
+=== Lago (LAKE) ===
+[Combo effect]
+  (3) +20 PM máx., +5 Regeneração dos PM
+  (6) +30 PM máx., +10% Dano das habilidades que consomem PM
+  (9) +40 PM máx., +25% Dano das habilidades que consomem PM
+
+================================================================================
+
+=== Tecnomagia (MAGITECH) ===
+[Description]
+Toque Elétrico: Inflige o Debuff Eletrocussão ao causar dano do tipo Elétrico (excluindo o dano de Debuff). (Tempo de recarga: 2 s)
+[Combo effect]
+  (2) Ativa o Efeito Toque Elétrico
+  (4) +6 Dano elétrico
+  (6) Aceleração do tempo de recarga de 150% para Toque Elétrico
+  (8) +8 Dano elétrico
+  (10) Tempo de ativação de Eletrocussão de -1s
+
+================================================================================
+
+=== Místico (MYSTIC) ===
+[Description]
+A eficiência do nível do artefato em um espaço de inventário específico é dobrada.
+[Combo effect]
+  (2) Randomização de 1 espaços
+  (4) Randomização de 2 espaços
+
+================================================================================
+
+=== Planeta (PLANET) ===
+[Combo effect]
+  (2) +8% Dano do planeta
+  (4) +10% Dano do planeta
+  (6) +12% Dano do planeta
+  (8) +14% Dano do planeta
+  (10) +16% Dano do planeta, +12% Velocidade de ataque do planeta
+
+================================================================================
+
+=== Precisão (PRECISION) ===
+[Combo effect]
+  (2) +4% Chance crítica
+  (4) +6% Chance crítica
+  (6) +8% Chance crítica
+  (8) +10% Chance crítica
+  (10) +30% Dano crítico
+
+================================================================================
+
+=== Negociação (SAVVY) ===
+[Combo effect]
+  (2) +10 Negociação, +15% Chance de encontrar folhas
+  (4) +15 Negociação, Mão de ouro: +1% de dano aos inimigos para cada 200 Folha que possui (máximo 20%)
+
+================================================================================
+
+=== Sombra (SHADOW) ===
+[Combo effect]
+  (2) +4 Desvio
+  (4) +5 Desvio
+  (6) +6 Desvio
+  (8) +8 Desvio
+  (10) +10 Desvio
+
+================================================================================
+
+=== Robusto (STURDY) ===
+[Combo effect]
+  (2) +2 Dano físico
+  (4) +4 Dano físico
+  (6) +6 Dano físico
+  (8) +8 Dano físico
+  (10) +15% Amplificação de Dano físico
+
+================================================================================
+
+=== Canção do Vento (WINDSONG) ===
+[Combo effect]
+  (2) +8% Velocidade de ataque
+  (4) +12% Velocidade de ataque
+  (6) +16% Velocidade de ataque
+  (8) +20% Velocidade de ataque
+  (10) +15% Dano de Arma, +1 Número de arrancadas

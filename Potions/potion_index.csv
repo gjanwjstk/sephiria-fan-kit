@@ -1,0 +1,30 @@
+﻿file,sprite,id,kind,rarity,status,active_type,name_key,name_en,name_ko,effect_ko,effect_en
+Apple Juice,AppleJuice,27,potion,0,active,Default,Item_AppleJuice_Name,Apple Juice,사과주스,30초간 1초당 HP 1 회복,Restores 1 HP every second for 30 seconds
+Crystal of Aventinus,PowerPotion_ugniblanc_small,42,potion,1,active,Default,Item_FrostPotionMinor_Name,Crystal of Aventinus,아벤티누스의 결정,얼음속성 피해 +2,Cold Damage +2
+Dew of Dawn,ColorPotion_finaldamage,35,potion,3,active,Hidden,Item_FinalDamagePotion_Name,Dew of Dawn,새벽 이슬,모든 피해 증폭 +4%,Universal Damage Boost +4%
+Focus Potion,BluePotion1,25,potion,0,active,Hidden,Item_PotionOfConcentraion_Name,Focus Potion,집중의 포션,MP 20% 회복,Restores 20% MP
+Grenache’s Whimsy,RandomPotion_grenache,32,potion,2,active,Default,Item_GrenachesWhimsy_Name,Grenache’s Whimsy,그르나슈의 변덕,무작위 효과를 부여합니다.,Grants a random effect.
+Grisette’s Lightness,EvasionPotion,50,potion,1,active,Default,Item_EvasionPotion_Name,Grisette’s Lightness,그리제트의 옅음,회피 +3,Evasion +3
+Gueuze’s Ensemble,HighElementalPotion,51,potion,1,active,Default,Item_ElementPotion_Name,Gueuze’s Ensemble,괴즈의 합주,가장 높은 속성 피해 +2,Highest Elemental Damage +2
+Large Dice Potion,DicePotion0,33,potion,2,active,Default,Item_LargeDicePotion_Name,Large Dice Potion,큰 주사위 포션,주사위 3개 획득,Acquire 3 dice
+Large Focus Potion,BluePotion0,26,potion,0,active,Default,Item_PotionOfConcentraion_Big_Name,Large Focus Potion,큰 집중의 포션,25초간 0.25초당 MP 1 회복,Recover MP 1 every 0.25 seconds for 25 seconds
+Large Restorative Potion,RedPotion0,1,potion,1,active,Default,Item_BigPotionOfRegeneration_Name,Large Restorative Potion,큰 재생의 포션,HP 50% 회복,Restores 50% HP
+Madeira's Tenacity,MaxHpPotion,45,potion,2,active,Default,Item_MaxHPPotion_Name,Madeira's Tenacity,마데이라의 끈기,최종 HP +5%,Final HP +5%
+Madiran’s Poise,DefensePotion,49,potion,1,active,Default,Item_DefensePotion_Name,Madiran’s Poise,마디랑의 평정,방어력 +3,Defense +3
+Malbec’s Depth,PowerPotion3_malbec,31,potion,2,active,Default,Item_MalbecsDepth_Name,Malbec’s Depth,말벡의 짙음,번개속성 피해 +4,Lightning Damage +4
+Moment of Lambic,RandomPotion_small,44,potion,1,active,Default,Item_RandomPotionMinor_Name,Moment of Lambic,람빅의 찰나,무작위 효과를 부여합니다.,Grants a random effect.
+Morning of Gose,PowerPotion_malbec_small,43,potion,1,active,Default,Item_LightningPotionMinor_Name,Morning of Gose,고제의 아침,번개속성 피해 +2,Lightning Damage +2
+Mushroom Soup,MushroomSoup,39,potion,2,active,Default,Item_MushroomSoup_Name,Mushroom Soup,버섯 수프,가장 높은 속성 피해량 6 증가,Increase highest elemental damage by 6
+Nebbiolo’s Stubbornness,PowerPotion_nebio,28,potion,2,active,Default,Item_NebbiolosStubbornness_Name,Nebbiolo’s Stubbornness,네비올로의 완강,물리 피해 +4,Physical Damage +4
+Oath of the Vampire Lord,ColorPotion_hpsteal,36,potion,3,active,Default,Item_HPStealPotion_Name,Oath of the Vampire Lord,진조의 섭리,HP 흡수 +1,Life Steal +1
+Potion of Awakening,ColorPotion_Enchant,38,potion,2,active,Default,Item_PotionOfEnchant_Name,Potion of Awakening,각성의 포션,아티팩트 1회 인챈트,Enchant an artifact once
+Potion of Regeneration (Sample),RedPotionSample,37,potion,0,active,Default,Item_PotionOfRegenerationSample_Name,Potion of Regeneration (Sample),재생의 포션 (맛보기 샘플),HP 1% 회복,Restores 1% HP
+Poulsard’s Margin,EvasionPotion_Big,48,potion,2,active,Default,Item_EvasionPotion_Big_Name,Poulsard’s Margin,풀사르의 여백,회피 +5,Evasion +5
+Restorative Potion,RedPotion1,0,potion,0,active,Default,Item_PotionOfRegeneration_Name,Restorative Potion,재생의 포션,HP 20% 회복,Restores 20% HP
+Sagrantino’s Endurance,DefensePotion_Big,47,potion,2,active,Default,Item_DefensePotion_Big_Name,Sagrantino’s Endurance,사그란티노의 인내,방어력 +5,Defense +5
+Sanctity of Trappist,PowerPotion_nebio_small,40,potion,1,active,Default,Item_PowerPotionMinor_Name,Sanctity of Trappist,트라피스트의 신성,물리 피해 +2,Physical Damage +2
+Small Dice Potion,DicePotion1,34,potion,1,active,Default,Item_SmallDicePotion_Name,Small Dice Potion,작은 주사위 포션,주사위 2개 획득,Acquire 2 dice
+Smoke of Märzen,PowerPotion_tempra_small,41,potion,1,active,Default,Item_FlamePotionMinor_Name,Smoke of Märzen,메르첸의 연기,화염속성 피해 +2,Fire Damage +2
+Solera's Serendipity,RandomComboPotion,46,potion,2,active,Hidden,Item_RandomComboPotion_Name,Solera's Serendipity,솔레라의 우연,무작위 콤보 1종의 콤보 수를 1 올립니다.,Increases the combo count of one random combo by 1.
+Tempranillo’s Passion,PowerPotion_tempra,30,potion,2,active,Default,Item_TempranillosPassion_Name,Tempranillo’s Passion,템프라니요의 열정,화염속성 피해 +4,Fire Damage +4
+Ugni Blanc’s Mist,PowerPotion_ugniblanc,29,potion,2,active,Default,Item_UgniBlancsMist_Name,Ugni Blanc’s Mist,우니 블랑의 안개,얼음속성 피해 +4,Cold Damage +4

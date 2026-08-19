@@ -1,0 +1,127 @@
+﻿======================================
+  Weapon_SwordAndShield_1
+======================================
+[Actions]
+  ■ Atak podstawowy
+    Input: Lewy przycisk myszy (3 razy)
+  ■ Atak z doskoku
+    Input: (Po doskoku) Lewy przycisk myszy
+  ■ Blok
+    Input: Prawy przycisk myszy (przytrzymaj)
+  ■ Atak specjalny: Zamaszyste cięcie
+    Input: Podczas blokowania Lewy przycisk myszy
+
+[Tutorial text]
+  Blok: Prawy przycisk myszy Przytrzymaj
+  Blok pozwala odeprzeć wszystkie ataki wrogów.
+  Blokuj w kierunku ataku wroga. Blokowanie zużywa 10 PM.
+  Jeśli użyjesz Blok w idealnym momencie, aktywuje się Perfekcyjny blok i zużyje o połowę mniej PM.
+  Gdy twoje PM spadnie do 0, blokada zostanie przerwana i nie będziesz mógł blokować ataków.
+  Perfekcyjny blok: zablokuj w odpowiednim momencie
+  Zamaszyste cięcie: Podczas blokowania Lewy przycisk myszy
+  Użycie Zamaszystego cięcia zużywa PM.
+  Skuteczne blokowanie zmniejsza koszt Zamaszystego cięcia o 50%, a perfekcyjne blokowanie zmniejsza go o 100%.
+
+======================================
+  Weapon_GreatSword_1
+======================================
+[Actions]
+  ■ Zwykły atak
+    Input: Lewy przycisk myszy (3 razy)
+  ■ Atak z doskoku
+    Input: Po doskoku Lewy przycisk myszy
+  ■ Atak specjalny: Wir
+    Input: Przytrzymaj R , potem puść
+
+[Tutorial text]
+  Wielkim mieczem nie możesz blokować ataków, ale rekompensują to jego wysokie ATK i zasięg.
+  Zużyj PM, aby wykonać potężny atak Wir na dużym obszarze.
+  Wskaźnik Furii można napełniać następującymi działaniami.
+  - Ładowanie
+- Atakowanie wrogów
+- Otrzymywanie obrażeń
+  Ładowanie: (przytrzymaj) Prawy przycisk myszy
+  Wir: (Puść) Prawy przycisk myszy
+
+======================================
+  Weapon_Dagger_1
+======================================
+[Actions]
+  ■ Zwykły atak
+    Input: Lewy przycisk myszy (5 times)
+  ■ Atak z doskoku
+    Input: (Po doskoku) Lewy przycisk myszy
+  ■ Atak specjalny: Parowanie
+    Input: Prawy przycisk myszy
+    Description: Po udanym Atak specjalny: Parowanie zyskaj Trans.
+  ■ Atak specjalny: Furia
+    Input: Aktywne wzmocnienie Trans Prawy przycisk myszy
+
+[Tutorial text]
+  Sztylet ma mały zasięg i niską siłę zachwiania, ale umożliwia szybkie ataki.
+  Atak specjalny: Parowanie pozwala odbijać ataki wrogów kosztem PM.
+  Atak specjalny: Parowanie odbija ataki wrogów tylko wtedy, gdy otacza cię niebieska poświata.
+  Jeśli skutecznie odbijesz atak za pomocą Atak specjalny: Parowanie, zyskasz wzmocnienie Trans.
+  Gdy wzmocnienie Trans jest aktywne, możesz użyć Atak specjalny: Furia.
+  Atak specjalny: Furia:
+  Atak specjalny: Furia: W stanie Trans Prawy przycisk myszy
+  Atak specjalny: Parowanie: Prawy przycisk myszy
+
+======================================
+  Weapon_Crossbow
+======================================
+[Actions]
+  ■ Zwykły atak
+    Input: Lewy przycisk myszy
+    Description: Automatycznie przeładowuje, gdy wszystkie strzały zostaną wyczerpane. Szybkość ruchu jest zmniejszona o 40% podczas ataków.
+  ■ Atak z doskoku
+    Input: (Po doskoku) Lewy przycisk myszy
+    Description: Zużywa doskok, aby rozstawić minę, która pozostaje przez 3 sekundy. Automatycznie wybucha po wykryciu wroga.
+  ■ Atak specjalny: Potężna strzała
+    Input: Prawy przycisk myszy
+    Description: Zużywa 10 PM, aby wystrzelić potężną strzałę. Nie zużywa strzał.
+
+[Tutorial text]
+  Kusza jest bronią dystansową. Atakuje, zużywając strzały w magazynku.
+  Gdy magazynek jest całkowicie pusty, możesz go uzupełnić przez Przeładowanie.
+  Akcja specjalizacji broni (Przeładowanie): G
+  Po użyciu Atak specjalny wystrzeliwuje „wzmocniony pocisk”, który przebija wszystkich wrogów.
+  Za pomocą Atak z doskoku rozstawiaj w pobliżu niewielkie miny. (Zużywa wskaźnik doskoku) Wybuchają, gdy wrogowie się zbliżą.
+
+======================================
+  Weapon_Staff
+======================================
+[Actions]
+  ■ Zwykły atak
+    Input: Lewy przycisk myszy (4 razy)
+  ■ Atak z doskoku
+    Input: (Po doskoku) Lewy przycisk myszy
+  ■ Atak specjalny: Riposta
+    Input: Prawy przycisk myszy
+
+[Tutorial text]
+  Kostur to broń umożliwiająca jednoczesny atak i obronę za pomocą Atak specjalny: Riposta, dostępnej nawet podczas Zwykły atak.
+  Jeśli wykonasz Perfekcyjny blok przeciw atakowi wroga podczas Atak specjalny: Riposta, drugie uderzenie tego Atak specjalny zostanie wzmocnione.
+  Atak specjalny: Riposta: Prawy przycisk myszy
+
+======================================
+  Weapon_Katana
+======================================
+[Actions]
+  ■ Atak podstawowy
+    Input: Lewy przycisk myszy (3 razy)
+  ■ Atak z doskoku
+    Input: (Po doskoku) Lewy przycisk myszy
+  ■ Pochowanie i dobycie
+    Input: Prawy przycisk myszy
+  ■ Atak specjalny: Ciężkie cięcie
+    Input: W pochwie Lewy przycisk myszy
+
+[Tutorial text]
+  Ostrze to broń do walki wręcz, która może przełączać się między stanami Pochowanie i Dobycie.
+  W stanie schowanej broni możesz użyć Atak specjalny: Ciężkie cięcie, zużywając 5 PM.
+  Możesz blokować ataki wrogów podczas chowania i dobywania broni.
+  Dobycie: W stanie Pochowanie Prawy przycisk myszy
+  Atak specjalny: Ciężkie cięcie: W stanie Pochowanie Lewy przycisk myszy
+  Pochowanie: W stanie Dobycie Prawy przycisk myszy
+

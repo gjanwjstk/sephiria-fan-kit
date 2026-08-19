@@ -1,0 +1,127 @@
+﻿======================================
+  Weapon_SwordAndShield_1
+======================================
+[Actions]
+  ■ Normal Attack
+    Input: Left Click (3 times)
+  ■ Dash attack
+    Input: (After dashing) Left Click
+  ■ Block
+    Input: Right Click (hold)
+  ■ Special Attack: Cleave
+    Input: While guarding Left Click
+
+[Tutorial text]
+  Block: Right Click Hold
+  Block allows you to ward off all enemy attacks.
+  Block in the direction of the enemy's attack. Blocking consumes 10 MP.
+  If you use Block with precise timing, Perfect guard activates and consumes half the MP.
+  When your MP reaches 0, your guard is dropped and you cannot block attacks.
+  Perfect guard: block at the right time
+  Cleave: While blocking Left Click
+  Using Cleave expends MP.
+  Successfully guarding reduces the cost of Cleave by 50%, and guarding perfectly reduces it by 100%.
+
+======================================
+  Weapon_GreatSword_1
+======================================
+[Actions]
+  ■ Normal Attack
+    Input: Left Click (3 times)
+  ■ Dash attack
+    Input: After dashing Left Click
+  ■ Special Attack: Whirlwind
+    Input: Right Click charge, then release
+
+[Tutorial text]
+  You cannot block attacks with a greatsword, but its powerful ATK and range make up for it.
+  Use MP to perform a powerful Whirlwind attack over a large area.
+  The Rage Gauge can be filled using the following actions.
+  - Charging
+- Attacking enemies
+- Taking damage
+  Charge: (hold) Right Click
+  Whirlwind: (Release) Right Click
+
+======================================
+  Weapon_Dagger_1
+======================================
+[Actions]
+  ■ Normal Attack
+    Input: Left Click (5 times)
+  ■ Dash attack
+    Input: (After dashing) Left Click
+  ■ Special Attack: Parry
+    Input: Right Click
+    Description: On successful Special Attack: Parry, gain Trance.
+  ■ Special Attack: Fury
+    Input: Trance Buff Active Right Click
+
+[Tutorial text]
+  The dagger is a weapon with a narrow range and low stagger, but it allows for swift attacks.
+  Special Attack: Parry allows you to deflect enemy attacks by consuming MP.
+  Special Attack: Parry will only deflect enemy attacks while you are glowing blue.
+  If you successfully deflect an attack with Special Attack: Parry, you gain the Trance buff.
+  While the Trance buff is active, you can use Special Attack: Fury.
+  Special Attack: Fury:
+  Special Attack: Fury: In Trance state Right Click
+  Special Attack: Parry: Right Click
+
+======================================
+  Weapon_Crossbow
+======================================
+[Actions]
+  ■ Normal Attack
+    Input: Left Click
+    Description: Automatically reloads when all arrows are exhausted. Move Speed is reduced by 40% during attacks.
+  ■ Dash attack
+    Input: (After dashing) Left Click
+    Description: Consumes a dash to deploy a mine that lasts for 3 seconds. It automatically explodes when an enemy is detected.
+  ■ Special Attack: Power Arrow
+    Input: Right Click
+    Description: Consume 10 MP to fire a powerful arrow. Does not consume arrows.
+
+[Tutorial text]
+  The crossbow is a ranged weapon. It attacks by consuming arrows in the magazine.
+  When the magazine is completely depleted, you can refill it through Reload.
+  Weapon Specialization Action (Reload): G
+  When a Special Attack is cast, it fires an 'enhanced bullet' that pierces all enemies.
+  Install small mines nearby through Dash attack. (Consumes dash gauge) They explode when enemies get close.
+
+======================================
+  Weapon_Staff
+======================================
+[Actions]
+  ■ Normal Attack
+    Input: Left Click (4 times)
+  ■ Dash attack
+    Input: (After dashing) Left Click
+  ■ Special Attack: Riposte
+    Input: Right Click
+
+[Tutorial text]
+  Staff is a weapon that can attack and defend at the same time by using Special Attack: Riposte, which is available even during Normal Attack.
+  If you perform a Perfect guard against an enemy attack during Special Attack: Riposte, the second strike of this Special Attack is empowered.
+  Special Attack: Riposte: Right Click
+
+======================================
+  Weapon_Katana
+======================================
+[Actions]
+  ■ Normal Attack
+    Input: Left Click (3 times)
+  ■ Dash attack
+    Input: (After dashing) Left Click
+  ■ Sheath and Draw
+    Input: Right Click
+  ■ Special Attack: Heavy Slash
+    Input: While Sheathed Left Click
+
+[Tutorial text]
+  Blade is a melee weapon that can alternate between Sheath and Unsheath states.
+  In the Sheath state, you can use Special Attack: Heavy Slash by consuming 5 MP.
+  You can block enemy attacks during sheathing and unsheathing.
+  Unsheath: While in Sheath state Right Click
+  Special Attack: Heavy Slash: While in Sheath state Left Click
+  Sheath: While in Unsheath state Right Click
+
