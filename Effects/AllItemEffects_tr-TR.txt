@@ -550,7 +550,7 @@ Yıldırım lazer ışınları atan gök mavisi bir gezegen çağırır
 === Atılmış Altın Yüzük (ID: 1111) [Default] [Charm] [Nadirlik: Gelişmiş] ===
 [Category] Sağlam(STURDY)
 Özel Saldırı Menzili +10/20/30%
-Mutlak Yüzük dönüşümü için Özel Saldırı ile 40 düşman yen
+Mutlak Yüzük hâline dönüşmek için Özel Saldırı ile 40 düşman yen
 
 ────────────────────────────────────────────────────────────────────────────────
 
