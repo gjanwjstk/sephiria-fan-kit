@@ -1,0 +1,349 @@
+﻿Base weapon effect text (enhancement tree) — 6 / 215 / language: it-IT (it-IT)
+================================================================================
+
+=== [T1] Spada e scudo predefiniti (ID: 0) ===
+[No effect text]
+├ [T2] Protezione del pelo (ID: 1)
+│   Dopo un Parata riuscito, il costo in MP di Parata si riduce del 50%.
+│   ├ [T3] Luce stellare (ID: 4)
+│   │   Dopo un Parata riuscito, riflette il 300% dei danni dell'attaccante. (400% con Parata perfetta)
+│   ├ [T3] Furia glaciale (ID: 5)
+│   │   Quando Parata perfetta riesce, il Bonus danni universale aumenta del 20% per 14 secondi.
+│   └ [T3] Spada di pietra (ID: 1020)
+│       Attacco speciale: Fendente si trasforma in Attacco speciale: Colpo di scudo.
+├ [T2] Equilibrio perfetto (ID: 2)
+│   Aumenta la Velocità d'attacco del 15% e, quando esegui Attacco normale, usa automaticamente Parata frontalmente.
+│   ├ [T3] Cenere errante (ID: 6)
+│   │   I Danni degli attacchi in scatto aumentano del 60%. Infligge ai nemici lungo la traiettoria dello scatto il 50% dei danni di Attacco in scatto. (Infligge danni doppi quando viene consumato Numero di scatti.)
+│   └ [T3] Indomabile (ID: 7)
+│       Aumenta i Danni degli attacchi normali del 33%, ma non è più possibile usare Attacco speciale: Fendente.
+├ [T2] Piccola distruzione (ID: 3)
+│   I danni di Attacco speciale: Fendente aumentano del 40%.
+│   ├ [T3] Morsa della paura (ID: 9)
+│   │   Ogni 3 secondi, ottieni 1 accumulo di «Terrore crescente». (Massimo 10 accumuli.)
+│   │   La velocità di accumulo aumenta in proporzione alla Velocità d'attacco.
+│   └ [T3] Ritorno del guardiano (ID: 1023)
+│       Attacco speciale: Fendente si trasforma in Attacco speciale: Lancio dello scudo.
+├ [T2] Spada Carota (ID: 1000)
+│   Aumenta di 3 tutti i danni elementali.
+│   ├ [T3] Carotcalibur (ID: 1001)
+│   │   Attacco normale diventa Attacco normale: Tecnica della spada-carota e l'efficacia della Velocità d'attacco aggiuntiva aumenta del 20%.
+│   └ [T3] Excallion (ID: 1019)
+│       Aumenta tutti i danni elementali di 2 e Danni Grimorio del 15%.
+├ [T2] Stocco (ID: 1006)
+│   Attacco in scatto viene disattivato e Attacco normale diventa un attacco di tipo Attacco in scatto. La Velocità d'attacco aumenta del 10%.
+│   └ [T3] Stocco folgorante (ID: 1007)
+│       Aumenta la portata degli affondi. Aumenta la Velocità d'attacco del 20%.
+├ [T2] Bacchetta magica (ID: 1004)
+│   Attacco con arma assume una forma che utilizza Dardo incantato.
+│   ├ [T3] Sguardo delle Fiamme (ID: 1008)
+│   │   Attacco con arma diventa basato su Danni da fuoco. I danni di Attacco normale aumentano del 20%.
+│   ├ [T3] Respiro di ghiaccio (ID: 1009)
+│   │   Attacco con arma diventa basato su Danni da freddo. I danni di Attacco in scatto aumentano del 40%.
+│   └ [T3] Ali del fulmine (ID: 1010)
+│       Attacco con arma diventa basato su Danni da fulmine. I danni di Attacco speciale aumentano del 20%.
+├ [T2] Scheggia di ghiaccio (ID: 1013)
+│   Danni da freddo aumenta di 5.
+│   ├ [T3] Lama glaciale (ID: 1014)
+│   │   Il proiettile dell'Artefatto Fodero dell'esorcismo diventa più piccolo, ma si carica il 50% più velocemente.
+│   ├ [T3] Vigilia della tormenta (ID: 1015)
+│   │   Quando viene consumato Numero di scatti, attiva istantaneamente l'Artefatto Martello della tormenta infliggendo il 60% dei danni.
+│   └ [T3] Weapon_1029_Name (ID: 1029)
+│       Quando l'Artefatto Vite di ghiaccio si attiva, orbita attorno al giocatore.
+├ [T2] Conduttore (ID: 1016)
+│   I Danni da fulmine aumentano di 5.
+│   ├ [T3] Spada balista (ID: 1017)
+│   │   La freccia dell'Artefatto Mini balista attraversa i muri e insegue i nemici. Scocca immediatamente una freccia quando esegui con successo Parata.
+│   ├ [T3] Superconduttore (ID: 1018)
+│   │   Attacco speciale: Fendente diventa Attacco speciale: Lancia fulminante.
+│   └ [T3] Silenzio accecante (ID: 1028)
+│       L'Artefatto Orecchino del tuono ottiene 1 attacchi aggiuntivi e i suoi danni aumentano di 100%. Orecchino del tuono si attiva immediatamente durante Attacco speciale: Fendente.
+└ [T2] Incendium (ID: 1024)
+    I danni inflitti da Attacco con arma si riducono del 15%, ma vengono convertiti in Danni da fuoco.
+    ├ [T3] Solis Missio (ID: 1025)
+    │   Ottieni l'effetto 'Riaccensione'. Durante Parata, la Velocità di movimento si riduce del 90%.
+    └ [T3] Divoratore di fiamme: Haetae (ID: 1026)
+        Attacco speciale: Fendente diventa Attacco normale: Colpo di fiamma
+
+================================================================================
+
+=== [T1] Spadone d'acciaio (ID: 10) ===
+[No effect text]
+├ [T2] Ipersensibilità (ID: 11)
+│   I danni di Attacco speciale: Turbine aumentano del 20% e la sua velocità di carica aumenta del 50%.
+│   ├ [T3] Negligenza (ID: 14)
+│   │   Danni attacco speciale aumenta del 15%.
+│   │   Attacco speciale: Turbine si carica istantaneamente e Velocità attacco speciale diminuisce del 15%.
+│   ├ [T3] Sguardo amorevole (ID: 15)
+│   │   Aumenta del 100% la Probabilità di critico di Attacco speciale: Turbine e del 50% la Velocità attacco speciale.
+│   └ [T3] Alabarda di ferro nero (ID: 1111)
+│       La portata di Attacco speciale: Turbine aumenta. Infligge il 50% di danni aggiuntivi quando colpisce l'area esterna e recupera PS pari allo 0,7% dei danni inflitti nell'area esterna.
+├ [T2] Ombra brulicante (ID: 12)
+│   Il tempo di carica di Attacco speciale: Turbine aumenta del 100%, ma Danni degli attacchi normali aumenta del 20%.
+│   ├ [T3] Rapido rimpianto (ID: 16)
+│   │   Puoi sferrare altre 2 volte l'attacco finale di Attacco normale. Aumenta i danni di Attacco normale del 10%.
+│   └ [T3] ... (ID: 1125)
+│       Attacco normale consuma 2 MP e aumenta i danni del 24%.
+├ [T2] Forgiato nelle Braci (ID: 1122)
+│   Quando esegui un Attacco con arma, infliggi al bersaglio danni aggiuntivi pari al 30% di Danni da fuoco.
+│   ├ [T3] Schianto del Serpente Rosso (ID: 1123)
+│   │   I danni inflitti dall'Artefatto Occhi del serpente rosso aumentano di 33% e il tempo di recupero si riduce di 2.5 secondi quando si usa Attacco normale.
+│   └ [T3] Solis Cineris (ID: 1124)
+│       Lama solare si attiva altre 2 volte durante Attacco con arma. Aumenta Danni critici di Lama solare del 36%.
+├ [T2] Clava di legno (ID: 1100)
+│   Non è più possibile usare Attacco in scatto, ma i danni inflitti da Attacco normale aumentano del 20%.
+│   ├ [T3] Clava chiodata (ID: 1101)
+│   │   Quando Attacco con arma infligge un colpo con Danni critici, scaglia 3 spine perforanti. Viene aggiunta una spina per ogni 20% di danni critici aggiuntivi dell'attacco. (Danni: 26% di Danni fisici.)
+│   └ [T3] Scherzo birichino (ID: 1119)
+│       Attacco speciale diventa Attacco speciale: Esplosione di foglie. Aggiunge i Danni degli attacchi normali ai danni di Attacco speciale.
+├ [T2] Lama-ingranaggio d'ossa (ID: 1102)
+│   Attacco speciale: Turbine si trasforma in Attacco speciale: Ricomposizione.
+│   └ [T3] Spina dorsale scricchiolante (ID: 1103)
+│       La portata dell'attacco 'Attacco speciale: Ricomposizione' aumenta e la Velocità d'attacco cresce gradualmente fino al 35%. (Si azzera quando smetti di attaccare).
+├ [T2] Spadone del gelo (ID: 1104)
+│   Quando esegui un Attacco con arma, infliggi al bersaglio danni aggiuntivi pari al 30% di Danni da freddo.
+│   ├ [T3] Spadone del gelo eterno (ID: 1105)
+│   │   I Danni da freddo aggiuntivi aumentano dal 30% al 55%.
+│   │   La portata di Attacco normale aumenta e la combo base diventa più veloce del 15% (in base alla durata totale).
+│   ├ [T3] Spada di ghiacciolo (ID: 1106)
+│   │   Attacco con arma ha una probabilità del 80% di infliggere Assideramento. Aumenta i danni da Congelamento del 20%.
+│   └ [T3] Spadone dell'esorcismo (ID: 1114)
+│       Aumenta di 33% i danni inflitti dall'Artefatto Fodero dell'esorcismo e lo carica il 15% più velocemente.
+├ [T2] Spina cremisi (ID: 1107)
+│   Attacca il bersaglio e infligge Ferita.
+│   ├ [T3] Vortice cremisi (ID: 1108)
+│   │   Trasforma Attacco normale e Attacco in scatto in combo da 3 colpi. I danni di ogni colpo vengono ridotti al 40% dei danni originali. Il numero massimo di cariche di Ferita aumenta di 6.
+│   └ [T3] L'Inquisitore (ID: 1115)
+│       I danni Fisico inflitti con Arma vengono applicati come Caos. Attacco speciale: Turbine diventa Attacco speciale: Esplosione delle ferite.
+├ [T2] Spadone fulminante "E2G" (ID: 1112)
+│   Quando esegui un Attacco con arma, infliggi al bersaglio danni aggiuntivi pari al 30% di Danni da fulmine.
+│   ├ [T3] Spadone fulminante "E3G" (ID: 1109)
+│   │   Ogni 5 attacchi, ottieni 5 accumuli di Nube temporalesca. Quando usi Attacco speciale: Turbine, ottieni per 10 secondi un bonus che aumenta Velocità di consumo di Nube temporalesca del 100%. (Massimo 5 accumuli.)
+│   └ [T3] Spadone fulminante "S3G" (ID: 1113)
+│       Quando esegui Attacco con arma, infliggi Elettrocuzione al bersaglio. Danni extra di Elettrocuzione aumenta del 33%.
+└ [T2] Piacere inquietante (ID: 17)
+    Attacco con arma si trasforma in un attacco che utilizza Laser.
+    ├ [T3] Retaggio dell'illusionista (ID: 1117)
+    │   La Rapidità Grimorio aumenta del 50%.
+    ├ [T3] Forma incontaminata (ID: 1118)
+    │   I laser di Attacco normale e Attacco in scatto diventano più grandi e i danni aumentano del 25%.
+    └ [T3] Lazarion (ID: 1120)
+        Attacco speciale: Turbine si trasforma in Attacco speciale: Evocazione d'ametista.
+
+================================================================================
+
+=== [T1] Pugnale (ID: 20) ===
+[No effect text]
+├ [T2] Oltre la soglia (ID: 22)
+│   Quando esegui Attacco in scatto, ottieni per 10 secondi un bonus: danni di Attacco normale +20% e danni di Attacco in scatto +30%. Disattiva Attacco speciale: Furia.
+│   ├ [T3] Lama senza luce (ID: 26)
+│   │   Quando usi Scatto, Attacco in scatto diventa Attacco in scatto: Prigione di lame
+│   └ [T3] Invidia assoluta (ID: 27)
+│       I danni del 3º, 4º e 5º Attacco normale aumentano del 25% e l'effetto di barcollamento viene potenziato.
+├ [T2] Brezza arida (ID: 23)
+│   I danni di Attacco speciale: Furia aumentano del 20%.
+│   ├ [T3] Disperazione strisciante (ID: 28)
+│   │   I danni di Attacco speciale: Furia aumentano di un ulteriore 10%.
+│   │   Eseguire con successo Attacco speciale: Parata ricarica due volte Trance.
+│   └ [T3] Dura prova (ID: 29)
+│       Non puoi più usare Attacco speciale: Parata, ma quando usi Attacco con arma hai una probabilità del 30% di ottenere Trance. (Trance può accumulare fino a 4 cariche.)
+├ [T2] Pugnale di Fuoco (ID: 1200)
+│   Quando esegui un Attacco con arma, infliggi al bersaglio danni aggiuntivi pari al 25% di Danni da fuoco.
+│   ├ [T3] Lama Rovente (ID: 1201)
+│   │   Attacco speciale: Parata viene sostituita da Attacco speciale: Lancio del pugnale.
+│   └ [T3] Solis Imber (ID: 1214)
+│       Quando Attacco speciale: Furia colpisce, attiva tutte le Lama solare.
+├ [T2] Pugnale fulminante (ID: 1203)
+│   Quando esegui un Attacco con arma, infliggi al bersaglio danni aggiuntivi pari al 25% di Danni da fulmine.
+│   ├ [T3] Nube temporalesca incombente (ID: 1204)
+│   │   Danni extra di Nube temporalesca aumenta del 15% e Danni da fulmine aumenta di 5.
+│   └ [T3] Ira del fulmine (ID: 1205)
+│       Quando usi Attacco con arma, hai una probabilità del 70% di applicare il malus Elettrocuzione. cariche di Elettrocuzione aumenta di 1.
+├ [T2] Stella Alpina (ID: 1206)
+│   Attacco con arma viene modificato per utilizzare Lancio dello shuriken.
+│   ├ [T3] Adone (ID: 1207)
+│   │   Il Danni critici inflitto da Attacco con arma aumenta del 30%.
+│   └ [T3] Velo Oscuro (ID: 1210)
+│       Ottieni il bonus Dominio quando usi Attacco con arma.
+├ [T2] Vestigia di Giada (ID: 1208)
+│   Non puoi più usare Attacco speciale: Parata, ma ottieni Trance ogni 2,8 secondi. (Velocità di carica aumentata dell'1% per ogni punto di Evasione, fino al 33%.)
+│   └ [T3] Immersione Sfrenata (ID: 1209)
+│       Per ogni punto di Evasione, la velocità di carica di Trance aumenta di un ulteriore 0,25%. Il limite alla velocità di carica ottenuta da Evasione viene rimosso.
+├ [T2] Spada Incantata dell'Accademia (ID: 1212)
+│   Il costo in MP di Attacco speciale: Parata diventa 0 e, quando esegui con successo Attacco speciale: Parata, recuperi il 30% di MP.
+│   ├ [T3] Tomo della Mimesi (ID: 1211)
+│   │   Attacco speciale: Furia diventa Grimorio: Duplicazione.
+│   └ [T3] Spada Magica dell'Accademia - Liberazione (ID: 1213)
+│       Attacco speciale: Furia diventa Attacco speciale: Liberazione.
+└ [T2] Gelo Dormiente (ID: 1215)
+    I danni inflitti da Attacco con arma si riducono del 20%, ma vengono convertiti in Danni da freddo.
+    ├ [T3] Fusione Glaciale (ID: 1216)
+    │   Danni da freddo aumenta di 5 e, quando Attacco speciale va a segno, applica Assideramento 2 volte.
+    └ [T3] Drífa (ID: 1217)
+        L'Artefatto Martello della tormenta diventa «Falce della tormenta». I suoi danni si riducono del 50%, ma vola verso il punto bersaglio e colpisce continuamente i nemici.
+
+================================================================================
+
+=== [T1] Balestra colossale (ID: 100) ===
+[No effect text]
+├ [T2] Balestra colossale: dispositivo di ricarica (ID: 101)
+│   I danni di Attacco normale si riducono del 45% e Attacco speciale diventa 'Ricarica avanzata'.
+│   ├ [T3] Balestra colossale: nucleo di accelerazione (ID: 102)
+│   │   Mentre attacchi, Velocità d'attacco si accumula, aumentando fino al 60% la tua Velocità d'attacco base.
+│   ├ [T3] Balestra: gemella (ID: 103)
+│   │   Attacco normale spara due proiettili e concede una libertà di movimento leggermente maggiore durante l'attacco. La cadenza di fuoco aumenta in base all'incremento di Velocità di movimento.
+│   └ [T3] Cacciatore di Taglie (ID: 125)
+│       Il caricatore è fissato a 6 colpi e si ricarica istantaneamente quando usi Scatto.
+│       Attacco in scatto viene disabilitato e i danni aumentano di 7% per ogni punto di Numero di scatti.
+├ [T2] Balestra colossale: lanciatore a rosa (ID: 104)
+│   Attacco normale diventa Attacco normale: Colpo esplosivo e i danni aumentano dell'80%.
+│   ├ [T3] Balestra colossale: sintesi della polvere da sparo (ID: 105)
+│   │   Aumenta del 35% la Probabilità di critico di Attacco con arma e ricarica 1 proiettili se l'attacco infligge un colpo critico.
+│   ├ [T3] Balestra colossale: dispositivo esplosivo (ID: 116)
+│   │   I danni di Attacco normale aumentano del 10%.
+│   └ [T3] Il Cirripede (ID: 127)
+│       Quando usi Attacco normale e Attacco in scatto, piazza Bomba adesiva. Attacco speciale diventa Attacco speciale: Esplosione.
+├ [T2] Balestra colossale: dardi speciali potenziati (ID: 106)
+│   La portata di Attacco speciale: Freccia potente aumenta e i danni aumentano del 30%.
+│   └ [T3] Balestra colossale: dispositivo di fuoco rapido (ID: 117)
+│       Quando Attacco speciale: Freccia potente viene usato consecutivamente (entro 2 secondi), infligge il 10% di danni aggiuntivi per ogni utilizzo consecutivo. (fino a un massimo del 50%)
+├ [T2] Balestra colossale: mina incendiaria (ID: 108)
+│   I danni inflitti da Attacco con arma si riducono del 20%, ma vengono convertiti in Danni da fuoco.
+│   ├ [T3] Balestra colossale: modulo di guida (ID: 109)
+│   │   Il costo di Attacco speciale si riduce a 3 e i danni aumentano dello 0,9% per ogni MP aggiuntivi. Attacco speciale insegue i nemici vicini.
+│   ├ [T3] Mini cannone (ID: 118)
+│   │   Spara una Lancio di granate con Attacco normale. La cadenza di fuoco non è influenzata da Velocità d'attacco, ma i danni e l'area aumentano dell'1% per ogni incremento aggiuntivo di Velocità d'attacco.
+│   └ [T3] Solis Iubar (ID: 124)
+│       Danni di Arma diminuisce di 15%, ma Danni di Lama solare aumenta di 35%.
+├ [T2] Balestra colossale: marchio del fulmine instabile (ID: 110)
+│   Quando usi Attacco normale, hai una probabilità del 40% di scoccare 'Freccia fulminante'.
+│   ├ [T3] Balestra colossale: stabilizzazione del marchio (ID: 111)
+│   │   Applica il malus Elettrocuzione quando 'Freccia fulminante' colpisce. I danni di Elettrocuzione aumentano del 25%.
+│   ├ [T3] Balestra colossale: raccoglitore di nubi (ID: 115)
+│   │   Quando la 'Freccia fulminante' colpisce un nemico, ottieni 3 punti Nube temporalesca.
+│   └ [T3] Minigun (ID: 126)
+│       La probabilità di sparare Freccia fulminante aumenta del 10%. Attacco speciale diventa Attacco speciale: Raffica.
+├ [T2] Balestra colossale: velo di gelo (ID: 112)
+│   Attacco speciale viene sostituito da 'Velo gelido'.
+│   ├ [T3] Balestra colossale: cristallo del congelamento rapido (ID: 113)
+│   │   Danni della Reliquia del gelo aumenta di 20%.
+│   └ [T3] Balestra colossale: dispositivo di espansione (ID: 114)
+│       Spara proiettili Assideramento che trapassano i nemici mentre Velo gelido è attivo.
+│       [Capacità del caricatore è fissato a 5 colpi]
+├ [T2] Kagumede (ID: 119)
+│   Attacca il bersaglio e infligge Veleno.
+│   ├ [T3] Forma di Kalim (ID: 120)
+│   │   Polvere spirituale di Heita, Polvere spirituale di Tero e Polvere spirituale di Ahmad attaccano due volte e infliggono il 25% di danni in più.
+│   └ [T3] Giacca viola (ID: 121)
+│       Gli carica di Veleno aumentano di 3.
+└ [T2] M-9199 (ID: 122)
+    Attacco normale perfora i nemici e infligge il 15% di danni in più. Attacco speciale diventa «Attacco speciale: Compressione munizioni».
+    └ [T3] XRA-9 (ID: 123)
+        Quando usi l'ultimo proiettile con un attacco normale, il tempo di recupero attuale di tutte le Grimorio e di tutti gli Artefatto attivo si riduce del 25%.
+
+================================================================================
+
+=== [T1] Lama (ID: 400) ===
+[No effect text]
+├ [T2] Lama lunga «Onohara» (ID: 401)
+│   Attacco speciale: Fendente pesante è influenzato da Velocità d'attacco. Velocità d'attacco aumenta del 15%.
+│   ├ [T3] Spada leggendaria «Muramasa» (ID: 402)
+│   │   Rimani sempre nello stato Rinfodera e Attacco speciale: Fendente pesante diventa Attacco speciale: Fendente rapido. L'efficacia di Velocità d'attacco aumenta dell'80%.
+│   └ [T3] Spada dei marchi bestiali «Hou» (ID: 403)
+│       La Velocità d'attacco base di Attacco speciale: Fendente pesante si riduce del 24%, ma può colpire i nemici distanti. I danni aumentano dell'1% ogni 2 Evasione.
+├ [T2] Helbanus (ID: 406)
+│   Quando esegui un Attacco con arma, infliggi al bersaglio danni aggiuntivi pari al 30% di Danni da fuoco.
+│   ├ [T3] Helbanus ardente (ID: 407)
+│   │   cariche di Ustione aumenta di 2 e Danni da fuoco aumenta di 4.
+│   ├ [T3] Heidi (ID: 408)
+│   │   Quando consumi Numero di scatti, ottieni accumuli di 'Surriscaldamento'. (1 normalmente, 3 quando usi Rinfodera, fino a 9 volte) Gli accumuli vengono consumati quando usi Attacco normale.
+│   └ [T3] Solis Ekli (ID: 422)
+│       Rinfodera diventa Eclissi.
+├ [T2] Lama squarciatrice: Squarciacieli (ID: 409)
+│   Ottieni Colpo di spada tramite Attacco normale. Attacco speciale: Fendente pesante diventa Attacco normale: Fendente iaidō.
+│   ├ [T3] Lama squarciatrice: Salice fluttuante (ID: 410)
+│   │   Probabilità di critico aumenta del 30% e la portata di Attacco normale: Grande fendente iaidō si estende a tutta l'area d'attacco.
+│   └ [T3] Lama squarciatrice: Danza della rovina (ID: 411)
+│       Non puoi usare Attacco normale: Grande fendente iaidō, ma quando l'indicatore di Colpo di spada è al 100%, ottieni il buff Raffica.
+├ [T2] Lama azzurra in attesa (ID: 412)
+│   Durante Rinfodera, ottieni continuamente 'Fendente della lama'. Consuma 10 Fendenti della lama quando lanci una magia per aumentare Danni Grimorio del 20%.
+│   ├ [T3] Pugnale corto di Yui (ID: 413)
+│   │   Probabilità di critico Grimorio aumenta del 30%.
+│   └ [T3] Giuramento di Adamah (ID: 414)
+│       Quando usi una magia, evoca una 'Lama magica' che vola verso il nemico e infligge danni. (Danni: 20 + 70% della quantità di MP vuoti)
+├ [T2] Società bibliotecaria di sigillatura spettrale Modello I (ID: 416)
+│   Danni degli attacchi in scatto aumenta del 40% e, quando consumi Numero di scatti, uno spirito esegue due volte Attacco in scatto contro i nemici vicini. (Tempo di recupero: 2.5 secondi)
+│   └ [T3] Società bibliotecaria di sigillatura spettrale Modello II (ID: 417)
+│       Il tempo di recupero di Attacco in scatto dello spirito diventa di 1 secondo e si riduce del 10% per ogni Numero di scatti.
+│       La durata dell'invincibilità di Rinfodera aumenta del 50% e, se un attacco viene bloccato, lo spirito esegue Attacco in scatto un numero di volte pari a Numero di scatti.
+├ [T2] Lama-progetto del fabbro invernale (ID: 419)
+│   Rinfodera viene sostituito da Carica. Durante Attacco con arma, aggiunge danni pari al 15% di Danni da freddo. Danni da freddo aumenta di 3.
+│   ├ [T3] Silenzio del gelo eterno (ID: 420)
+│   │   Carica diventa Attacco speciale: Scivolata glaciale. Bloccare gli attacchi nemici durante l'invincibilità attiva immediatamente l'artefatto Eco del ghiacciaio. All'attivazione, infligge danni ai nemici vicini. (Danni: 120% di Danni da freddo)
+│   └ [T3] Frammento di Nastrond (ID: 421)
+│       Dopo un'azione Carica, attaccare attiva Reliquia del gelo: Skaði.
+├ [T2] Spada del tuono «Bronte» (ID: 404)
+│   I danni inflitti da Attacco con arma si riducono del 20%, ma vengono convertiti in Danni da fulmine.
+│   ├ [T3] Lampo fulmineo (ID: 405)
+│   │   Ottieni 1 accumulo di 'Carica elettrica' quando infliggi danni con Elettrocuzione. (Massimo 10)
+│   │   Consuma 2 accumuli di 'Carica elettrica' per eseguire Attacco speciale: Issen durante Attacco speciale: Fendente pesante.
+│   └ [T3] Spada della nube cerulea «Arges» (ID: 425)
+│       Rinfodera diventa Attacco speciale: Fendente delle nubi.
+│       Ottieni 1 accumulo di Fulmine residuo ogni volta che Nube temporalesca colpisce da sola. (massimo 20)
+└ [T2] Piega-armature (ID: 423)
+    I danni inflitti da Attacco normale aumentano del 1% per ogni 2 punti di Difesa.
+    └ [T3] Lama spezzapiastre (ID: 424)
+        Quando non sei in Rinfodera, ottieni 1 accumulo di Indurimento ogni 0.8 secondi.
+
+================================================================================
+
+=== [T1] Bastone ferrato (ID: 500) ===
+[No effect text]
+├ [T2] Bastone florido (ID: 501)
+│   Attacco normale si trasforma in Attacco normale: Bastone floreale
+│   ├ [T3] Bastone della potenza suprema (ID: 502)
+│   │   Il Danni degli attacchi normali aumenta del 30% e, mentre attacchi, ottieni uno Scudo pari al 5% della Difesa. (Si rinnova ogni 20 sec.).
+│   └ [T3] Bastone spirituale di Ilonica (ID: 503)
+│       Non puoi lanciare direttamente alcuna Grimorio. Attacco normale: Bastone floreale si trasforma in Grimorio: Raffica di dardi.
+├ [T2] Bastone di ferro divino (ID: 505)
+│   Ottieni il bonus Estensione del bastone eseguendo un Attacco con arma.
+│   ├ [T3] Peso del mare (ID: 506)
+│   │   Dopo un Parata riuscito, ottieni il buff Bastone pesante.
+│   └ [T3] Bastone senza anelli (ID: 507)
+│       Se la Probabilità di critico è inferiore a 30%, aumenta i danni inflitti di 20%.
+├ [T2] Luce stellare lontana (ID: 509)
+│   Aumenta i danni di Attacco speciale: Contrattacco del 20%. Se il MP massimi è almeno pari a 100, durante l'uso di Attacco speciale: Contrattacco attivi Parata in tutte le direzioni.
+│   └ [T3] Scaglia del mare astrale (ID: 510)
+│       Dopo che Parata riesce, usa 'Esplosione cristallina' con Attacco normale.
+├ [T2] Lancia Georoid (ID: 513)
+│   Puoi usare Attacco normale: Affondo con lancia e Attacco in scatto: Attacco con lancia.
+│   ├ [T3] Lancia Ruadhslea (ID: 514)
+│   │   La Velocità d'attacco aumenta del 10%. Quando attacchi con un'arma, i danni aumentano del 5% per ogni punto dell'attributo Numero di scatti.
+│   └ [T3] Lancia Fuarsca (ID: 515)
+│       Ottieni Parata quando lanci Attacco in scatto: Attacco con lancia e i danni aumentano del 30% per ogni Scatto usato in precedenza. (Fino a 6 volte).
+├ [T2] Bastone delle braci (ID: 517)
+│   I danni inflitti da Attacco con arma si riducono del 15%, ma vengono convertiti in Danni da fuoco.
+│   ├ [T3] Bastone del giudizio di Fiaola (ID: 518)
+│   │   Quando applichi Ustione, crea Anello di fuoco e attacca i nemici entro 5 tessere per 10 secondi. (Danni: 40% di Danni da fuoco ogni 0.5 secondi; i danni aumentano con Danni da Ustione.)
+│   └ [T3] Solis Braca (ID: 519)
+│       Quando recuperi Lama solare, ne recuperi 1 aggiuntive. Attacco speciale si trasforma in Attacco speciale: Forgiatura della lancia solare.
+├ [T2] Bastone della brina (ID: 521)
+│   I danni inflitti da Attacco con arma si riducono del 15%, ma vengono convertiti in Danni da freddo.
+│   ├ [T3] Bastone dell'oracolo (ID: 522)
+│   │   Attiva l'artefatto Völuspá nella direzione mirata dopo aver colpito 3 volte con Attacco con arma.
+│   └ [T3] Malaspina (ID: 523)
+│       Quando esegui Attacco con arma, hai una probabilità del 30% di applicare Assideramento. I Danni da freddo aumentano di 5.
+├ [T2] Bastone delle Tempeste (ID: 525)
+│   I danni inflitti da Attacco con arma si riducono del 15%, ma vengono convertiti in Danni da fulmine.
+│   ├ [T3] Viduka (ID: 526)
+│   │   I danni inflitti da Chakram elettrico aumentano del 20% e il suo raggio di rotazione si estende fino al mirino.
+│   └ [T3] Nephorhax (ID: 528)
+│       Attacco in scatto si trasforma in Lancia Bottiglia delle Nuvole. Quando Attacco in scatto va a segno, Nube temporalesca si attiva immediatamente sul bersaglio infliggendo il 70% dei danni.
+└ [T2] Giavellotto (ID: 529)
+    Attacco normale diventa Attacco normale: Lancia da lancio e Danni di Arma aumenta di 10.
+    ├ [T3] Giara Sacra (ID: 530)
+    │   Attacco normale combina le statistiche di Danni del compagno.
+    ├ [T3] Danza Informe (ID: 531)
+    │   Attacco normale attira i nemici e ha una probabilità di colpire due volte. (Aumenta di 1% per ogni punto di Evasione)
+    └ [T3] Successore (ID: 532)
+        Danni Grimorio aumenta del 30%.

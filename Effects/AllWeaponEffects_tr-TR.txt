@@ -1,0 +1,349 @@
+﻿Base weapon effect text (enhancement tree) — 6 / 215 / language: tr-TR (tr-TR)
+================================================================================
+
+=== [T1] Varsayılan Kılıç ve Kalkan (ID: 0) ===
+[No effect text]
+├ [T2] Tüy Yumağının Koruması (ID: 1)
+│   Başarılı bir Blok sonrasında Blok için MP maliyeti %50 azalır.
+│   ├ [T3] Yıldız Işığı (ID: 4)
+│   │   Başarılı bir Blok sonrasında saldırganın hasarının %300'ünü yansıtır. (Kusursuz savunma ile %400)
+│   ├ [T3] Donmuş Hiddet (ID: 5)
+│   │   Başarılı bir Kusursuz savunma sonrasında Genel Hasar Artışı, 14 saniyeliğine %20 artar.
+│   └ [T3] Taş Kılıç (ID: 1020)
+│       Özel Saldırı: Yarma, Özel Saldırı: Kalkan Darbesi olarak değişir.
+├ [T2] Kusursuz Denge (ID: 2)
+│   Saldırı Hızı %15 artar ve Normal Saldırı gerçekleştirirken öne doğru otomatik olarak Blok kullanılır.
+│   ├ [T3] Süzülen Kül (ID: 6)
+│   │   Atılma Saldırısı Hasarı %60 artar. Atılma güzergâhındaki düşmanlara Atılma saldırısı hasarının %50 kadarı hasar verir. (Atılma Sayısı tüketildiğinde iki kat hasar verir.)
+│   └ [T3] Yılmaz (ID: 7)
+│       Normal Saldırı Hasarı %33 artar ancak artık Özel Saldırı: Yarma kullanılamaz.
+├ [T2] Küçük Yıkım (ID: 3)
+│   Özel Saldırı: Yarma hasarı %40 artar.
+│   ├ [T3] Korkunun Pençesi (ID: 9)
+│   │   Her 3 saniyede 1 'Yükselen Dehşet' yükü kazanılır. (En fazla 10 yük.)
+│   │   Yük kazanma hızı Saldırı Hızı ile orantılı olarak artar.
+│   └ [T3] Muhafızın Dönüşü (ID: 1023)
+│       Özel Saldırı: Yarma, Özel Saldırı: Kalkan Fırlatma olarak değişir.
+├ [T2] Havuç Kılıcı (ID: 1000)
+│   Tüm element hasarlarını 3 artırır.
+│   ├ [T3] Havuçkalibur (ID: 1001)
+│   │   Normal Saldırı, Normal Saldırı: Havuç Kılıcı Tekniği olarak değişir ve ilave Saldırı Hızı verimliliği %20 artar.
+│   └ [T3] Excallion (ID: 1019)
+│       Tüm element hasarlarını 2 artırır ve Büyü Kitabı Hasarı %15 artar.
+├ [T2] Meç (ID: 1006)
+│   Atılma saldırısı devre dışı bırakılır ve Normal Saldırı, Atılma saldırısı türüne dönüşür. Saldırı Hızı %10 artar.
+│   └ [T3] Parıldayan Meç (ID: 1007)
+│       Saplama menzilini uzatır. Saldırı Hızı %20 artar.
+├ [T2] Sihirli Asa (ID: 1004)
+│   Silah Saldırısı, Sihirli Füze kullanan bir biçime dönüşür.
+│   ├ [T3] Alevlerin Bakışı (ID: 1008)
+│   │   Silah Saldırısı, Ateş Hasarı tabanlı olarak değişir. Normal Saldırı hasarı %20 artar.
+│   ├ [T3] Buz Nefesi (ID: 1009)
+│   │   Silah Saldırısı, Soğuk Hasarı tabanlı olarak değişir. Atılma saldırısı hasarı %40 artar.
+│   └ [T3] Şimşek Kanatları (ID: 1010)
+│       Silah Saldırısı, Yıldırım Hasarı tabanlı olarak değişir. Özel Saldırı hasarı %20 artar.
+├ [T2] Ayaz Parçası (ID: 1013)
+│   Soğuk Hasarı 5 artar.
+│   ├ [T3] Buzul Kılıcı (ID: 1014)
+│   │   Artefakt Ruh Kovma Kını mermisi küçülür, ancak 50% daha hızlı yüklenir.
+│   ├ [T3] Tipi Arifesi (ID: 1015)
+│   │   Atılma Sayısı tüketildiğinde, Yadigâr Tipi Çekici anında %60 hasarla etkinleşir.
+│   └ [T3] Weapon_1029_Name (ID: 1029)
+│       Artefakt Buz Sarmaşığı etkinleştiğinde oyuncunun etrafında dolanır.
+├ [T2] İletken (ID: 1016)
+│   Yıldırım Hasarı 5 artar.
+│   ├ [T3] Balista Kılıcı (ID: 1017)
+│   │   Yadigâr Mini Balista oku duvarları deler ve düşmanları takip eder. Başarılı bir Blok gerçekleştirildiğinde anında bir ok fırlatır.
+│   ├ [T3] Süper İletken (ID: 1018)
+│   │   Özel Saldırı: Yarma, Özel Saldırı: Yıldırım Mızrağı olarak değişir.
+│   └ [T3] Kör Edici Sessizlik (ID: 1028)
+│       Artefakt Gök Gürültüsünün Küpesi 1 ek saldırı kazanır ve hasarı 100% artar. Gök Gürültüsünün Küpesi, Özel Saldırı: Yarma sırasında anında tetiklenir.
+└ [T2] Incendium (ID: 1024)
+    Silah Saldırısı ile verilen hasar %15 azalır, ancak Ateş Hasarı olarak değiştirilir.
+    ├ [T3] Solis Missio (ID: 1025)
+    │   'Yeniden Tutuştur' etkisini kazanırsın. Blok sırasında Hareket Hızı %90 azalır.
+    └ [T3] Alev Yiyen: Haetae (ID: 1026)
+        Özel Saldırı: Yarma, Normal Saldırı: Alev Darbesi olarak değişir
+
+================================================================================
+
+=== [T1] Çelik Büyük Kılıç (ID: 10) ===
+[No effect text]
+├ [T2] Aşırı Hassasiyet (ID: 11)
+│   Özel Saldırı: Kasırga hasarı %20, yükleme hızı ise %50 artar.
+│   ├ [T3] İhmal (ID: 14)
+│   │   Özel Saldırı Hasarı %15 artar.
+│   │   Özel Saldırı: Kasırga anında yüklenir ve Özel Saldırı Hızı %15 azalır.
+│   ├ [T3] Sevgi Dolu Bakış (ID: 15)
+│   │   Özel Saldırı: Kasırga için Kritik Şansı 100% ve Özel Saldırı Hızı %50 artar.
+│   └ [T3] Kara Demir Teber (ID: 1111)
+│       Özel Saldırı: Kasırga menzili artar. Dış alana isabet ettirildiğinde %50 ilave hasar verilir ve dış alan hasarının %0,7 kadarı HP olarak yenilenir.
+├ [T2] Kaynaşan Gölge (ID: 12)
+│   Özel Saldırı: Kasırga yükleme süresi %100 artar, ancak Normal Saldırı Hasarı %20 artar.
+│   ├ [T3] Ani Pişmanlık (ID: 16)
+│   │   Normal Saldırı son saldırısını fazladan 2 kez savurabilirsin. Normal Saldırı hasarını %10 artırır.
+│   └ [T3] ... (ID: 1125)
+│       Normal Saldırı, 2 MP tüketir ve hasarı %24 artırır.
+├ [T2] Korateşte Dövülen (ID: 1122)
+│   Silah Saldırısı gerçekleştirirken hedefe Ateş Hasarı değerinin %30 kadarına eşit ilave hasar verir.
+│   ├ [T3] Kızıl Yılan Ezici (ID: 1123)
+│   │   Kızıl Yılan Gözleri tarafından verilen Yadigâr Hasarı 33% artar ve Normal Saldırı kullanıldığında bekleme süresi 2.5 saniye azalır.
+│   └ [T3] Solis Cineris (ID: 1124)
+│       Güneş Kılıcı, Silah Saldırısı sırasında fazladan 2 kez tetiklenir. Güneş Kılıcı için Kritik Hasarı değerini %36 artırır.
+├ [T2] Tahta Sopa (ID: 1100)
+│   Atılma saldırısı artık kullanılamaz, ancak Normal Saldırı hasarı %20 artar.
+│   ├ [T3] Dikenli Sopa (ID: 1101)
+│   │   Silah Saldırısı ile Kritik Hasarı vuruşu yapıldığında delip geçen 3 diken fırlatır. Saldırının her %20 ilave kritik hasarı için fazladan bir diken eklenir. (Hasar: Fiziksel Hasar değerinin %26 kadarı.)
+│   └ [T3] Muzip Şaka (ID: 1119)
+│       Özel Saldırı, Özel Saldırı: Yaprak Patlaması olarak değişir. Normal Saldırı Hasarı, Özel Saldırı hasarına eklenir.
+├ [T2] Kemik Dişli Kılıç (ID: 1102)
+│   Özel Saldırı: Kasırga, Özel Saldırı: Yeniden Birleştir olarak değişir.
+│   └ [T3] Gıcırdayan Omurga (ID: 1103)
+│       'Özel Saldırı: Yeniden Birleştir' saldırısının menzili artar ve Saldırı Hızı kademeli olarak en fazla %35 artar. (Saldırmayı bıraktığında sıfırlanır.)
+├ [T2] Ayaza Bağlı Büyük Kılıç (ID: 1104)
+│   Silah Saldırısı gerçekleştirirken hedefe Soğuk Hasarı değerinin %30 kadarına eşit ilave hasar verir.
+│   ├ [T3] Ebedî Ayaz Büyük Kılıcı (ID: 1105)
+│   │   Ek Soğuk Hasarı %30'dan %55'e çıkar.
+│   │   Normal Saldırı menzili artar ve temel kombo %15 hızlanır (toplam süreye göre).
+│   ├ [T3] Buz Sarkıtı Kılıcı (ID: 1106)
+│   │   Silah Saldırısı, %80 ihtimalle Soğuk Isırması uygular. Donma hasarını %20 artırır.
+│   └ [T3] Şeytan Çıkarma Büyük Kılıcı (ID: 1114)
+│       Artefakt Ruh Kovma Kını tarafından verilen hasarı 33% artırır ve 15% daha hızlı yükler.
+├ [T2] Kızıl Diken (ID: 1107)
+│   Hedefe saldırır ve Yara uygular.
+│   ├ [T3] Kızıl Girdap (ID: 1108)
+│   │   Normal Saldırı ve Atılma saldırısı, 3 vuruşluk kombolara dönüşür. Her vuruşun hasarı, asıl hasarın %40'ı olacak şekilde ayarlanır. Yara için azami yükler 6 artar.
+│   └ [T3] Engizitör (ID: 1115)
+│       Silah ile verilen Fiziksel Hasar, Kaos olarak uygulanır. Özel Saldırı: Kasırga yerine Özel Saldırı: Yara Patlaması geçer.
+├ [T2] Yıldırım Büyük Kılıcı "E2G" (ID: 1112)
+│   Silah Saldırısı gerçekleştirirken hedefe Yıldırım Hasarı değerinin %30 kadarına eşit ilave hasar verir.
+│   ├ [T3] Yıldırım Büyük Kılıcı "E3G" (ID: 1109)
+│   │   Her 5 saldırıda 5 Fırtına Bulutu yükü kazanılır. Özel Saldırı: Kasırga kullanıldığında Fırtına Bulutu Tüketim Hızı değerini 10 saniyeliğine %100 artıran bir güçlendirme kazanılır. (En fazla 5 yük.)
+│   └ [T3] Yıldırım Büyük Kılıcı "S3G" (ID: 1113)
+│       Silah Saldırısı gerçekleştirildiğinde hedefe Elektrik Çarpması uygular. Ek Elektrik Çarpması hasarı %33 artar.
+└ [T2] Tekinsiz Haz (ID: 17)
+    Silah Saldırısı, Lazer kullanan bir biçime dönüşür.
+    ├ [T3] İllüzyonistin Mirası (ID: 1117)
+    │   Büyü Kitabı Hızı %50 artar.
+    ├ [T3] Saf Form (ID: 1118)
+    │   Normal Saldırı ve Atılma saldırısı lazerleri büyür ve hasarları %25 artar.
+    └ [T3] Lazarion (ID: 1120)
+        Özel Saldırı: Kasırga, Özel Saldırı: Ametist Çağırma olarak değişir.
+
+================================================================================
+
+=== [T1] Hançer (ID: 20) ===
+[No effect text]
+├ [T2] Eşiğin Ötesi (ID: 22)
+│   Atılma saldırısı gerçekleştirildiğinde 10 saniyeliğine şu güçlendirme kazanılır: Normal Saldırı hasarı +%20 ve Atılma saldırısı hasarı +%30. Özel Saldırı: Hiddet devre dışı kalır.
+│   ├ [T3] Işıksız Bıçak (ID: 26)
+│   │   Atılma kullanıldığında, Atılma saldırısı yerine Atılma Saldırısı: Bıçak Hapishanesi geçer.
+│   └ [T3] Mutlak Haset (ID: 27)
+│       3., 4. ve 5. Normal Saldırı hasarı %25 artar ve sendeletme etkisi güçlenir.
+├ [T2] Kurak Esinti (ID: 23)
+│   Özel Saldırı: Hiddet hasarı %20 artar.
+│   ├ [T3] Sinsice Yaklaşan Umutsuzluk (ID: 28)
+│   │   Özel Saldırı: Hiddet hasarı ilave %10 artar.
+│   │   Başarılı bir Özel Saldırı: Savuşturma, Trans etkisini iki kez doldurur.
+│   └ [T3] Çetin Sınav (ID: 29)
+│       Artık Özel Saldırı: Savuşturma kullanılamaz ancak Silah Saldırısı kullanıldığında %{30} ihtimalle Trans kazanılır. (Trans en fazla 4 kez yüklenebilir.)
+├ [T2] Ateş Hançeri (ID: 1200)
+│   Silah Saldırısı gerçekleştirirken hedefe Ateş Hasarı değerinin %25 kadarına eşit ilave hasar verir.
+│   ├ [T3] Kızgın Bıçak (ID: 1201)
+│   │   Özel Saldırı: Savuşturma, Özel Saldırı: Hançer Fırlatma ile değiştirilir.
+│   └ [T3] Solis Imber (ID: 1214)
+│       Özel Saldırı: Hiddet isabet ettiğinde tüm Güneş Kılıcı etkilerini etkinleştirir.
+├ [T2] Şimşek Hançeri (ID: 1203)
+│   Silah Saldırısı gerçekleştirirken hedefe Yıldırım Hasarı değerinin %25 kadarına eşit ilave hasar verir.
+│   ├ [T3] Tepedeki Fırtına Bulutu (ID: 1204)
+│   │   Ek Fırtına Bulutu hasarı %15 artar, Yıldırım Hasarı 5 artar.
+│   └ [T3] Şimşeğin Gazabı (ID: 1205)
+│       Silah Saldırısı kullanırken %70 ihtimalle Elektrik Çarpması zayıflatması uygular. Elektrik Çarpması yükler 1 artar.
+├ [T2] Alp Edelvaysı (ID: 1206)
+│   Silah Saldırısı, Şuriken Fırlat kullanan bir biçime dönüşür.
+│   ├ [T3] Adonis (ID: 1207)
+│   │   Silah Saldırısı ile verilen Kritik Hasarı %30 güçlendirilir.
+│   └ [T3] Karanlık Peçe (ID: 1210)
+│       Silah Saldırısı kullanıldığında Hükmet güçlendirmesi kazanılır
+├ [T2] Yeşim Kalıntısı (ID: 1208)
+│   Artık Özel Saldırı: Savuşturma kullanılamaz ancak her 2,8 saniyede bir Trans kazanılır. (Her Kaçınma için dolum hızı %1 artar, en fazla %33.)
+│   └ [T3] Sınırsız Dalma (ID: 1209)
+│       Her 1 Kaçınma için Trans dolum hızı ilave %0,25 artar. Kaçınma kaynaklı dolum hızı sınırı kaldırılır.
+├ [T2] Akademi Büyülü Kılıcı (ID: 1212)
+│   Özel Saldırı: Savuşturma MP bedeli 0 olur ve başarılı bir Özel Saldırı: Savuşturma gerçekleştirildiğinde %30 MP yenilenir.
+│   ├ [T3] Taklit Kitabı (ID: 1211)
+│   │   Özel Saldırı: Hiddet, Büyü Kitabı: Kopyalama olarak değişir.
+│   └ [T3] Akademi Sihirli Kılıcı - Kurtuluş (ID: 1213)
+│       Özel Saldırı: Hiddet, Özel Saldırı: Özgürleşme olarak değişir.
+└ [T2] Uykudaki Ayaz (ID: 1215)
+    Silah Saldırısı ile verilen hasar %20 azalır, ancak Soğuk Hasarı olarak değiştirilir.
+    ├ [T3] Donmuş İzabe (ID: 1216)
+    │   Soğuk Hasarı 5 artar ve Özel Saldırı isabet ettiğinde Soğuk Isırması etkisini 2 kez uygular.
+    └ [T3] Drífa (ID: 1217)
+        Yadigâr Tipi Çekici, “Kar Fırtınası Tırpanı” olarak değişir. Hasarı %50 azalır ancak hedeflenen konuma uçar ve düşmanlara sürekli saldırır.
+
+================================================================================
+
+=== [T1] Devasa Arbalet (ID: 100) ===
+[No effect text]
+├ [T2] Devasa Arbalet: Yeniden Doldurma Düzeneği (ID: 101)
+│   Normal Saldırı hasarı %45 azalır. Özel Saldırı yerine 'Gelişmiş Doldurma' geçer.
+│   ├ [T3] Devasa Arbalet: Hızlandırma Çekirdeği (ID: 102)
+│   │   Saldırdıkça Saldırı Hızı birikir ve temel Saldırı Hızı değerine en fazla +%60 ekler.
+│   ├ [T3] Arbalet: İkiz (ID: 103)
+│   │   Normal Saldırı iki mermi ateşler ve saldırı sırasında biraz daha serbest hareket etmeyi sağlar. Atış hızı, Hareket Hızı artışı kadar yükselir.
+│   └ [T3] Ödül Avcısı (ID: 125)
+│       Şarjör 6 mermiye sabitlenir ve Atılma kullanıldığında anında doldurulur.
+│       Atılma saldırısı devre dışı kalır ve her Atılma Sayısı puanı başına hasar 7% artar.
+├ [T2] Devasa Arbalet: Saçmalı Atış Düzeneği (ID: 104)
+│   Normal Saldırı yerine Normal Saldırı: Patlayıcı Atış geçer ve hasar %80 artar.
+│   ├ [T3] Devasa Arbalet: Barut Sentezi (ID: 105)
+│   │   Silah Saldırısı için Kritik Şansı değerini %35 artırır ve saldırı kritik isabet ettiğinde 1 mermi doldurur.
+│   ├ [T3] Devasa Arbalet: Patlayıcı Düzenek (ID: 116)
+│   │   Normal Saldırı hasarı %10 artar.
+│   └ [T3] Midye (ID: 127)
+│       Normal Saldırı ve Atılma saldırısı sırasında Yapışkan Bomba yerleştirir. Özel Saldırı yerine Özel Saldırı: Patlama geçer.
+├ [T2] Devasa Arbalet: Geliştirilmiş Özel Oklar (ID: 106)
+│   Özel Saldırı: Güç Oku saldırı menzili ve hasarı %30 artar.
+│   └ [T3] Devasa Arbalet: Seri Atış Düzeneği (ID: 117)
+│       Özel Saldırı: Güç Oku art arda kullanıldığında (2 saniye içinde), her art arda kullanım başına %10 ilave hasar verir. (En fazla %50)
+├ [T2] Devasa Arbalet: Ateş Mayını (ID: 108)
+│   Silah Saldırısı ile verilen hasar %20 azalır, ancak Ateş Hasarı olarak değiştirilir.
+│   ├ [T3] Devasa Arbalet: Güdüm Modülü Donanımlı (ID: 109)
+│   │   Özel Saldırı bedeli 3'e düşer ve her Ek MP başına hasar %0,9 artar. Özel Saldırı yakındaki düşmanları takip eder.
+│   ├ [T3] Mini Top (ID: 118)
+│   │   Normal Saldırı ile bir El Bombası Fırlat ateşler. Ateşleme hızı Saldırı Hızı değerinden etkilenmez, ancak her ilave Saldırı Hızı başına hasarı ve alanı %1 artar.
+│   └ [T3] Solis Iubar (ID: 124)
+│       Silah Hasarı 15% azalır ancak Güneş Kılıcı Hasarı 35% artar.
+├ [T2] Devasa Arbalet: Kararsız Yıldırım İşareti (ID: 110)
+│   Normal Saldırı kullanıldığında, %40 ihtimalle 'Yıldırım Oku' ateşler.
+│   ├ [T3] Devasa Arbalet: İşaret Sabitleme (ID: 111)
+│   │   'Yıldırım Oku' isabet ettiğinde Elektrik Çarpması zayıflatması uygular. Elektrik Çarpması hasarı %25 artar.
+│   ├ [T3] Devasa Arbalet: Bulut Toplayıcı (ID: 115)
+│   │   'Yıldırım Oku' bir düşmana isabet ettiğinde 3 Fırtına Bulutu puanı kazanırsın.
+│   └ [T3] Minigun (ID: 126)
+│       Yıldırım Oku ateşleme ihtimali %10 artar. Özel Saldırı yerine Özel Saldırı: Yaylım Ateşi geçer.
+├ [T2] Devasa Arbalet: Ayaz Perdesi (ID: 112)
+│   Özel Saldırı yerine 'Ayaz Perdesi' geçer.
+│   ├ [T3] Devasa Arbalet: Ani Dondurma Kristali (ID: 113)
+│   │   Ayaz Yadigârı hasarı 20% artar.
+│   └ [T3] Devasa Arbalet: Genişletme Düzeneği (ID: 114)
+│       Ayaz Perdesi etkinken düşmanları delip geçen Soğuk Isırması mermileri ateşler.
+│       [Şarjör Kapasitesi 5 mermiye sabitlenir]
+├ [T2] Kagumede (ID: 119)
+│   Hedefe saldırır ve Zehir uygular.
+│   ├ [T3] Kalim'in Sureti (ID: 120)
+│   │   Heita’nın Ruh Tozu, Tero’nun Ruh Tozu ve Ahmad’ın Ruh Tozu iki kez saldırır ve %25 daha fazla hasar verir.
+│   └ [T3] Mor Ceket (ID: 121)
+│       Zehir yük 3 artar.
+└ [T2] M-9199 (ID: 122)
+    Normal Saldırı düşmanları deler ve hasarı %15 artar. Özel Saldırı, ‘Özel Saldırı: Mühimmat Sıkıştırma’ olarak değişir.
+    └ [T3] XRA-9 (ID: 123)
+        Normal saldırıyla son mermi kullanıldığında tüm Büyü Kitabı ve Aktif Eser yeteneklerinin mevcut bekleme süresi %25 azalır.
+
+================================================================================
+
+=== [T1] Keskin Kılıç (ID: 400) ===
+[No effect text]
+├ [T2] Uzun Kılıç 'Onohara' (ID: 401)
+│   Özel Saldırı: Ağır Kesme, Saldırı Hızı değerinden etkilenir. Saldırı Hızı %15 artar.
+│   ├ [T3] Ünlü Kılıç 'Muramasa' (ID: 402)
+│   │   Daima Kınına Koy durumunda kalır ve Özel Saldırı: Ağır Kesme, Özel Saldırı: Seri Kesme olarak değişir. Saldırı Hızı verimliliği %80 artar.
+│   └ [T3] Canavar İzli Kılıç 'Hou' (ID: 403)
+│       Özel Saldırı: Ağır Kesme temel Saldırı Hızı değeri %24 azalır, ancak uzaktaki düşmanları vurabilir. Her 2 Kaçınma için hasar %1 artar.
+├ [T2] Helbanus (ID: 406)
+│   Silah Saldırısı gerçekleştirirken hedefe Ateş Hasarı değerinin %30 kadarına eşit ilave hasar verir.
+│   ├ [T3] Alevli Helbanus (ID: 407)
+│   │   Yanık yükler 2 artar ve Ateş Hasarı 4 artar.
+│   ├ [T3] Heidi (ID: 408)
+│   │   Atılma Sayısı tüketirken 'Aşırı Isınma' yükleri kazanırsın. (Varsayılan olarak 1, Kınına Koy kullanırken 3 kazanırsın, en fazla 9 yük) Normal Saldırı kullanırken yükleri tüketir.
+│   └ [T3] Solis Ekli (ID: 422)
+│       Kınına Koy, Tutulma olarak değişir.
+├ [T2] Yarma Kılıcı: Gökyaran (ID: 409)
+│   Normal Saldırı yoluyla Kılıç Darbesi kazanırsın. Özel Saldırı: Ağır Kesme, Normal Saldırı: Iaido Kesmesi olarak değişir.
+│   ├ [T3] Yarma Kılıcı: Süzülen Söğüt (ID: 410)
+│   │   Kritik Şansı %30 artar ve Normal Saldırı: Büyük Iaido Kesmesi menzili tam alan saldırısına dönüşür.
+│   └ [T3] Yarma Kılıcı: Yıkım Dansı (ID: 411)
+│       Normal Saldırı: Büyük Iaido Kesmesi kullanamazsın, ancak Kılıç Darbesi göstergesi %100 olduğunda Yaylım güçlendirmesi kazanırsın.
+├ [T2] Bekleyen Gök Mavisi Kılıç (ID: 412)
+│   Kınına Koy durumundayken sürekli 'Kılıç Darbesi' kazanırsın. Büyü yaparken 10 Kılıç Darbesi tüketerek Büyü Kitabı Hasarı değerini %20 artırırsın.
+│   ├ [T3] Yui'nin Kısa Hançeri (ID: 413)
+│   │   Büyü Kitabı Kritik Şansı %30 artar.
+│   └ [T3] Adamah'ın Yemini (ID: 414)
+│       Büyü kullanıldığında düşmana doğru uçup hasar veren bir 'Büyülü Kılıç' çağırır. (Hasar: 20 + boş MP miktarının %70'i)
+├ [T2] Kütüphane Tayfsal Mühürleme Cemiyeti Model I (ID: 416)
+│   Atılma Saldırısı Hasarı %40 artar ve Atılma Sayısı tüketildiğinde bir ruh, yakındaki düşmanlara iki kez Atılma saldırısı yapar. (Bekleme süresi: 2.5 saniye)
+│   └ [T3] Kütüphane Tayfsal Mühürleme Cemiyeti Model II (ID: 417)
+│       Ruhun Atılma saldırısı bekleme süresi 1 saniye olarak değişir ve her Atılma Sayısı için %10 azalır.
+│       Kınına Koy dokunulmazlık süresi %50 artar ve bir saldırı engellenirse ruh, Atılma Sayısı kadar Atılma saldırısı yapar.
+├ [T2] Kış Demircisinin Taslak Kılıcı (ID: 419)
+│   Kınına Koy yerine Omuz Atma gelir. Silah Saldırısı sırasında Soğuk Hasarı değerinin %15 kadarına eşit ek hasar verir. Soğuk Hasarı 3 artar.
+│   ├ [T3] Ebedî Ayazın Sessizliği (ID: 420)
+│   │   Omuz Atma, Özel Saldırı: Buz Kayışı olarak değişir. Dokunulmazlık sırasında düşman saldırılarını engellemek Buzulun Yankısı eserini anında tetikler. Etkinleştiğinde yakındaki düşmanlara hasar verir. (Hasar: Soğuk Hasarı değerinin %120 kadarı)
+│   └ [T3] Nastrond Parçası (ID: 421)
+│       Bir Omuz Atma eyleminden sonra saldırırken Ayaz Yadigârı: Skaði etkinleşir.
+├ [T2] Gök Gürültüsü Kılıcı 'Bronte' (ID: 404)
+│   Silah Saldırısı ile verilen hasar %20 azalır, ancak Yıldırım Hasarı olarak değiştirilir.
+│   ├ [T3] Şimşek Parıltısı (ID: 405)
+│   │   Elektrik Çarpması ile hasar verdiğinde 1 'Elektrik Yükü' yükü kazanırsın. (En fazla 10)
+│   │   Özel Saldırı: Ağır Kesme sırasında Özel Saldırı: Issen gerçekleştirmek için 2 'Elektrik Yükü' yükü tüketirsin.
+│   └ [T3] Masmavi Bulut Kılıcı 'Arges' (ID: 425)
+│       Kınına Koy, Özel Saldırı: Bulut Kesmesi olarak değişir.
+│       Fırtına Bulutu kendiliğinden yıldırım düşürdüğünde 1 Artık Yıldırım yükü kazanırsın. (Maks. 20)
+└ [T2] Zırh Büken (ID: 423)
+    Her 2 Savunma için Normal Saldırı ile verilen hasar %1 artar.
+    └ [T3] Zırh Kıran Kılıç (ID: 424)
+        Kınına Koy durumunda değilken her 0.8 saniyede 1 Sertleşme yükü kazanırsın.
+
+================================================================================
+
+=== [T1] Dövüş Asası (ID: 500) ===
+[No effect text]
+├ [T2] Gösterişli Asa (ID: 501)
+│   Normal Saldırı, Normal Saldırı: Çiçek Asası olarak değişir
+│   ├ [T3] Muazzam Kudret Asası (ID: 502)
+│   │   Normal Saldırı Hasarı %30 artar ve saldırırken Savunma değerinin %5 kadarına eşit Kalkan kazanırsın. (Her 20 saniyede yenilenir.)
+│   └ [T3] Ilonica'nın Ruh Asası (ID: 503)
+│       Doğrudan hiçbir Büyü Kitabı kullanamazsın. Normal Saldırı: Çiçek Asası, Büyü Kitabı: Yıldırım Yaylımı olarak değişir.
+├ [T2] İlahi Demir Asa (ID: 505)
+│   Silah Saldırısı gerçekleştirildiğinde Uzatılmış Asa güçlendirmesi kazanılır.
+│   ├ [T3] Denizin Ağırlığı (ID: 506)
+│   │   Başarılı bir Blok sonrasında Ağır Asa güçlendirmesi kazanırsın.
+│   └ [T3] Halkasız Asa (ID: 507)
+│       Kritik Şansı 30% değerinin altındaysa verilen hasar 20% artar.
+├ [T2] Uzak Yıldız Işığı (ID: 509)
+│   Özel Saldırı: Karşılık hasarı %20 artar. Maks. MP en az 100 ise Özel Saldırı: Karşılık kullanırken her yönde Blok sağlanır.
+│   └ [T3] Astral Deniz Pulu (ID: 510)
+│       Başarılı bir Blok sonrasında Normal Saldırı ile 'Kristal Patlaması' kullanılır.
+├ [T2] Georoid Mızrağı (ID: 513)
+│   Normal Saldırı: Mızrak Saplaması ve Atılma saldırısı: Mızrak Saldırısı kullanabilirsin.
+│   ├ [T3] Ruadhslea Mızrağı (ID: 514)
+│   │   Saldırı Hızı %10 artar. Bir silahla saldırırken Atılma Sayısı özelliğinin her puanı başına hasar %5 artar.
+│   └ [T3] Fuarsca Mızrağı (ID: 515)
+│       Atılma saldırısı: Mızrak Saldırısı kullanırken Blok kazanırsın ve daha önce kullanılan her Atılma başına hasar %30 artar. (En fazla 6 kez.)
+├ [T2] Kor Asası (ID: 517)
+│   Silah Saldırısı ile verilen hasar %15 azalır, ancak Ateş Hasarı olarak değiştirilir.
+│   ├ [T3] Fiaola'nın Hüküm Asası (ID: 518)
+│   │   Yanık uygulandığında Ateş Çemberi oluşturur ve 5 karolar içindeki düşmanlara 10 saniye boyunca saldırır. (Hasar: Her 0.5 saniyede Ateş Hasarı %40, hasar Yanık Hasarı ile artar.)
+│   └ [T3] Solis Braca (ID: 519)
+│       Güneş Kılıcı geri alındığında fazladan 1 geri alırsın. Özel Saldırı, Özel Saldırı: Güneş Mızrağı Dövme olarak değişir.
+├ [T2] Kırağı Asası (ID: 521)
+│   Silah Saldırısı ile verilen hasar %15 azalır, ancak Soğuk Hasarı olarak değiştirilir.
+│   ├ [T3] Kâhin Asası (ID: 522)
+│   │   Silah Saldırısı ile 3 kez isabet ettikten sonra nişan alınan yönde Voluspa yadigârını etkinleştirir.
+│   └ [T3] Malaspina (ID: 523)
+│       Silah Saldırısı sırasında %30 ihtimalle Soğuk Isırması uygular. Soğuk Hasarı 5 artar.
+├ [T2] Fırtınalar Asası (ID: 525)
+│   Silah Saldırısı ile verilen hasar %15 azalır, ancak Yıldırım Hasarı olarak değiştirilir.
+│   ├ [T3] Viduka (ID: 526)
+│   │   Elektro Çakram hasarı %20 artar ve dönüş yarıçapı nişangâha kadar uzar.
+│   └ [T3] Nephorhax (ID: 528)
+│       Atılma saldırısı, Bulut Şişesi Fırlat olarak değişir. Atılma saldırısı isabet ettiğinde hedefte hemen %70 hasar veren Fırtına Bulutu tetiklenir.
+└ [T2] Cirit (ID: 529)
+    Normal Saldırı yerine Normal Saldırı: Mızrak Fırlatma geçer ve Silah Hasarı 10 artar.
+    ├ [T3] Kutsal Testi (ID: 530)
+    │   Normal Saldırı, Yoldaş Hasarı niteliklerini birleştirir.
+    ├ [T3] Biçimsiz Dans (ID: 531)
+    │   Normal Saldırı düşmanları kendine çeker ve iki kez ateş etme ihtimali kazanır. (Her 1 Kaçınma başına 1% artar)
+    └ [T3] Vâris (ID: 532)
+        Büyü Kitabı Hasarı 30% artar.

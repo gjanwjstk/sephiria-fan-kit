@@ -1,0 +1,200 @@
+﻿Combo effect text — 20 / language: tr-TR (tr-TR)
+================================================================================
+
+=== Akademi (ACADEMY) ===
+[Combo effect]
+  (2) +12 Büyü Kitabı Hızı
+  (4) +15% Büyü Kitabı MP Maliyetini Azalt
+  (6) +16 Büyü Kitabı Hızı
+  (8) +20 Büyü Kitabı Hızı
+  (10) +15% Büyü Kitabı Hasarı, +8 MP Yenilenmesi
+
+================================================================================
+
+=== Simya (ALCHEMY) ===
+[Description]
+Bir eşya ödülünden Tablet elde ettiğinde rastgele bir iksir üret.
+[Combo effect]
+  (1) +1 İksir Çantası Yuvası
+  (2) +1 İksir Çantası Yuvası
+  (3) 1 rastgele iksir (Yaygın~Nadir)
+
+================================================================================
+
+=== Yoldaş (COMPANION) ===
+[Combo effect]
+  (2) +6% Yoldaş Hasarı
+  (4) +8% Yoldaş Hasarı
+  (6) +10% Yoldaş Hasarı, +15 Yoldaş Savunması
+  (8) +12% Yoldaş Hasarı, +20 Yoldaş Savunması
+  (10) +20% Yoldaş Hasarı, +40% Yoldaş Dirilme Hızı
+
+================================================================================
+
+=== Lanet (CURSE) ===
+[Combo effect]
+  (2) +10% Zayıflatma ile verilen hasar, +7% Hareket Hızı
+  (4) +15% Zayıflatma ile verilen hasar
+
+================================================================================
+
+=== Fırtına Bulutu (DARKCLOUD) ===
+[Description]
+Bir Fırtına Bulutu çağırır. Her 1 saniyede bir yakındaki düşmanlara yıldırım çarptırır. (Hasar: Yıldırım Hasarı 110%)
+Savaş sırasında her 5 saniyede bir kapasite yükünün %5 kadarını yeniler.
+[Combo effect]
+  (2) Fırtına Bulutu etkinleştirildi (Temel kapasite 15)
+  (4) +8 Fırtına Bulutu Kapasitesi
+  (6) +12 Fırtına Bulutu Kapasitesi
+  (8) +16 Fırtına Bulutu Kapasitesi
+  (10) +20 Fırtına Bulutu Kapasitesi, Fırtına Bulutu, 2 çoklu atışla saldırır
+
+================================================================================
+
+=== Element (ELEMENTAL) ===
+[Combo effect]
+  (2) +5 En Yüksek Element Hasarı
+  (4) +6 En Yüksek Element Hasarı
+  (6) Tüm Element hasarı 10% kadar güçlendir
+
+================================================================================
+
+=== Kor (EMBER) ===
+[Description]
+Alev Dokunuşu: Ateş hasar verirken Yanık zayıflatmasını uygula (zayıflatma hasarı hariç). (Bekleme süresi: 2 saniye)
+[Combo effect]
+  (2) Alev Dokunuşu Etkisini Etkinleştir
+  (4) +6 Ateş Hasarı
+  (6) Alev Dokunuşu Bekleme Süresi Hızı 150%
+  (8) +8 Ateş Hasarı
+  (10) Yanık taban hasar çarpanı 18 değerinden %28 değerine çıkar
+
+================================================================================
+
+=== Güneş Kılıcı (FLAMESWORD) ===
+[Description]
+Bir Silah Saldırısı veya Büyü Kitabı ile hasar verdiğinde bir Güneş Kılıcı fırlatırsın. (Hasar: Ateş Hasarı 115%) Fırlatılan Güneş Kılıcı yere düşer ve tekrar alınabilir.
+[Combo effect]
+  (2) Etkiyi etkinleştir (Basit Kılıç ×5)
+  (4) +6% Güneş Kılıcı Hasarı
+  (6) +8% Güneş Kılıcı Hasarı, +1 Azami Güneş Kılıcı Sayısı
+  (8) +10% Güneş Kılıcı Hasarı, +2 Azami Güneş Kılıcı Sayısı
+  (10) +12% Güneş Kılıcı Hasarı, +6 Azami Güneş Kılıcı Sayısı
+
+================================================================================
+
+=== Ayaz Yadigârı (FROST) ===
+[Combo effect]
+  (2) +6% Ayaz Yadigârı Dolum Hızı
+  (4) +8% Ayaz Yadigârı Dolum Hızı
+  (6) +6% Ayaz Yadigârı hasarı
+  (8) +8% Ayaz Yadigârı hasarı
+  (10) Ayaz Yadigârı 1 kez daha etkinleşir
+
+================================================================================
+
+=== Buzul (GLACIER) ===
+[Description]
+Ayaz Dokunuşu: Buz hasar verirken Soğuk Isırması zayıflatmasını uygula (zayıflatma hasarı hariç). (Bekleme süresi: 2 saniye)
+[Combo effect]
+  (2) Ayaz Dokunuşu Etkisini Etkinleştir
+  (4) +6 Soğuk Hasarı
+  (6) Ayaz Dokunuşu Bekleme Süresi Hızı 150%
+  (8) +8 Soğuk Hasarı
+  (10) Donma için gereken Soğuk Isırması yükler sayısı -1
+
+================================================================================
+
+=== Muhafız (GUARDIAN) ===
+[Combo effect]
+  (2) +6 Savunma
+  (4) +7 Savunma
+  (6) +8 Savunma
+  (8) +10 Savunma
+  (10) +12 Savunma, +5% Savunmayı Yok Sayma
+
+================================================================================
+
+=== Göl (LAKE) ===
+[Combo effect]
+  (3) +20 Maks. MP, +5 MP Yenilenmesi
+  (6) +30 Maks. MP, +10% MP tüketen yeteneklerin hasarı
+  (9) +40 Maks. MP, +25% MP tüketen yeteneklerin hasarı
+
+================================================================================
+
+=== Büyütek (MAGITECH) ===
+[Description]
+Şok Dokunuşu: Yıldırım hasar verirken Elektrik Çarpması zayıflatmasını uygula (zayıflatma hasarı hariç). (Bekleme süresi: 2 saniye)
+[Combo effect]
+  (2) Şok Dokunuşu Etkisini Etkinleştir
+  (4) +6 Yıldırım Hasarı
+  (6) Şok Dokunuşu Bekleme Süresi Hızı 150%
+  (8) +8 Yıldırım Hasarı
+  (10) Elektrik Çarpması Etkinleşme Süresi -1sn
+
+================================================================================
+
+=== Mistik (MYSTIC) ===
+[Description]
+Belirli bir envanter yuvasındaki eser seviyesi verimliliği iki katına çıkar.
+[Combo effect]
+  (2) Rastgele 1 yuvalar
+  (4) Rastgele 2 yuvalar
+
+================================================================================
+
+=== Gezegen (PLANET) ===
+[Combo effect]
+  (2) +8% Gezegen Hasarı
+  (4) +10% Gezegen Hasarı
+  (6) +12% Gezegen Hasarı
+  (8) +14% Gezegen Hasarı
+  (10) +16% Gezegen Hasarı, +12% Gezegen Saldırı Hızı
+
+================================================================================
+
+=== Hassasiyet (PRECISION) ===
+[Combo effect]
+  (2) +4% Kritik Şansı
+  (4) +6% Kritik Şansı
+  (6) +8% Kritik Şansı
+  (8) +10% Kritik Şansı
+  (10) +30% Kritik Hasarı
+
+================================================================================
+
+=== Pazarlık (SAVVY) ===
+[Combo effect]
+  (2) +10 Pazarlık, +15% Yaprak Düşürme
+  (4) +15 Pazarlık, Altın El: Sahip olunan her 200 Yaprak başına düşmanlara verilen hasar +1% artar (en fazla 20%)
+
+================================================================================
+
+=== Gölge (SHADOW) ===
+[Combo effect]
+  (2) +4 Kaçınma
+  (4) +5 Kaçınma
+  (6) +6 Kaçınma
+  (8) +8 Kaçınma
+  (10) +10 Kaçınma
+
+================================================================================
+
+=== Sağlam (STURDY) ===
+[Combo effect]
+  (2) +2 Fiziksel Hasar
+  (4) +4 Fiziksel Hasar
+  (6) +6 Fiziksel Hasar
+  (8) +8 Fiziksel Hasar
+  (10) +15% Fiziksel Hasar Artışı
+
+================================================================================
+
+=== Rüzgâr Şarkısı (WINDSONG) ===
+[Combo effect]
+  (2) +8% Saldırı Hızı
+  (4) +12% Saldırı Hızı
+  (6) +16% Saldırı Hızı
+  (8) +20% Saldırı Hızı
+  (10) +15% Silah Hasarı, +1 Atılma Sayısı

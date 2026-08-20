@@ -22,9 +22,9 @@ such as wikis, fan sites, guides, and videos.
 | `Stages/` | 스테이지 노드 이미지 |
 | `FaceChips/` | 대화 초상화 |
 | `KeyArt/` `Logo/` `Brand/` `Screenshots/` `Gifs/` `Steam/` | 키아트, 로고, 색상 팔레트, 스크린샷, GIF, 상점 아트 |
-| `Effects/` | 아이템·무기·석판 효과 텍스트 (12개 언어) |
+| `Effects/` | 아이템·무기·석판 효과 텍스트 (15개 언어) |
 | `*_index.csv` | 아이템 목록. id, 등급, 이름(한/영), 효과문 |
-| `tag_dictionary.json` | 게임 내 태그 → 12개 언어 표시명 사전 |
+| `tag_dictionary.json` | 게임 내 태그 → 15개 언어 표시명 사전 |
 
 아이콘은 `1x`(원본 픽셀)부터 `8x`까지 정수배로 들어 있습니다. 확대본은 최근접
 보간이라 픽셀이 뭉개지지 않습니다. 웹에 올리실 때 CSS에

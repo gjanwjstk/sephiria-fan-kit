@@ -1,0 +1,2920 @@
+﻿All item effect text — 426 / language: it-IT (it-IT)
+================================================================================
+
+── activeType: Default — 211 ──
+
+=== Pozione ristoratrice (ID: 0) [Default] [Potion] [Rarità: Comune] ===
+Ripristina 20% PS
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pozione rigenerante grande (ID: 1) [Default] [Potion] [Rarità: Avanzato] ===
+Ripristina 50% PS
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Carota speciale di Conigliopoli (ID: 7) [Default] [Misc] [Rarità: Comune] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pozione della concentrazione grande (ID: 26) [Default] [Potion] [Rarità: Comune] ===
+Ripristina 1 MP ogni 0,25 secondi per 25 secondi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Succo di mela (ID: 27) [Default] [Potion] [Rarità: Comune] ===
+Ripristina 1 PS al secondo per 30 secondi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Testardaggine di Nebbiolo (ID: 28) [Default] [Potion] [Rarità: Raro] ===
+Danni fisici +4
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Nebbia di Ugni Blanc (ID: 29) [Default] [Potion] [Rarità: Raro] ===
+Danni da freddo +4
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Passione di Tempranillo (ID: 30) [Default] [Potion] [Rarità: Raro] ===
+Danni da fuoco +4
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Profondità di Malbec (ID: 31) [Default] [Potion] [Rarità: Raro] ===
+Danni da fulmine +4
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Capriccio di Grenache (ID: 32) [Default] [Potion] [Rarità: Raro] ===
+Conferisce un effetto casuale.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pozione Grande del Dado (ID: 33) [Default] [Potion] [Rarità: Raro] ===
+Ottieni 3 dadi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pozione del dado piccola (ID: 34) [Default] [Potion] [Rarità: Avanzato] ===
+Ottieni 2 dadi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Giuramento del signore dei vampiri (ID: 36) [Default] [Potion] [Rarità: Leggendario] ===
+Assorbimento vitale +1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pozione della rigenerazione (campione) (ID: 37) [Default] [Potion] [Rarità: Comune] ===
+Ripristina 1% PS
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pozione del risveglio (ID: 38) [Default] [Potion] [Rarità: Raro] ===
+Incanta un artefatto una volta
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Zuppa di funghi (ID: 39) [Default] [Potion] [Rarità: Raro] ===
+Aumenta di 6 il danno dell'elemento più potente
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Santità del trappista (ID: 40) [Default] [Potion] [Rarità: Avanzato] ===
+Danni fisici +2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fumo di Märzen (ID: 41) [Default] [Potion] [Rarità: Avanzato] ===
+Danni da fuoco +2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cristallo dell'Aventino (ID: 42) [Default] [Potion] [Rarità: Avanzato] ===
+Danni da freddo +2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mattino di Gose (ID: 43) [Default] [Potion] [Rarità: Avanzato] ===
+Danni da fulmine +2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Momento di Lambic (ID: 44) [Default] [Potion] [Rarità: Avanzato] ===
+Conferisce un effetto casuale.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tenacia di Madeira (ID: 45) [Default] [Potion] [Rarità: Raro] ===
+PS finali +5%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tempra del Sagrantino (ID: 47) [Default] [Potion] [Rarità: Raro] ===
+Difesa +5
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Margine del Poulsard (ID: 48) [Default] [Potion] [Rarità: Raro] ===
+Evasione +5
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Portamento del Madiran (ID: 49) [Default] [Potion] [Rarità: Avanzato] ===
+Difesa +3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Leggerezza della Grisette (ID: 50) [Default] [Potion] [Rarità: Avanzato] ===
+Evasione +3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ensemble della Gueuze (ID: 51) [Default] [Potion] [Rarità: Avanzato] ===
+Danno elementale più alto +2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Amuleto della forza (ID: 1000) [Default] [Charm] [Rarità: Comune] ===
+[Category] Robusto(STURDY)
++2/3/4/6 Danni fisici
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Amuleto dell'abilità (ID: 1001) [Default] [Charm] [Rarità: Comune] ===
+[Category] Ombra(SHADOW)
++3/6 Evasione
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Amuleto dell'intelligenza (ID: 1002) [Default] [Charm] [Rarità: Comune] ===
+[Category] Ghiacciaio(GLACIER)
++3/4/6/8 Danni da freddo
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Radice spezzata (ID: 1004) [Default] [Charm] [Rarità: Raro] ===
+[Category] Lago(LAKE)
+MP massimi +5/60
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Carota a forma di cuore (ID: 1005) [Default] [Charm] [Rarità: Raro] ===
+[Category] Lago(LAKE)
+PV massimi +5/10/15/20/30
+MP massimi +5/10/15/20/30
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Spartito del vento (ID: 1008) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Canto del vento(WINDSONG)
+Aumenta la portata degli Attacco corpo a corpo del +10/20/30/40/50%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Manuale di addestramento con la spada (ID: 1009) [Default] [Charm] [Rarità: Raro] ===
+[Category] Canto del vento(WINDSONG)
+Velocità d'attacco +7/14/26%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Manuale di addestramento con lo scudo (ID: 1010) [Default] [Charm] [Rarità: Comune] ===
+[Category] Robusto(STURDY)
++5/8% Danni attacco speciale
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sciarpa d'erba del vento (ID: 1011) [Default] [Charm] [Rarità: Comune] ===
+[Category] Canto del vento(WINDSONG)
+Danni degli attacchi in scatto +30/80%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento di chiglia (ID: 1012) [Default] [Charm] [Rarità: Comune] ===
+[Category] Mistico(MYSTIC)
+PV massimi +5/20
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Chakram elettrico (ID: 1013) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Magitecnologia(MAGITECH)
+Lancia +1/2/2/3/3//4/4 chakram che attaccano periodicamente i nemici vicini
+[Danni: +50/50/80/80/110 (Danni da fulmine+50/50/80/80/110%)]
+Quando un Chakram colpisce, ha una probabilità del +10/10/10/10/30% di infliggere Elettrocuzione.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fodero dell'esorcismo (ID: 1014) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Reliquia del gelo(FROST)
+Si carica ogni 6 secondi e scatena un fendente Ghiaccio con un attacco normale
+[Danni: 24 (24 + Danni da freddo+100/150/200/260/320//380/460%)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pianeta blu (ID: 1015) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Pianeta(PLANET)
+Evoca un pianeta blu che spara proiettili Fisico
+[Danni: +10/14/18/22/26/30]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Nebbia rossa (ID: 1016) [Default] [Charm] [Rarità: Comune] ===
+[Category] Precisione(PRECISION)
+Con un colpo critico, infligge ai nemici vicini danni pari al +10/14/21/30% del valore dell'attributo più alto.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pietra calda (ID: 1018) [Default] [Charm] [Rarità: Raro] ===
+[Category] Precisione(PRECISION)
+Danni critici +10/20/30/40/50%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fiore essiccato (ID: 1023) [Default] [Charm] [Rarità: Comune] ===
+[Category] Lago(LAKE)
++2/4/6% Probabilità di critico
++2/4/6 MP massimi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Corona dorata dell'arroganza (ID: 1025) [Default] [Charm] [Rarità: Raro] ===
+[Category] Precisione(PRECISION)
+L'ultimo colpo della combo ottiene +15/30/50/75/100% di Probabilità di critico
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Contratto semplice (ID: 1026) [Default] [Charm] [Rarità: Comune] ===
+[Category] Compagno(COMPANION)
+PV massimi compagno +25/55/88/120/150%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lucchetto gelido (ID: 1027) [Default] [Charm] [Rarità: Avanzato] ===
++8/12/16/20/25% Bonus danni universale
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Campanella dorata (ID: 1029) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Compagno(COMPANION)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fermacarte di Endoditte (ID: 1031) [Default] [Charm] [Rarità: Comune] ===
+[Category] Lago(LAKE)
++3/6/9 Rigenerazione MP
++3/6/9 MP massimi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Occhi del serpente rosso (ID: 1032) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Brace(EMBER)
+Fa cadere +1/1/2/2/3/4 meteore vicino al giocatore, infliggendo il +130/150/150/170/170/170% di danni da fuoco
+Infligge Ustione ai nemici colpiti dalle meteore
+Tempo di recupero: 5 secondi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Compagno dello scudo (ID: 1034) [Default] [Charm] [Rarità: Leggendario] ===
+[Category] Robusto(STURDY)
++2/4/6/9/12//15/20% Danni di Arma
+-20/20/20/10/5//5/0% Velocità d'attacco
+Costo in MP di Attacco speciale +15/30/45/60/70//80/100
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bottiglia delle Nuvole (ID: 1035) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Nube tempestosa(DARKCLOUD)
++5/10/15/20/25/30% Velocità di consumo di Nube temporalesca
+Un Attacco in scatto riuscito conferisce +1/2/3/5/7/10 Nube temporalesca (ricarica: +3.5 secondi)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sigillo del guerriero (ID: 1036) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Robusto(STURDY)
++1/2/3/4/6//8/10/13 Danni fisici
++5/5/5/10/10//10/15/15% Velocità d'attacco
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ramo bianco (ID: 1040) [Default] [Charm] [Rarità: Raro] ===
+[Category] Lago(LAKE)
+Rigenerazione MP +5/9/15/22/30
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Carota magica (ID: 1048) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Elementale(ELEMENTAL)
++2/3/4/6/8 Danno elementale più alto
++2/4/6/8/10% Velocità di movimento
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Amuleto radioso (ID: 1050) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Robusto(STURDY)
+Dopo una parata riuscita, +2/4/6/8/10/15 danni fisici per 25.5 secondi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento di lama da risposta (ID: 1051) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Robusto(STURDY)
+Contrattacco: esegue un breve attacco in mischia in avanti quando pari (+0.5/0/0.7/1.6/2.8/4.5% dei danni fisici)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento di specchio di bronzo (ID: 1056) [Default] [Charm] [Rarità: Raro] ===
+[Category] Robusto(STURDY)
++20/30/40/50% Riduzione costo in MP di Attacco speciale
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Miniatura della Lancetta dei Minuti della Biblioteca (ID: 1058) [Default] [Charm] [Rarità: Raro] ===
+[Category] Precisione(PRECISION)
++0.1/0.2/0.3/0.4/0.5s Durata dell'invincibilità durante Attacco speciale: Furia
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lettera frettolosa di Seren (ID: 1060) [Default] [Charm] [Rarità: Raro] ===
+[Category] Guardiano(GUARDIAN)
+Ogni volta che consumi 40 MP in combattimento, ottieni uno Scudo da +5/10/15 punti ferita (dura 15 secondi)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Conchiglia magica minuscola (ID: 1063) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Reliquia del gelo(FROST)
++3/6/10% Danni della Reliquia del gelo
++5/8/12% Danni critici
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Modellino di Albero Maestro (ID: 1065) [Default] [Charm] [Rarità: Comune] ===
+[Category] Nube tempestosa(DARKCLOUD)
++20/40/60% Velocità di consumo di Nube temporalesca
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fiore di Pietra (ID: 1066) [Default] [Charm] [Rarità: Comune] ===
+[Category] Nube tempestosa(DARKCLOUD)
++3/6 Danni da fulmine
++3/6% Danni critici
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Chiave di Calcedonio (ID: 1067) [Default] [Charm] [Rarità: Avanzato] ===
+Ottieni una combo Robusto, Brace, Ghiacciaio o Magitecnologia in base alla fila in cui ti trovi
+Infligge +2/4/6/8 danni elementali in base alla combo ottenuta.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frutto di Sapote (ID: 1068) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Nube tempestosa(DARKCLOUD)
++4/8/12/16/20 Capacità di Nube temporalesca
++1/2/3/4/5 Rigenerazione MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ghianda affilata (ID: 1070) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Nube tempestosa(DARKCLOUD)
++3/6/9/12% Velocità di recupero di Nube temporalesca in combattimento
++3/3/6/6 Evasione
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mini balista (ID: 1071) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Compagno(COMPANION), Nube tempestosa(DARKCLOUD)
+Evoca un compagno che combatte al tuo fianco
+Ottieni Nube temporalesca con una probabilità del +20/34/48/61/75% quando una freccia fulminea colpisce un nemico.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cuoio di Uccello Foglia (ID: 1072) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Nube tempestosa(DARKCLOUD)
++2/2/3/4% Danni extra di Nube temporalesca
+Quando Attacco normale o Attacco in scatto colpiscono, c'è una probabilità del +100/175/275/400% di consumare immediatamente 1 Nube temporalesca (ricarica: +1.2/0.9/0.8/0.6 secondi)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dolcetto Scoppiettante alla Crema (ID: 1074) [Default] [Charm] [Rarità: Comune] ===
+[Category] Nube tempestosa(DARKCLOUD)
+I nemici hanno una probabilità del 33% di rilasciare pane fulminante alla morte. Il pane fulminante conferisce +1/2/3/4/5 Nube temporalesca
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Principi della magia (ID: 1076) [Default] [Charm] [Rarità: Raro] ===
+[Category] Elementale(ELEMENTAL)
++2/4/6/8/10 Danno elementale più alto
++3/6/9/12/15% Danni Grimorio
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Zaffiro infranto (ID: 1077) [Default] [Charm] [Rarità: Raro] ===
+[Category] Ombra(SHADOW)
++2/4/6 Evasione
++2/4/6 Difesa
+Ottieni un sudario che garantisce di Evasione ogni attacco ogni +16/14/12 secondi.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fata artificiale, Iphiel (ID: 1078) [Default] [Charm] [Rarità: Raro] ===
+[Category] Lago(LAKE)
+Durante la parata, conferisce +5/10/15/20/30/50 Rigenerazione MP, ma riduce la Velocità di movimento del 90%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Selce affilata (ID: 1079) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Elementale(ELEMENTAL)
++2/4/6/8% Probabilità di critico
++1/2/3/4 Danno elementale più alto
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Corona dell'umiltà (ID: 1080) [Default] [Charm] [Rarità: Leggendario] ===
+[Category] Robusto(STURDY)
+L'ultimo colpo della combo infligge il +10/22/40/60/84% di danni aggiuntivi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Becco finto (ID: 1081) [Default] [Charm] [Rarità: Raro] ===
+[Category] Ombra(SHADOW)
++1/2/3/5/8 Danni fisici
++2/3/4/5/6 Evasione
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Benda compressiva (ID: 1082) [Default] [Charm] [Rarità: Comune] ===
+[Category] Canto del vento(WINDSONG)
++10/15/30/50/80% Velocità di recupero dello scatto
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Amuleto dell'aspirazione (ID: 1083) [Default] [Charm] [Rarità: Comune] ===
+[Category] Precisione(PRECISION)
+Aumenta la Probabilità di critico di Attacco con arma del +3/6/10/14/20%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Piastra d'argento (ID: 1086) [Default] [Charm] [Rarità: Comune] ===
+[Category] Robusto(STURDY)
++3/6/10% Danni degli attacchi normali
++3/6/10% Danni attacco speciale
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sigillo di Kriton (ID: 1087) [Default] [Charm] [Rarità: Comune] ===
+[Category] Negoziazione(SAVVY)
+Aumenta la quantità di Foglia ottenute del +10/50%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lama circolare verde (ID: 1088) [Default] [Charm] [Rarità: Comune] ===
+[Category] Precisione(PRECISION)
+Ogni volta che consumi 15 MP in combattimento, ottieni un bonus del 3% alla Probabilità di critico (si accumula fino a 3 volte e dura 20 secondi)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cuscino sottile (ID: 1090) [Default] [Charm] [Rarità: Raro] ===
+[Category] Compagno(COMPANION)
++5/10/15/20/30//40/50% Velocità di rianimazione del compagno
+I compagni attaccano con una frequenza aumentata di +20/25/30/35/40//50/60%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ambra (ID: 1094) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Mistico(MYSTIC)
+Infligge il +10/20/40/80% di danni aggiuntivi ai nemici con la salute al massimo
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Essenza di drago (ID: 1100) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Brace(EMBER)
++2/4/6/8/10 Danni da fuoco
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ohia lehua (ID: 1101) [Default] [Charm] [Rarità: Comune] ===
+[Category] Brace(EMBER)
+Quando infliggi danni con Attacco con arma o Grimorio, infligge +10/20/30 Danni da fuoco al bersaglio (tempo di recupero: 2 sec).
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Carbone di quercia (ID: 1102) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Brace(EMBER)
++10/20/30/40/50//60/70/80/90% Velocità d'attacco di Ustione
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tavoletta d'argilla scanalata (ID: 1104) [Default] [Charm] [Rarità: Leggendario] ===
+[Category] Nube tempestosa(DARKCLOUD)
+Nube temporalesca non viene consumata con una probabilità del 10/20/30/40/50%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pianeta giallo (ID: 1105) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Pianeta(PLANET)
+Evoca un pianeta giallo che spara proiettili Fisico rimbalzanti
+[Danno: +20/26/32/38/45//52/60]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pianeta rosso (ID: 1106) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Pianeta(PLANET)
+Evoca un Pianeta Rosso che spara missili Fuoco
+[Danni: +26/31/36/42/48//54/60]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pianeta azzurro cielo (ID: 1107) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Pianeta(PLANET)
+Evoca un pianeta azzurro che spara raggi laser Fulmine
+[Danni: +30/40/45/50/55/60]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Telescopio gigante (ID: 1108) [Default] [Charm] [Rarità: Raro] ===
+[Category] Pianeta(PLANET)
++5/10/15% Velocità d'attacco dei pianeti
+Ingrandisce i pianeti situati entro 8 slot (i pianeti ingranditi hanno proiettili più grandi e infliggono il 50% di danni in più).
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Benda contaminata (ID: 1109) [Default] [Charm] [Rarità: Comune] ===
+[Category] Precisione(PRECISION)
++1/3/6/9% Probabilità di critico
++1/2/3/3 Danni fisici
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Anello d'oro abbandonato (ID: 1111) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Robusto(STURDY)
+Portata di Attacco speciale +10/20/30%
+Sconfiggi 40 nemici con Attacco speciale per trasformarlo in Anello assoluto
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Anello assoluto (ID: 1112) [Default] [Charm] [Rarità: Leggendario] ===
+[Category] Robusto(STURDY)
+Portata di Attacco speciale +30/45/60%
+Danno di Attacco speciale +10/20/45%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Parafulmine (ID: 1113) [Default] [Charm] [Rarità: Leggendario] ===
+[Category] Nube tempestosa(DARKCLOUD)
++5/10/15/20/25//30/35/40 Capacità di Nube temporalesca
++3/6/9/12/15//18/21/24% Velocità di recupero di Nube temporalesca in combattimento
++1/2/3/4/5//6/7/8 Danni da fulmine
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Balisong (ID: 1114) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Precisione(PRECISION)
+Danno inflitto ai nemici entro 2.5 tessere: +6/8/11/14%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Guscio d'uovo bianco (ID: 1118) [Default] [Charm] [Rarità: Raro] ===
+[Category] Mistico(MYSTIC)
+Se i PS del bersaglio sono inferiori a +4/8/12/16/20%, muore all'istante (non ha effetto sui boss)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pane dalla crosta bianca (ID: 1119) [Default] [Charm] [Rarità: Leggendario] ===
+[Category] Guardiano(GUARDIAN)
+Quando subisci danni, ottieni invincibilità per +0.4/0.8/1.2 secondi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Anello di pietra sanguigna (ID: 1120) [Default] [Charm] [Rarità: Raro] ===
+[Category] Mistico(MYSTIC)
+Dopo aver effettuato +15/13/10 uccisioni, recupera 5 PS
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Neutralizzatore nero (ID: 1121) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Maledizione(CURSE)
++4/8/12/16% Danni inflitti con Debuff
+-10/10/6/6% Probabilità di critico
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sacchetto di tè nero (ID: 1122) [Default] [Charm] [Rarità: Raro] ===
+Ogni volta che sconfiggi un Mini boss, aumenta i Bonus danni universale di +4/8/12% (fino a 3 accumuli)
+Accumuli attuali: 0
+Danni subiti dai Mini boss +30%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Scalinata in miniatura di Helena (ID: 1125) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Canto del vento(WINDSONG)
+Quando entri in un altro luogo, ottieni un potenziamento che aumenta la Velocità di movimento del +10/14/18/22/26/30% e la Velocità d'attacco del +10/14/16/20/25/30% per 90 secondi.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Foglia d'acero dorata (ID: 1126) [Default] [Charm] [Rarità: Comune] ===
+[Category] Negoziazione(SAVVY)
++10/15/20/25/30% Esperienza ottenuta
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gomitolo di lana rossa (ID: 1128) [Default] [Charm] [Rarità: Raro] ===
+[Category] Brace(EMBER)
++20/40/60/80/100% Danni da Ustione
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Punta di freccia del seme di nube (ID: 1129) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Nube tempestosa(DARKCLOUD)
+5/10/15/23/35/50% di probabilità di potenziare i fulmini di Nube temporalesca
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Corno di Alfonso (ID: 1130) [Default] [Charm] [Rarità: Raro] ===
+[Category] Compagno(COMPANION)
++1/2/3/4/5//6/8/10 Evasione
++10/20/30/40/50//60/70/80% Danni del compagno
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bottiglia d'inchiostro verde (ID: 1132) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Maledizione(CURSE)
+Quando infliggi un malus, hai una probabilità del +20/30/40/50%% di infliggerlo anche a un nemico vicino (tempo di recupero: 0.4 sec).
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Völuspá (ID: 1137) [Default] [Charm] [Rarità: Raro] ===
+[Category] Reliquia del gelo(FROST)
+Si carica ogni 6 secondi durante il combattimento. Dopo essersi caricato, attiva il seguente effetto se ci sono nemici nelle vicinanze.
+Una lancia Ghiaccio piomba sui nemici e li attacca +1/1/1/1/1//2/2/2/3 volte
+[Danni: 20 (20+Danni da freddo+100/140/180/220/260//155/170/130/150%)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ramo folgorato (ID: 1141) [Default] [Charm] [Rarità: Comune] ===
+[Category] Magitecnologia(MAGITECH)
+Quando infliggi danni con Attacco con arma o Grimorio, infligge +10/20/30 Danni da fulmine al bersaglio (tempo di recupero: 2 sec).
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mantello dorato (ID: 1149) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Canto del vento(WINDSONG)
++1/1/2 Numero di scatti
++3/6/9% Velocità d'attacco
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Radice d'erba fiammeggiante (ID: 1153) [Default] [Charm] [Rarità: Raro] ===
+[Category] Brace(EMBER)
++6/12/20 MP massimi
+Quando Attacco speciale: Furia colpisce, infligge il +200/400/600% di danni Fuoco ai nemici vicini
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Esca ammaliante (ID: 1162) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Lago(LAKE), Elementale(ELEMENTAL)
++3/5/8 Rigenerazione MP
++1/1/2 Danni da fuoco
++1/1/2 Danni da freddo
++1/1/2 Danni da fulmine
++1/1/2 Danni fisici
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Occhiali magici (ID: 1163) [Default] [Charm] [Rarità: Raro] ===
+[Category] Ombra(SHADOW)
++3/6/9/12 Evasione
++7/14/22/30 MP massimi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bambola di paglia (ID: 1164) [Default] [Charm] [Rarità: Comune] ===
+[Category] Lago(LAKE)
++3/6/9 Rigenerazione MP
++2/3/5% Danni critici
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Anello di frostium (ID: 1175) [Default] [Charm] [Rarità: Comune] ===
+[Category] Ghiacciaio(GLACIER)
+Quando infliggi danni con Attacco con arma o Grimorio, infligge +10/20/30 Danni da freddo al bersaglio (tempo di recupero: 2 sec).
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Collana a fiocco di neve (ID: 1176) [Default] [Charm] [Rarità: Comune] ===
+[Category] Ghiacciaio(GLACIER)
++1/3/5 Danni da freddo
++1/3/5% Velocità di movimento
+Riduce ulteriormente la Velocità di movimento di +5/10/15% per i bersagli affetti da Assideramento.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Soffici guanti di pelliccia (ID: 1177) [Default] [Charm] [Rarità: Raro] ===
+[Category] Ghiacciaio(GLACIER)
+I bersagli affetti da Assideramento subiscono +5/10/15/20/25% danni aggiuntivi da Danni da freddo (si applica anche ai danni dei Compagno)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Eco del ghiacciaio (ID: 1178) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Ghiacciaio(GLACIER)
++3/6/10 Difesa
+Infligge Assideramento ai nemici vicini ogni +5/4/3/2.5 secondi.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Zampe del gabbiano dei ghiacci (ID: 1180) [Default] [Charm] [Rarità: Raro] ===
+[Category] Ghiacciaio(GLACIER)
+Ottieni il potenziamento Tocco gelido ogni volta che infliggi Assideramento a un bersaglio
+Tocco gelido: aumenta Danni da freddo di 1 per 7 secondi (fino a +5/10/15/20 cariche)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Brandello di stoffa rossa (ID: 1183) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Maledizione(CURSE)
+Quando infliggi danni a un nemico, infliggi un ulteriore +4/5/7/10% di danni per ogni malus applicato al bersaglio.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Benda oculare fiammeggiante (ID: 1185) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Brace(EMBER)
++2/4/6% Velocità d'attacco
+Danni dell'elemento Fuoco Danni critici +11/22/33% (si applica ai danni dei Compagno).
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mantello bianco (ID: 1186) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Mistico(MYSTIC)
++30/60/100/130/160/200% Durata dei potenziamenti applicati da sé
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cubo trasparente (ID: 1189) [Default] [Charm] [Rarità: Raro] ===
+[Category] Canto del vento(WINDSONG)
++1/1/2/2/3 Danni puri
++5/6/7/9/12% Velocità di movimento
++5/6/7/9/12% Velocità d'attacco
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Coperchio di pentola (ID: 1190) [Default] [Charm] [Rarità: Raro] ===
+[Category] Guardiano(GUARDIAN)
++2/4/6/8/11/15 Rigenerazione MP
++1/2/3/4/5/6 Evasione
+Ottieni il potenziamento Pazienza con ogni colpo critico fisico inflitto a un nemico (aumenta la difesa di 3 per 6 secondi, fino a 3 cariche).
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Monocolo da lavoro di Valter (ID: 1191) [Default] [Charm] [Rarità: Leggendario] ===
+[Category] Precisione(PRECISION)
++10/19/28/35/45% Probabilità di critico
+Se un nemico si trova entro 3 tessere, danni critici -30%.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Guscio spinoso (ID: 1192) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Guardiano(GUARDIAN)
++150/300/450% Spine
++1/2/3 Difesa
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Solis Fracto (ID: 1193) [Default] [Charm] [Rarità: Comune] ===
+[Category] Lama solare(FLAMESWORD)
++2/3/5 Danni da fuoco
++2/4/6 PV massimi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bracciale d'argento (ID: 1194) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Canto del vento(WINDSONG)
++4/8/12/16% Velocità d'attacco
+-4/6/8/10% Velocità di movimento
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Caleidoscopio (ID: 1195) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Precisione(PRECISION)
++15/25/35/45/55% Danni extra alla Super armatura del bersaglio
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stemma d'ingaggio «Collin» (ID: 1197) [Default] [Charm] [Rarità: Raro] ===
+[Category] Compagno(COMPANION)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Martello della tormenta (ID: 1208) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Reliquia del gelo(FROST)
+Si ricarica ogni 7 secondi durante il combattimento. Quando è carico, attiva il seguente effetto dopo uno scatto.
+Lancia un martello contro i nemici vicini, infliggendo Danni da freddo danni
+[Danni: 14 (14+Danni da freddo+50/100/150/200/250//300/350/400/450/500%)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cuore congelato (ID: 1209) [Default] [Charm] [Rarità: Raro] ===
+[Category] Reliquia del gelo(FROST)
++10/18/26/40/55//70/85/100% Velocità di carica di Reliquia del gelo
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stella di ghiaccio (ID: 1210) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Reliquia del gelo(FROST)
+Reliquia del gelo si attiva altre 0/0/0/0/0/1 volte
+0/0/0/0/0/-10% Danni della Reliquia del gelo
+0/0/1/1/2/2 Fortuna
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sfera di magma (ID: 1213) [Default] [Charm] [Rarità: Leggendario] ===
+[Category] Brace(EMBER)
+Applica Ustione altre 0/1/1/2 volte
++1/1/1/2 cariche di Ustione
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ala di fenice (ID: 1214) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Brace(EMBER)
++2/3/5 Danni da fuoco
+Durante il combattimento, evoca piume che volano verso +1/2/3 nemici vicini e infliggono Ustione (tempo di recupero: 3.5 secondi).
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Armatura di stoffa (ID: 1215) [Default] [Charm] [Rarità: Comune] ===
+[Category] Guardiano(GUARDIAN)
++3/6/9/12 Difesa
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sacchetto di begonia (ID: 1218) [Default] [Charm] [Rarità: Comune] ===
+[Category] Robusto(STURDY)
++5/10% Danni degli attacchi normali
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Faretra per balestra (ID: 1223) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Robusto(STURDY)
++20/40/65/100 Velocità di ricarica della balestra
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cassa di legno per la ricarica (ID: 1224) [Default] [Charm] [Rarità: Raro] ===
+[Category] Robusto(STURDY)
+0/1/1/1/2 Numero di caricatori
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento di specchio d'ottone (ID: 1225) [Default] [Charm] [Rarità: Raro] ===
+[Category] Robusto(STURDY)
++20/30/40/50% Riduzione costo in MP di Attacco speciale
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Antica incudine (ID: 1229) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Lama solare(FLAMESWORD)
+Lama solare cade a terra 10/20/30/40% più velocemente
++2/4/6/8 Danni da fuoco
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tramonto cremisi (ID: 1230) [Default] [Charm] [Rarità: Raro] ===
+[Category] Lama solare(FLAMESWORD)
+Quando viene scagliata, Lama solare ha una probabilità di 20/40/60/80/100% di ingrandirsi e aumentare i danni del 33%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fornace eterna (ID: 1231) [Default] [Charm] [Rarità: Comune] ===
+[Category] Lama solare(FLAMESWORD)
++1/2.5/5% Probabilità di critico
+Crea 1 Lama solare ogni +10/8/5 secondi (solo quando l'effetto Lama solare è attivo).
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Solis Parvo (ID: 1232) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Lama solare(FLAMESWORD)
++1/1/2/2/3 Numero massimo di Lama solare
++1/2/4/6/8% Velocità di movimento
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Solis Decussa (ID: 1233) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Lama solare(FLAMESWORD)
++5/10/15/20% Danni di Lama solare
++4/8/12/16% Danni critici
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Manuale dell'affondo (ID: 1235) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Robusto(STURDY)
+Ogni 2 secondi, Attacco in scatto viene potenziato, aumentando i danni del +30/60/90/120% e diventando un attacco basato sull'attributo più alto
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Orecchini di meteorite (ID: 1236) [Default] [Charm] [Rarità: Leggendario] ===
+[Category] Lama solare(FLAMESWORD)
++5/10/15% Danni di Lama solare
++2/4/7 Danni da fuoco
+Quando viene lanciata, Lama solare cade vicino a te
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Spallacci di meteorite (ID: 1237) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Lama solare(FLAMESWORD)
+Richiama tutte le Lama solare cadute a terra, infliggendo danni da Lama solare ai nemici lungo il percorso
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Orecchino del tuono (ID: 1239) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Magitecnologia(MAGITECH)
++1/2/3/4/5/6 Danni da fulmine
+Ogni 4 secondi, infligge il 30% di Danni da fulmine a +1/2/2/3/3/4 nemici vicini e applica Elettrocuzione.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Solis Dekri (ID: 1240) [Default] [Charm] [Rarità: Leggendario] ===
+[Category] Lama solare(FLAMESWORD)
+Lama solare ignora +2/4/6/8/10//12/14% della difesa del bersaglio
++5/10/15/22/30//40/50% Probabilità di critico di Lama solare
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pianeta nero (ID: 1241) [Default] [Charm] [Rarità: Leggendario] ===
+[Category] Pianeta(PLANET)
+Evoca un pianeta oscuro che spara proiettili Caos 
+[Danni: +50/60/70/80/90/100]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pianeta cinereo (ID: 1242) [Default] [Charm] [Rarità: Comune] ===
+[Category] Pianeta(PLANET)
+Evoca un pianeta grigio che spara proiettili Ghiaccio
+[Danni: +15/20/25/30/35/40]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Arco congelato (ID: 1247) [Default] [Charm] [Rarità: Leggendario] ===
+[Category] Reliquia del gelo(FROST)
+Ricarica automaticamente 1 colpo ogni 0.8 secondi (fino a 7)
+Scocca una freccia contro il nemico infliggendo Danni da freddo
+[Danni: 12 (12+Danni da freddo+50/60/70/80/100//120/130/140/150/160%)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mantello dello spirito verdeggiante (ID: 1252) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Ombra(SHADOW)
+0/1/1 Numero di scatti
++4/6/8 Evasione
++1/2/4% Probabilità di critico
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cristallo dell'armonia (ID: 1270) [Default] [Charm] [Rarità: Leggendario] ===
+[Category] Mistico(MYSTIC)
+Aumenta i Bonus danni universale del +1/2% per ogni livello artefatto entro 8 slot
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Medaglia portafortuna (ID: 1271) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Negoziazione(SAVVY)
++2/6/10 Contrattazione
+Genera +100/150/200 Foglia quando commerci con un mercante (si attiva una volta per mercante)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Amuleto del fulmine (ID: 1272) [Default] [Charm] [Rarità: Comune] ===
+[Category] Magitecnologia(MAGITECH)
++3/4/6/8 Danni da fulmine
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Secchio di bacche polpose (ID: 1273) [Default] [Charm] [Rarità: Raro] ===
+[Category] Lago(LAKE)
+Ripristina immediatamente il +50/100% di MP all'uso
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Barattolo di caramelle multicolori (ID: 1277) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Elementale(ELEMENTAL)
+Lancia +1/2/3/4 bombe elementali che infliggono il +100/150/200/250% del danno elementale più elevato
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Amuleto del coraggio (ID: 1283) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Robusto(STURDY)
++3/6/10% Danni di Arma
++1/1/1 Assorbimento vitale
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bracciale del contrattacco (ID: 1287) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Robusto(STURDY)
+Con Parata perfetta, aumenta Bonus danni universale del +4/8/12/16% per 7s.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento di bastone da risposta (ID: 1288) [Default] [Charm] [Rarità: Avanzato] ===
+[Category] Robusto(STURDY)
+Contrattacco: esegue un breve attacco in mischia in avanti quando pari (0/1/2.1/3.4/4.8/6.2% dei danni fisici)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Speranza (ID: 2001) [Default] [StoneTablet] [Rarità: Comune] ===
+[Tablet effect]
+  RIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Impeto (ID: 2002) [Default] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  RIGHT IGNORECRITERIA
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Miracolo (ID: 2003) [Default] [StoneTablet] [Rarità: Leggendario] ===
+[Tablet effect]
+  HORIZONTAL 1
+  VERTICAL 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Trasferimento (ID: 2004) [Default] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  HORIZONTAL +1
+  VERTICAL -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sfruttamento (ID: 2005) [Default] [StoneTablet] [Rarità: Comune] ===
+[Tablet effect]
+  RIGHT 1
+  LEFT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Coesione (ID: 2006) [Default] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  HORIZONTAL -1
+  UP +3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Benevolenza (ID: 2007) [Default] [StoneTablet] [Rarità: Comune] ===
+[Placement condition]
+  BOTTOM PLACED
+[Tablet effect]
+  RIGHT 1
+  LEFT 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Giustizia (ID: 2008) [Default] [StoneTablet] [Rarità: Avanzato] ===
+[Placement condition]
+  LEFTEND PLACED
+  RIGHTEND PLACED
+[Tablet effect]
+  VERTICAL +1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Unità (ID: 2009) [Default] [StoneTablet] [Rarità: Comune] ===
+[Tablet effect]
+  UP -1
+  RIGHT +1
+  LEFT -1
+  DOWN +1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Destino (ID: 2010) [Default] [StoneTablet] [Rarità: Comune] ===
+[Tablet effect]
+  DOWN +1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cavalleria (ID: 2011) [Default] [StoneTablet] [Rarità: Comune] ===
+[Tablet effect]
+  KNIGHTUPLEFT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ingegno (ID: 2012) [Default] [StoneTablet] [Rarità: Comune] ===
+[Tablet effect]
+  DIAUPLEFT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sguardo (ID: 2013) [Default] [StoneTablet] [Rarità: Comune] ===
+[Tablet effect]
+  DIAUPLEFT 1
+  DIADOWNRIGHT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pulsazione (ID: 2014) [Default] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  UPUP 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cura (ID: 2015) [Default] [StoneTablet] [Rarità: Comune] ===
+[Tablet effect]
+  DIAUPLEFT 1
+  DIAUPRIGHT 1
+  UP 1
+  DOWN -1
+  DOWNDOWN -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ombra (ID: 2016) [Default] [StoneTablet] [Rarità: Raro] ===
+[Placement condition]
+  TOP PLACED
+[Tablet effect]
+  BOTTOM 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stella binaria (ID: 2017) [Default] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  UPUP 2
+  DOWNDOWN 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Legame (ID: 2018) [Default] [StoneTablet] [Rarità: Raro] ===
+[Tablet effect]
+  UP 2
+  DOWN IGNORECRITERIA
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Competizione (ID: 2019) [Default] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  DIAUPLEFT -1
+  UP -1
+  DOWN +3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Desiderio (ID: 2020) [Default] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  UP 2
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Avvento (ID: 2021) [Default] [StoneTablet] [Rarità: Comune] ===
+[Tablet effect]
+  UP 1
+  UPUP 1
+  DOWN -1
+  DOWNDOWN -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vigilanza (ID: 2022) [Default] [StoneTablet] [Rarità: Leggendario] ===
+[Tablet effect]
+  TOP 1
+  BOTTOM 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Onda (ID: 2023) [Default] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  DIAUPRIGHT 3
+  UP -1
+  RIGHT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Trucco (ID: 2024) [Default] [StoneTablet] [Rarità: Comune] ===
+[Tablet effect]
+  UP 1
+  DIAUPLEFT 1
+  DIAUPRIGHT 1
+  LEFT -1
+  RIGHT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dedizione (ID: 2025) [Default] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  DIAUPLEFT 1
+  DIAUPRIGHT 1
+  DIADOWNLEFT 1
+  DIADOWNRIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Esultanza (ID: 2026) [Default] [StoneTablet] [Rarità: Comune] ===
+[Tablet effect]
+  UP 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Raccolto (ID: 2027) [Default] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  UP 2
+  DOWN 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Avanzata (ID: 2028) [Default] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  UP 1
+  UPUP 1
+  UPUPUP 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fondamento (ID: 2029) [Default] [StoneTablet] [Rarità: Raro] ===
+[Tablet effect]
+  HORIZONTAL 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Distribuzione (ID: 2030) [Default] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  UP 1
+  DOWN 1
+  LEFT 1
+  RIGHT 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tricefalo (ID: 2038) [Default] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  UP 1
+  LEFT 1
+  RIGHT 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Passato (ID: 2039) [Default] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  UP 1
+  RIGHT 1
+  DIAUPLEFT 1
+  DIAUPRIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Futuro (ID: 2040) [Default] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  UP 1
+  LEFT 1
+  DIAUPLEFT 1
+  DIAUPRIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cumulo (ID: 2041) [Default] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  UP 1
+  DIAUPLEFT 1
+  KNIGHTUPLEFT 1
+  UPUP 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Splendore (ID: 2042) [Default] [StoneTablet] [Rarità: Leggendario] ===
+[Tablet effect]
+  HORIZONTAL 1
+  UP 2
+  DOWN 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stretta di mano (ID: 2043) [Default] [StoneTablet] [Rarità: Comune] ===
+[Tablet effect]
+  UP 1
+  DOWN 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Approssimazione (ID: 2044) [Default] [StoneTablet] [Rarità: Comune] ===
+[Tablet effect]
+  UP 1
+  RIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Potere (ID: 2045) [Default] [StoneTablet] [Rarità: Raro] ===
+[Tablet effect]
+  UP 3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Compressione (ID: 2046) [Default] [StoneTablet] [Rarità: Leggendario] ===
+[Tablet effect]
+  UP 3
+  UPUP 2
+  UPUPUP 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Aridità (ID: 2047) [Default] [StoneTablet] [Rarità: Comune] ===
+[Tablet effect]
+  DOWN 1
+  UP 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Simultaneità (ID: 2048) [Default] [StoneTablet] [Rarità: Raro] ===
+[Tablet effect]
+  VERTICAL 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Disconnessione (ID: 2049) [Default] [StoneTablet] [Rarità: Raro] ===
+[Tablet effect]
+  UP 3
+  DOWN 3
+  LEFT -1
+  RIGHT -1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Benedizione (ID: 3031) [Default] [Charm] [Rarità: Comune] ===
+Ottieni Abilità Benedizione
+Ottieni un bonus che aumenta tutti i danni inflitti del 5%
+CD: 20s
+MP: 16/13/10
+Durata: 12
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Artefatto comune non identificato (ID: 10000) [Default] [Identifiable] [Rarità: Comune] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Artefatto avanzato non identificato (ID: 10001) [Default] [Identifiable] [Rarità: Avanzato] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Artefatto raro non identificato (ID: 10002) [Default] [Identifiable] [Rarità: Raro] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Grimorio del dardo non identificato (ID: 10004) [Default] [Identifiable] [Rarità: Comune] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Artefatto di supporto per grimorio del dardo non identificato (ID: 10005) [Default] [Identifiable] [Rarità: Comune] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Artefatto spada e scudo non identificato (ID: 10006) [Default] [Identifiable] [Rarità: Comune] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Grimorio dell'evocazione non identificato (ID: 10007) [Default] [Identifiable] [Rarità: Comune] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Artefatto amico non identificato (ID: 10008) [Default] [Identifiable] [Rarità: Comune] ===
+[No effect text]
+
+================================================================================
+
+── activeType: Locked — 144 ──
+
+=== Orecchini dello scudo (ID: 1017) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Guardiano(GUARDIAN)
++5/10/15/20 PV massimi
+-5/4/3/2 Evasione
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Campanella smussata (ID: 1021) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Maledizione(CURSE)
+Con Attacco con arma, ha una probabilità del 1/4% di infliggere Stordimento.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Amuleto di spine (ID: 1028) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Robusto(STURDY)
++2/4/6/10% Probabilità di critico
++1/1/2/3 Danni fisici
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cintura multiuso (ID: 1030) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Mistico(MYSTIC)
+Gli effetti seguenti si accumulano per ogni artefatto in uno slot della riga superiore dell'inventario
+Danni da fuoco +1/1/1/2
+Danni da fulmine +1/1/1/2
+Danni da freddo +1/1/1/2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Orecchini a spada (ID: 1033) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Precisione(PRECISION)
++10/16/24/33% Danni critici
+-16/13/10/7 MP massimi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lama corta Yakumo (ID: 1049) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Robusto(STURDY)
++10/20/30/40/50% Danni degli attacchi in scatto
++4/8/12/16/20% Velocità di recupero dello scatto
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Borsa-scudo (ID: 1053) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Guardiano(GUARDIAN), Accademia(ACADEMY)
+Ottieni il seguente effetto ogni 10 Difesa
+Danni da fuoco +1/1/2/3
+Danni da freddo +1/1/2/3
+Danni da fulmine +1/1/2/3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pipa bicorne (ID: 1062) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Accademia(ACADEMY)
+Lancia Magia del dardo in tre direzioni. (I danni di ciascun incantesimo sono ridotti di +0.7/0.6/0.6/0.5/0.5//0.4/0.3%) Il costo in MP aumenta di 0/25/50/75/100//125/150%.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Moneta del mago (ID: 1064) [Locked] [Charm] [Rarità: Comune] ===
+[Category] Accademia(ACADEMY)
++15/20/30/50/65 Rapidità Grimorio
+Aumenta del 25% la probabilità che Grimorio compaia tra le ricompense
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento della stella di Ray (ID: 1069) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Accademia(ACADEMY)
+Riduce di +30/35/42/55% il costo in MP del Grimorio nello slot a sinistra
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pendente del topo mago (ID: 1073) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Accademia(ACADEMY)
+Magia del dardo insegue i nemici
++2/5 Rigenerazione MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Elsa vuota (ID: 1075) [Locked] [Charm] [Rarità: Leggendario] ===
+[Category] Accademia(ACADEMY)
++5/10/15/20/25/30% Danni Grimorio
++7/9/11/13/15/20% PM finali
++2/2/2/4/4/6 Rigenerazione MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Anello blu (ID: 1085) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Mistico(MYSTIC)
+Se gli PS attuali sono pari o superiori al 70%, Bonus danni universale +6/8/10/15/18/20%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Polvere di perla (ID: 1089) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Accademia(ACADEMY)
++8/10/12% Danni Grimorio
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Scaglia d'ebano (ID: 1091) [Locked] [Charm] [Rarità: Leggendario] ===
+[Category] Precisione(PRECISION)
+Aumenta la Probabilità di critico del +100/150/200/250/350% per ogni tavoletta nell'inventario.
+Numero attuale di tavolette: 0.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Girandola (ID: 1092) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Canto del vento(WINDSONG), Ombra(SHADOW)
++3/6/9% Velocità d'attacco
++2/4/6 Evasione
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cespuglio spinoso (ID: 1093) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Canto del vento(WINDSONG)
+Attacca il nemico toccato durante lo scatto infliggendo il 30/100% di danni fisici
+(Infligge danni doppi se viene consumato Numero di scatti).
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Specchio rotto (ID: 1095) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Guardiano(GUARDIAN)
++4/8 Difesa
+Ottieni +5/12 resistenza dello Scudo quando cambi area.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sfera del desiderio (ID: 1115) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Accademia(ACADEMY)
+Riserva 15 MP, aumentando del +10/12/15/18% i danni Grimorio inflitti.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Diapason (ID: 1117) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Accademia(ACADEMY), Robusto(STURDY)
+Ottieni una carica di «Onda sonica» ogni volta che lanci Grimorio, una volta ogni 0.8 secondi (fino a 5 cariche)
+Consuma tutte le cariche con Attacco con arma per infliggere danni Caos nel punto d'attacco (considerati danni da Grimorio)
+Danno: danno medio di tutti i tipi elementali +200/250/300/350/450/550% (1 punto di Rapidità Grimorio aumenta dell'1% il danno di Diapason)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rubino stellare (ID: 1123) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Lago(LAKE)
++10/20/33/45/60% PS finali
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Acquamarina stellare (ID: 1124) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Lago(LAKE)
++10/20/33/45/60% PM finali
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Otre (ID: 1138) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Lago(LAKE)
+Aumenta MP massimi di 1 ogni volta che usi MP (fino a +10/15/20/25, ricarica: 5 secondi)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vite di ghiaccio (ID: 1139) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Ghiacciaio(GLACIER)
+Quando usi Attacco speciale, crea in avanti 1 fila di spine di ghiaccio (Danni: 10 + +50/90/140% Danni da freddo)
+Quando le spine colpiscono un nemico, infliggono Assideramento
+Tempo di recupero: 0.8 secondi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stendardo dell'incoraggiamento (ID: 1140) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Canto del vento(WINDSONG)
+Evoca una bandiera nel punto designato. Gli alleati nel raggio della bandiera ottengono un aumento del +10/20/30% alla Velocità d'attacco.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ali (ID: 1143) [Locked] [Charm] [Rarità: Leggendario] ===
+[Category] Canto del vento(WINDSONG)
++3/6/9/12/15/18% Velocità d'attacco
+Ogni +25/20/15/9/6/5% aggiuntivo di Velocità d'attacco aumenta Bonus danni universale del 1%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bilancia del conflitto (ID: 1144) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Brace(EMBER), Ghiacciaio(GLACIER)
+Conferisce Fuoco agli oggetti sul lato sinistro dell'inventario e Ghiaccio a quelli sul lato destro
+Danno elementale conferito: +2/15
+Danno dell'elemento opposto: +0/5
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Artiglio blu (ID: 1145) [Locked] [Charm] [Rarità: Leggendario] ===
+[Category] Ghiacciaio(GLACIER)
++2/4/6/9 Danni da freddo
++5/10/15/20 MP massimi
+Quando viene applicato Assideramento, ha una probabilità del 30/60% di essere applicato una volta aggiuntiva.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pietra Cintamani (ID: 1146) [Locked] [Charm] [Rarità: Leggendario] ===
+[Category] Mistico(MYSTIC)
+Quando subisci danni fatali, questo oggetto viene distrutto e si attivano i seguenti effetti.
+Recupera il 50% di PS e diventi temporaneamente invincibile.
+Livello dello slot dell'inventario: +3.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Piuma arcobaleno (ID: 1147) [Locked] [Charm] [Rarità: Leggendario] ===
+[Category] Canto del vento(WINDSONG)
+Ottieni 0/0/1 aggiuntivi quando acquisisci Trance
++10/16/22% Danni attacco speciale
++5/5/10% Velocità di recupero dello scatto
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Uovo congelato (ID: 1150) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Ghiacciaio(GLACIER)
+-9/6/3/0 Rigenerazione MP
+Aumenta del +5/10/15/20% la Probabilità di critico degli attacchi di ghiaccio (si applica anche ai danni dei Compagno).
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Clava appuntita (ID: 1151) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Precisione(PRECISION)
++20/40/60% Danni critici
+Gli attacchi hanno una probabilità del 10% di mancare il bersaglio (riduce i danni del -20%).
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kunai (ID: 1152) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Precisione(PRECISION)
+Gli attacchi normali hanno una probabilità del +100/125/150% di lanciare un kunai
+[Danni: 10 (10+Danni critici20/30%)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Trifoglio a sei foglie (ID: 1155) [Locked] [Charm] [Rarità: Leggendario] ===
+[Category] Ombra(SHADOW)
++3/6/9/12 Evasione
++3/6/9/12 Fortuna
++2/4/6/8% Probabilità di critico
++1/1/2/2 Danni puri
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Martello di vetro (ID: 1156) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Robusto(STURDY)
++3/6/9/12% Danni di Arma
+-3/6/9/12% PS finali
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Elmo della guardia di Conigliopoli (ID: 1157) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Robusto(STURDY)
++4/8/12/16% Danni di Arma
+-4/4/8/8 Evasione
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tappo potenziante per pozioni (ID: 1158) [Locked] [Charm] [Rarità: Comune] ===
+[Category] Alchimia(ALCHEMY)
+Se gli PS sono pari o inferiori al 30%, Bonus pozione PS aumenta del +30%.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lucciola (ID: 1159) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Magitecnologia(MAGITECH)
++4/8/12 Danni da fulmine (si disattiva per 6 secondi quando vieni colpito).
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gi verde (ID: 1160) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Ombra(SHADOW)
++2/3/4/5 Evasione
++5/7/9/12% Velocità di movimento
+Dopo una Evasione riuscita, esegue Colpo della tigre in avanti
+[Danni: 30 (30 + Danni fisici +200/300/450/650%)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frutto di melo selvatico (ID: 1161) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Accademia(ACADEMY)
++6/10/14 Rapidità Grimorio
++5/8/12% Velocità di recupero dello scatto
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Orologio da tasca di Rylie (ID: 1165) [Locked] [Charm] [Rarità: Leggendario] ===
+[Category] Accademia(ACADEMY)
++40/60/80 Rapidità Grimorio
++8/14/20% Danni critici
++5/5/10% Riduzione costo in MP di Grimorio
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Armatura ingioiellata (ID: 1166) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Accademia(ACADEMY)
++10/20/30% Probabilità di critico Grimorio
++4/6/8 Rigenerazione MP
+-3/5/7 Danni fisici
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bussola Cercanubi Temporalesche (ID: 1167) [Locked] [Charm] [Rarità: Leggendario] ===
+[Category] Magitecnologia(MAGITECH)
+Quando applichi Elettrocuzione, hai una probabilità del 15/30/45/60% di applicare Elettrocuzione potenziata
++2/4/6/8 Danni da fulmine
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Clessidra luminosa (ID: 1168) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Accademia(ACADEMY)
+Aumenta di +60/100/140% il Rapidità Grimorio del Grimorio nel slot destro.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Guanti del mago da battaglia (ID: 1169) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Accademia(ACADEMY)
++10/12/15/20% Danni Grimorio
++3/4/5/6% Velocità di movimento
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Corno di Kirin (ID: 1170) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Magitecnologia(MAGITECH)
+-2/4/6 Danni da freddo
+Probabilità di critico degli attacchi di elemento Fulmine +10/20/30% (si applica anche ai danni del Compagno)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sangue di Obrus (ID: 1171) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Lago(LAKE)
++3/6/9/12 Furto MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Falce di Berut (ID: 1173) [Locked] [Charm] [Rarità: Leggendario] ===
+[Category] Precisione(PRECISION)
++2.5/5/7.5/10% Probabilità di critico
+Quando Probabilità di critico supera il 100%, l'eccesso viene convertito in probabilità di Esecuzione.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Spade a proiezione di Agma n. 190 e 191 (ID: 1181) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Robusto(STURDY)
++2/3/4/6/8//10/12/14 Danni fisici
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Collana dello Sciamano Oink (ID: 1182) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Maledizione(CURSE)
++20/40/60/80/100% Durata di tutti i malus inflitti ai nemici
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Spilla di rubino (ID: 1187) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Nube tempestosa(DARKCLOUD), Brace(EMBER)
++3/5/7/10 Danni da fulmine
++3/5/7/10 Danni da fuoco
+Infligge Ustione ai nemici colpiti da Nube temporalesca.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tocco vitale (ID: 1196) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Robusto(STURDY)
+-55/48/40/33% PS finali
+Recupera +1/1/1/1 PS con Attacco con arma (tempo di recupero: 1 secondi).
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Polvere spirituale di Heita (ID: 1198) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Compagno(COMPANION), Ghiacciaio(GLACIER)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Polvere spirituale di Tero (ID: 1199) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Compagno(COMPANION), Brace(EMBER)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Polvere spirituale di Ahmad (ID: 1200) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Compagno(COMPANION), Magitecnologia(MAGITECH)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fascia del supervisore minerario (ID: 1202) [Locked] [Charm] [Rarità: Leggendario] ===
+[Category] Compagno(COMPANION)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Insetto fiammeggiante (ID: 1211) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Brace(EMBER)
+0/1/1/2/3/4 cariche di Ustione
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Insetto del ghiaccio (ID: 1212) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Ghiacciaio(GLACIER)
+10/15/20/25/30//40/50% Danni da malus Congelamento
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Brigantina dell'accademia (ID: 1216) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Guardiano(GUARDIAN), Accademia(ACADEMY)
++2/3/4/6/8/10 Difesa
++14/18/20/24/29/35 Rapidità Grimorio
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Libro della meditazione (ID: 1228) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Accademia(ACADEMY)
+Lancia istantaneamente tutte le Grimorio senza eseguire azioni
++6/8/11/14% Danni Grimorio
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Specchietto (ID: 1234) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Guardiano(GUARDIAN)
++3/6/9 Difesa
+Ottieni 5/10 Scudo per 5s quando usi Scatto (tempo di recupero: 5s).
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Insetto Scintilla (ID: 1238) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Magitecnologia(MAGITECH)
+0/1/1/2/2/3 cariche di Elettrocuzione
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tejas vincolato al ghiaccio (ID: 1243) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Brace(EMBER), Ghiacciaio(GLACIER)
+Ustione diventa Ustione blu
++3/6/9/12/15% Danni da Ustione
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Farfalla del tuono gelido (ID: 1244) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Nube tempestosa(DARKCLOUD), Ghiacciaio(GLACIER)
+Nube temporalesca si trasforma in Nube di tormenta
++2/4/6/8 Danni da freddo
++6/12/18/24% Velocità di consumo di Nube temporalesca
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Spartito «Il tifone» (ID: 1245) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Nube tempestosa(DARKCLOUD), Canto del vento(WINDSONG)
++4/8/12% Velocità d'attacco
+Velocità di consumo di Nube temporalesca aumenta del +25/50/100% di Velocità d'attacco
+Infligge +5/10/15 Danni da fulmine con Attacco con arma
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Elefante di roccia (ID: 1246) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Guardiano(GUARDIAN), Canto del vento(WINDSONG)
+Scaglia 3 lance di roccia che infliggono danni pari al +70/95/125/160/200% della Difesa.
+Una Lancia di roccia aggiuntiva per ogni 15% di Velocità d'attacco extra
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Goccia di Plitvice (ID: 1248) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Reliquia del gelo(FROST), Lago(LAKE)
+Quando Reliquia del gelo si attiva, consuma 4 MP per evocare spade di ghiaccio rotanti (fino a 5).
+[Danni: danni dell'attacco base x 50% di MP aggiuntivi (attuali: 1.2)]
+Danni dell'attacco base: 6% di Danni da freddo
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Manuale di tattica (ID: 1249) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Compagno(COMPANION), Precisione(PRECISION)
+La Probabilità di critico e i Danni critici del giocatore contribuiscono per +30/60/90/120% a Compagno
++2/4/6/8% Probabilità di critico
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Occhio scintillante (ID: 1250) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Ombra(SHADOW), Precisione(PRECISION)
+Ottieni un accumulo di 'Miraggio' con i colpi critici. Al 100% di Miraggio, schivi automaticamente il prossimo attacco e infliggi ai nemici circostanti danni Caos pari al +300/600/900/1200/1500% di Evasione.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Spartito «Galassia» (ID: 1251) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Pianeta(PLANET), Canto del vento(WINDSONG)
++4/8/12% Velocità d'attacco
+Ogni Attacco con arma accelera il ciclo di attacco dei pianeti
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Foglio bianco (ID: 1258) [Locked] [Charm] [Rarità: Avanzato] ===
++3/6% Bonus danni universale
+Aumenta di 1 il conteggio combo se gli artefatti in entrambi gli slot adiacenti hanno la stessa combo
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Eclissi eterna (ID: 1259) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Lama solare(FLAMESWORD), Reliquia del gelo(FROST)
++6/13/21/30% Danni della Reliquia del gelo
++6/13/21/30% Danni di Lama solare
+Lama solare si attiva anche con gli attacchi di Reliquia del gelo
+Se l'oggetto si trova sul lato sinistro dell'inventario, l'artefatto Reliquia del gelo viene convertito affinché si basi su Danni da fuoco; se si trova sul lato destro, l'artefatto Lama solare viene convertito affinché si basi su Danni da freddo
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pendolo mistico (ID: 1262) [Locked] [Charm] [Rarità: Leggendario] ===
+[Category] Robusto(STURDY)
++22/26/32/40/50% Danni degli attacchi normali
+-10/10/10/10/10% Velocità d'attacco
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Accoppiatore di flusso Mk.2 (ID: 1263) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Nube tempestosa(DARKCLOUD), Compagno(COMPANION)
++3/6/9/12% Danni del compagno
+Attiva Nube temporalesca +1/1/1/1 volte quando un compagno infligge Fulmine danni (tempo di recupero per compagno: 0.1 sec).
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Insegna della devozione (ID: 1264) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Compagno(COMPANION)
++6/12/18/24 Difesa del compagno
+I Compagno collocati nella stessa Riga dell'Inventario infliggono danni Caos.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Amplificatore d'impatto (ID: 1267) [Locked] [Charm] [Rarità: Leggendario] ===
+[Category] Mistico(MYSTIC)
++1/1/1/2/2//3/4/4/5/6//7/8/9/12/14 Danni puri
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Inverno eterno (ID: 1268) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Ghiacciaio(GLACIER), Robusto(STURDY)
+Quando Attacco normale colpisce, ha una probabilità del +80/120/180% di infliggere danni aggiuntivi. 
+[Danni: Danni fisici +40/75/125% + Danni da freddo +80/150/250% (considerati danni da Attacco normale)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ago cerca-difetti (ID: 1274) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Precisione(PRECISION)
++3/6/9/12/15//18/21% Probabilità di critico
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Collana del viandante (ID: 1275) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Canto del vento(WINDSONG)
++6/12/18% Velocità d'attacco
++2/4/6 Danno elementale più alto
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cuore della bestia (ID: 1276) [Locked] [Charm] [Rarità: Leggendario] ===
+[Category] Guardiano(GUARDIAN)
++4/8/12/16/20 Difesa
++2/4/6/8/10% Bonus danni universale
++2/2/4/4/6 Fortuna
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fusaiola di pietra (ID: 1278) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Lago(LAKE)
++6/12/18/24/30% Danni delle abilità che consumano MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bracciale da battaglia di Lerid (ID: 1279) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Ombra(SHADOW)
+0/1/1/2 Numero di scatti
++1/1/2/3 Danni puri
++2/4/6/8% Velocità di movimento
+L'invincibilità di Scatto viene considerata un effetto di Evasione riuscita
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fascia elastica (ID: 1285) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Ombra(SHADOW)
++2/4/6/8% Danni critici
++1/2/3/4 Evasione
+Recupera Numero di scatti di +1/1/2 quando si attiva Evasione
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ago dorato del Nord (ID: 1289) [Locked] [Charm] [Rarità: Raro] ===
+Danno del Artefatto nello slot superiore +6/8/10%
+Se la Rarità è Avanzato o inferiore, danno bonus +15/20/25%
+Si applica solo ai Artefatto che infliggono danni diretti
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Penna stilografica dell'accademia (ID: 1291) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Ombra(SHADOW), Accademia(ACADEMY)
+Accelera di 5/10/15/20/25% la ricarica di tutte le Grimorio dopo una Evasione riuscita
+Ottieni Danni Grimorio 1% ogni 4 Evasione
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Annaffiatoio di Jolow (ID: 1292) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Lago(LAKE), Accademia(ACADEMY)
++3/6/9/12/15% Danni Grimorio
+Se MP massimi è almeno +500/400/320/250/200, lancia Grimorio altre 1 volte
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pipistrello dalle lunghe orecchie della montagna innevata (ID: 1293) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Ghiacciaio(GLACIER), Canto del vento(WINDSONG)
++2/5/6/8/10% Velocità d'attacco
+Spara un proiettile di ghiaccio contro i nemici affetti da Assideramento ogni 0.5 sec
+[Danni: 0 (Danni da freddo 45% × Velocità d'attacco 120%)]
+Questi danni non sono influenzati da Tocco glaciale
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Elmo al plasma (ID: 1294) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Brace(EMBER), Magitecnologia(MAGITECH)
+Ustione e Elettrocuzione diventano Plasma
+-15/10/5/0/5% Danni Plasma
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Registro d'osservazione del pianeta rosso (ID: 1295) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Pianeta(PLANET), Brace(EMBER)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Spirito dell'Acqua (ID: 1296) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Lago(LAKE), Precisione(PRECISION)
+Lancia «Presa d'acqua» nel punto bersaglio usando il 30% di MP massimi
+[Danni: MP massimi × +160/240/320/400/500]
+Amplifica il Danni critici di questo attacco di +10/15/20/25/30%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Patata furiosa (ID: 1300) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Alchimia(ALCHEMY)
++4/7/11/15% Ignora difesa
++1/2/3/4 Fortuna
++5/5/10/10% Velocità di movimento
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Benedizione del viaggiatore (ID: 1301) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Alchimia(ALCHEMY)
++4/8/12% Danni di Arma
++4/8/12% Danni Grimorio
+0/1/2 Danni puri
++3/6/9% Velocità di movimento
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fiaschetta dell'alchimista (ID: 1302) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Alchimia(ALCHEMY)
+Bevi una pozione per ottenere un bonus che aumenta Bonus danni universale di +5/10/15 per 15 sec
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ghigliottina del gelo pungente (ID: 1303) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Reliquia del gelo(FROST), Magitecnologia(MAGITECH)
+Ogni 6s, evoca Ghiaccio+Fulmine lame su un massimo di 4 nemici vicini. Infliggere danni Elettrocuzione riduce il tempo di recupero di 1s.
+Danni: +150/200/250% del (valore più alto tra Danni da fulmine e Danni da freddo + 30% del valore più basso)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sole degli archivi (ID: 1311) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Lama solare(FLAMESWORD), Accademia(ACADEMY)
+Ogni 1% di Danni Grimorio aumenta dell'1% i danni di Lama solare
+Infliggendo danni Grimorio, attiva inoltre Lama solare 0/0/1/1/2 volte
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Preparazione (ID: 2031) [Locked] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  DIADOWNRIGHT 2
+  DIAUPLEFT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Entrata (ID: 2032) [Locked] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  DIAUPRIGHT 1
+  DIAUPLEFT 1
+  UP 2
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sogno a occhi aperti (ID: 2033) [Locked] [StoneTablet] [Rarità: Leggendario] ===
+[Tablet effect]
+  DIAUPRIGHT 2
+  DIAUPLEFT 2
+  DIADOWNRIGHT 2
+  DIADOWNLEFT 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Giuramenti (ID: 2034) [Locked] [StoneTablet] [Rarità: Raro] ===
+[Tablet effect]
+  LEFT 1
+  RIGHT 1
+  DOWN 1
+  UP 1
+  UPUP 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Spine (ID: 2035) [Locked] [StoneTablet] [Rarità: Leggendario] ===
+[Tablet effect]
+  LEFT 1
+  RIGHT 1
+  DOWN 2
+  UP 2
+  DIAUPRIGHT 1
+  DIAUPLEFT 1
+  DIADOWNRIGHT 1
+  DIADOWNLEFT 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Congiunzione (ID: 2036) [Locked] [StoneTablet] [Rarità: Raro] ===
+[Tablet effect]
+  UP 1
+  UPUP 1
+  UPUPUP 1
+  RIGHT 1
+  RIGHTRIGHT 1
+  RIGHTRIGHTRIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ribellione (ID: 2037) [Locked] [StoneTablet] [Rarità: Raro] ===
+[Tablet effect]
+  RIGHT_RISING 1
+  LEFT_FALLING 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Convinzione (ID: 2051) [Locked] [StoneTablet] [Rarità: Leggendario] ===
+[Tablet effect]
+  UP 5
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Adunata (ID: 2052) [Locked] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  UP 2
+  LEFT 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Progresso (ID: 2053) [Locked] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  DIAUPLEFT 2
+  UP 1
+  LEFT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pace (ID: 2054) [Locked] [StoneTablet] [Rarità: Leggendario] ===
+[Tablet effect]
+  LEFT 3
+  RIGHT 3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Coraggio (ID: 2055) [Locked] [StoneTablet] [Rarità: Leggendario] ===
+[Tablet effect]
+  LEFT_RISING 1
+  RIGHT_FALLING 1
+  DIAUPRIGHT 2
+  DIADOWNLEFT 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ospitalità (ID: 2056) [Locked] [StoneTablet] [Rarità: Leggendario] ===
+[Tablet effect]
+  LEFT 1
+  UP 2
+  UP IGNORECRITERIA
+  LEFT IGNORECRITERIA
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Onore (ID: 2057) [Locked] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  KNIGHTUPLEFT 1
+  UP 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ultima resistenza (ID: 2058) [Locked] [StoneTablet] [Rarità: Raro] ===
+[Tablet effect]
+  UP 5
+  DOWN -1
+  LEFT -1
+  RIGHT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bandiera (ID: 2059) [Locked] [StoneTablet] [Rarità: Raro] ===
+[Placement condition]
+  LEFTEND PLACED
+[Tablet effect]
+  UP 1
+  DOWN -1
+  RIGHT 1
+  RIGHTRIGHT 2
+  RIGHTRIGHTRIGHT 3
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mossa difensiva (ID: 2060) [Locked] [StoneTablet] [Rarità: Raro] ===
+[Tablet effect]
+  DIAUPLEFT 1
+  DIAUPRIGHT 2
+  DIADOWNLEFT 2
+  DIADOWNRIGHT 1
+  LEFT -1
+  RIGHT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dardo di fuoco (ID: 3002) [Locked] [Charm] [Rarità: Comune] ===
+[Category] Brace(EMBER)
+Ottieni Abilità Dardo di fuoco
+Scaglia un piccolo proiettile di fuoco
+CD: 1s
+MP: 2
+Danni: 25/28 + Danni da fuoco 50/80%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dardo fulminante (ID: 3011) [Locked] [Charm] [Rarità: Comune] ===
+[Category] Magitecnologia(MAGITECH)
+Ottieni Abilità Dardo fulminante
+Scaglia proiettili aggiuntivi contro i nemici vicini
+CD: 1s
+MP: 2
+Danni: 20/22 + Danni da fulmine 40/60%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Freccia di fuoco (ID: 3012) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Brace(EMBER)
+Ottieni Abilità Freccia di fuoco
+Scaglia una freccia che trafigge i nemici
+CD: 9s
+MP: 15/17/19
+Danni: 18/20/22 + Danni da fuoco 120/240/360%
+cariche di Ustione: 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Circo di Fuoco (ID: 3013) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Brace(EMBER)
+Ottieni Abilità Circo di Fuoco
+Evoca 8 sfere di fuoco che volano verso il punto bersaglio.
+CD: 10s
+MP: 16/18/19/20
+Danni: 18 + Danni da fuoco 55/75/100/130%
+Bonus: +10/16/22/30%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Occhio Acuto (ID: 3018) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Precisione(PRECISION)
+Ottieni Abilità Occhio Acuto
+Ottieni un bonus che aumenta del 12% la probabilità di colpo critico
+CD: 30s
+MP: 24/16/6
+Durata: 15
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rapidità (ID: 3019) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Canto del vento(WINDSONG)
+Ottieni Abilità Rapidità
+Ottieni un bonus che aumenta la VEL ATT e la Velocità di movimento del 15%
+CD: 38s
+MP: 36/24/12
+Durata: 24
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pugnale di Ghiaccio (ID: 3020) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Ghiacciaio(GLACIER)
+Ottieni Abilità Pugnale di Ghiaccio
+Evoca 4 pugnali che volano verso i nemici vicini ed esplodono
+CD: 10s
+MP: 10/11/12/13/14
+Danni: 25 + Danni da freddo 90/135/180/220/260%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pioggia di Meteore (ID: 3022) [Locked] [Charm] [Rarità: Leggendario] ===
+[Category] Brace(EMBER)
+Ottieni Abilità Pioggia di Meteore
+Fa cadere meteore casualmente nell'area di lancio
+CD: 26s
+MP: 35/38/41/44
+Danni: 22 + Danni da fuoco 50/100/180/200%
+Numero di meteore: 20/25/30/35
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pioggia di Frecce (ID: 3023) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Ghiacciaio(GLACIER)
+Ottieni Abilità Pioggia di Frecce
+Crea molteplici frecce di ghiaccio nel punto di lancio (quando colpiscono, hanno una certa probabilità di infliggere Assideramento ai nemici)
+CD: 16s
+MP: 22/24/26/28
+Danni: 10/12/14/16 + Danni da freddo 40/70/100/130%
+Probabilità di Assideramento: 66%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dardo di Ghiaccio (ID: 3027) [Locked] [Charm] [Rarità: Comune] ===
+[Category] Ghiacciaio(GLACIER)
+Ottieni Abilità Dardo di Ghiaccio
+Scaglia 2 proiettili d'acqua cristallizzata
+CD: 1s
+MP: 2
+Danni: 14/16 + Danni da freddo 20/30%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Armatura del tuono (ID: 3028) [Locked] [Charm] [Rarità: Raro] ===
+[Category] Magitecnologia(MAGITECH)
+Ottieni Abilità Armatura del tuono
+Crea un'armatura fulminante che lancia una saetta a catena per attaccare 3 volte i nemici vicini.
+CD: 25s
+MP: 36/33/30/30/30
+Durata: 10
+Danni: 2/2/2/3/3 + Danni da fulmine 60/70/80/95/110%
+Intervallo attacchi: 0.33
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cortina fumogena (ID: 3030) [Locked] [Charm] [Rarità: Comune] ===
+[Category] Ombra(SHADOW)
+Ottieni Abilità Cortina fumogena
+Evoca una cortina fumogena che consente di schivare 3 attacchi nemici. La cortina fumogena scompare dopo 3 schivate.
+CD: 30s
+MP: 24
+Durata: 10
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Benedizione superiore (ID: 3032) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Mistico(MYSTIC)
+Ottieni Abilità Benedizione superiore
+Ottieni un bonus che aumenta tutti i danni inflitti del 12%
+CD: 20s
+MP: 19/15/12
+Durata: 12
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Scudo (ID: 3033) [Locked] [Charm] [Rarità: Comune] ===
+[Category] Guardiano(GUARDIAN)
+Ottieni Abilità Scudo
+Conferisce un bonus che fornisce 12 Barriera
+CD: 20s
+MP: 20/12
+Durata: 6
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Boomerang Fulminante (ID: 3034) [Locked] [Charm] [Rarità: Avanzato] ===
+[Category] Magitecnologia(MAGITECH)
+Ottieni Abilità Boomerang Fulminante
+Lancia un boomerang avvolto dall'elettricità (recuperandolo al ritorno, riduce parzialmente il tempo di ricarica)
+CD: 10s
+MP: 9/10/11/12/12
+Danni: 30 + Danni da fulmine 180/240/310/380/450%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Giudizio del tuono (ID: 3036) [Locked] [Charm] [Rarità: Leggendario] ===
+[Category] Magitecnologia(MAGITECH)
+Ottieni Abilità Giudizio del tuono
+Emette un enorme raggio fulminante che attacca 10 volte
+CD: 25s
+MP: 24/28/32/36/36
+Danni: 12 + Danni da fulmine 100/120/140/160/180%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento d'immagine (ID: 6000) [Locked] [Identifiable] [Rarità: Avanzato] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento d'immagine (ID: 6001) [Locked] [Identifiable] [Rarità: Avanzato] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento d'immagine (ID: 6002) [Locked] [Identifiable] [Rarità: Avanzato] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento d'immagine (ID: 6003) [Locked] [Identifiable] [Rarità: Avanzato] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento d'immagine (ID: 6004) [Locked] [Identifiable] [Rarità: Avanzato] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento d'immagine (ID: 6005) [Locked] [Identifiable] [Rarità: Avanzato] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento d'immagine (ID: 6006) [Locked] [Identifiable] [Rarità: Avanzato] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento d'immagine (ID: 6007) [Locked] [Identifiable] [Rarità: Avanzato] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento d'immagine (ID: 6008) [Locked] [Identifiable] [Rarità: Avanzato] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento d'immagine (ID: 6009) [Locked] [Identifiable] [Rarità: Avanzato] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento d'immagine (ID: 6010) [Locked] [Identifiable] [Rarità: Avanzato] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento d'immagine (ID: 6011) [Locked] [Identifiable] [Rarità: Avanzato] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento d'immagine (ID: 6012) [Locked] [Identifiable] [Rarità: Avanzato] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento d'immagine (ID: 6013) [Locked] [Identifiable] [Rarità: Avanzato] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento d'immagine (ID: 6014) [Locked] [Identifiable] [Rarità: Avanzato] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frammento d'immagine (ID: 6015) [Locked] [Identifiable] [Rarità: Avanzato] ===
+[No effect text]
+
+================================================================================
+
+── activeType: PocketDimensionShop — 8 ──
+
+=== Pietra del fulmine (ID: 1055) [PocketDimensionShop] [Charm] [Rarità: Raro] ===
+[Category] Nube tempestosa(DARKCLOUD)
++25/30/35/40/45//50/60% Danni extra di Nube temporalesca
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Carte di Pallas (ID: 1172) [PocketDimensionShop] [Charm] [Rarità: Avanzato] ===
+[Category] Canto del vento(WINDSONG)
+Gli attacchi normali hanno una probabilità del 50% di lanciare una carta
+Per ogni 1 Fortuna, la probabilità di lanciare una carta aumenta di 0/2.5/5/7.5/10% (attuale: -%)
+[Danni: 24]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ali di ghiaccio (ID: 1179) [PocketDimensionShop] [Charm] [Rarità: Leggendario] ===
+[Category] Reliquia del gelo(FROST)
+Reliquia del gelo si attiva altre 0/0/0/1/1//1/2 volte
+0/0/0/-10/10//10/20% Danni della Reliquia del gelo
++2/4/6/8/10//12/20% Danni critici
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Orecchini di pietra del sangue (ID: 1188) [PocketDimensionShop] [Charm] [Rarità: Leggendario] ===
++8/8/8/8 Assorbimento vitale
+-30/25/20/10 Difesa
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Armatura a piastre di lucertola (ID: 1217) [PocketDimensionShop] [Charm] [Rarità: Raro] ===
+[Category] Guardiano(GUARDIAN)
++14/16/18/21/24 Difesa
+-2/4/6/8/10% Velocità di movimento
+-2/4/6/8/10% Velocità d'attacco
+-2/4/6/8/10 Rapidità Grimorio
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pianeta bianco (ID: 1220) [PocketDimensionShop] [Charm] [Rarità: Raro] ===
+[Category] Pianeta(PLANET)
+Evoca un Pianeta Bianco che spara proiettili Ghiaccio
+[Danni: +30/36/42/48/54//60/66/72]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Polsiera blu (ID: 1221) [PocketDimensionShop] [Charm] [Rarità: Leggendario] ===
+[Category] Robusto(STURDY)
++7/14/21/28/35//42/50% Danni attacco speciale
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Uscita (ID: 2050) [PocketDimensionShop] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  DIADOWNLEFT 1
+  DOWN 2
+  DIADOWNRIGHT 1
+[Cannot rotate]
+
+================================================================================
+
+── activeType: Hidden — 50 ──
+
+=== Pozione blu grande (ID: 20) [Hidden] [Potion] [Rarità: Comune] ===
+???
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pozione blu piccola (ID: 21) [Hidden] [Potion] [Rarità: Comune] ===
+???
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pozione della concentrazione (ID: 25) [Hidden] [Potion] [Rarità: Comune] ===
+Ripristina 20% MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rugiada dell'alba (ID: 35) [Hidden] [Potion] [Rarità: Leggendario] ===
+Bonus danni universale +4%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Serendipità di Solera (ID: 46) [Hidden] [Potion] [Rarità: Raro] ===
+Aumenta di 1 il conteggio di una combo casuale.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Olio combustibile (ID: 1038) [Hidden] [Charm] [Rarità: Avanzato] ===
+[Category] Brace(EMBER)
++3/6/9/12 Danni da fuoco
+-2/2/4/4 Danni da freddo
+Quando esegui Attacco speciale: Turbine, crea Campo ardente entro un raggio di +2.5/2.5/2.5/2.5 tessere
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Perla azzurra (ID: 1059) [Hidden] [Charm] [Rarità: Avanzato] ===
++1/2/3/4 Furto MP
+Infligge Corrosione ai nemici che hai danneggiato e che si trovano ad almeno 3 tessere di distanza
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Secchio Magico (ID: 1098) [Hidden] [Charm] [Rarità: Comune] ===
+Velocità di movimento +0/0.1/0.1%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Secchio Magico Pieno d'Acqua (ID: 1099) [Hidden] [Charm] [Rarità: Comune] ===
+Velocità di movimento -0.4%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bastoncino da cerchio (ID: 1135) [Hidden] [Charm] [Rarità: Avanzato] ===
+[Category] Robusto(STURDY)
+Quando un Attacco normale va a segno, Danni degli attacchi in scatto aumenta del {DAMAGE}% (si azzera con Attacco in scatto).
+Questo effetto si azzera quando Attacco normale va a segno.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Legno lavorato (ID: 1142) [Hidden] [Charm] [Rarità: Comune] ===
+Velocità di movimento -0.4%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vasetto delle fate (ID: 1148) [Hidden] [Charm] [Rarità: Avanzato] ===
+[Category] Mistico(MYSTIC)
+Quando rompi casse o giare, hai una probabilità del +3/4/5% di creare una Sfera vitale.
+Sfera vitale: ripristina 15 PS.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cuscino per il pisolino di Elru (ID: 1174) [Hidden] [Charm] [Rarità: Avanzato] ===
+Al termine del combattimento, recupera +1/2/3 PS.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lanterna (ID: 1227) [Hidden] [Charm] [Rarità: Comune] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Item_PlanetComet_Name (ID: 1254) [Hidden] [Charm] [Rarità: Avanzato] ===
+[Category] Pianeta(PLANET)
+Evoca un pianeta blu che spara proiettili Fisico
+[Danni: {DAMAGE}]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Passi tonanti (ID: 1260) [Hidden] [Charm] [Rarità: Avanzato] ===
+[Category] Magitecnologia(MAGITECH)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Goccia di Plitvice (ID: 1261) [Hidden] [Charm] [Rarità: Raro] ===
+[Category] Reliquia del gelo(FROST), Lago(LAKE)
++1 All'attivazione della Reliquia del gelo, consuma 4 MP e aumenta i danni in base all'incremento di MP massimi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Protezione della natura (ID: 1265) [Hidden] [Charm] [Rarità: Leggendario] ===
+Attiva Scudo MP per 10 secondi all'uso
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== ... (ID: 1266) [Hidden] [Charm] [Rarità: Raro] ===
+[Category] Accademia(ACADEMY), Lago(LAKE)
+Aumenta i danni di 2/4/6/8/10% per ogni 10 MP consumati da Grimorio
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== ... (ID: 1269) [Hidden] [Charm] [Rarità: Leggendario] ===
+[Category] Robusto(STURDY), Maledizione(CURSE)
+Danni di Arma aumenta del {DAMAGE}% per ogni carica di malus applicato al nemico.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Scudo congelato (ID: 1280) [Hidden] [Charm] [Rarità: Raro] ===
+[Category] Reliquia del gelo(FROST), Canto del vento(WINDSONG)
++3% Probabilità che Reliquia del gelo si attivi di nuovo ogni Velocità d'attacco10%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== item_ShieldDamageBonus_Name (ID: 1281) [Hidden] [Charm] [Rarità: Leggendario] ===
+[Category] Guardiano(GUARDIAN)
+Mentre Scudo è attivo, aumenta i danni inflitti ai nemici di +5/10/18/30/48//70/100% del valore di Scudo.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tronco (ID: 1286) [Hidden] [Charm] [Rarità: Comune] ===
+Velocità di movimento -0.4%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ago blu del Nord (ID: 1290) [Hidden] [Charm] [Rarità: Raro] ===
+Danno del Artefatto nello slot superiore +6/8/10%
+Se la Rarità è Avanzato o inferiore, danno bonus +15/20/25%
+Si applica solo ai Artefatto che infliggono danni diretti
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cuore pesante (ID: 1304) [Hidden] [Charm] [Rarità: Comune] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Oppressione (ID: 2000) [Hidden] [StoneTablet] [Rarità: Avanzato] ===
+[Tablet effect]
+  RIGHT X
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Inferno (ID: 2098) [Hidden] [StoneTablet] [Rarità: Eterno] ===
+[Tablet effect]
+  CHECKERBOARD2 -9
+  CHECKERBOARD -9
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Paradiso (ID: 2099) [Hidden] [StoneTablet] [Rarità: Eterno] ===
+[Tablet effect]
+  CHECKERBOARD2 9
+  CHECKERBOARD 9
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== ... (ID: 2101) [Hidden] [StoneTablet] [Rarità: Leggendario] ===
+[Custom tablet (query generated at runtime)]
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dardo d'Aria (ID: 3000) [Hidden] [Charm] [Rarità: Comune] ===
+Ottieni Abilità Dardo d'Aria
+Comprime e scaglia rapidamente l'aria circostante
+CD: 1s
+MP: 2
+0 + Danni fisici 100/110%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Flusso curativo (ID: 3005) [Hidden] [Charm] [Rarità: Avanzato] ===
+Ottieni Abilità Flusso curativo
+I MP consumati vengono Riserva permanentemente
+Ripristina PS. (Il costo in MP verrà riservato permanentemente.)
+CD: 30s
+MP: 15
+Cure: 20
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Onda di pietra (ID: 3015) [Hidden] [Charm] [Rarità: Comune] ===
+Ottieni Abilità Onda di pietra
+Evoca cumuli di pietre davanti e dietro di te, attaccando i nemici nel raggio d'azione
+CD: 9s
+MP: 24/20
+Danni: 0 + Danni fisici 100/120%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Oink roccioso (ID: 3016) [Hidden] [Charm] [Rarità: Comune] ===
+[Category] Compagno(COMPANION)
+Ottieni Abilità Oink roccioso
+Evoca un Oink di roccia che combatte al tuo fianco (una quantità di MP pari al costo di evocazione verrà bloccata)
+CD: 10s
+MP: 30
+Danni: 15 + Danni fisici 0%
+PS: 250
+Durata: 60
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dardo d'acqua (ID: 3017) [Hidden] [Charm] [Rarità: Comune] ===
+Ottieni Abilità Dardo d'acqua
+Scaglia un piccolo proiettile d'acqua
+CD: 1s
+MP: 2
+Danni: 0 + Danni da freddo 100/110%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ago infuocato (ID: 3024) [Hidden] [Charm] [Rarità: Comune] ===
+Ottieni Abilità Ago infuocato
+Evoca un ago che cuce filato di elemento Fuoco
+CD: 0.5s
+MP: 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ago glaciale (ID: 3025) [Hidden] [Charm] [Rarità: Comune] ===
+Ottieni Abilità Ago glaciale
+Evoca un ago che cuce filato di elemento Ghiaccio
+CD: 0.5s
+MP: 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ago fulminante (ID: 3026) [Hidden] [Charm] [Rarità: Comune] ===
+Ottieni Abilità Ago fulminante
+Evoca un ago che cuce filato di elemento Fulmine
+CD: 0.5s
+MP: 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Circo di Fuoco (ID: 3035) [Hidden] [Charm] [Rarità: Comune] ===
+Ottieni Abilità Circo di Fuoco
+Evoca 8 sfere di fuoco che volano verso il punto bersaglio.
+CD: 1s
+MP: 16/18/19/20
+Danni: 0 + Danni da fuoco 100/120/140/160%
+Bonus: +0%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lettera di avvertimento (ID: 5000) [Hidden] [Charm] [Rarità: Raro] ===
++4/8% Velocità di movimento
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Emblema compagno «Isaac» (ID: 5001) [Hidden] [Charm] [Rarità: Raro] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Emblema compagno «Khakha» (ID: 5002) [Hidden] [Charm] [Rarità: Raro] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Emblema compagno «Maru» (ID: 5003) [Hidden] [Charm] [Rarità: Raro] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Emblema compagno «Aiba» (ID: 5004) [Hidden] [Charm] [Rarità: Raro] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Emblema compagno «Kenny» (ID: 5005) [Hidden] [Charm] [Rarità: Raro] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Emblema compagno «Pillix» (ID: 5006) [Hidden] [Charm] [Rarità: Raro] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Emblema compagno «Rolf» (ID: 5007) [Hidden] [Charm] [Rarità: Raro] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Emblema compagno «Thunder» (ID: 5008) [Hidden] [Charm] [Rarità: Raro] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Artefatto leggendario non identificato (ID: 10003) [Hidden] [Identifiable] [Rarità: Leggendario] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Maledizione (ID: 12000) [Hidden] [StoneTablet] [Rarità: Leggendario] ===
+[Tablet effect]
+  CHECKERBOARD2 1
+  CHECKERBOARD -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+===  (ID: 12002) [Hidden] [StoneTablet] [Rarità: Raro] ===
+[Tablet effect]
+  O MUL/2
+
+================================================================================
+
+── activeType: WitchHat — 13 ──
+
+=== Sacca di spore tossiche (ID: 1154) [WitchHat] [Charm] [Rarità: Raro] ===
++4/6/8/10% Danni bonus inflitti a Boss e Mini boss
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Portavivande (ID: 1282) [WitchHat] [Charm] [Rarità: Avanzato] ===
++1/1/1/1/2 Assorbimento vitale
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Distintivo di granato (ID: 1297) [WitchHat] [Charm] [Rarità: Avanzato] ===
++2/4/6/8/10% Danni di Arma
++2/3/4/5/6 Danni da fuoco
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Distintivo di topazio (ID: 1298) [WitchHat] [Charm] [Rarità: Avanzato] ===
++2/4/6/8/10% Danni di Arma
++2/3/4/5/6 Danni da fulmine
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Distintivo di diamante (ID: 1299) [WitchHat] [Charm] [Rarità: Avanzato] ===
++2/4/6/8/10% Danni di Arma
++2/3/4/5/6 Danni da freddo
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fungo rosso (ID: 1305) [WitchHat] [Charm] [Rarità: Avanzato] ===
+Per ogni 3% Danni inflitti con Debuff, aumenta Velocità d'attacco di 1%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pietra del turbine (ID: 1306) [WitchHat] [Charm] [Rarità: Avanzato] ===
++2/4/6/8% Bonus danni universale
++6/12/18/24% Velocità di movimento
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tomo della trasmutazione - Fuoco (ID: 1307) [WitchHat] [Charm] [Rarità: Raro] ===
+Danni fisici aggiuntivi diventa 0 e tale 20/40/60/80/100% viene convertito in Danni da fuoco
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tomo della trasmutazione - Ghiaccio (ID: 1308) [WitchHat] [Charm] [Rarità: Raro] ===
+Danni fisici aggiuntivi diventa 0 e tale 20/40/60/80/100% viene convertito in Danni da freddo
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tomo della trasmutazione - Fulmine (ID: 1309) [WitchHat] [Charm] [Rarità: Raro] ===
+Danni fisici aggiuntivi diventa 0 e tale 20/40/60/80/100% viene convertito in Danni da fulmine
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lettera maledetta (ID: 1310) [WitchHat] [Charm] [Rarità: Avanzato] ===
++50/100/200% Spine
+-6/5/4% Velocità d'attacco
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cuneo (ID: 2061) [WitchHat] [StoneTablet] [Rarità: Raro] ===
+[Tablet effect]
+  DIAUPLEFT 3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Contraccambio (ID: 2100) [WitchHat] [StoneTablet] [Rarità: Eterno] ===
+[Tablet effect]
+  HORIZONTAL 3

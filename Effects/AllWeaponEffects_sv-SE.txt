@@ -1,4 +1,4 @@
-﻿Base weapon effect text (enhancement tree) — 6 / 212 / language: sv-SE (sv-SE)
+﻿Base weapon effect text (enhancement tree) — 6 / 215 / language: sv-SE (sv-SE)
 ================================================================================
 
 === [T1] Standardsvärd och sköld (ID: 0) ===
@@ -46,14 +46,18 @@
 │   Köldskada ökar med 5.
 │   ├ [T3] Glaciärblad (ID: 1014)
 │   │   Projektilen från artefakten Exorcismens skida blir mindre, men laddas 50 % snabbare.
-│   └ [T3] Snöstormens afton (ID: 1015)
-│       När Antal rusningar förbrukas aktiveras Artefakt Snöstormshammare omedelbart med 60 % skada.
+│   ├ [T3] Snöstormens afton (ID: 1015)
+│   │   När Antal rusningar förbrukas aktiveras Artefakt Snöstormshammare omedelbart med 60 % skada.
+│   └ [T3] Weapon_1029_Name (ID: 1029)
+│       När artefakten Isranka aktiveras kretsar den kring spelaren.
 ├ [T2] Ledare (ID: 1016)
 │   Blixtskada ökar med 5.
 │   ├ [T3] Ballistasvärd (ID: 1017)
 │   │   Pilen från Artefakt Miniballista tränger igenom väggar och söker upp fiender. Avfyrar omedelbart en pil vid lyckad Blockering.
-│   └ [T3] Supraledare (ID: 1018)
-│       Specialattack: Klyvning ändras till Specialattack: Blixtspjut.
+│   ├ [T3] Supraledare (ID: 1018)
+│   │   Specialattack: Klyvning ändras till Specialattack: Blixtspjut.
+│   └ [T3] Bländande tystnad (ID: 1028)
+│       Artefakten Åskans örhänge får 1 ytterligare attacker, och dess skada ökar med 100%. Åskans örhänge utlöses omedelbart vid Specialattack: Klyvning.
 └ [T2] Incendium (ID: 1024)
     Skada från Vapenattack minskas med 15 %, men ändras till Eldskada.
     ├ [T3] Solis Missio (ID: 1025)
@@ -275,14 +279,17 @@
 ├ [T2] Winter Smiths prototypklinga (ID: 419)
 │   Sätt i skidan ersätts med Tackling. Ger ytterligare skada motsvarande 15 % av Köldskada vid Vapenattack. Köldskada ökar med 3.
 │   ├ [T3] Evighetsfrosten tystnad (ID: 420)
-│   │   Tackling ändras till Specialattack: Isglidning. Att blockera fiendeattacker under oövervinnerlighet aktiverar artefakten Glaciärens eko omedelbart. Vid aktivering orsakar den 120 % Köldskada-skada på närliggande fiender.
+│   │   Tackling ändras till Specialattack: Isglidning. Att blockera fiendeattacker under oövervinnerlighet aktiverar artefakten Glaciärens eko omedelbart. Vid aktivering orsakar den skada på närliggande fiender. (Skada: 120 % av Köldskada)
 │   └ [T3] Fragment av Nastrond (ID: 421)
 │       Efter en Tackling-handling aktiveras Frostrelik: Skaði när du attackerar.
 ├ [T2] Åsksvärdet 'Bronte' (ID: 404)
 │   Skada från Vapenattack minskas med 20 %, men ändras till Blixtskada.
-│   └ [T3] Blixtglimt (ID: 405)
-│       Få 1 stack av 'Elektrisk laddning' när du orsakar skada med Elektrifiering. (Max 10)
-│       Förbruka 2 stackar av 'Elektrisk laddning' för att utföra Specialattack: Issen vid Specialattack: Tungt hugg.
+│   ├ [T3] Blixtglimt (ID: 405)
+│   │   Få 1 stack av 'Elektrisk laddning' när du orsakar skada med Elektrifiering. (Max 10)
+│   │   Förbruka 2 stackar av 'Elektrisk laddning' för att utföra Specialattack: Issen vid Specialattack: Tungt hugg.
+│   └ [T3] Azurmolnssvärdet 'Arges' (ID: 425)
+│       Sätt i skidan ändras till Specialattack: Molnhugg.
+│       Få 1 stack Kvarvarande blixt varje gång Stormmoln slår ner av sig själv. (Max 20)
 └ [T2] Pansarknäcker (ID: 423)
     Skadan som orsakas av Normalattack ökar med 1 % för varje 2 Försvar.
     └ [T3] Plåtbrytarklinga (ID: 424)

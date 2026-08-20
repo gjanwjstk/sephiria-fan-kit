@@ -1,0 +1,2920 @@
+﻿All item effect text — 426 / language: tr-TR (tr-TR)
+================================================================================
+
+── activeType: Default — 211 ──
+
+=== Onarım İksiri (ID: 0) [Default] [Potion] [Nadirlik: Yaygın] ===
+20% HP yeniler
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Büyük Yenilenme İksiri (ID: 1) [Default] [Potion] [Nadirlik: Gelişmiş] ===
+50% HP yeniler
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tavşanköy Özel Havucu (ID: 7) [Default] [Misc] [Nadirlik: Yaygın] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Büyük Odak İksiri (ID: 26) [Default] [Potion] [Nadirlik: Yaygın] ===
+25 saniye boyunca her 0.25 saniyede 1 MP yeniler
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Elma Suyu (ID: 27) [Default] [Potion] [Nadirlik: Yaygın] ===
+30 saniye boyunca her saniye 1 HP yeniler
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Nebbiolo’nun İnatçılığı (ID: 28) [Default] [Potion] [Nadirlik: Nadir] ===
+Fiziksel Hasar +4
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ugni Blanc'ın Sisi (ID: 29) [Default] [Potion] [Nadirlik: Nadir] ===
+Soğuk Hasarı +4
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tempranillo’nun Tutkusu (ID: 30) [Default] [Potion] [Nadirlik: Nadir] ===
+Ateş Hasarı +4
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Malbec'in Derinliği (ID: 31) [Default] [Potion] [Nadirlik: Nadir] ===
+Yıldırım Hasarı +4
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Grenache'ın Kaprisi (ID: 32) [Default] [Potion] [Nadirlik: Nadir] ===
+Rastgele bir etki kazandırır.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Büyük Zar İksiri (ID: 33) [Default] [Potion] [Nadirlik: Nadir] ===
+3 zar elde et
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Küçük Zar İksiri (ID: 34) [Default] [Potion] [Nadirlik: Gelişmiş] ===
+2 zar elde et
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Vampir Lordunun Yemini (ID: 36) [Default] [Potion] [Nadirlik: Efsanevi] ===
+Can Çalma +1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yenilenme İksiri (Numune) (ID: 37) [Default] [Potion] [Nadirlik: Yaygın] ===
+1% HP yeniler
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Uyanış İksiri (ID: 38) [Default] [Potion] [Nadirlik: Nadir] ===
+Bir eseri bir kez efsunlar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mantar Çorbası (ID: 39) [Default] [Potion] [Nadirlik: Nadir] ===
+En yüksek element hasarını 6 artırır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Trappist Kutsiyeti (ID: 40) [Default] [Potion] [Nadirlik: Gelişmiş] ===
+Fiziksel Hasar +2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Märzen Dumanı (ID: 41) [Default] [Potion] [Nadirlik: Gelişmiş] ===
+Ateş Hasarı +2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Aventinus Kristali (ID: 42) [Default] [Potion] [Nadirlik: Gelişmiş] ===
+Soğuk Hasarı +2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gose Sabahı (ID: 43) [Default] [Potion] [Nadirlik: Gelişmiş] ===
+Yıldırım Hasarı +2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lambic Ânı (ID: 44) [Default] [Potion] [Nadirlik: Gelişmiş] ===
+Rastgele bir etki kazandırır.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Madeira'nın Metaneti (ID: 45) [Default] [Potion] [Nadirlik: Nadir] ===
+Nihai Can +5%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sagrantino'nun Metaneti (ID: 47) [Default] [Potion] [Nadirlik: Nadir] ===
+Savunma +5
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Poulsard'ın Payı (ID: 48) [Default] [Potion] [Nadirlik: Nadir] ===
+Kaçınma +5
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Madiran'ın Soğukkanlılığı (ID: 49) [Default] [Potion] [Nadirlik: Gelişmiş] ===
+Savunma +3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Grisette'in Hafifliği (ID: 50) [Default] [Potion] [Nadirlik: Gelişmiş] ===
+Kaçınma +3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gueuze'ün Ahengi (ID: 51) [Default] [Potion] [Nadirlik: Gelişmiş] ===
+En Yüksek Element Hasarı +2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Güç Tılsımı (ID: 1000) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Sağlam(STURDY)
++2/3/4/6 Fiziksel Hasar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Beceri Tılsımı (ID: 1001) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Gölge(SHADOW)
++3/6 Kaçınma
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Zekâ Tılsımı (ID: 1002) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Buzul(GLACIER)
++3/4/6/8 Soğuk Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kırık Kök (ID: 1004) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Göl(LAKE)
+Maks. MP +5/60
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kalp Şeklinde Havuç (ID: 1005) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Göl(LAKE)
+Maks. HP +5/10/15/20/30
+Maks. MP +5/10/15/20/30
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rüzgâr Notaları (ID: 1008) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Rüzgâr Şarkısı(WINDSONG)
+Yakın Dövüş Saldırısı menzilini %+10/20/30/40/50 artırır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kılıç Eğitimi Kılavuzu (ID: 1009) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Rüzgâr Şarkısı(WINDSONG)
+Saldırı Hızı +7/14/26%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kalkan Eğitim Kılavuzu (ID: 1010) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Sağlam(STURDY)
++5/8% Özel Saldırı Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rüzgâr Otu Atkısı (ID: 1011) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Rüzgâr Şarkısı(WINDSONG)
+Atılma Saldırısı Hasarı +30/80%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Omurga Parçası (ID: 1012) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Mistik(MYSTIC)
+Maks. HP +5/20
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Elektro Çakram (ID: 1013) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Büyütek(MAGITECH)
+Yakındaki düşmanlara düzenli aralıklarla saldıran +1/2/2/3/3//4/4 çakram fırlatır
+[Hasar: +50/50/80/80/110 (Yıldırım Hasarı%+50/50/80/80/110)]
+Çakram isabet ettiğinde %+10/10/10/10/30 ihtimalle Elektrik Çarpması uygular.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ruh Kovma Kını (ID: 1014) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Ayaz Yadigârı(FROST)
+Her 6 saniyede bir yüklenir, normal saldırıda Buz bir kesik savurur
+[Hasar: 24 (24 + Soğuk Hasarı+100/150/200/260/320//380/460%)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mavi Gezegen (ID: 1015) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Gezegen(PLANET)
+Fiziksel mermileri atan mavi bir gezegen çağırır
+[Hasar: +10/14/18/22/26/30]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kızıl Sis (ID: 1016) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Hassasiyet(PRECISION)
+Kritik vuruşta, yakındaki düşmanlara en yüksek nitelik değerinin %+10/14/21/30 kadar hasar ver
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sıcak Taş (ID: 1018) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Hassasiyet(PRECISION)
+Kritik Hasarı %+10/20/30/40/50
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kurutulmuş Çiçek (ID: 1023) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Göl(LAKE)
++2/4/6% Kritik Şansı
++2/4/6 Maks. MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kibrin Altın Tacı (ID: 1025) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Hassasiyet(PRECISION)
+Kombo zincirinin son vuruşu +15/30/50/75/100% Kritik Şansı kazanır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Basit Sözleşme (ID: 1026) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Yoldaş(COMPANION)
+Yoldaş Maks. HP %+25/55/88/120/150
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Soğuk Kilit (ID: 1027) [Default] [Charm] [Nadirlik: Gelişmiş] ===
++8/12/16/20/25% Genel Hasar Artışı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Altın El Çanı (ID: 1029) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Yoldaş(COMPANION)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Endoditte’nin Kâğıt Ağırlığı (ID: 1031) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Göl(LAKE)
++3/6/9 MP Yenilenmesi
++3/6/9 Maks. MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kızıl Yılan Gözleri (ID: 1032) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Kor(EMBER)
+Oyuncunun yakınına %+130/150/150/170/170/170 ateş hasarı veren +1/1/2/2/3/4 meteor düşürür
+Meteorların isabet ettiği düşmanlara Yanık uygular
+Bekleme süresi: 5 saniye
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kalkankardeşi (ID: 1034) [Default] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Sağlam(STURDY)
++2/4/6/9/12//15/20% Silah Hasarı
+-20/20/20/10/5//5/0% Saldırı Hızı
+Özel Saldırı MP Bedeli +15/30/45/60/70//80/100
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bulut Şişesi (ID: 1035) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Fırtına Bulutu(DARKCLOUD)
++5/10/15/20/25/30% Fırtına Bulutu Tüketim Hızı
+Başarılı bir Atılma saldırısı, +1/2/3/5/7/10 Fırtına Bulutu kazandırır (Bekleme süresi: +3.5 saniye)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Savaşçı Mührü (ID: 1036) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Sağlam(STURDY)
++1/2/3/4/6//8/10/13 Fiziksel Hasar
++5/5/5/10/10//10/15/15% Saldırı Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Beyaz Dal (ID: 1040) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Göl(LAKE)
+MP Yenilenmesi +5/9/15/22/30
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sihirli Havuç (ID: 1048) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Element(ELEMENTAL)
++2/3/4/6/8 En Yüksek Element Hasarı
++2/4/6/8/10% Hareket Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Işıldayan Tılsım (ID: 1050) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Sağlam(STURDY)
+Başarılı bir bloklamanın ardından 25.5 saniye boyunca +2/4/6/8/10/15 fiziksel hasar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Karşı Saldırı Kılıcı Parçası (ID: 1051) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Sağlam(STURDY)
+Karşı Saldırı: Blok yaparken ileriye doğru kısa menzilli bir yakın dövüş saldırısı gerçekleştirir (fiziksel hasarın %+0.5/0/0.7/1.6/2.8/4.5 kadarı)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bronz Ayna Parçası (ID: 1056) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Sağlam(STURDY)
++20/30/40/50% Özel Saldırı MP Bedelini Azalt
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kütüphane Yelkovanı Minyatürü (ID: 1058) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Hassasiyet(PRECISION)
++0.1/0.2/0.3/0.4/0.5s Özel Saldırı: Hiddet Sırasında Dokunulmazlık Süresi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Seren'in Aceleyle Yazdığı Mektup (ID: 1060) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Muhafız(GUARDIAN)
+Çatışmada her 40 MP kullandığında +5/10/15 dayanıklılığa sahip bir Kalkan kazanırsın (15 saniye sürer)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Minik Sihirli Deniz Kabuğu (ID: 1063) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Ayaz Yadigârı(FROST)
++3/6/10% Ayaz Yadigârı hasarı
++5/8/12% Kritik Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gemi Direği Maketi (ID: 1065) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Fırtına Bulutu(DARKCLOUD)
++20/40/60% Fırtına Bulutu Tüketim Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Taş Çiçeği (ID: 1066) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Fırtına Bulutu(DARKCLOUD)
++3/6 Yıldırım Hasarı
++3/6% Kritik Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kalsedon Anahtarı (ID: 1067) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+Bulunduğun sıraya bağlı olarak Sağlam, Kor, Buzul veya Büyütek kombosu kazan
+Verilen komboya göre +2/4/6/8 element hasarı verir.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sapote Meyvesi (ID: 1068) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Fırtına Bulutu(DARKCLOUD)
++4/8/12/16/20 Fırtına Bulutu Kapasitesi
++1/2/3/4/5 MP Yenilenmesi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sivri Palamut (ID: 1070) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Fırtına Bulutu(DARKCLOUD)
++3/6/9/12% Çatışma sırasında Fırtına Bulutu Yenilenme Oranı
++3/3/6/6 Kaçınma
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mini Balista (ID: 1071) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Yoldaş(COMPANION), Fırtına Bulutu(DARKCLOUD)
+Seninle birlikte savaşacak bir yoldaş çağır
+Bir yıldırım oku düşmana isabet ettiğinde %+20/34/48/61/75 ihtimalle Fırtına Bulutu kazan.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yaprak Kuşu Derisi (ID: 1072) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Fırtına Bulutu(DARKCLOUD)
++2/2/3/4% Ek Fırtına Bulutu hasarı
+Normal Saldırı veya Atılma saldırısı isabet ettiğinde %+100/175/275/400 ihtimalle anında 1 Fırtına Bulutu tüketir (Bekleme süresi: +1.2/0.9/0.8/0.6 saniye)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Çıtırdayan Kremalı Çörek (ID: 1074) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Fırtına Bulutu(DARKCLOUD)
+Düşmanlar öldüklerinde %33 ihtimalle yıldırım ekmeği düşürür. Yıldırım ekmeği +1/2/3/4/5 Fırtına Bulutu kazandırır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Büyünün Esasları (ID: 1076) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Element(ELEMENTAL)
++2/4/6/8/10 En Yüksek Element Hasarı
++3/6/9/12/15% Büyü Kitabı Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kırık Safir (ID: 1077) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Gölge(SHADOW)
++2/4/6 Kaçınma
++2/4/6 Savunma
+Her +16/14/12 saniyede bir, gelen tüm saldırılara karşı kesin Kaçınma sağlayan bir örtü kazanırsın
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yapay Peri Iphiel (ID: 1078) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Göl(LAKE)
+Blok yaparken +5/10/15/20/30/50 MP Yenilenmesi kazandırır ancak Hareket Hızı değerini %90 azaltır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sivri Çakmak Taşı (ID: 1079) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Element(ELEMENTAL)
++2/4/6/8% Kritik Şansı
++1/2/3/4 En Yüksek Element Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tevazu Tacı (ID: 1080) [Default] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Sağlam(STURDY)
+Kombo son vuruşu %+10/22/40/60/84 daha fazla hasar verir
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Maket Gaga (ID: 1081) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Gölge(SHADOW)
++1/2/3/5/8 Fiziksel Hasar
++2/3/4/5/6 Kaçınma
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kompresyon Bandajı (ID: 1082) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Rüzgâr Şarkısı(WINDSONG)
++10/15/30/50/80% Atılma Yenilenme Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Azim Tılsımı (ID: 1083) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Hassasiyet(PRECISION)
+Silah Saldırısı Kritik Şansı değerini %+3/6/10/14/20 artırır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gümüş Plaka (ID: 1086) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Sağlam(STURDY)
++3/6/10% Normal Saldırı Hasarı
++3/6/10% Özel Saldırı Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kriton'un Mührü (ID: 1087) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Pazarlık(SAVVY)
+Yaprak kazanımını %+10/50 artırır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yeşil Testere Ağzı (ID: 1088) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Hassasiyet(PRECISION)
+Savaşta her MP 15 kullandığında %3 Kritik Şansı güçlendirmesi kazanırsın (en fazla 3 kez birikir ve 20 saniye sürer)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== İnce Minder (ID: 1090) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Yoldaş(COMPANION)
++5/10/15/20/30//40/50% Yoldaş Dirilme Hızı
+Yoldaşlar %+20/25/30/35/40//50/60% daha sık saldırır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kehribar (ID: 1094) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Mistik(MYSTIC)
+Canı tam olan düşmanlara %+10/20/40/80 ek hasar verir
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ejder Tütsüsü (ID: 1100) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Kor(EMBER)
++2/4/6/8/10 Ateş Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ohia Lehua (ID: 1101) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Kor(EMBER)
+Silah Saldırısı veya Büyü Kitabı ile hasar verildiğinde hedefe +10/20/30 Ateş Hasarı uygular (Bekleme süresi 2 sn.)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Meşe Kömürü (ID: 1102) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Kor(EMBER)
++10/20/30/40/50//60/70/80/90% Yanık Saldırı Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yivli Kil Tablet (ID: 1104) [Default] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Fırtına Bulutu(DARKCLOUD)
+10/20/30/40/50% ihtimalle Fırtına Bulutu tüketilmez
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sarı Gezegen (ID: 1105) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Gezegen(PLANET)
+Sekerek ilerleyen Fiziksel mermiler fırlatan sarı bir gezegen çağırır
+[Hasar: +20/26/32/38/45//52/60]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kırmızı Gezegen (ID: 1106) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Gezegen(PLANET)
+Ateş füzeleri ateşleyen Kızıl Gezegen'i çağırır
+[Hasar: +26/31/36/42/48//54/60]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gök Mavisi Gezegen (ID: 1107) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Gezegen(PLANET)
+Yıldırım lazer ışınları atan gök mavisi bir gezegen çağırır
+[Hasar: +30/40/45/50/55/60]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dev Teleskop (ID: 1108) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Gezegen(PLANET)
++5/10/15% Gezegen Saldırı Hızı
+8 yuvalar içindeki gezegenleri büyüt (Büyütülmüş gezegenlerin mermileri daha büyüktür ve %50 daha fazla hasar verir)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lekeli Bandaj (ID: 1109) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Hassasiyet(PRECISION)
++1/3/6/9% Kritik Şansı
++1/2/3/3 Fiziksel Hasar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Atılmış Altın Yüzük (ID: 1111) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Sağlam(STURDY)
+Özel Saldırı Menzili +10/20/30%
+Mutlak Yüzük dönüşümü için Özel Saldırı ile 40 düşman yen
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mutlak Yüzük (ID: 1112) [Default] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Sağlam(STURDY)
+Özel Saldırı Menzili +30/45/60%
+Özel Saldırı Hasarı +10/20/45%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Paratoner (ID: 1113) [Default] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Fırtına Bulutu(DARKCLOUD)
++5/10/15/20/25//30/35/40 Fırtına Bulutu Kapasitesi
++3/6/9/12/15//18/21/24% Çatışma sırasında Fırtına Bulutu Yenilenme Oranı
++1/2/3/4/5//6/7/8 Yıldırım Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kelebek Bıçak (ID: 1114) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Hassasiyet(PRECISION)
+2.5 karolar içindeki düşmanlara verilen hasar: +6/8/11/14%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Beyaz Yumurta Kabuğu (ID: 1118) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Mistik(MYSTIC)
+Hedefin HP'si +4/8/12/16/20% altındaysa anında ölür (boss'ları etkilemez)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Beyaz Kabuklu Ekmek (ID: 1119) [Default] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Muhafız(GUARDIAN)
+Hasar aldığında +0.4/0.8/1.2 saniyeliğine dokunulmazlık kazanırsın
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kan Taşı Yüzüğü (ID: 1120) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Mistik(MYSTIC)
++15/13/10 düşman öldürdüğünde 5 HP yenile
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kara Nötrleştirici (ID: 1121) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Lanet(CURSE)
++4/8/12/16% Zayıflatma ile verilen hasar
+-10/10/6/6% Kritik Şansı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Siyah Çay Kesesi (ID: 1122) [Default] [Charm] [Nadirlik: Nadir] ===
+Her Mini Boss mağlup ettiğinde Genel Hasar Artışı +4/8/12% artar (en fazla 3 yük)
+Mevcut yük: 0
+Mini Boss kaynaklı alınan hasar +30%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Helena'nın Model Merdiveni (ID: 1125) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Rüzgâr Şarkısı(WINDSONG)
+Başka bir yere girildiğinde, 90 saniye boyunca Hareket Hızı değerini %+10/14/18/22/26/30 ve Saldırı Hızı değerini %+10/14/16/20/25/30 artıran bir güçlendirme kazan
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Altın Akçaağaç Yaprağı (ID: 1126) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Pazarlık(SAVVY)
++10/15/20/25/30% Deneyim Kazanımı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kırmızı Yün Yumağı (ID: 1128) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Kor(EMBER)
++20/40/60/80/100% Yanık Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bulut Tohumu Ok Ucu (ID: 1129) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Fırtına Bulutu(DARKCLOUD)
+Fırtına Bulutu yıldırımlarının güçlenmesi için %5/10/15/23/35/50 ihtimal
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Alfonso'nun Boynuzu (ID: 1130) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Yoldaş(COMPANION)
++1/2/3/4/5//6/8/10 Kaçınma
++10/20/30/40/50//60/70/80% Yoldaş Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yeşil Mürekkep Şişesi (ID: 1132) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Lanet(CURSE)
+Bir zayıflatma uyguladığında %+20/30/40/50% ihtimalle yakındaki bir düşmana da aynı zayıflatmayı uygularsın (Bekleme Süresi: 0.4 sn)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Voluspa (ID: 1137) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Ayaz Yadigârı(FROST)
+Savaş sırasında her 6 saniyede bir şarj olur. Şarj olduktan sonra yakında düşman varsa aşağıdaki etkiyi etkinleştirir.
+Buz mızrağı uçarak gelir ve düşmanlara +1/1/1/1/1//2/2/2/3 kez saldırır
+[Hasar: 20 (20+Soğuk Hasarı%+100/140/180/220/260//155/170/130/150)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yıldırım Çarpmış Dal (ID: 1141) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Büyütek(MAGITECH)
+Silah Saldırısı veya Büyü Kitabı ile hasar verildiğinde hedefe +10/20/30 Yıldırım Hasarı uygular (Bekleme süresi 2 sn.)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Altın Pelerin (ID: 1149) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Rüzgâr Şarkısı(WINDSONG)
++1/1/2 Atılma Sayısı
++3/6/9% Saldırı Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Alev Otu Kökü (ID: 1153) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Kor(EMBER)
++6/12/20 Maks. MP
+Özel Saldırı: Hiddet isabet ettiğinde yakındaki düşmanlara %+200/400/600 Ateş hasarı verir
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Büyüleyici Yem (ID: 1162) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Göl(LAKE), Element(ELEMENTAL)
++3/5/8 MP Yenilenmesi
++1/1/2 Ateş Hasarı
++1/1/2 Soğuk Hasarı
++1/1/2 Yıldırım Hasarı
++1/1/2 Fiziksel Hasar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sihirli Gözlük (ID: 1163) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Gölge(SHADOW)
++3/6/9/12 Kaçınma
++7/14/22/30 Maks. MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Hasır Bebek (ID: 1164) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Göl(LAKE)
++3/6/9 MP Yenilenmesi
++2/3/5% Kritik Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Frostiyum Yüzüğü (ID: 1175) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Buzul(GLACIER)
+Silah Saldırısı veya Büyü Kitabı ile hasar verildiğinde hedefe +10/20/30 Soğuk Hasarı uygular (Bekleme süresi 2 sn.)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kar Tanesi Kolyesi (ID: 1176) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Buzul(GLACIER)
++1/3/5 Soğuk Hasarı
++1/3/5% Hareket Hızı
+Soğuk Isırması etkisindeki hedeflerin Hareket Hızı değerini ayrıca +5/10/15% azaltır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pofuduk Kürk Eldivenler (ID: 1177) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Buzul(GLACIER)
+Soğuk Isırması etkisindeki hedefler Soğuk Hasarı ile fazladan +5/10/15/20/25% hasar alır (Yoldaş hasarı için de geçerlidir)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Buzulun Yankısı (ID: 1178) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Buzul(GLACIER)
++3/6/10 Savunma
+Her +5/4/3/2.5 saniyede bir yakındaki düşmanlara Soğuk Isırması uygular
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Buz Martısının Ayakları (ID: 1180) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Buzul(GLACIER)
+Bir hedefe Soğuk Isırması uygulandığında Donmuş Dokunuş güçlendirmesi kazanırsın
+Donmuş Dokunuş: Soğuk Hasarı değerini 7 saniyeliğine 1 artırır (en fazla +5/10/15/20 yükler)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kırmızı Kumaş Parçası (ID: 1183) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Lanet(CURSE)
+Bir düşmana hasar verirken hedefe uygulanan her zayıflatma için fazladan %+4/5/7/10 hasar verirsin
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Alevli Göz Bandı (ID: 1185) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Kor(EMBER)
++2/4/6% Saldırı Hızı
+Ateş element hasarı Kritik Hasarı +11/22/33% (Yoldaş hasarına da uygulanır)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Beyaz Pelerin (ID: 1186) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Mistik(MYSTIC)
++30/60/100/130/160/200% Kendine Uyguladığın Güçlendirmelerin Süresi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Berrak Küp (ID: 1189) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Rüzgâr Şarkısı(WINDSONG)
++1/1/2/2/3 Gerçek Hasar
++5/6/7/9/12% Hareket Hızı
++5/6/7/9/12% Saldırı Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tencere Kapağı (ID: 1190) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Muhafız(GUARDIAN)
++2/4/6/8/11/15 MP Yenilenmesi
++1/2/3/4/5/6 Kaçınma
+Bir düşmana yapılan her fiziksel kritik vuruşta Metanet güçlendirmesi kazanırsın (Savunmayı 6 saniyeliğine 3 artırır, en fazla 3 yükler)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Valter'in Usta İşi Monoklü (ID: 1191) [Default] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Hassasiyet(PRECISION)
++10/19/28/35/45% Kritik Şansı
+3 karolar içinde bir düşman varsa kritik hasar %-30
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dikenli Kabuk (ID: 1192) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Muhafız(GUARDIAN)
++150/300/450% Dikenler
++1/2/3 Savunma
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Solis Fracto (ID: 1193) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Güneş Kılıcı(FLAMESWORD)
++2/3/5 Ateş Hasarı
++2/4/6 Maks. HP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gümüş Bilezik (ID: 1194) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Rüzgâr Şarkısı(WINDSONG)
++4/8/12/16% Saldırı Hızı
+-4/6/8/10% Hareket Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kaleydoskop (ID: 1195) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Hassasiyet(PRECISION)
++15/25/35/45/55% Hedefin Süper Zırh değerine ek hasar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kiralama Arması “Collin” (ID: 1197) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Yoldaş(COMPANION)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tipi Çekici (ID: 1208) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Ayaz Yadigârı(FROST)
+Savaş sırasında her 7 saniyede bir şarj olur. Şarjlıyken atıldıktan sonra aşağıdaki etkiyi etkinleştirir.
+Yakındaki düşmanlara Soğuk Hasarı hasarı vermek için bir çekiç fırlatır
+[Hasar: 14 (14+Soğuk Hasarı%+50/100/150/200/250//300/350/400/450/500)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Donmuş Kalp (ID: 1209) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Ayaz Yadigârı(FROST)
++10/18/26/40/55//70/85/100% Ayaz Yadigârı Dolum Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Buz Yıldızı (ID: 1210) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Ayaz Yadigârı(FROST)
+Ayaz Yadigârı 0/0/0/0/0/1 kez daha etkinleşir
+0/0/0/0/0/-10% Ayaz Yadigârı hasarı
+0/0/1/1/2/2 Şans
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Magma Boncuğu (ID: 1213) [Default] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Kor(EMBER)
+Yanık etkisini 0/1/1/2 kez daha uygular
++1/1/1/2 Yanık yükler
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Anka Kanadı (ID: 1214) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Kor(EMBER)
++2/3/5 Ateş Hasarı
+Çatışma sırasında yakındaki +1/2/3 düşmana uçup Yanık uygulayan tüyler çağırır (Bekleme süresi: 3.5 saniye)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kumaş Zırh (ID: 1215) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Muhafız(GUARDIAN)
++3/6/9/12 Savunma
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Begonya Kesesi (ID: 1218) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Sağlam(STURDY)
++5/10% Normal Saldırı Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Arbalet Sadağı (ID: 1223) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Sağlam(STURDY)
++20/40/65/100 Arbalet Yeniden Doldurma Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dolum Sandığı (ID: 1224) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Sağlam(STURDY)
+0/1/1/1/2 Şarjör Sayısı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pirinç Ayna Parçası (ID: 1225) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Sağlam(STURDY)
++20/30/40/50% Özel Saldırı MP Bedelini Azalt
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kadim Örs (ID: 1229) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Güneş Kılıcı(FLAMESWORD)
+Güneş Kılıcı yere 10/20/30/40% daha hızlı düşer
++2/4/6/8 Ateş Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kızıl Gün Batımı (ID: 1230) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Güneş Kılıcı(FLAMESWORD)
+Güneş Kılıcı fırlatıldığında 20/40/60/80/100% ihtimalle büyür ve hasarı 33% artar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ebedî Ocak (ID: 1231) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Güneş Kılıcı(FLAMESWORD)
++1/2.5/5% Kritik Şansı
+Her +10/8/5 saniyede 1 Güneş Kılıcı oluşturur (yalnızca Güneş Kılıcı etkisi etkinken)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Solis Parvo (ID: 1232) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Güneş Kılıcı(FLAMESWORD)
++1/1/2/2/3 Azami Güneş Kılıcı Sayısı
++1/2/4/6/8% Hareket Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Solis Decussa (ID: 1233) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Güneş Kılıcı(FLAMESWORD)
++5/10/15/20% Güneş Kılıcı Hasarı
++4/8/12/16% Kritik Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Saplama Talimnamesi (ID: 1235) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Sağlam(STURDY)
+Her 2 saniyede bir Atılma saldırısı güçlenerek hasarı %+30/60/90/120 artırır ve en yüksek niteliğe dayalı bir saldırıya dönüşür
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gök Taşı Küpeleri (ID: 1236) [Default] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Güneş Kılıcı(FLAMESWORD)
++5/10/15% Güneş Kılıcı Hasarı
++2/4/7 Ateş Hasarı
+Güneş Kılıcı fırlatıldığında yakınına düşer
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gök Taşı Omuzlukları (ID: 1237) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Güneş Kılıcı(FLAMESWORD)
+Yere düşmüş tüm Güneş Kılıcı kılıçlarını geri çağırarak yollarındaki düşmanlara Güneş Kılıcı hasarı verir
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gök Gürültüsünün Küpesi (ID: 1239) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Büyütek(MAGITECH)
++1/2/3/4/5/6 Yıldırım Hasarı
+Her 4 saniyede bir yakındaki +1/2/2/3/3/4 düşmana %30 Yıldırım Hasarı verir ve Elektrik Çarpması uygular.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Solis Dekri (ID: 1240) [Default] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Güneş Kılıcı(FLAMESWORD)
+Güneş Kılıcı ile hedefin savunmasını +2/4/6/8/10//12/14% yok say
++5/10/15/22/30//40/50% Güneş Kılıcı Kritik Şansı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Karanlık Gezegen (ID: 1241) [Default] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Gezegen(PLANET)
+Kaos mermileri ateşleyen karanlık bir gezegen çağır 
+[Hasar: +50/60/70/80/90/100]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kül Rengi Gezegen (ID: 1242) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Gezegen(PLANET)
+Buz mermileri atan gri bir gezegen çağırır
+[Hasar: +15/20/25/30/35/40]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Donmuş Yay (ID: 1247) [Default] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Ayaz Yadigârı(FROST)
+Her 0.8 saniyede otomatik olarak 1 atış doldurur (en fazla 7)
+Düşmana Soğuk Hasarı veren bir ok fırlatır
+[Hasar: 12 (12+Soğuk Hasarı%+50/60/70/80/100//120/130/140/150/160)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yeşil Ruh Pelerini (ID: 1252) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Gölge(SHADOW)
+0/1/1 Atılma Sayısı
++4/6/8 Kaçınma
++1/2/4% Kritik Şansı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ahenk Kristali (ID: 1270) [Default] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Mistik(MYSTIC)
+8 yuvalar içindeki her Artefakt Seviyesi için Genel Hasar Artışı %+1/2 artar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Şans Madalyası (ID: 1271) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Pazarlık(SAVVY)
++2/6/10 Pazarlık
+Bir tüccarla ticaret yaparken +100/150/200 Yaprak üretir (tüccar başına bir kez etkinleşir)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yıldırım Tılsımı (ID: 1272) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Büyütek(MAGITECH)
++3/4/6/8 Yıldırım Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dolgun Meyve Kovası (ID: 1273) [Default] [Charm] [Nadirlik: Nadir] ===
+[Category] Göl(LAKE)
+Kullanıldığında anında %+50/100 MP yeniler
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rengârenk Şeker Kavanozu (ID: 1277) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Element(ELEMENTAL)
+En yüksek element hasarının %+100/150/200/250 kadarını veren +1/2/3/4 element bombası ateşler
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cesaret Muskası (ID: 1283) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Sağlam(STURDY)
++3/6/10% Silah Hasarı
++1/1/1 Can Çalma
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Karşı Saldırı Bileziği (ID: 1287) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Sağlam(STURDY)
+Kusursuz savunma yapıldığında, Genel Hasar Artışı değerini 7 sn boyunca %+4/8/12/16 artır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Karşı Saldırı Asası Parçası (ID: 1288) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Sağlam(STURDY)
+Karşı Saldırı: Blok yaparken ileriye doğru kısa menzilli bir yakın dövüş saldırısı gerçekleştirir (fiziksel hasarın %0/1/2.1/3.4/4.8/6.2 kadarı)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Umut (ID: 2001) [Default] [StoneTablet] [Nadirlik: Yaygın] ===
+[Tablet effect]
+  RIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Coşku (ID: 2002) [Default] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  RIGHT IGNORECRITERIA
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mucize (ID: 2003) [Default] [StoneTablet] [Nadirlik: Efsanevi] ===
+[Tablet effect]
+  HORIZONTAL 1
+  VERTICAL 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Aktarım (ID: 2004) [Default] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  HORIZONTAL +1
+  VERTICAL -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sömürü (ID: 2005) [Default] [StoneTablet] [Nadirlik: Yaygın] ===
+[Tablet effect]
+  RIGHT 1
+  LEFT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bütünlük (ID: 2006) [Default] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  HORIZONTAL -1
+  UP +3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== İyi Niyet (ID: 2007) [Default] [StoneTablet] [Nadirlik: Yaygın] ===
+[Placement condition]
+  BOTTOM PLACED
+[Tablet effect]
+  RIGHT 1
+  LEFT 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Adalet (ID: 2008) [Default] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Placement condition]
+  LEFTEND PLACED
+  RIGHTEND PLACED
+[Tablet effect]
+  VERTICAL +1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Birlik (ID: 2009) [Default] [StoneTablet] [Nadirlik: Yaygın] ===
+[Tablet effect]
+  UP -1
+  RIGHT +1
+  LEFT -1
+  DOWN +1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kader (ID: 2010) [Default] [StoneTablet] [Nadirlik: Yaygın] ===
+[Tablet effect]
+  DOWN +1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Şövalyelik (ID: 2011) [Default] [StoneTablet] [Nadirlik: Yaygın] ===
+[Tablet effect]
+  KNIGHTUPLEFT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Nükte (ID: 2012) [Default] [StoneTablet] [Nadirlik: Yaygın] ===
+[Tablet effect]
+  DIAUPLEFT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bakış (ID: 2013) [Default] [StoneTablet] [Nadirlik: Yaygın] ===
+[Tablet effect]
+  DIAUPLEFT 1
+  DIADOWNRIGHT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Nabız (ID: 2014) [Default] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  UPUP 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yetiştirme (ID: 2015) [Default] [StoneTablet] [Nadirlik: Yaygın] ===
+[Tablet effect]
+  DIAUPLEFT 1
+  DIAUPRIGHT 1
+  UP 1
+  DOWN -1
+  DOWNDOWN -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gölge (ID: 2016) [Default] [StoneTablet] [Nadirlik: Nadir] ===
+[Placement condition]
+  TOP PLACED
+[Tablet effect]
+  BOTTOM 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Çift Yıldız (ID: 2017) [Default] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  UPUP 2
+  DOWNDOWN 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bağ (ID: 2018) [Default] [StoneTablet] [Nadirlik: Nadir] ===
+[Tablet effect]
+  UP 2
+  DOWN IGNORECRITERIA
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rekabet (ID: 2019) [Default] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  DIAUPLEFT -1
+  UP -1
+  DOWN +3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Arzu (ID: 2020) [Default] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  UP 2
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Geliş (ID: 2021) [Default] [StoneTablet] [Nadirlik: Yaygın] ===
+[Tablet effect]
+  UP 1
+  UPUP 1
+  DOWN -1
+  DOWNDOWN -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tetikte Olma (ID: 2022) [Default] [StoneTablet] [Nadirlik: Efsanevi] ===
+[Tablet effect]
+  TOP 1
+  BOTTOM 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dalga (ID: 2023) [Default] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  DIAUPRIGHT 3
+  UP -1
+  RIGHT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Hile (ID: 2024) [Default] [StoneTablet] [Nadirlik: Yaygın] ===
+[Tablet effect]
+  UP 1
+  DIAUPLEFT 1
+  DIAUPRIGHT 1
+  LEFT -1
+  RIGHT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Adanmışlık (ID: 2025) [Default] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  DIAUPLEFT 1
+  DIAUPRIGHT 1
+  DIADOWNLEFT 1
+  DIADOWNRIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tezahürat (ID: 2026) [Default] [StoneTablet] [Nadirlik: Yaygın] ===
+[Tablet effect]
+  UP 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Hasat (ID: 2027) [Default] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  UP 2
+  DOWN 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== İlerleyiş (ID: 2028) [Default] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  UP 1
+  UPUP 1
+  UPUPUP 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Temel (ID: 2029) [Default] [StoneTablet] [Nadirlik: Nadir] ===
+[Tablet effect]
+  HORIZONTAL 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dağılım (ID: 2030) [Default] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  UP 1
+  DOWN 1
+  LEFT 1
+  RIGHT 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Üç Başlı (ID: 2038) [Default] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  UP 1
+  LEFT 1
+  RIGHT 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Geçmiş (ID: 2039) [Default] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  UP 1
+  RIGHT 1
+  DIAUPLEFT 1
+  DIAUPRIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gelecek (ID: 2040) [Default] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  UP 1
+  LEFT 1
+  DIAUPLEFT 1
+  DIAUPRIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yığın (ID: 2041) [Default] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  UP 1
+  DIAUPLEFT 1
+  KNIGHTUPLEFT 1
+  UPUP 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== İhtişam (ID: 2042) [Default] [StoneTablet] [Nadirlik: Efsanevi] ===
+[Tablet effect]
+  HORIZONTAL 1
+  UP 2
+  DOWN 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== El Sıkışma (ID: 2043) [Default] [StoneTablet] [Nadirlik: Yaygın] ===
+[Tablet effect]
+  UP 1
+  DOWN 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yaklaşım (ID: 2044) [Default] [StoneTablet] [Nadirlik: Yaygın] ===
+[Tablet effect]
+  UP 1
+  RIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Güç (ID: 2045) [Default] [StoneTablet] [Nadirlik: Nadir] ===
+[Tablet effect]
+  UP 3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sıkıştırma (ID: 2046) [Default] [StoneTablet] [Nadirlik: Efsanevi] ===
+[Tablet effect]
+  UP 3
+  UPUP 2
+  UPUPUP 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kuruluk (ID: 2047) [Default] [StoneTablet] [Nadirlik: Yaygın] ===
+[Tablet effect]
+  DOWN 1
+  UP 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Eş Zamanlılık (ID: 2048) [Default] [StoneTablet] [Nadirlik: Nadir] ===
+[Tablet effect]
+  VERTICAL 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kopuş (ID: 2049) [Default] [StoneTablet] [Nadirlik: Nadir] ===
+[Tablet effect]
+  UP 3
+  DOWN 3
+  LEFT -1
+  RIGHT -1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kutsama (ID: 3031) [Default] [Charm] [Nadirlik: Yaygın] ===
+Yetenek Kutsama edin
+Verilen tüm hasarı %5 artıran bir güçlendirme kazan
+CD: 20s
+MP: 16/13/10
+Süre: 12
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tanımlanmamış Sıradan Eser (ID: 10000) [Default] [Identifiable] [Nadirlik: Yaygın] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tanımlanmamış Gelişmiş Tılsım (ID: 10001) [Default] [Identifiable] [Nadirlik: Gelişmiş] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tanımlanmamış Nadir Eser (ID: 10002) [Default] [Identifiable] [Nadirlik: Nadir] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tanımlanmamış Şimşek Büyüsü Kitabı (ID: 10004) [Default] [Identifiable] [Nadirlik: Yaygın] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tanımlanmamış Şimşek Büyüsü Kitabı Destek Eseri (ID: 10005) [Default] [Identifiable] [Nadirlik: Yaygın] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tanımlanmamış Kılıç ve Kalkan Tılsımı (ID: 10006) [Default] [Identifiable] [Nadirlik: Yaygın] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tanımlanmamış Çağırma Grimoire'ı (ID: 10007) [Default] [Identifiable] [Nadirlik: Yaygın] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tanımlanmamış Yoldaş Tılsımı (ID: 10008) [Default] [Identifiable] [Nadirlik: Yaygın] ===
+[No effect text]
+
+================================================================================
+
+── activeType: Locked — 144 ──
+
+=== Kalkan Küpeleri (ID: 1017) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Muhafız(GUARDIAN)
++5/10/15/20 Maks. HP
+-5/4/3/2 Kaçınma
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kör Çan (ID: 1021) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Lanet(CURSE)
+Silah Saldırısı yapıldığında, %1/4 ihtimalle Sersemletme uygular
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Diken Tılsımı (ID: 1028) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Sağlam(STURDY)
++2/4/6/10% Kritik Şansı
++1/1/2/3 Fiziksel Hasar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Çok Amaçlı Kemer (ID: 1030) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Mistik(MYSTIC)
+Aşağıdaki etkiler, envanterinin üst sırasındaki yuva başına birikir
+Ateş Hasarı +1/1/1/2
+Yıldırım Hasarı +1/1/1/2
+Soğuk Hasarı +1/1/1/2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kılıç Küpeleri (ID: 1033) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Hassasiyet(PRECISION)
++10/16/24/33% Kritik Hasarı
+-16/13/10/7 Maks. MP
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yakumo Kısa Kılıcı (ID: 1049) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Sağlam(STURDY)
++10/20/30/40/50% Atılma Saldırısı Hasarı
++4/8/12/16/20% Atılma Yenilenme Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kalkan Çantası (ID: 1053) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Muhafız(GUARDIAN), Akademi(ACADEMY)
+Her 10 Savunma başına aşağıdaki etkiyi kazan
+Ateş Hasarı +1/1/2/3
+Soğuk Hasarı +1/1/2/3
+Yıldırım Hasarı +1/1/2/3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bikorn Borusu (ID: 1062) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Akademi(ACADEMY)
+Şimşek Büyüsü üç yöne ateşlenir. (Her büyünün hasarı +0.7/0.6/0.6/0.5/0.5//0.4/0.3% azalır.) MP maliyeti 0/25/50/75/100//125/150% artar.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Büyücü Parası (ID: 1064) [Locked] [Charm] [Nadirlik: Yaygın] ===
+[Category] Akademi(ACADEMY)
++15/20/30/50/65 Büyü Kitabı Hızı
+Ödüllerde Büyü Kitabı çıkma ihtimalini %25 artırır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ray'in Yıldız Parçası (ID: 1069) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Akademi(ACADEMY)
+Sol yuva içindeki Grimoire'ın MP maliyetini +30/35/42/55% azaltır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fare Büyücünün Kolyesi (ID: 1073) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Akademi(ACADEMY)
+Şimşek Büyüsü düşmanları takip eder
++2/5 MP Yenilenmesi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Boş Kabza (ID: 1075) [Locked] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Akademi(ACADEMY)
++5/10/15/20/25/30% Büyü Kitabı Hasarı
++7/9/11/13/15/20% Nihai Mana
++2/2/2/4/4/6 MP Yenilenmesi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mavi Yüzük (ID: 1085) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Mistik(MYSTIC)
+Mevcut HP değeri %70 veya üzerindeyse Genel Hasar Artışı %+6/8/10/15/18/20
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== İnci Tozu (ID: 1089) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Akademi(ACADEMY)
++8/10/12% Büyü Kitabı Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Abanoz Pul (ID: 1091) [Locked] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Hassasiyet(PRECISION)
+Envanterindeki her tablet için Kritik Şansı değerini %+100/150/200/250/350 artırır
+Mevcut tablet sayısı: 0
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rüzgâr Gülü (ID: 1092) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Rüzgâr Şarkısı(WINDSONG), Gölge(SHADOW)
++3/6/9% Saldırı Hızı
++2/4/6 Kaçınma
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dikenli Çalı (ID: 1093) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Rüzgâr Şarkısı(WINDSONG)
+Atılma sırasında temas edilen düşmana %30/100 fiziksel hasar verir
+(Atılma Sayısı tüketilirse iki kat hasar verir)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kırık Ayna (ID: 1095) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Muhafız(GUARDIAN)
++4/8 Savunma
+Konum değiştirirken +5/12 Kalkan dayanıklılığı kazanırsın
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Arzu Küresi (ID: 1115) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Akademi(ACADEMY)
+Ayırma 15 MP, verilen Büyü Kitabı hasarını %+10/12/15/18 artırır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Diyapazon (ID: 1117) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Akademi(ACADEMY), Sağlam(STURDY)
+Her 0.8 saniyede bir Büyü Kitabı kullanıldığında 1 'Ses Dalgası' yükü kazanırsın (en fazla 5 yükler)
+Saldırı noktasında Kaos hasarı vermek için Silah Saldırısı ile tüm yükleri tüketir (Büyü Kitabı hasarı sayılır)
+Hasar: Tüm element türlerinin ortalama hasarının %+200/250/300/350/450/550 kadarı (Büyü Kitabı Hızı 1 arttığında Diyapazon hasarı %1 artar)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yıldız Yakutu (ID: 1123) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Göl(LAKE)
++10/20/33/45/60% Nihai Can
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yıldız Akuamarini (ID: 1124) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Göl(LAKE)
++10/20/33/45/60% Nihai Mana
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Su Tulumu (ID: 1138) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Göl(LAKE)
+Her MP kullandığında Maks. MP değerini 1 artırır (en fazla +10/15/20/25, bekleme süresi: 5 saniye)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Buz Sarmaşığı (ID: 1139) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Buzul(GLACIER)
+Özel Saldırı kullanıldığında ileriye doğru 1 sıra buz dikeni oluşturur (Hasar: 10 + %+50/90/140 Soğuk Hasarı)
+Dikenler bir düşmana isabet ettiğinde Soğuk Isırması uygular
+Bekleme süresi: 0.8 saniye
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cesaret Sancağı (ID: 1140) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Rüzgâr Şarkısı(WINDSONG)
+Belirlenen konuma bir sancak çağırır. Sancağın menzilindeki müttefiklerin Saldırı Hızı değeri %+10/20/30 artar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kanatlar (ID: 1143) [Locked] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Rüzgâr Şarkısı(WINDSONG)
++3/6/9/12/15/18% Saldırı Hızı
+Her ilave %+25/20/15/9/6/5 Saldırı Hızı, Genel Hasar Artışı değerini %1 artırır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Çatışma Terazisi (ID: 1144) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Kor(EMBER), Buzul(GLACIER)
+Envanterin sol tarafına Ateş, sağ tarafına ise Buz kazandırır
+Kazandırılan element hasarı: +2/15
+Karşıt element hasarı: +0/5
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mavi Pençe (ID: 1145) [Locked] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Buzul(GLACIER)
++2/4/6/9 Soğuk Hasarı
++5/10/15/20 Maks. MP
+Soğuk Isırması kazandırıldığında %30/60% ihtimalle bir kez daha uygulanır.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Çintamani Taşı (ID: 1146) [Locked] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Mistik(MYSTIC)
+Ölümcül hasar aldığında bu eşya yok olur ve aşağıdaki etkiler etkinleşir
+50% HP yeniler ve kısa süreliğine yenilmez olursun
+Envanter yuva seviyesi: +3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gökkuşağı Tüyü (ID: 1147) [Locked] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Rüzgâr Şarkısı(WINDSONG)
+Trans elde edildiğinde ek 0/0/1 kazan
++10/16/22% Özel Saldırı Hasarı
++5/5/10% Atılma Yenilenme Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Donmuş Yumurta (ID: 1150) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Buzul(GLACIER)
+-9/6/3/0 MP Yenilenmesi
+Buz saldırılarının Kritik Şansı değerini %+5/10/15/20 artırır (Yoldaş hasarına da uygulanır)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sivri Sopa (ID: 1151) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Hassasiyet(PRECISION)
++20/40/60% Kritik Hasarı
+Saldırıların ıskalama ihtimali %10 (Hasarı %-20 azaltır)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kunai (ID: 1152) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Hassasiyet(PRECISION)
+Normal saldırılar %+100/125/150 ihtimalle kunai fırlatır
+[Hasar: 10 (10+Kritik Hasarı20/30%)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Altı Yapraklı Yonca (ID: 1155) [Locked] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Gölge(SHADOW)
++3/6/9/12 Kaçınma
++3/6/9/12 Şans
++2/4/6/8% Kritik Şansı
++1/1/2/2 Gerçek Hasar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cam Çekiç (ID: 1156) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Sağlam(STURDY)
++3/6/9/12% Silah Hasarı
+-3/6/9/12% Nihai Can
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tavşanköy Muhafız Miğferi (ID: 1157) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Sağlam(STURDY)
++4/8/12/16% Silah Hasarı
+-4/4/8/8 Kaçınma
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Güçlendirme İksiri Kapağı (ID: 1158) [Locked] [Charm] [Nadirlik: Yaygın] ===
+[Category] Simya(ALCHEMY)
+HP 30% veya altındaysa HP İksiri Bonusu +30% artar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ateş Böceği (ID: 1159) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Büyütek(MAGITECH)
++4/8/12 Yıldırım Hasarı (İsabet ettiğinde 6 saniyeliğine devre dışı kalır)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yeşil Gi (ID: 1160) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Gölge(SHADOW)
++2/3/4/5 Kaçınma
++5/7/9/12% Hareket Hızı
+Başarılı bir Kaçınma sonrasında ileriye Kaplan Darbesi uygular
+[Hasar: 30 (30 + Fiziksel Hasar %+200/300/450/650)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yabani Elma (ID: 1161) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Akademi(ACADEMY)
++6/10/14 Büyü Kitabı Hızı
++5/8/12% Atılma Yenilenme Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rylie'nin Cep Saati (ID: 1165) [Locked] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Akademi(ACADEMY)
++40/60/80 Büyü Kitabı Hızı
++8/14/20% Kritik Hasarı
++5/5/10% Büyü Kitabı MP Maliyetini Azalt
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mücevherli Zırh (ID: 1166) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Akademi(ACADEMY)
++10/20/30% Büyü Kitabı Kritik Şansı
++4/6/8 MP Yenilenmesi
+-3/5/7 Fiziksel Hasar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fırtına Takip Pusulası (ID: 1167) [Locked] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Büyütek(MAGITECH)
+Elektrik Çarpması uygulandığında 15/30/45/60% ihtimalle Güçlendirilmiş Elektrik Çarpması uygular
++2/4/6/8 Yıldırım Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Parlayan Kum Saati (ID: 1168) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Akademi(ACADEMY)
+Sağ yuva içindeki Büyü Kitabı'nın Büyü Kitabı Hızı değerini +60/100/140% artırır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Savaş Büyücüsünün Eldivenleri (ID: 1169) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Akademi(ACADEMY)
++10/12/15/20% Büyü Kitabı Hasarı
++3/4/5/6% Hareket Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kirin'in Boynuzu (ID: 1170) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Büyütek(MAGITECH)
+-2/4/6 Soğuk Hasarı
+Yıldırım elementi saldırısı Kritik Şansı +10/20/30% (Yoldaş hasarına da uygulanır)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Obrus'un Kanı (ID: 1171) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Göl(LAKE)
++3/6/9/12 MP Çalma
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Berut'un Tırpanı (ID: 1173) [Locked] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Hassasiyet(PRECISION)
++2.5/5/7.5/10% Kritik Şansı
+Kritik Şansı %100'ü aştığında, fazlalık İnfaz İhtimaline dönüştürülür.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Agma Projeksiyon Kılıcı No. 190, 191 (ID: 1181) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Sağlam(STURDY)
++2/3/4/6/8//10/12/14 Fiziksel Hasar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Oink Şamanı'nın Kolyesi (ID: 1182) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Lanet(CURSE)
++20/40/60/80/100% Düşmanlara uygulanan tüm zayıflatmaların süresi
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yakut Broş (ID: 1187) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Fırtına Bulutu(DARKCLOUD), Kor(EMBER)
++3/5/7/10 Yıldırım Hasarı
++3/5/7/10 Ateş Hasarı
+Fırtına Bulutu tarafından vurulan düşmanlara Yanık uygular
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Hayati Dokunuş (ID: 1196) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Sağlam(STURDY)
+-55/48/40/33% Nihai Can
+Silah Saldırısı sırasında +1/1/1/1 HP yeniler (Bekleme süresi 1 saniye)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Heita’nın Ruh Tozu (ID: 1198) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Yoldaş(COMPANION), Buzul(GLACIER)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tero’nun Ruh Tozu (ID: 1199) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Yoldaş(COMPANION), Kor(EMBER)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ahmad’ın Ruh Tozu (ID: 1200) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Yoldaş(COMPANION), Büyütek(MAGITECH)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Maden Sorumlusu Kol Bandı (ID: 1202) [Locked] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Yoldaş(COMPANION)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Alev Böceği (ID: 1211) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Kor(EMBER)
+0/1/1/2/3/4 Yanık yükler
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Buz Böceği (ID: 1212) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Buzul(GLACIER)
+10/15/20/25/30//40/50% Donma Zayıflatma Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Akademi Brigandini (ID: 1216) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Muhafız(GUARDIAN), Akademi(ACADEMY)
++2/3/4/6/8/10 Savunma
++14/18/20/24/29/35 Büyü Kitabı Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Meditasyon Kitabı (ID: 1228) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Akademi(ACADEMY)
+Tüm Büyü Kitabı büyülerini eylem gerektirmeden anında kullan
++6/8/11/14% Büyü Kitabı Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== El Aynası (ID: 1234) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Muhafız(GUARDIAN)
++3/6/9 Savunma
+Atılma kullanırken 5 sn boyunca 5/10 Kalkan kazanırsın (Bekleme Süresi: 5 sn)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Şimşek Böceği (ID: 1238) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Büyütek(MAGITECH)
+0/1/1/2/2/3 Elektrik Çarpması yükler
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Buzla Mühürlü Tejas (ID: 1243) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Kor(EMBER), Buzul(GLACIER)
+Yanık, Mavi Yanık hâline gelir
++3/6/9/12/15% Yanık Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gök Gürültülü Ayaz Kelebeği (ID: 1244) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Fırtına Bulutu(DARKCLOUD), Buzul(GLACIER)
+Fırtına Bulutu, Kar Fırtınası Bulutu hâline dönüşür
++2/4/6/8 Soğuk Hasarı
++6/12/18/24% Fırtına Bulutu Tüketim Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Nota Sayfası 'Tayfun' (ID: 1245) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Fırtına Bulutu(DARKCLOUD), Rüzgâr Şarkısı(WINDSONG)
++4/8/12% Saldırı Hızı
+Fırtına Bulutu Tüketim Hızı, Saldırı Hızı değerinin %+25/50/100 kadarı artar
+Silah Saldırısı ile +5/10/15 Yıldırım Hasarı verir
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kaya Fili (ID: 1246) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Muhafız(GUARDIAN), Rüzgâr Şarkısı(WINDSONG)
+Savunma değerinin %+70/95/125/160/200 kadar hasar veren 3 kaya mızrağı fırlat
+Her ek %15 Saldırı Hızı başına ek Kaya Mızrağı sayısı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Plitvice Damlacığı (ID: 1248) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Ayaz Yadigârı(FROST), Göl(LAKE)
+Ayaz Yadigârı etkinleştirildiğinde dönen buz kılıçları çağırmak için 4 MP tüketir (en fazla 5).
+[Hasar: Temel saldırı hasarı x Ek MP değerinin %50 kadarı (Mevcut: 1.2)]
+Temel saldırı hasarı: Soğuk Hasarı değerinin %6 kadarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Taktik El Kitabı (ID: 1249) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Yoldaş(COMPANION), Hassasiyet(PRECISION)
+Oyuncunun Kritik Şansı ve Kritik Hasarı değerleri Yoldaş için +30/60/90/120% katkı sağlar
++2/4/6/8% Kritik Şansı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Işıldayan Göz (ID: 1250) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Gölge(SHADOW), Hassasiyet(PRECISION)
+Kritik vuruşlarda bir 'Serap' yükü kazan. Serap %100'e ulaştığında, sonraki saldırıdan otomatik olarak kaçın ve çevredeki düşmanlara Kaçınma değerinin %+300/600/900/1200/1500 kadar Kaos hasarı ver.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Nota Sayfası 'Galaksi' (ID: 1251) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Gezegen(PLANET), Rüzgâr Şarkısı(WINDSONG)
++4/8/12% Saldırı Hızı
+Her Silah Saldırısı, gezegenlerin saldırı döngüsünü hızlandırır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Beyaz Kâğıt (ID: 1258) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
++3/6% Genel Hasar Artışı
+Her iki bitişik yuvalar içindeki artefaktlar aynı komboya sahipse kombo sayısını 1 artırır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ebedî Tutulma (ID: 1259) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Güneş Kılıcı(FLAMESWORD), Ayaz Yadigârı(FROST)
++6/13/21/30% Ayaz Yadigârı hasarı
++6/13/21/30% Güneş Kılıcı Hasarı
+Güneş Kılıcı, Ayaz Yadigârı saldırısıyla da etkinleşir
+Eşya envanterin sol tarafındaysa Ayaz Yadigârı artefaktı Ateş Hasarı temelli hâle gelir; sağ tarafındaysa Güneş Kılıcı artefaktı Soğuk Hasarı temelli hâle gelir
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mistik Sarkaç (ID: 1262) [Locked] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Sağlam(STURDY)
++22/26/32/40/50% Normal Saldırı Hasarı
+-10/10/10/10/10% Saldırı Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Akı Bağlayıcı Mk.2 (ID: 1263) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Fırtına Bulutu(DARKCLOUD), Yoldaş(COMPANION)
++3/6/9/12% Yoldaş Hasarı
+Bir yoldaş Yıldırım hasarı verdiğinde Fırtına Bulutu etkisini +1/1/1/1 kez etkinleştirir (Yoldaş başına bekleme süresi: 0.1 sn)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Adanmışlık Nişanı (ID: 1264) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Yoldaş(COMPANION)
++6/12/18/24 Yoldaş Savunması
+Envanter içindeki aynı Satır üzerine yerleştirilen Yoldaş, Kaos hasarı verir
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Darbe Güçlendirici (ID: 1267) [Locked] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Mistik(MYSTIC)
++1/1/1/2/2//3/4/4/5/6//7/8/9/12/14 Gerçek Hasar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ebedî Kış (ID: 1268) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Buzul(GLACIER), Sağlam(STURDY)
+Normal Saldırı isabet ettiğinde %+80/120/180% ihtimalle ek hasar verir. 
+[Hasar: Fiziksel Hasar +40/75/125% + Soğuk Hasarı +80/150/250% (Normal Saldırı hasarı sayılır)]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kusur Bulma İğnesi (ID: 1274) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Hassasiyet(PRECISION)
++3/6/9/12/15//18/21% Kritik Şansı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gezginin Kolyesi (ID: 1275) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Rüzgâr Şarkısı(WINDSONG)
++6/12/18% Saldırı Hızı
++2/4/6 En Yüksek Element Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Canavarın Kalbi (ID: 1276) [Locked] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Muhafız(GUARDIAN)
++4/8/12/16/20 Savunma
++2/4/6/8/10% Genel Hasar Artışı
++2/2/4/4/6 Şans
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Taş İğ Ağırşağı (ID: 1278) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Göl(LAKE)
++6/12/18/24/30% MP tüketen yeteneklerin hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lerid'in Savaş Bileziği (ID: 1279) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Gölge(SHADOW)
+0/1/1/2 Atılma Sayısı
++1/1/2/3 Gerçek Hasar
++2/4/6/8% Hareket Hızı
+Atılma sırasında kazanılan yenilmezlik, başarılı bir Kaçınma etkisi sayılır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Elastik Bant (ID: 1285) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Gölge(SHADOW)
++2/4/6/8% Kritik Hasarı
++1/2/3/4 Kaçınma
+Kaçınma etkinleştiğinde Atılma Sayısı +1/1/2 yenilenir
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kuzeyin Altın İbresi (ID: 1289) [Locked] [Charm] [Nadirlik: Nadir] ===
+Üstteki yuva içindeki Eser hasarı +6/8/10%
+Nadirlik Gelişmiş veya altındaysa ilave hasar +15/20/25%
+Yalnızca doğrudan hasar veren Eser için geçerlidir
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Akademi Dolma Kalemi (ID: 1291) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Gölge(SHADOW), Akademi(ACADEMY)
+Başarılı bir Kaçınma sonrasında tüm Büyü Kitabı bekleme sürelerini 5/10/15/20/25% hızlandırır
+Her 4 Kaçınma başına Büyü Kitabı Hasarı 1% kazanırsın
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Jolow'un Sulama Kabı (ID: 1292) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Göl(LAKE), Akademi(ACADEMY)
++3/6/9/12/15% Büyü Kitabı Hasarı
+Maks. MP en az +500/400/320/250/200 ise Büyü Kitabı 1 kez daha kullanılır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Karlı Dağ Uzun Kulaklı Yarasası (ID: 1293) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Buzul(GLACIER), Rüzgâr Şarkısı(WINDSONG)
++2/5/6/8/10% Saldırı Hızı
+Her 0.5 sn. Soğuk Isırması etkisindeki düşmanlara bir buz mermisi fırlatır
+[Hasar: 0 (Soğuk Hasarı 45% × Saldırı Hızı %120)]
+Bu hasar Ayaz Dokunuşu etkisinden etkilenmez
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Plazma Miğferi (ID: 1294) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Kor(EMBER), Büyütek(MAGITECH)
+Yanık ve Elektrik Çarpması, Plazma olarak değişir
+-15/10/5/0/5% Plazma Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kızıl Gezegen Gözlem Günlüğü (ID: 1295) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Gezegen(PLANET), Kor(EMBER)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Su Ruhu (ID: 1296) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Göl(LAKE), Hassasiyet(PRECISION)
+Hedeflenen konumda Maks. MP %30 kullanarak 'Su Pençesi' kullanır
+[Hasar: Maks. MP × +160/240/320/400/500]
+Bu saldırının Kritik Hasarı değerini +10/15/20/25/30% artırır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Öfkeli Patates (ID: 1300) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Simya(ALCHEMY)
++4/7/11/15% Savunmayı Yok Sayma
++1/2/3/4 Şans
++5/5/10/10% Hareket Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gezginin Kutsaması (ID: 1301) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Simya(ALCHEMY)
++4/8/12% Silah Hasarı
++4/8/12% Büyü Kitabı Hasarı
+0/1/2 Gerçek Hasar
++3/6/9% Hareket Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Simyacının Şişesi (ID: 1302) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Simya(ALCHEMY)
+Bir iksir içerek 15 sn boyunca Genel Hasar Artışı değerini +5/10/15 artıran bir güçlendirme kazan
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dondurucu Soğuk Giyotini (ID: 1303) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Ayaz Yadigârı(FROST), Büyütek(MAGITECH)
+Her 6 sn., yakındaki en fazla 4 düşmana Buz+Yıldırım bıçak çağırır. Elektrik Çarpması hasarı vermek bekleme süresini 1 sn. azaltır
+Hasar: (yüksek olan Yıldırım Hasarı ve Soğuk Hasarı + düşük olanın 30% kadarı) değerinin %+150/200/250 kadarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Arşivlerin Güneşi (ID: 1311) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Güneş Kılıcı(FLAMESWORD), Akademi(ACADEMY)
+Her %1 Büyü Kitabı Hasarı, Güneş Kılıcı hasarını %1 artırır
+Büyü Kitabı hasarı verirken ek olarak Güneş Kılıcı 0/0/1/1/2 kez etkinleşir
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Hazırlık (ID: 2031) [Locked] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  DIADOWNRIGHT 2
+  DIAUPLEFT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Giriş (ID: 2032) [Locked] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  DIAUPRIGHT 1
+  DIAUPLEFT 1
+  UP 2
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gündüz Düşü (ID: 2033) [Locked] [StoneTablet] [Nadirlik: Efsanevi] ===
+[Tablet effect]
+  DIAUPRIGHT 2
+  DIAUPLEFT 2
+  DIADOWNRIGHT 2
+  DIADOWNLEFT 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yeminler (ID: 2034) [Locked] [StoneTablet] [Nadirlik: Nadir] ===
+[Tablet effect]
+  LEFT 1
+  RIGHT 1
+  DOWN 1
+  UP 1
+  UPUP 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dikenler (ID: 2035) [Locked] [StoneTablet] [Nadirlik: Efsanevi] ===
+[Tablet effect]
+  LEFT 1
+  RIGHT 1
+  DOWN 2
+  UP 2
+  DIAUPRIGHT 1
+  DIAUPLEFT 1
+  DIADOWNRIGHT 1
+  DIADOWNLEFT 1
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kavşak (ID: 2036) [Locked] [StoneTablet] [Nadirlik: Nadir] ===
+[Tablet effect]
+  UP 1
+  UPUP 1
+  UPUPUP 1
+  RIGHT 1
+  RIGHTRIGHT 1
+  RIGHTRIGHTRIGHT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== İsyan (ID: 2037) [Locked] [StoneTablet] [Nadirlik: Nadir] ===
+[Tablet effect]
+  RIGHT_RISING 1
+  LEFT_FALLING 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kararlılık (ID: 2051) [Locked] [StoneTablet] [Nadirlik: Efsanevi] ===
+[Tablet effect]
+  UP 5
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Toparlanma (ID: 2052) [Locked] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  UP 2
+  LEFT 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== İlerleme (ID: 2053) [Locked] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  DIAUPLEFT 2
+  UP 1
+  LEFT 1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Barış (ID: 2054) [Locked] [StoneTablet] [Nadirlik: Efsanevi] ===
+[Tablet effect]
+  LEFT 3
+  RIGHT 3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cesaret (ID: 2055) [Locked] [StoneTablet] [Nadirlik: Efsanevi] ===
+[Tablet effect]
+  LEFT_RISING 1
+  RIGHT_FALLING 1
+  DIAUPRIGHT 2
+  DIADOWNLEFT 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Konukseverlik (ID: 2056) [Locked] [StoneTablet] [Nadirlik: Efsanevi] ===
+[Tablet effect]
+  LEFT 1
+  UP 2
+  UP IGNORECRITERIA
+  LEFT IGNORECRITERIA
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Onur (ID: 2057) [Locked] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  KNIGHTUPLEFT 1
+  UP 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Son Direniş (ID: 2058) [Locked] [StoneTablet] [Nadirlik: Nadir] ===
+[Tablet effect]
+  UP 5
+  DOWN -1
+  LEFT -1
+  RIGHT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Bayrak (ID: 2059) [Locked] [StoneTablet] [Nadirlik: Nadir] ===
+[Placement condition]
+  LEFTEND PLACED
+[Tablet effect]
+  UP 1
+  DOWN -1
+  RIGHT 1
+  RIGHTRIGHT 2
+  RIGHTRIGHTRIGHT 3
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Savunma Hamlesi (ID: 2060) [Locked] [StoneTablet] [Nadirlik: Nadir] ===
+[Tablet effect]
+  DIAUPLEFT 1
+  DIAUPRIGHT 2
+  DIADOWNLEFT 2
+  DIADOWNRIGHT 1
+  LEFT -1
+  RIGHT -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ateş Cıvatası (ID: 3002) [Locked] [Charm] [Nadirlik: Yaygın] ===
+[Category] Kor(EMBER)
+Yetenek Ateş Cıvatası edin
+Küçük bir alev mermisi fırlatır
+CD: 1s
+MP: 2
+Hasar: 25/28 + Ateş Hasarı 50/80%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Şimşek Oku (ID: 3011) [Locked] [Charm] [Nadirlik: Yaygın] ===
+[Category] Büyütek(MAGITECH)
+Yetenek Şimşek Oku edin
+Ayrıca yakındaki düşmanlara mermiler ateşler
+CD: 1s
+MP: 2
+Hasar: 20/22 + Yıldırım Hasarı 40/60%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ateş Oku (ID: 3012) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Kor(EMBER)
+Yetenek Ateş Oku edin
+Düşmanları delip geçen bir ok atar
+CD: 9s
+MP: 15/17/19
+Hasar: 18/20/22 + Ateş Hasarı 120/240/360%
+Yanık yükler: 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ateş Sirki (ID: 3013) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Kor(EMBER)
+Yetenek Ateş Sirki edin
+Hedef konuma uçan 8 ateş küresi çağırır.
+CD: 10s
+MP: 16/18/19/20
+Hasar: 18 + Ateş Hasarı 55/75/100/130%
+Bonusu: +10/16/22/30%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Keskin Göz (ID: 3018) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Hassasiyet(PRECISION)
+Yetenek Keskin Göz edin
+Kritik vuruş ihtimalini %12 artıran bir güçlendirme kazan
+CD: 30s
+MP: 24/16/6
+Süre: 15
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Hızlanma (ID: 3019) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Rüzgâr Şarkısı(WINDSONG)
+Yetenek Hızlanma edin
+SLD HIZ ve Hareket Hızı değerini %15 artıran bir güçlendirme kazan
+CD: 38s
+MP: 36/24/12
+Süre: 24
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Buz Hançeri (ID: 3020) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Buzul(GLACIER)
+Yetenek Buz Hançeri edin
+Yakındaki düşmanlara doğru uçup patlayan 4 hançer çağırır
+CD: 10s
+MP: 10/11/12/13/14
+Hasar: 25 + Soğuk Hasarı 90/135/180/220/260%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Meteor Yağmuru (ID: 3022) [Locked] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Kor(EMBER)
+Yetenek Meteor Yağmuru edin
+Kullanım alanına rastgele meteorlar düşürür
+CD: 26s
+MP: 35/38/41/44
+Hasar: 22 + Ateş Hasarı 50/100/180/200%
+Meteor Sayısı: 20/25/30/35
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ok Yağmuru (ID: 3023) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Buzul(GLACIER)
+Yetenek Ok Yağmuru edin
+Büyünün yapıldığı konumda birden fazla buz oku oluşturur (İsabet hâlinde belirli bir ihtimalle düşmanlara Soğuk Isırması uygular)
+CD: 16s
+MP: 22/24/26/28
+Hasar: 10/12/14/16 + Soğuk Hasarı 40/70/100/130%
+Soğuk Isırması İhtimali: 66%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Buz Atışı (ID: 3027) [Locked] [Charm] [Nadirlik: Yaygın] ===
+[Category] Buzul(GLACIER)
+Yetenek Buz Atışı edin
+Kristalleşmiş 2 su mermisi ateşler
+CD: 1s
+MP: 2
+Hasar: 14/16 + Soğuk Hasarı 20/30%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gök Gürültüsü Zırhı (ID: 3028) [Locked] [Charm] [Nadirlik: Nadir] ===
+[Category] Büyütek(MAGITECH)
+Yetenek Gök Gürültüsü Zırhı edin
+Yakındaki düşmanlara 3 kez saldırmak için zincirleme yıldırım kullanan bir yıldırım zırhı oluşturur.
+CD: 25s
+MP: 36/33/30/30/30
+Süre: 10
+Hasar: 2/2/2/3/3 + Yıldırım Hasarı 60/70/80/95/110%
+Saldırı Aralığı: 0.33
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sis Perdesi (ID: 3030) [Locked] [Charm] [Nadirlik: Yaygın] ===
+[Category] Gölge(SHADOW)
+Yetenek Sis Perdesi edin
+Düşman saldırılarından 3 kez kaçınmanı sağlayan bir sis perdesi oluşturur. Sis perdesi 3 kaçınmadan sonra kaybolur.
+CD: 30s
+MP: 24
+Süre: 10
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yüce Kutsama (ID: 3032) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Mistik(MYSTIC)
+Yetenek Yüce Kutsama edin
+Verilen tüm hasarı %12 artıran bir güçlendirme kazan
+CD: 20s
+MP: 19/15/12
+Süre: 12
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kalkan (ID: 3033) [Locked] [Charm] [Nadirlik: Yaygın] ===
+[Category] Muhafız(GUARDIAN)
+Yetenek Kalkan edin
+12 Bariyer kazandıran bir güçlendirme sağlar
+CD: 20s
+MP: 20/12
+Süre: 6
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yıldırım Bumerangı (ID: 3034) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Büyütek(MAGITECH)
+Yetenek Yıldırım Bumerangı edin
+Elektrikle sarılı bir bumerang fırlatır (geri dönen bumerangı yakalamak bekleme süresinin bir kısmını azaltır)
+CD: 10s
+MP: 9/10/11/12/12
+Hasar: 30 + Yıldırım Hasarı 180/240/310/380/450%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gök Gürültüsünün Hükmü (ID: 3036) [Locked] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Büyütek(MAGITECH)
+Yetenek Gök Gürültüsünün Hükmü edin
+10 kez saldıran devasa bir yıldırım ışını yayar
+CD: 25s
+MP: 24/28/32/36/36
+Hasar: 12 + Yıldırım Hasarı 100/120/140/160/180%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Resim Parçası (ID: 6000) [Locked] [Identifiable] [Nadirlik: Gelişmiş] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Resim Parçası (ID: 6001) [Locked] [Identifiable] [Nadirlik: Gelişmiş] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Resim Parçası (ID: 6002) [Locked] [Identifiable] [Nadirlik: Gelişmiş] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Resim Parçası (ID: 6003) [Locked] [Identifiable] [Nadirlik: Gelişmiş] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Resim Parçası (ID: 6004) [Locked] [Identifiable] [Nadirlik: Gelişmiş] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Resim Parçası (ID: 6005) [Locked] [Identifiable] [Nadirlik: Gelişmiş] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Resim Parçası (ID: 6006) [Locked] [Identifiable] [Nadirlik: Gelişmiş] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Resim Parçası (ID: 6007) [Locked] [Identifiable] [Nadirlik: Gelişmiş] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Resim Parçası (ID: 6008) [Locked] [Identifiable] [Nadirlik: Gelişmiş] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Resim Parçası (ID: 6009) [Locked] [Identifiable] [Nadirlik: Gelişmiş] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Resim Parçası (ID: 6010) [Locked] [Identifiable] [Nadirlik: Gelişmiş] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Resim Parçası (ID: 6011) [Locked] [Identifiable] [Nadirlik: Gelişmiş] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Resim Parçası (ID: 6012) [Locked] [Identifiable] [Nadirlik: Gelişmiş] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Resim Parçası (ID: 6013) [Locked] [Identifiable] [Nadirlik: Gelişmiş] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Resim Parçası (ID: 6014) [Locked] [Identifiable] [Nadirlik: Gelişmiş] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Resim Parçası (ID: 6015) [Locked] [Identifiable] [Nadirlik: Gelişmiş] ===
+[No effect text]
+
+================================================================================
+
+── activeType: PocketDimensionShop — 8 ──
+
+=== Yıldırım Taşı (ID: 1055) [PocketDimensionShop] [Charm] [Nadirlik: Nadir] ===
+[Category] Fırtına Bulutu(DARKCLOUD)
++25/30/35/40/45//50/60% Ek Fırtına Bulutu hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Pallas’ın Kartları (ID: 1172) [PocketDimensionShop] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Rüzgâr Şarkısı(WINDSONG)
+Normal saldırılar %50 ihtimalle kart fırlatır
+Her 1 Şans için kart fırlatma ihtimali 0/2.5/5/7.5/10% artar (Mevcut: -%)
+[Hasar: 24]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Buz Kanatları (ID: 1179) [PocketDimensionShop] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Ayaz Yadigârı(FROST)
+Ayaz Yadigârı 0/0/0/1/1//1/2 kez daha etkinleşir
+0/0/0/-10/10//10/20% Ayaz Yadigârı hasarı
++2/4/6/8/10//12/20% Kritik Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kan Taşı Küpeleri (ID: 1188) [PocketDimensionShop] [Charm] [Nadirlik: Efsanevi] ===
++8/8/8/8 Can Çalma
+-30/25/20/10 Savunma
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kertenkele Plaka Zırhı (ID: 1217) [PocketDimensionShop] [Charm] [Nadirlik: Nadir] ===
+[Category] Muhafız(GUARDIAN)
++14/16/18/21/24 Savunma
+-2/4/6/8/10% Hareket Hızı
+-2/4/6/8/10% Saldırı Hızı
+-2/4/6/8/10 Büyü Kitabı Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Beyaz Gezegen (ID: 1220) [PocketDimensionShop] [Charm] [Nadirlik: Nadir] ===
+[Category] Gezegen(PLANET)
+Buz Mermileri ateşleyen Beyaz Gezegen'i çağır
+[Hasar: +30/36/42/48/54//60/66/72]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mavi Bileklik (ID: 1221) [PocketDimensionShop] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Sağlam(STURDY)
++7/14/21/28/35//42/50% Özel Saldırı Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Çıkış (ID: 2050) [PocketDimensionShop] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  DIADOWNLEFT 1
+  DOWN 2
+  DIADOWNRIGHT 1
+[Cannot rotate]
+
+================================================================================
+
+── activeType: Hidden — 50 ──
+
+=== Büyük Mavi İksir (ID: 20) [Hidden] [Potion] [Nadirlik: Yaygın] ===
+???
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Küçük Mavi İksir (ID: 21) [Hidden] [Potion] [Nadirlik: Yaygın] ===
+???
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Odak İksiri (ID: 25) [Hidden] [Potion] [Nadirlik: Yaygın] ===
+20% MP yeniler
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Şafak Çiyi (ID: 35) [Hidden] [Potion] [Nadirlik: Efsanevi] ===
+Genel Hasar Artışı +4%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Solera'nın Sürprizi (ID: 46) [Hidden] [Potion] [Nadirlik: Nadir] ===
+Rastgele bir kombonun kombo sayısını 1 artırır.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yanıcı Yağ (ID: 1038) [Hidden] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Kor(EMBER)
++3/6/9/12 Ateş Hasarı
+-2/2/4/4 Soğuk Hasarı
+Özel Saldırı: Kasırga gerçekleştirirken +2.5/2.5/2.5/2.5 karolar yarıçapında Alevli Alan oluşturur
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gök Mavisi İnci (ID: 1059) [Hidden] [Charm] [Nadirlik: Gelişmiş] ===
++1/2/3/4 MP Çalma
+Hasar verdiğin ve en az 3 karolar uzaktaki düşmanlara Korozyon uygular
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sihirli Kova (ID: 1098) [Hidden] [Charm] [Nadirlik: Yaygın] ===
+Hareket Hızı +0/0.1/0.1%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Su Dolu Sihirli Kova (ID: 1099) [Hidden] [Charm] [Nadirlik: Yaygın] ===
+Hareket Hızı -0.4%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Çember Çevirme Çubuğu (ID: 1135) [Hidden] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Sağlam(STURDY)
+Bir Normal Saldırı isabet ettiğinde Atılma Saldırısı Hasarı %{DAMAGE} artar (Atılma saldırısı gerçekleştirildiğinde sıfırlanır)
+Bu etki, Normal Saldırı isabet ettiğinde sıfırlanır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== İşlenmiş Ahşap (ID: 1142) [Hidden] [Charm] [Nadirlik: Yaygın] ===
+Hareket Hızı -0.4%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Peri Kavanozu (ID: 1148) [Hidden] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Mistik(MYSTIC)
+Kutu veya kavanoz kırıldığında %+3/4/5 ihtimalle bir Yaşam Küresi oluşturur
+Yaşam Küresi: 15 HP yeniler
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Elru'nun Şekerleme Yastığı (ID: 1174) [Hidden] [Charm] [Nadirlik: Gelişmiş] ===
+Çatışma sona erdikten sonra +1/2/3 HP iyileştirir
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Fener (ID: 1227) [Hidden] [Charm] [Nadirlik: Yaygın] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Item_PlanetComet_Name (ID: 1254) [Hidden] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Gezegen(PLANET)
+Fiziksel mermileri atan mavi bir gezegen çağırır
+[Hasar: {DAMAGE}]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gürleyen Adımlar (ID: 1260) [Hidden] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Büyütek(MAGITECH)
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Plitvice Damlacığı (ID: 1261) [Hidden] [Charm] [Nadirlik: Nadir] ===
+[Category] Ayaz Yadigârı(FROST), Göl(LAKE)
++1 Ayaz Yadigârı etkinleştiğinde 4 MP tüketir ve hasarı artan Maks. MP miktarı kadar artırır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Doğanın Koruması (ID: 1265) [Hidden] [Charm] [Nadirlik: Efsanevi] ===
+Kullanıldığında 10 saniyeliğine MP Kalkanı etkinleştirir
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== ... (ID: 1266) [Hidden] [Charm] [Nadirlik: Nadir] ===
+[Category] Akademi(ACADEMY), Göl(LAKE)
+Büyü Kitabı tarafından tüketilen her 10 MP başına hasarı 2/4/6/8/10% artırır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== ... (ID: 1269) [Hidden] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Sağlam(STURDY), Lanet(CURSE)
+Düşmana uygulanan her zayıflatma yük başına Silah Hasarı %{DAMAGE} artar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Donmuş Kalkan (ID: 1280) [Hidden] [Charm] [Nadirlik: Nadir] ===
+[Category] Ayaz Yadigârı(FROST), Rüzgâr Şarkısı(WINDSONG)
++3% Her %Saldırı Hızı10 başına Ayaz Yadigârı yeniden tetiklenme ihtimali
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== item_ShieldDamageBonus_Name (ID: 1281) [Hidden] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Muhafız(GUARDIAN)
+Kalkan etkinken düşmanlara verilen hasarı Kalkan değerinin +5/10/18/30/48//70/100% kadarı artır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kütük (ID: 1286) [Hidden] [Charm] [Nadirlik: Yaygın] ===
+Hareket Hızı -0.4%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kuzeyin Mavi İbresi (ID: 1290) [Hidden] [Charm] [Nadirlik: Nadir] ===
+Üstteki yuva içindeki Eser hasarı +6/8/10%
+Nadirlik Gelişmiş veya altındaysa ilave hasar +15/20/25%
+Yalnızca doğrudan hasar veren Eser için geçerlidir
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ağır Yürek (ID: 1304) [Hidden] [Charm] [Nadirlik: Yaygın] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Baskı (ID: 2000) [Hidden] [StoneTablet] [Nadirlik: Gelişmiş] ===
+[Tablet effect]
+  RIGHT X
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cehennem (ID: 2098) [Hidden] [StoneTablet] [Nadirlik: Ebedî] ===
+[Tablet effect]
+  CHECKERBOARD2 -9
+  CHECKERBOARD -9
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Cennet (ID: 2099) [Hidden] [StoneTablet] [Nadirlik: Ebedî] ===
+[Tablet effect]
+  CHECKERBOARD2 9
+  CHECKERBOARD 9
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== ... (ID: 2101) [Hidden] [StoneTablet] [Nadirlik: Efsanevi] ===
+[Custom tablet (query generated at runtime)]
+[Cannot rotate]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Hava Oku (ID: 3000) [Hidden] [Charm] [Nadirlik: Yaygın] ===
+Yetenek Hava Oku edin
+Çevredeki havayı sıkıştırıp hızla ateşler
+CD: 1s
+MP: 2
+0 + Fiziksel Hasar 100/110%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Şifa Akıntısı (ID: 3005) [Hidden] [Charm] [Nadirlik: Gelişmiş] ===
+Yetenek Şifa Akıntısı edin
+Tüketilen MP, kalıcı olarak Ayırma olur
+HP yeniler. (Harcanan MP kalıcı olarak rezerve edilir.)
+CD: 30s
+MP: 15
+İyileştirme Miktarı: 20
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Taş Dalgası (ID: 3015) [Hidden] [Charm] [Nadirlik: Yaygın] ===
+Yetenek Taş Dalgası edin
+Menzildeki düşmanlara saldırmak için önde ve arkada taş yığınları çağırır
+CD: 9s
+MP: 24/20
+Hasar: 0 + Fiziksel Hasar 100/120%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kaya Oink (ID: 3016) [Hidden] [Charm] [Nadirlik: Yaygın] ===
+[Category] Yoldaş(COMPANION)
+Yetenek Kaya Oink edin
+Seninle birlikte savaşan taştan bir Domuzcuk çağırır (çağırma bedeline eşit miktarda MP kilitlenir)
+CD: 10s
+MP: 30
+Hasar: 15 + Fiziksel Hasar 0%
+HP: 250
+Süre: 60
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Su Oku (ID: 3017) [Hidden] [Charm] [Nadirlik: Yaygın] ===
+Yetenek Su Oku edin
+Küçük bir su mermisi fırlatır
+CD: 1s
+MP: 2
+Hasar: 0 + Soğuk Hasarı 100/110%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ateş İğnesi (ID: 3024) [Hidden] [Charm] [Nadirlik: Yaygın] ===
+Yetenek Ateş İğnesi edin
+Ateş elementli ipliği diken bir iğne çağırır
+CD: 0.5s
+MP: 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Buz İğnesi (ID: 3025) [Hidden] [Charm] [Nadirlik: Yaygın] ===
+Yetenek Buz İğnesi edin
+Buz elementli ipliği diken bir iğne çağırır
+CD: 0.5s
+MP: 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yıldırım İğnesi (ID: 3026) [Hidden] [Charm] [Nadirlik: Yaygın] ===
+Yetenek Yıldırım İğnesi edin
+Yıldırım elementli ipliği diken bir iğne çağırır
+CD: 0.5s
+MP: 2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ateş Sirki (ID: 3035) [Hidden] [Charm] [Nadirlik: Yaygın] ===
+Yetenek Ateş Sirki edin
+Hedef konuma uçan 8 ateş küresi çağırır.
+CD: 1s
+MP: 16/18/19/20
+Hasar: 0 + Ateş Hasarı 100/120/140/160%
+Bonusu: +0%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Uyarı Mektubu (ID: 5000) [Hidden] [Charm] [Nadirlik: Nadir] ===
++4/8% Hareket Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yoldaş Nişanı 'Isaac' (ID: 5001) [Hidden] [Charm] [Nadirlik: Nadir] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yoldaş Nişanı 'Khakha' (ID: 5002) [Hidden] [Charm] [Nadirlik: Nadir] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yoldaş Nişanı 'Maru' (ID: 5003) [Hidden] [Charm] [Nadirlik: Nadir] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yoldaş Nişanı 'Aiba' (ID: 5004) [Hidden] [Charm] [Nadirlik: Nadir] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yoldaş Nişanı 'Kenny' (ID: 5005) [Hidden] [Charm] [Nadirlik: Nadir] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yoldaş Nişanı 'Pillix' (ID: 5006) [Hidden] [Charm] [Nadirlik: Nadir] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yoldaş Nişanı 'Rolf' (ID: 5007) [Hidden] [Charm] [Nadirlik: Nadir] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yoldaş Nişanı 'Thunder' (ID: 5008) [Hidden] [Charm] [Nadirlik: Nadir] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tanımlanmamış Efsanevi Eser (ID: 10003) [Hidden] [Identifiable] [Nadirlik: Efsanevi] ===
+[No effect text]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lanet (ID: 12000) [Hidden] [StoneTablet] [Nadirlik: Efsanevi] ===
+[Tablet effect]
+  CHECKERBOARD2 1
+  CHECKERBOARD -1
+
+────────────────────────────────────────────────────────────────────────────────
+
+===  (ID: 12002) [Hidden] [StoneTablet] [Nadirlik: Nadir] ===
+[Tablet effect]
+  O MUL/2
+
+================================================================================
+
+── activeType: WitchHat — 13 ──
+
+=== Zehirli Spor Kesesi (ID: 1154) [WitchHat] [Charm] [Nadirlik: Nadir] ===
++4/6/8/10% Boss ve Mini Boss düşmanlarına verilen ilave hasar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Yemek Kutusu (ID: 1282) [WitchHat] [Charm] [Nadirlik: Gelişmiş] ===
++1/1/1/1/2 Can Çalma
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lal Rozeti (ID: 1297) [WitchHat] [Charm] [Nadirlik: Gelişmiş] ===
++2/4/6/8/10% Silah Hasarı
++2/3/4/5/6 Ateş Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Topaz Rozeti (ID: 1298) [WitchHat] [Charm] [Nadirlik: Gelişmiş] ===
++2/4/6/8/10% Silah Hasarı
++2/3/4/5/6 Yıldırım Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Elmas Rozeti (ID: 1299) [WitchHat] [Charm] [Nadirlik: Gelişmiş] ===
++2/4/6/8/10% Silah Hasarı
++2/3/4/5/6 Soğuk Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kırmızı Mantar (ID: 1305) [WitchHat] [Charm] [Nadirlik: Gelişmiş] ===
+Her 3% Zayıflatma ile verilen hasar başına Saldırı Hızı değerini 1% artır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kasırga Taşı (ID: 1306) [WitchHat] [Charm] [Nadirlik: Gelişmiş] ===
++2/4/6/8% Genel Hasar Artışı
++6/12/18/24% Hareket Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dönüşüm Kitabı - Ateş (ID: 1307) [WitchHat] [Charm] [Nadirlik: Nadir] ===
+Ek Fiziksel Hasar 0 olur ve bu 20/40/60/80/100%, Ateş Hasarı olarak dönüştürülür
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dönüşüm Kitabı - Buz (ID: 1308) [WitchHat] [Charm] [Nadirlik: Nadir] ===
+Ek Fiziksel Hasar 0 olur ve bu 20/40/60/80/100%, Soğuk Hasarı olarak dönüştürülür
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dönüşüm Kitabı - Yıldırım (ID: 1309) [WitchHat] [Charm] [Nadirlik: Nadir] ===
+Ek Fiziksel Hasar 0 olur ve bu 20/40/60/80/100%, Yıldırım Hasarı olarak dönüştürülür
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lanetli Mektup (ID: 1310) [WitchHat] [Charm] [Nadirlik: Gelişmiş] ===
++50/100/200% Dikenler
+-6/5/4% Saldırı Hızı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kama (ID: 2061) [WitchHat] [StoneTablet] [Nadirlik: Nadir] ===
+[Tablet effect]
+  DIAUPLEFT 3
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Karşılık (ID: 2100) [WitchHat] [StoneTablet] [Nadirlik: Ebedî] ===
+[Tablet effect]
+  HORIZONTAL 3

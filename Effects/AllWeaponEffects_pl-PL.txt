@@ -1,4 +1,4 @@
-﻿Base weapon effect text (enhancement tree) — 6 / 212 / language: pl-PL (pl-PL)
+﻿Base weapon effect text (enhancement tree) — 6 / 215 / language: pl-PL (pl-PL)
 ================================================================================
 
 === [T1] Domyślny miecz i tarcza (ID: 0) ===
@@ -46,14 +46,18 @@
 │   Obrażenia od zimna zwiększa się o 5.
 │   ├ [T3] Lodowcowe Ostrze (ID: 1014)
 │   │   Pocisk artefaktu Pochwa Egzorcyzmu staje się mniejszy, ale ładuje się o 50% szybciej.
-│   └ [T3] Przed Zamiecią (ID: 1015)
-│       Po zużyciu Liczba doskoków natychmiast aktywuje artefakt Artefakt Młot zamieci z 60% obrażeń.
+│   ├ [T3] Przed Zamiecią (ID: 1015)
+│   │   Po zużyciu Liczba doskoków natychmiast aktywuje artefakt Artefakt Młot zamieci z 60% obrażeń.
+│   └ [T3] Weapon_1029_Name (ID: 1029)
+│       Gdy artefakt Lodowa liana zostanie aktywowany, krąży wokół gracza.
 ├ [T2] Przewodnik (ID: 1016)
 │   Obrażenia od błyskawic zwiększa się o 5.
 │   ├ [T3] Miecz balistyczny (ID: 1017)
 │   │   Strzała Artefakt Miniaturowa balista przebija ściany i naprowadza się na wrogów. Przy udanym Blok natychmiast wystrzeliwuje strzałę.
-│   └ [T3] Nadprzewodnik (ID: 1018)
-│       Atak specjalny: Zamaszyste cięcie zmienia się w Atak specjalny: Włócznia Błyskawic.
+│   ├ [T3] Nadprzewodnik (ID: 1018)
+│   │   Atak specjalny: Zamaszyste cięcie zmienia się w Atak specjalny: Włócznia Błyskawic.
+│   └ [T3] Oślepiająca cisza (ID: 1028)
+│       Artefakt Kolczyk Gromu zyskuje 1 dodatkowych ataków, a jego obrażenia zwiększają się o 100%. Kolczyk Gromu uruchamia się natychmiast przy Atak specjalny: Zamaszyste cięcie.
 └ [T2] Incendium (ID: 1024)
     Obrażenia zadawane przez Atak bronią zostają zmniejszone o 15%, ale są zmieniane na Obrażenia od ognia.
     ├ [T3] Solis Missio (ID: 1025)
@@ -275,14 +279,17 @@
 ├ [T2] Ostrze Przeciągu Kowala Zimy (ID: 419)
 │   Pochowanie zostaje zastąpione przez Szarża. Dodaje dodatkowe obrażenia równe 15% Obrażenia od zimna do Atak bronią. Obrażenia od zimna zwiększa się o 3.
 │   ├ [T3] Cisza Wiecznego Mrozu (ID: 420)
-│   │   Szarża zmienia się w Atak specjalny: Lodowy ślizg. Blokowanie ataków wroga podczas niewrażliwości natychmiast aktywuje artefakt Echo lodowca. Po aktywacji zadaje pobliskim wrogom 120% obrażeń Obrażenia od zimna.
+│   │   Szarża zmienia się w Atak specjalny: Lodowy ślizg. Blokowanie ataków wroga podczas niewrażliwości natychmiast aktywuje artefakt Echo lodowca. Po aktywacji zadaje obrażenia pobliskim wrogom. (Obrażenia: 120% Obrażenia od zimna)
 │   └ [T3] Fragment Nastrondu (ID: 421)
 │       Po akcji Szarża, podczas ataku aktywuje Lodowa Relikwia: Skaði.
 ├ [T2] Miecz Gromu „Bronte” (ID: 404)
 │   Obrażenia zadawane przez Atak bronią zostają zmniejszone o 20%, ale są zmieniane na Obrażenia od błyskawic.
-│   └ [T3] Błysk Pioruna (ID: 405)
-│       Zyskujesz 1 kumulację 'Ładunku elektrycznego' przy zadawaniu obrażeń Porażenie prądem. (Maks. 10)
-│       Zużyj 2 kumulacje 'Ładunku elektrycznego', aby wykonać Atak specjalny: Issen przy użyciu Atak specjalny: Ciężkie cięcie.
+│   ├ [T3] Błysk Pioruna (ID: 405)
+│   │   Zyskujesz 1 kumulację 'Ładunku elektrycznego' przy zadawaniu obrażeń Porażenie prądem. (Maks. 10)
+│   │   Zużyj 2 kumulacje 'Ładunku elektrycznego', aby wykonać Atak specjalny: Issen przy użyciu Atak specjalny: Ciężkie cięcie.
+│   └ [T3] Miecz Lazurowej Chmury „Arges” (ID: 425)
+│       Pochowanie zmienia się w Atak specjalny: Cięcie chmur.
+│       Zyskujesz 1 kumulację Resztkowa błyskawica, gdy Chmura burzowa samoczynnie uderza. (maks. 20)
 └ [T2] Giętacz Pancerzy (ID: 423)
     Obrażenia zadawane przez Zwykły atak zwiększają się o 1% za każde 2 Obrona.
     └ [T3] Ostrze Kruszące Płyty (ID: 424)

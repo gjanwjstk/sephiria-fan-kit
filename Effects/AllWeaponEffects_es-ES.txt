@@ -1,4 +1,4 @@
-﻿Base weapon effect text (enhancement tree) — 6 / 212 / language: es-ES (es-ES)
+﻿Base weapon effect text (enhancement tree) — 6 / 215 / language: es-ES (es-ES)
 ================================================================================
 
 === [T1] Espada y Escudo por Defecto (ID: 0) ===
@@ -46,14 +46,18 @@
 │   Daño por Frío aumenta en 5.
 │   ├ [T3] Hoja Glacial (ID: 1014)
 │   │   El proyectil del artefacto Vaina de Exorcismo se hace más pequeño, pero se carga un 50% más rápido.
-│   └ [T3] Víspera de Tormenta de Nieve (ID: 1015)
-│       Al consumir Cantidad de Embestidas, activa instantáneamente el Artefacto Martillo de Ventisca con un daño del 60%.
+│   ├ [T3] Víspera de Tormenta de Nieve (ID: 1015)
+│   │   Al consumir Cantidad de Embestidas, activa instantáneamente el Artefacto Martillo de Ventisca con un daño del 60%.
+│   └ [T3] Weapon_1029_Name (ID: 1029)
+│       Cuando se activa el artefacto Enredadera Glacial, orbita alrededor del jugador.
 ├ [T2] Conductor (ID: 1016)
 │   Daño por Rayo aumenta en 5.
 │   ├ [T3] Espada Ballista (ID: 1017)
 │   │   Artefacto Las flechas de Mini Ballesta atraviesan paredes y se dirigen hacia los enemigos. Si Bloquear tiene éxito, dispara una flecha de inmediato.
-│   └ [T3] Superconductor (ID: 1018)
-│       Ataque especial: Cortar se cambia por Ataque Especial: Lanza Relámpago.
+│   ├ [T3] Superconductor (ID: 1018)
+│   │   Ataque especial: Cortar se cambia por Ataque Especial: Lanza Relámpago.
+│   └ [T3] Silencio Cegador (ID: 1028)
+│       El artefacto Pendiente de Trueno obtiene 1 ataques adicionales y su daño aumenta en 100%. Pendiente de Trueno se activa de inmediato al realizar Ataque especial: Cortar.
 └ [T2] Incendium (ID: 1024)
     El daño de Ataque con arma se reduce en un 15%, pero se convierte en uno basado en Daño de Fuego.
     ├ [T3] Solis Missio (ID: 1025)
@@ -275,14 +279,17 @@
 ├ [T2] Espada Boceto del Herrero de Invierno (ID: 419)
 │   Enfundar se reemplaza por Placaje. Añade un daño adicional del 15% de Daño por Frío en Ataque con arma. Daño por Frío aumenta en 3.
 │   ├ [T3] Silencio de la Escarcha Eterna (ID: 420)
-│   │   Placaje se cambia a Ataque Especial: Deslizamiento de Hielo. Bloquear ataques enemigos durante el tiempo de invencibilidad activa inmediatamente el artefacto Eco del Glaciar. Al activarse, inflige un Daño por Frío 120% de daño a los enemigos cercanos.
+│   │   Placaje se cambia a Ataque Especial: Deslizamiento de Hielo. Bloquear ataques enemigos durante el tiempo de invencibilidad activa inmediatamente el artefacto Eco del Glaciar. Al activarse, inflige daño a los enemigos cercanos. (Daño: 120 % de Daño por Frío)
 │   └ [T3] Fragmento de Nastrond (ID: 421)
 │       Después de una acción de Placaje, al atacar se activa Reliquia Helada: Skaði.
 ├ [T2] Espada de Truenos «Bronte» (ID: 404)
 │   El daño de Ataque con arma se reduce en un 20%, pero se convierte en uno basado en Daño por Rayo.
-│   └ [T3] Destello Relámpago (ID: 405)
-│       Al infligir daño con Electrocución obtienes 1 acumulación de «carga». (Máximo 10).
-│       Al usar Ataque especial: Tajo pesado consume 2 acumulaciones de «carga» para ejecutar Ataque especial: Issen.
+│   ├ [T3] Destello Relámpago (ID: 405)
+│   │   Al infligir daño con Electrocución obtienes 1 acumulación de «carga». (Máximo 10).
+│   │   Al usar Ataque especial: Tajo pesado consume 2 acumulaciones de «carga» para ejecutar Ataque especial: Issen.
+│   └ [T3] Espada de Nube Cerúlea «Arges» (ID: 425)
+│       Enfundar se cambia por Ataque Especial: Tajo de nube.
+│       Obtienes 1 acumulación de Relámpago residual cada vez que Nube Tormentosa descarga un rayo por sí sola. (máximo 20)
 └ [T2] Hoja de Placas Trituradoras (ID: 423)
     El daño de Ataque normal aumenta en un 1% por cada 2 del valor de Defensa.
     └ [T3] Espada Rompedora (ID: 424)

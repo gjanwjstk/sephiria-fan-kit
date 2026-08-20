@@ -1,4 +1,4 @@
-﻿Base weapon effect text (enhancement tree) — 6 / 212 / language: pt-BR (pt-BR)
+﻿Base weapon effect text (enhancement tree) — 6 / 215 / language: pt-BR (pt-BR)
 ================================================================================
 
 === [T1] Espada e Escudo padrões (ID: 0) ===
@@ -46,14 +46,18 @@
 │   Aumenta Dano gélido em 5.
 │   ├ [T3] Espada Glacial (ID: 1014)
 │   │   O projétil do artefato Bainha do exorcismo fica menor, mas é carregado 50% mais rápido.
-│   └ [T3] Tempestade de Eve (ID: 1015)
-│       Ao consumir Número de arrancadas, ativa instantaneamente o Artefato Martelo da nevasca com 60% de dano.
+│   ├ [T3] Tempestade de Eve (ID: 1015)
+│   │   Ao consumir Número de arrancadas, ativa instantaneamente o Artefato Martelo da nevasca com 60% de dano.
+│   └ [T3] Weapon_1029_Name (ID: 1029)
+│       Quando o Artefato Videira gélida é ativado, ele orbita ao redor do jogador.
 ├ [T2] Condutor (ID: 1016)
 │   Aumenta Dano elétrico em 5.
 │   ├ [T3] Espada-Balista (ID: 1017)
 │   │   Artefato As flechas de Balistinha atravessam paredes e se guiam em direção aos inimigos. Ao ter sucesso em Bloqueio, dispara uma flecha imediatamente.
-│   └ [T3] Supercondutor (ID: 1018)
-│       Ataque especial: Corte é alterado para Ataque especial: Lança elétrica.
+│   ├ [T3] Supercondutor (ID: 1018)
+│   │   Ataque especial: Corte é alterado para Ataque especial: Lança elétrica.
+│   └ [T3] Silêncio Cegante (ID: 1028)
+│       O Artefato Brincos do trovão recebe 1 ataques adicionais, e seu dano aumenta em 100%. Brincos do trovão é ativado imediatamente ao realizar Ataque especial: Corte.
 └ [T2] Incêndium (ID: 1024)
     O dano de Ataque da arma é reduzido em 15%, mas é convertido para um baseado em Dano de fogo.
     ├ [T3] Solis Missão (ID: 1025)
@@ -275,14 +279,17 @@
 ├ [T2] Espada-Rascunho de Inverno do Ferreiro (ID: 419)
 │   Substitui Bainha por Investida. Adiciona dano adicional igual a 15% de Dano gélido ao realizar Ataque da arma. O Dano gélido é aumentado em 3.
 │   ├ [T3] Silêncio da Geada Eterna (ID: 420)
-│   │   Altera Investida para Ataque especial: Deslizando no gelo. Bloquear os ataques dos inimigos durante a invencibilidade ativa o artefato Eco da geleira imediatamente. Ao ativar, ele causará 120% de dano do tipo Dano gélido aos inimigos nas proximidades.
+│   │   Altera Investida para Ataque especial: Deslizando no gelo. Bloquear os ataques dos inimigos durante a invencibilidade ativa o artefato Eco da geleira imediatamente. Ao ativar, ele causará dano aos inimigos nas proximidades. (Dano: 120% de Dano gélido)
 │   └ [T3] Fragmento de Nastrond (ID: 421)
 │       Após uma ação de Investida, será ativado Relíquia de geada: Skaði ao atacar.
 ├ [T2] Espada do Trovão "Bronte" (ID: 404)
 │   O dano de Ataque da arma é reduzido em 20%, mas é convertido para um baseado em Dano elétrico.
-│   └ [T3] Raio Elétrico (ID: 405)
-│       Ganhe 1 ponto acumulado de "Carga Elétrica" ao causar dano com Eletrocussão. (Máx. de 10)
-│       Consome 2 pontos acumulados de "Carga Elétrica" para realizar Ataque especial: Issen em consequência de Ataque especial: Golpe pesado.
+│   ├ [T3] Raio Elétrico (ID: 405)
+│   │   Ganhe 1 ponto acumulado de "Carga Elétrica" ao causar dano com Eletrocussão. (Máx. de 10)
+│   │   Consome 2 pontos acumulados de "Carga Elétrica" para realizar Ataque especial: Issen em consequência de Ataque especial: Golpe pesado.
+│   └ [T3] Espada da Nuvem Cerúlea "Arges" (ID: 425)
+│       Bainha é alterado para Ataque especial: Golpe de nuvem.
+│       Ganhe 1 ponto acumulado de Relâmpago residual sempre que Nuvem de tempestade disparar por conta própria. (Máx. de 20)
 └ [T2] Lâmina Quebra-Placas (ID: 423)
     O dano do Ataque normal aumenta em 1% para cada unidade de 2 de Defesa.
     └ [T3] Lâmina Quebraplacas (ID: 424)

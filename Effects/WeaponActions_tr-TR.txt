@@ -1,0 +1,127 @@
+﻿======================================
+  Weapon_SwordAndShield_1
+======================================
+[Actions]
+  ■ Normal Saldırı
+    Input: Left Click (3 kez)
+  ■ Atılma saldırısı
+    Input: (Atıldıktan sonra) Left Click
+  ■ Blok
+    Input: Right Click (basılı tut)
+  ■ Özel Saldırı: Yarma
+    Input: Savunurken Left Click
+
+[Tutorial text]
+  Engelle: Right Click Basılı Tut
+  Engelleme, tüm düşman saldırılarını savuşturmanı sağlar.
+  Düşman saldırısının geldiği yöne doğru engelle. Engelleme 10 MP tüketir.
+  Blok tam zamanında kullanılırsa Kusursuz savunma etkinleşir ve MP tüketimi yarıya iner.
+  MP 0 olduğunda savunman düşer ve saldırıları engelleyemezsin.
+  Kusursuz savunma: doğru anda engelle
+  Yar: Bloklarken Left Click
+  Yar kullanmak MP tüketir.
+  Başarılı bir engelleme, Yar'ın bedelini %50 azaltır; kusursuz savunma ise %100 azaltır.
+
+======================================
+  Weapon_GreatSword_1
+======================================
+[Actions]
+  ■ Normal Saldırı
+    Input: Left Click (3 kez)
+  ■ Atılma saldırısı
+    Input: Atıldıktan sonra Left Click
+  ■ Özel Saldırı: Kasırga
+    Input: Right Click basılı tut, ardından bırak
+
+[Tutorial text]
+  Büyük kılıçla saldırıları bloklayamazsın ancak yüksek SLD gücü ve menzili bu eksikliği telafi eder.
+  Geniş bir alanda güçlü bir Kasırga saldırısı gerçekleştirmek için MP kullan.
+  Öfke Göstergesi aşağıdaki eylemlerle doldurulabilir.
+  - Güç toplama
+- Düşmanlara saldırma
+- Hasar alma
+  Güç topla: (basılı tut) Right Click
+  Kasırga: (Bırak) Right Click
+
+======================================
+  Weapon_Dagger_1
+======================================
+[Actions]
+  ■ Normal Saldırı
+    Input: Left Click (5 kez)
+  ■ Atılma saldırısı
+    Input: (Atıldıktan sonra) Left Click
+  ■ Özel Saldırı: Savuşturma
+    Input: Right Click
+    Description: Başarılı bir Özel Saldırı: Savuşturma sonrasında Trans kazanır.
+  ■ Özel Saldırı: Hiddet
+    Input: Trans Güçlendirmesi Etkinken Right Click
+
+[Tutorial text]
+  Hançer, dar menzilli ve düşük sendeletme gücüne sahip olsa da hızlı saldırılar yapmanı sağlayan bir silahtır.
+  Özel Saldırı: Savuşturma, MP tüketerek düşman saldırılarını savuşturmanı sağlar.
+  Özel Saldırı: Savuşturma, düşman saldırılarını yalnızca mavi renkte parladığın sırada savuşturur.
+  Özel Saldırı: Savuşturma ile bir saldırıyı başarıyla savuşturursan Trans güçlendirmesi kazanırsın.
+  Trans güçlendirmesi etkinken Özel Saldırı: Hiddet kullanabilirsin.
+  Özel Saldırı: Hiddet:
+  Özel Saldırı: Hiddet: Trans durumunda Right Click
+  Özel Saldırı: Savuşturma: Right Click
+
+======================================
+  Weapon_Crossbow
+======================================
+[Actions]
+  ■ Normal Saldırı
+    Input: Left Click
+    Description: Tüm oklar tükendiğinde otomatik olarak yeniden doldurur. Saldırılar sırasında Hareket Hızı %40 azalır.
+  ■ Atılma saldırısı
+    Input: (Atıldıktan sonra) Left Click
+    Description: Bir mayın yerleştirmek için bir atılma hakkı tüketir. Mayın 3 saniye boyunca kalır ve bir düşman algıladığında otomatik olarak patlar.
+  ■ Özel Saldırı: Güç Oku
+    Input: Right Click
+    Description: Güçlü bir ok fırlatmak için 10 MP tüketir. Ok tüketmez.
+
+[Tutorial text]
+  Arbalet menzilli bir silahtır. Şarjöründeki okları tüketerek saldırır.
+  Şarjör tamamen boşaldığında Yeniden Doldurma ile doldurabilirsin.
+  Silah Uzmanlığı Eylemi (Yeniden Doldurma): G
+  Özel Saldırı kullanıldığında, tüm düşmanları delip geçen bir 'güçlendirilmiş mermi' ateşler.
+  Atılma saldırısı ile yakına küçük mayınlar kur. (Atılma göstergesini tüketir) Düşmanlar yaklaştığında patlarlar.
+
+======================================
+  Weapon_Staff
+======================================
+[Actions]
+  ■ Normal Saldırı
+    Input: Left Click (4 kez)
+  ■ Atılma saldırısı
+    Input: (Atıldıktan sonra) Left Click
+  ■ Özel Saldırı: Karşılık
+    Input: Right Click
+
+[Tutorial text]
+  Asa, Normal Saldırı sırasında bile kullanılabilen Özel Saldırı: Karşılık sayesinde aynı anda saldırıp savunabilen bir silahtır.
+  Özel Saldırı: Karşılık sırasında bir düşman saldırısına karşı Kusursuz savunma yaparsan bu Özel Saldırı saldırısının ikinci darbesi güçlenir.
+  Özel Saldırı: Karşılık: Right Click
+
+======================================
+  Weapon_Katana
+======================================
+[Actions]
+  ■ Normal Saldırı
+    Input: Left Click (3 kez)
+  ■ Atılma saldırısı
+    Input: (Atıldıktan sonra) Left Click
+  ■ Kınına Koy ve Çek
+    Input: Right Click
+  ■ Özel Saldırı: Ağır Kesme
+    Input: Kınındayken Left Click
+
+[Tutorial text]
+  Bıçak, Kınına Koy ve Kılıcı Çekme durumları arasında geçiş yapabilen bir yakın dövüş silahıdır.
+  Kınında durumundayken 5 MP tüketerek Özel Saldırı: Ağır Kesme kullanabilirsin.
+  Kılıcı kınına sokarken veya kınından çekerken düşman saldırılarını engelleyebilirsin.
+  Kılıcı Çekme: Kınına Koy durumundayken Right Click
+  Özel Saldırı: Ağır Kesme: Kınına Koy durumundayken Left Click
+  Kınına Koy: Kılıcı Çekme durumundayken Right Click
+

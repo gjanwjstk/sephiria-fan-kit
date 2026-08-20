@@ -1,0 +1,127 @@
+﻿======================================
+  Weapon_SwordAndShield_1
+======================================
+[Actions]
+  ■ Attacco normale
+    Input: Left Click (3 volte)
+  ■ Attacco in scatto
+    Input: (Dopo lo scatto) Left Click
+  ■ Parata
+    Input: Right Click (tieni premuto)
+  ■ Attacco speciale: Fendente
+    Input: Durante la parata Left Click
+
+[Tutorial text]
+  Parata: Right Click Tieni premuto
+  La Parata ti permette di respingere tutti gli attacchi nemici.
+  Para nella direzione dell'attacco nemico. Parare consuma 10 MP.
+  Se usi Parata con il tempismo giusto, si attiva Parata perfetta, consumando la metà dei MP.
+  Quando i tuoi MP scendono a 0, abbassi la guardia e non puoi parare gli attacchi.
+  Parata perfetta: para al momento giusto
+  Fendente: Durante la parata Left Click
+  Usare Fendente consuma MP.
+  Una parata riuscita riduce del 50% il costo di Fendente, mentre una parata perfetta lo riduce del 100%.
+
+======================================
+  Weapon_GreatSword_1
+======================================
+[Actions]
+  ■ Attacco normale
+    Input: Left Click (3 volte)
+  ■ Attacco in scatto
+    Input: Dopo uno scatto Left Click
+  ■ Attacco speciale: Turbine
+    Input: Tieni premuto R , poi rilascia
+
+[Tutorial text]
+  Non puoi parare gli attacchi con uno spadone, ma il suo elevato ATT e la sua ampia portata compensano questo svantaggio.
+  Usa MP per eseguire un potente attacco Turbine su un'ampia area.
+  La barra della Furia può essere riempita eseguendo le seguenti azioni.
+  - Caricare
+- Attaccare i nemici
+- Subire danni
+  Carica: (tieni premuto) Right Click
+  Vortice: (rilascia) Right Click
+
+======================================
+  Weapon_Dagger_1
+======================================
+[Actions]
+  ■ Attacco normale
+    Input: Left Click (5 volte)
+  ■ Attacco in scatto
+    Input: (Dopo uno scatto) Left Click
+  ■ Attacco speciale: Parata
+    Input: Right Click
+    Description: Quando esegui con successo Attacco speciale: Parata, ottieni Trance.
+  ■ Attacco speciale: Furia
+    Input: Bonus Trance attivo Right Click
+
+[Tutorial text]
+  Il pugnale è un'arma dalla portata ridotta e con scarso potere di sbilanciamento, ma consente di sferrare attacchi rapidi.
+  Attacco speciale: Parata ti permette di deviare gli attacchi nemici consumando MP.
+  Attacco speciale: Parata devia gli attacchi nemici solo mentre emetti una luce blu.
+  Se devii con successo un attacco usando Attacco speciale: Parata, ottieni il bonus Trance.
+  Mentre il bonus Trance è attivo, puoi usare Attacco speciale: Furia.
+  Attacco speciale: Furia:
+  Attacco speciale: Furia: In stato Trance Right Click
+  Attacco speciale: Parata: Right Click
+
+======================================
+  Weapon_Crossbow
+======================================
+[Actions]
+  ■ Attacco normale
+    Input: Left Click
+    Description: Ricarica automaticamente quando tutte le frecce sono esaurite. Durante gli attacchi, Velocità di movimento si riduce del 40%.
+  ■ Attacco in scatto
+    Input: (Dopo uno scatto) Left Click
+    Description: Consuma uno scatto per piazzare una mina che dura 3 secondi. Esplode automaticamente quando rileva un nemico.
+  ■ Attacco speciale: Freccia potente
+    Input: Right Click
+    Description: Consuma 10 MP per scoccare una potente freccia. Non consuma frecce.
+
+[Tutorial text]
+  La balestra è un'arma a distanza. Attacca consumando le frecce nel caricatore.
+  Quando il caricatore è completamente vuoto, puoi riempirlo usando Ricarica.
+  Azione specializzazione arma (Ricarica): G
+  Quando viene usato Attacco speciale, spara un «proiettile potenziato» che trapassa tutti i nemici.
+  Piazza piccole mine nelle vicinanze usando Attacco in scatto. (Consuma la barra dello scatto) Esplodono quando i nemici si avvicinano.
+
+======================================
+  Weapon_Staff
+======================================
+[Actions]
+  ■ Attacco normale
+    Input: Left Click (4 volte)
+  ■ Attacco in scatto
+    Input: (Dopo lo scatto) Left Click
+  ■ Attacco speciale: Contrattacco
+    Input: Right Click
+
+[Tutorial text]
+  Bastone è un'arma che può attaccare e difendere contemporaneamente usando Attacco speciale: Contrattacco, disponibile anche durante Attacco normale.
+  Se esegui una Parata perfetta contro un attacco nemico durante Attacco speciale: Contrattacco, il secondo colpo di questo Attacco speciale viene potenziato.
+  Attacco speciale: Contrattacco: Right Click
+
+======================================
+  Weapon_Katana
+======================================
+[Actions]
+  ■ Attacco normale
+    Input: Left Click (3 volte)
+  ■ Attacco in scatto
+    Input: (Dopo lo scatto) Left Click
+  ■ Rinfodera ed estrai
+    Input: Right Click
+  ■ Attacco speciale: Fendente pesante
+    Input: Con l'arma nel fodero Left Click
+
+[Tutorial text]
+  Lama è un'arma da mischia che può alternare gli stati Rinfodera e Estrazione.
+  Nello stato Sheath, puoi usare Attacco speciale: Fendente pesante consumando 5 MP.
+  Puoi parare gli attacchi nemici mentre rinfoderi e sfoderi.
+  Estrazione: mentre sei nello stato Rinfodera Right Click
+  Attacco speciale: Fendente pesante: mentre sei nello stato Rinfodera Left Click
+  Rinfodera: mentre sei nello stato Estrazione Right Click
+

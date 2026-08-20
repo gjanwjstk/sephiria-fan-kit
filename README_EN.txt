@@ -1,5 +1,5 @@
 SEPHIRIA FAN KIT
-Version 2.1  |  Built 2026-08-19  |  Game build 1.0.29
+Version 2.1  |  Built 2026-08-20  |  Game build 1.0.29
 
 Thanks for creating with SEPHIRIA! Read "License & Usage Guide_EN.txt" first --
 short version: free for non-commercial use with credit, and video/streaming

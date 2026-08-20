@@ -1,4 +1,4 @@
-﻿Base weapon effect text (enhancement tree) — 6 / 212 / language: en-US (en-US)
+﻿Base weapon effect text (enhancement tree) — 6 / 215 / language: en-US (en-US)
 ================================================================================
 
 === [T1] Default Sword and Shield (ID: 0) ===
@@ -46,14 +46,18 @@
 │   Cold Damage increases by 5.
 │   ├ [T3] Glacial Blade (ID: 1014)
 │   │   Artifact Scabbard of Exorcism's projectile becomes smaller, but charges 50% faster.
-│   └ [T3] Blizzard’s Eve (ID: 1015)
-│       When Dash Count is consumed, instantly activate the Artifact Blizzard Hammer with 60% damage.
+│   ├ [T3] Blizzard’s Eve (ID: 1015)
+│   │   When Dash Count is consumed, instantly activate the Artifact Blizzard Hammer with 60% damage.
+│   └ [T3] Weapon_1029_Name (ID: 1029)
+│       When Artifact Ice Vine activates, it orbits around the player.
 ├ [T2] Conductor (ID: 1016)
 │   Lightning Damage increases by 5.
 │   ├ [T3] Ballista Sword (ID: 1017)
 │   │   Artifact Mini Ballista's arrow pierces walls and homes in on enemies. Fires an arrow immediately on successful Block.
-│   └ [T3] Superconductor (ID: 1018)
-│       Special Attack: Cleave changes to Special Attack: Lightning Spear.
+│   ├ [T3] Superconductor (ID: 1018)
+│   │   Special Attack: Cleave changes to Special Attack: Lightning Spear.
+│   └ [T3] Blinding Silence (ID: 1028)
+│       Artifact Thunder's Earring gains 1 additional attacks, and its damage increases by 100%. Thunder's Earring triggers immediately when Special Attack: Cleave.
 └ [T2] Incendium (ID: 1024)
     Damage dealt by Weapon Attack is reduced by 15%, but it is changed to Fire Damage.
     ├ [T3] Solis Missio (ID: 1025)
@@ -275,14 +279,17 @@
 ├ [T2] Winter Smith's Draftblade (ID: 419)
 │   Sheath is replaced with Tackle. Adds additional damage equal to 15% of Cold Damage on Weapon Attack. Cold Damage is increased by 3.
 │   ├ [T3] Silence of Everfrost (ID: 420)
-│   │   Tackle changes to Special Attack: Ice Sliding. Blocking enemy attacks during invincibility triggers the artifact Echo of the Glacier immediately. Upon activation, it deals Cold Damage 120% damage to nearby enemies.
+│   │   Tackle changes to Special Attack: Ice Sliding. Blocking enemy attacks during invincibility triggers the artifact Echo of the Glacier immediately. Upon activation, it deals damage to nearby enemies. (Damage: 120% of Cold Damage)
 │   └ [T3] Fragment of Nastrond (ID: 421)
 │       After a Tackle action, it activates Frost Relic: Skaði when attacking.
 ├ [T2] Thunder Sword 'Bronte' (ID: 404)
 │   Damage dealt by Weapon Attack is reduced by 20%, but it is changed to Lightning Damage.
-│   └ [T3] Lightning Flash (ID: 405)
-│       Gain 1 stack of 'Electric Charge' when dealing damage with Electrocution. (Max 10)
-│       Consume 2 stacks of 'Electric Charge' to perform Special Attack: Issen upon Special Attack: Heavy Slash.
+│   ├ [T3] Lightning Flash (ID: 405)
+│   │   Gain 1 stack of 'Electric Charge' when dealing damage with Electrocution. (Max 10)
+│   │   Consume 2 stacks of 'Electric Charge' to perform Special Attack: Issen upon Special Attack: Heavy Slash.
+│   └ [T3] Cerulean Cloud Sword 'Arges' (ID: 425)
+│       Sheath changes to Special Attack: Cloud Slash.
+│       Gain 1 stack of Residual Lightning whenever Storm Cloud strikes on its own. (Max 20)
 └ [T2] Armor-Bender (ID: 423)
     Damage dealt by Normal Attack increases by 1% for every 2 of Defense.
     └ [T3] Breakplate Blade (ID: 424)

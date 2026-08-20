@@ -1499,8 +1499,8 @@ Si el PV actual es mayor o igual a 70%, Aumento de Daño Universal +6/8/10/15/18
 
 === Escama de Ébano (ID: 1091) [Locked] [Charm] [Rareza: Legendario] ===
 [Category] Precisión(PRECISION)
-Aumenta Probabilidad Crítica en +100/150/200/250/350% por cada tablilla en tu inventario
-Número actual de tablillas: 0
+Aumenta Probabilidad Crítica en +100/150/200/250/350% por cada tabla en tu inventario
+Número actual de tablas: 0
 
 ────────────────────────────────────────────────────────────────────────────────
 

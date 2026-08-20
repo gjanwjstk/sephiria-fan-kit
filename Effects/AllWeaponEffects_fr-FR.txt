@@ -1,4 +1,4 @@
-﻿Base weapon effect text (enhancement tree) — 6 / 212 / language: fr-FR (fr-FR)
+﻿Base weapon effect text (enhancement tree) — 6 / 215 / language: fr-FR (fr-FR)
 ================================================================================
 
 === [T1] Épée et bouclier par défaut (ID: 0) ===
@@ -46,14 +46,18 @@
 │   Dégâts de froid augmente de 5.
 │   ├ [T3] Lame glaciaire (ID: 1014)
 │   │   Le projectile de l’artefact Fourreau d’exorcisme devient plus petit, mais se charge 50 % plus vite.
-│   └ [T3] Veille du blizzard (ID: 1015)
-│       Lorsqu’une Nombre de ruées est consommée, active instantanément l’Artefact Marteau blizzard avec 60 % de dégâts.
+│   ├ [T3] Veille du blizzard (ID: 1015)
+│   │   Lorsqu’une Nombre de ruées est consommée, active instantanément l’Artefact Marteau blizzard avec 60 % de dégâts.
+│   └ [T3] Weapon_1029_Name (ID: 1029)
+│       Lorsque l’artefact Liane de glace s’active, il gravite autour du joueur.
 ├ [T2] Conducteur (ID: 1016)
 │   Dégâts de foudre augmente de 5.
 │   ├ [T3] Épée-baliste (ID: 1017)
 │   │   La flèche de Artefact Mini-baliste traverse les murs et cible les ennemis. Tire immédiatement une flèche après un Garde réussi.
-│   └ [T3] Supraconducteur (ID: 1018)
-│       Attaque spéciale : Balayage devient Attaque spéciale : Lance foudroyante.
+│   ├ [T3] Supraconducteur (ID: 1018)
+│   │   Attaque spéciale : Balayage devient Attaque spéciale : Lance foudroyante.
+│   └ [T3] Silence aveuglant (ID: 1028)
+│       L’artefact Boucle d’oreille du tonnerre gagne 1 attaques supplémentaires, et ses dégâts augmentent de 100%. Boucle d’oreille du tonnerre se déclenche immédiatement lors d’une Attaque spéciale : Balayage.
 └ [T2] Incendium (ID: 1024)
     Les dégâts infligés par Attaque d’arme sont réduits de 15 %, mais deviennent Dégâts de feu.
     ├ [T3] Solis Missio (ID: 1025)
@@ -275,14 +279,17 @@
 ├ [T2] Lame d’ébauche du forgeron d’hiver (ID: 419)
 │   Rengainer est remplacé par Charge. Ajoute à Attaque d’arme des dégâts supplémentaires équivalant à 15 % de Dégâts de froid. Dégâts de froid augmente de 3.
 │   ├ [T3] Silence du Givre éternel (ID: 420)
-│   │   Charge se transforme en Attaque spéciale : Glissade sur glace. Bloquer des attaques ennemies pendant l’invincibilité déclenche immédiatement l’artefact Écho du glacier. À l’activation, il inflige aux ennemis proches 120 % de dégâts de Dégâts de froid.
+│   │   Charge se transforme en Attaque spéciale : Glissade sur glace. Bloquer des attaques ennemies pendant l’invincibilité déclenche immédiatement l’artefact Écho du glacier. À l’activation, il inflige des dégâts aux ennemis proches. (Dégâts : 120 % de Dégâts de froid)
 │   └ [T3] Fragment de Nastrond (ID: 421)
 │       Après une action Charge, active Relique de givre : Skaði lors d’une attaque.
 ├ [T2] Épée du tonnerre « Bronte » (ID: 404)
 │   Les dégâts infligés par Attaque d’arme sont réduits de 20 %, mais deviennent Dégâts de foudre.
-│   └ [T3] Éclair foudroyant (ID: 405)
-│       Obtenez 1 cumul de « Charge électrique » en infligeant des dégâts avec Électrocution. (Max. 10)
-│       Consommez 2 cumuls de « Charge électrique » pour utiliser Attaque spéciale : Issen lors d’une Attaque spéciale : Entaille lourde.
+│   ├ [T3] Éclair foudroyant (ID: 405)
+│   │   Obtenez 1 cumul de « Charge électrique » en infligeant des dégâts avec Électrocution. (Max. 10)
+│   │   Consommez 2 cumuls de « Charge électrique » pour utiliser Attaque spéciale : Issen lors d’une Attaque spéciale : Entaille lourde.
+│   └ [T3] Épée de la nuée céruléenne « Arges » (ID: 425)
+│       Rengainer devient Attaque spéciale : Entaille des nuages.
+│       Gagne 1 cumul de Foudre résiduelle chaque fois que Nuage orageux frappe de lui-même. (max. 20)
 └ [T2] Tord-armure (ID: 423)
     Les dégâts infligés par Attaque normale augmentent de 1 % pour chaque tranche de 2 de Défense.
     └ [T3] Lame brise-plaques (ID: 424)

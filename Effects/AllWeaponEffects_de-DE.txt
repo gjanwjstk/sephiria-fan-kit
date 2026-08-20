@@ -1,4 +1,4 @@
-﻿Base weapon effect text (enhancement tree) — 6 / 212 / language: de-DE (de-DE)
+﻿Base weapon effect text (enhancement tree) — 6 / 215 / language: de-DE (de-DE)
 ================================================================================
 
 === [T1] Standardschwert und -schild (ID: 0) ===
@@ -46,14 +46,18 @@
 │   Kälteschaden erhöht sich um 5.
 │   ├ [T3] Gletscherklinge (ID: 1014)
 │   │   Das Projektil des Artefakts Exorzismus-Scheide wird kleiner, lädt sich jedoch um 50 % schneller auf.
-│   └ [T3] Vorabend des Schneesturms (ID: 1015)
-│       Wenn Dash-Anzahl verbraucht wird, wird das Artefakt Schneesturmhammer sofort mit 60 % Schaden aktiviert.
+│   ├ [T3] Vorabend des Schneesturms (ID: 1015)
+│   │   Wenn Dash-Anzahl verbraucht wird, wird das Artefakt Schneesturmhammer sofort mit 60 % Schaden aktiviert.
+│   └ [T3] Weapon_1029_Name (ID: 1029)
+│       Wenn das Artefakt Eisranke aktiviert wird, umkreist es den Spieler.
 ├ [T2] Leiter (ID: 1016)
 │   Blitzschaden erhöht sich um 5.
 │   ├ [T3] Ballistaschwert (ID: 1017)
 │   │   Der Pfeil von Artefakt Mini-Balliste durchdringt Wände und verfolgt Gegner. Bei erfolgreichem Blocken wird sofort ein Pfeil abgefeuert.
-│   └ [T3] Supraleiter (ID: 1018)
-│       Spezialangriff: Hieb wird zu Spezialangriff: Blitzspeer.
+│   ├ [T3] Supraleiter (ID: 1018)
+│   │   Spezialangriff: Hieb wird zu Spezialangriff: Blitzspeer.
+│   └ [T3] Blendende Stille (ID: 1028)
+│       Die Anzahl der Angriffe des Artefakts Donnerohrring erhöht sich um 1, und sein Schaden erhöht sich um 100%. Donnerohrring wird bei Spezialangriff: Hieb sofort ausgelöst.
 └ [T2] Incendium (ID: 1024)
     Der von Waffenangriff verursachte Schaden wird um 15 % reduziert, aber zu Feuerschaden geändert.
     ├ [T3] Solis Missio (ID: 1025)
@@ -280,9 +284,12 @@
 │       Nach einer Aktion von Ansturm wird beim Angreifen Frostrelikt: Skaði aktiviert.
 ├ [T2] Donnerschwert 'Bronte' (ID: 404)
 │   Der von Waffenangriff verursachte Schaden wird um 20 % reduziert, aber zu Blitzschaden geändert.
-│   └ [T3] Blitzschlag (ID: 405)
-│       Erhalte 1 Stapel 'Elektrische Ladung', wenn du mit Stromschlag Schaden verursachst. (Max. 10)
-│       Verbrauche 2 Stapel 'Elektrische Ladung', um bei Spezialangriff: Schwerer Hieb Spezialangriff: Issen auszuführen.
+│   ├ [T3] Blitzschlag (ID: 405)
+│   │   Erhalte 1 Stapel 'Elektrische Ladung', wenn du mit Stromschlag Schaden verursachst. (Max. 10)
+│   │   Verbrauche 2 Stapel 'Elektrische Ladung', um bei Spezialangriff: Schwerer Hieb Spezialangriff: Issen auszuführen.
+│   └ [T3] Azurwolkenschwert 'Arges' (ID: 425)
+│       Einstecken wird zu Spezialangriff: Wolkenhieb.
+│       Erhalte 1 Stapel Restblitz, wenn Sturmwolke von selbst einschlägt. (Max. 20)
 └ [T2] Rüstungsbieger (ID: 423)
     Der durch Normaler Angriff verursachte Schaden erhöht sich für je 2 Verteidigung um 1 %.
     └ [T3] Panzerbrecherklinge (ID: 424)

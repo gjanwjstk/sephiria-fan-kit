@@ -1,0 +1,200 @@
+﻿Combo effect text — 20 / language: it-IT (it-IT)
+================================================================================
+
+=== Accademia (ACADEMY) ===
+[Combo effect]
+  (2) +12 Rapidità Grimorio
+  (4) +15% Riduzione costo in MP di Grimorio
+  (6) +16 Rapidità Grimorio
+  (8) +20 Rapidità Grimorio
+  (10) +15% Danni Grimorio, +8 Rigenerazione MP
+
+================================================================================
+
+=== Alchimia (ALCHEMY) ===
+[Description]
+Quando ottieni una Tavoletta come ricompensa oggetto, crea una pozione casuale.
+[Combo effect]
+  (1) +1 Slot borsa delle pozioni
+  (2) +1 Slot borsa delle pozioni
+  (3) 1 pozione/i casuale/i (Comune~Raro)
+
+================================================================================
+
+=== Compagno (COMPANION) ===
+[Combo effect]
+  (2) +6% Danni del compagno
+  (4) +8% Danni del compagno
+  (6) +10% Danni del compagno, +15 Difesa del compagno
+  (8) +12% Danni del compagno, +20 Difesa del compagno
+  (10) +20% Danni del compagno, +40% Velocità di rianimazione del compagno
+
+================================================================================
+
+=== Maledizione (CURSE) ===
+[Combo effect]
+  (2) +10% Danni inflitti con Debuff, +7% Velocità di movimento
+  (4) +15% Danni inflitti con Debuff
+
+================================================================================
+
+=== Nube tempestosa (DARKCLOUD) ===
+[Description]
+Evoca una Nube temporalesca. Colpisce con un fulmine i nemici vicini ogni 1 secondi. (Danni: Danni da fulmine 110%)
+Durante il combattimento, recupera il 5% degli accumuli di capacità ogni 5 secondi.
+[Combo effect]
+  (2) Nube temporalesca attivata (Capacità base: 15)
+  (4) +8 Capacità di Nube temporalesca
+  (6) +12 Capacità di Nube temporalesca
+  (8) +16 Capacità di Nube temporalesca
+  (10) +20 Capacità di Nube temporalesca, Nube temporalesca attacca con un colpo multiplo da 2
+
+================================================================================
+
+=== Elementale (ELEMENTAL) ===
+[Combo effect]
+  (2) +5 Danno elementale più alto
+  (4) +6 Danno elementale più alto
+  (6) Amplifica tutti i danni Elemento di 10%
+
+================================================================================
+
+=== Brace (EMBER) ===
+[Description]
+Tocco di fiamma: infligge il malus Ustione quando infliggi danni Fuoco (esclusi i danni da malus). (Ricarica: 2 secondi)
+[Combo effect]
+  (2) Attiva l'effetto Tocco di fiamma
+  (4) +6 Danni da fuoco
+  (6) Velocità di ricarica di Tocco di fiamma 150%
+  (8) +8 Danni da fuoco
+  (10) Il moltiplicatore dei danni base di Ustione passa da 18 a 28%
+
+================================================================================
+
+=== Lama solare (FLAMESWORD) ===
+[Description]
+Quando infliggi danni con un Attacco con arma o una Grimorio, lanci una Lama solare. (Danni: Danni da fuoco 115%) La Lama solare lanciata cade a terra e può essere raccolta di nuovo.
+[Combo effect]
+  (2) Attiva l'effetto (Spada base ×5)
+  (4) +6% Danni di Lama solare
+  (6) +8% Danni di Lama solare, +1 Numero massimo di Lama solare
+  (8) +10% Danni di Lama solare, +2 Numero massimo di Lama solare
+  (10) +12% Danni di Lama solare, +6 Numero massimo di Lama solare
+
+================================================================================
+
+=== Reliquia del gelo (FROST) ===
+[Combo effect]
+  (2) +6% Velocità di carica di Reliquia del gelo
+  (4) +8% Velocità di carica di Reliquia del gelo
+  (6) +6% Danni della Reliquia del gelo
+  (8) +8% Danni della Reliquia del gelo
+  (10) Reliquia del gelo si attiva altre 1 volte
+
+================================================================================
+
+=== Ghiacciaio (GLACIER) ===
+[Description]
+Tocco glaciale: infligge il malus Assideramento quando infliggi danni Ghiaccio (esclusi i danni da malus). (Ricarica: 2 secondi)
+[Combo effect]
+  (2) Attiva l'effetto Tocco glaciale
+  (4) +6 Danni da freddo
+  (6) Velocità di ricarica di Tocco glaciale 150%
+  (8) +8 Danni da freddo
+  (10) Numero di cariche di Assideramento richiesto per Congelamento -1
+
+================================================================================
+
+=== Guardiano (GUARDIAN) ===
+[Combo effect]
+  (2) +6 Difesa
+  (4) +7 Difesa
+  (6) +8 Difesa
+  (8) +10 Difesa
+  (10) +12 Difesa, +5% Ignora difesa
+
+================================================================================
+
+=== Lago (LAKE) ===
+[Combo effect]
+  (3) +20 MP massimi, +5 Rigenerazione MP
+  (6) +30 MP massimi, +10% Danni delle abilità che consumano MP
+  (9) +40 MP massimi, +25% Danni delle abilità che consumano MP
+
+================================================================================
+
+=== Magitecnologia (MAGITECH) ===
+[Description]
+Tocco elettrico: infligge il malus Elettrocuzione quando infliggi danni Fulmine (esclusi i danni da malus). (Ricarica: 2 secondi)
+[Combo effect]
+  (2) Attiva l'effetto Tocco elettrico
+  (4) +6 Danni da fulmine
+  (6) Velocità di ricarica di Tocco elettrico 150%
+  (8) +8 Danni da fulmine
+  (10) Tempo di attivazione di Elettrocuzione -1s
+
+================================================================================
+
+=== Mistico (MYSTIC) ===
+[Description]
+L'efficacia del livello degli artefatti in uno specifico slot dell'inventario è raddoppiata.
+[Combo effect]
+  (2) 1 slot casuali
+  (4) 2 slot casuali
+
+================================================================================
+
+=== Pianeta (PLANET) ===
+[Combo effect]
+  (2) +8% Danni dei pianeti
+  (4) +10% Danni dei pianeti
+  (6) +12% Danni dei pianeti
+  (8) +14% Danni dei pianeti
+  (10) +16% Danni dei pianeti, +12% Velocità d'attacco dei pianeti
+
+================================================================================
+
+=== Precisione (PRECISION) ===
+[Combo effect]
+  (2) +4% Probabilità di critico
+  (4) +6% Probabilità di critico
+  (6) +8% Probabilità di critico
+  (8) +10% Probabilità di critico
+  (10) +30% Danni critici
+
+================================================================================
+
+=== Negoziazione (SAVVY) ===
+[Combo effect]
+  (2) +10 Contrattazione, +15% Rilascio foglie
+  (4) +15 Contrattazione, Mano d'oro: danni ai nemici +1% per ogni 200 Foglia possedute (fino al 20%)
+
+================================================================================
+
+=== Ombra (SHADOW) ===
+[Combo effect]
+  (2) +4 Evasione
+  (4) +5 Evasione
+  (6) +6 Evasione
+  (8) +8 Evasione
+  (10) +10 Evasione
+
+================================================================================
+
+=== Robusto (STURDY) ===
+[Combo effect]
+  (2) +2 Danni fisici
+  (4) +4 Danni fisici
+  (6) +6 Danni fisici
+  (8) +8 Danni fisici
+  (10) +15% Amplificazione Danni fisici
+
+================================================================================
+
+=== Canto del vento (WINDSONG) ===
+[Combo effect]
+  (2) +8% Velocità d'attacco
+  (4) +12% Velocità d'attacco
+  (6) +16% Velocità d'attacco
+  (8) +20% Velocità d'attacco
+  (10) +15% Danni di Arma, +1 Numero di scatti
