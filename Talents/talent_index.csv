@@ -1,0 +1,29 @@
+﻿file,sprite,id,kind,rarity,status,name_key,name_en,name_ko
+Endure,AvilityTop3,7,talent,,active,Passive_Patience_Name,Endure,인내
+Endure Lv10,Avility_Perk_Patience_1,7_LV10,talent-perk,,active,Passive_Patience_Name,Endure Lv10,인내 Lv10
+Endure Lv20,Avility_Perk_Patience_2,7_LV20,talent-perk,,active,Passive_Patience_Name,Endure Lv20,인내 Lv20
+Endure Lv5,Avility_Perk_Patience_0,7_LV5,talent-perk,,active,Passive_Patience_Name,Endure Lv5,인내 Lv5
+Ingenuity,AvilityTop6,11,talent,,active,Passive_Ingenuity_Name,Ingenuity,기지
+Ingenuity Lv10,Avility_Perk_Wittiness_1,11_LV10,talent-perk,,active,Passive_Ingenuity_Name,Ingenuity Lv10,기지 Lv10
+Ingenuity Lv20,Avility_Perk_Wittiness_2,11_LV20,talent-perk,,active,Passive_Ingenuity_Name,Ingenuity Lv20,기지 Lv20
+Ingenuity Lv5,Avility_Perk_Wittiness_0,11_LV5,talent-perk,,active,Passive_Ingenuity_Name,Ingenuity Lv5,기지 Lv5
+Survival,AvilityTop2,6,talent,,active,Passive_Survive_Name,Survival,생존
+Survival Lv10,Avility_Perk_Survive_1,6_LV10,talent-perk,,active,Passive_Survive_Name,Survival Lv10,생존 Lv10
+Survival Lv20,Avility_Perk_Survive_2New,6_LV20,talent-perk,,active,Passive_Survive_Name,Survival Lv20,생존 Lv20
+Survival Lv5,Avility_Perk_Survive_0,6_LV5,talent-perk,,active,Passive_Survive_Name,Survival Lv5,생존 Lv5
+Swiftness,AvilityTop1,5,talent,,active,Passive_Swiftness_Name,Swiftness,신속
+Swiftness Lv10,Avility_Perk_Swiftness_1,5_LV10,talent-perk,,active,Passive_Swiftness_Name,Swiftness Lv10,신속 Lv10
+Swiftness Lv20,Avility_Perk_Swiftness_2,5_LV20,talent-perk,,active,Passive_Swiftness_Name,Swiftness Lv20,신속 Lv20
+Swiftness Lv5,Avility_Perk_Swiftness_0,5_LV5,talent-perk,,active,Passive_Swiftness_Name,Swiftness Lv5,신속 Lv5
+Willpower,AvilityTop5,9,talent,,active,Passive_Item_Name,Willpower,의지
+Willpower Lv10,Avility_Perk_Willpower_1,9_LV10,talent-perk,,active,Passive_Item_Name,Willpower Lv10,의지 Lv10
+Willpower Lv20,Avility_Perk_Willpower_2New,9_LV20,talent-perk,,active,Passive_Item_Name,Willpower Lv20,의지 Lv20
+Willpower Lv5,Avility_Perk_Willpower_0,9_LV5,talent-perk,,active,Passive_Item_Name,Willpower Lv5,의지 Lv5
+Wisdom,AvilityTop4,8,talent,,active,Passive_MPRegen_Name,Wisdom,지혜
+Wisdom Lv10,Avility_Perk_Wisdom_1,8_LV10,talent-perk,,active,Passive_MPRegen_Name,Wisdom Lv10,지혜 Lv10
+Wisdom Lv20,Avility_Perk_Wisdom_2,8_LV20,talent-perk,,active,Passive_MPRegen_Name,Wisdom Lv20,지혜 Lv20
+Wisdom Lv5,Avility_Perk_Wisdom_0,8_LV5,talent-perk,,active,Passive_MPRegen_Name,Wisdom Lv5,지혜 Lv5
+Wrath,AvilityTop0,4,talent,,active,Passive_Crit_Name,Wrath,분노
+Wrath Lv10,Avility_Perk_Wrath_1,4_LV10,talent-perk,,active,Passive_Crit_Name,Wrath Lv10,분노 Lv10
+Wrath Lv20,Avility_Perk_Wrath_2,4_LV20,talent-perk,,active,Passive_Crit_Name,Wrath Lv20,분노 Lv20
+Wrath Lv5,Avility_Perk_Wrath_0,4_LV5,talent-perk,,active,Passive_Crit_Name,Wrath Lv5,분노 Lv5

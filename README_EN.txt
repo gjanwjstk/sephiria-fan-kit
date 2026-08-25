@@ -1,5 +1,5 @@
 SEPHIRIA FAN KIT
-Version 2.1  |  Built 2026-08-20  |  Game build 1.0.29
+Version 2.2  |  Built 2026-08-25  |  Game build 1.0.30
 
 Thanks for creating with SEPHIRIA! Read "License & Usage Guide_EN.txt" first --
 short version: free for non-commercial use with credit, and video/streaming
@@ -17,7 +17,8 @@ CONTENTS
   Tablets/    (66)       same layout
   Weapons/    (169)       same layout
   Potions/    (29)        consumables, same layout (+ potion_index.csv)
-  Miracles/   (16)         miracle icons (+ miracle_index.csv)
+  Miracles/   (21)         miracle icons (+ miracle_index.csv)
+  Talents/    (28)         talent icons + Lv5/10/20 milestone perk icons (+ talent_index.csv)
   Keywords/                stat / status keyword icons (+ keyword_index.csv)
   Categories/              artifact set / bond category icons (+ category_index.csv)
   Costumes/                player costumes, full sprite (+ costume_index.csv)
@@ -55,7 +56,7 @@ FACT SHEET
 NOTES
   - Files are named by their in-game (English) name. Use the CSVs to cross-
     reference id / Korean name.
-  - The effect text and CSVs are a snapshot of game build 1.0.29. Balance
+  - The effect text and CSVs are a snapshot of game build 1.0.30. Balance
     numbers change with patches, so quote the build on pages that use them.
   - "Icons" are the clean transparent sprites; "Framed" are the ones with the
     rarity border + background, as seen in patch notes.

@@ -1,5 +1,5 @@
 SEPHIRIA 팬 키트
-버전 2.1  |  빌드 2026-08-20  |  게임 빌드 1.0.29
+버전 2.2  |  빌드 2026-08-25  |  게임 빌드 1.0.30
 
 SEPHIRIA로 창작해 주셔서 감사합니다! 먼저 "License & Usage Guide_KR.txt"를
 읽어 주세요 -- 요약: 출처 표시 + 비영리면 자유, 영상/방송(수익화 포함)은 항상 OK.
@@ -16,7 +16,8 @@ SEPHIRIA로 창작해 주셔서 감사합니다! 먼저 "License & Usage Guide_K
   Tablets/    (66개)      석판, 동일 구성
   Weapons/    (169개)      무기, 동일 구성
   Potions/    (29개)       포션/소비 아이템, 동일 구성 (+ potion_index.csv)
-  Miracles/   (16개)       미라클 아이콘 (+ miracle_index.csv)
+  Miracles/   (21개)       미라클 아이콘 (+ miracle_index.csv)
+  Talents/    (28개)       특성 아이콘 + Lv5/10/20 마일스톤 퍼크 아이콘 (+ talent_index.csv)
   Keywords/                스탯/상태 키워드 아이콘 (+ keyword_index.csv)
   Categories/              아티팩트 결속/카테고리 아이콘 (+ category_index.csv)
   Costumes/                플레이어 코스튬 전체 스프라이트 (+ costume_index.csv)
@@ -52,7 +53,7 @@ SEPHIRIA로 창작해 주셔서 감사합니다! 먼저 "License & Usage Guide_K
 
 참고
   - 파일명은 인게임(영문) 이름 기준입니다. id/한글명은 CSV에서 확인하세요.
-  - 효과 텍스트와 CSV는 게임 빌드 1.0.29 기준 스냅샷입니다. 밸런스 수치는
+  - 효과 텍스트와 CSV는 게임 빌드 1.0.30 기준 스냅샷입니다. 밸런스 수치는
     패치마다 바뀌므로, 인용하는 페이지에는 빌드 버전을 함께 적어 주세요.
   - "Icons"는 투명 스프라이트, "Framed"는 패치노트처럼 등급 테두리+배경이 있는
     버전입니다.
