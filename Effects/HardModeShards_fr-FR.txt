@@ -1,0 +1,42 @@
+﻿Hard mode fate shards - 17 / language: fr-FR
+================================================================================
+
+=== Démon (Demon) ===
+  Griffes féroces (Lv 1-7)
+    Augmente les dégâts des ennemis de 8/16/24/32/40/48/56 %.
+  Corps tenace (Lv 1-7)
+    Augmente les PV des ennemis de 15/25/35/45/55/65/75 %.
+  Armure protectrice (Lv 1-3)
+    À mesure que les niveaux progressent, la Défense des ennemis augmente de 2/4/6.
+  Griffes agiles (Lv 1-2)
+    Augmente la Vitesse de déplacement et l’ATKSPD des ennemis de 20/35 % en combat.
+  Énergie maléfique (Lv 1-1)
+    Les dégâts subis par les ennemis en état de Super armure sont réduits de 65 % à 50 %.
+  Posture de combat (Lv 1-1)
+    Tous les boss attaquent plus agressivement.
+  Festival de sang (Lv 1-1)
+    Les ennemis récupèrent 15% PV lorsqu’ils attaquent le joueur. Mini-boss et Boss récupèrent 6%.
+  Fausse avant-garde (Lv 1-1)
+    Les mini-boss deviennent plus puissants.
+
+=== Monde (World) ===
+  Déclin (Lv 1-3)
+    Les effets de récupération de PV sont réduits de 5/10/20 %.
+  Échange brisé (Lv 1-2)
+    Augmente la Troc des marchands de 20/40.
+  Rébellion des machines (Lv 1-2)
+    Augmente les dégâts des pièges de 100/200 %.
+  Prolifération (Lv 1-2)
+    Le nombre d’ennemis ordinaires qui apparaissent augmente de 10/25 %.
+
+=== Plan (Plan) ===
+  Dépossession (Lv 1-2)
+    Le rang des tablettes lâchées par le boss est fixé à Avancé/Commun.
+  Vertige (Lv 1-2)
+    Lors du choix d’un artefact ou d’une tablette, le nombre de choix est réduit de 1/2/3.
+  Détérioration (Lv 1-4)
+    Les effets de PV récupérés à chaque niveau sont réduits de 10/25/40/60 %.
+  Tension (Lv 1-1)
+    Impossible d’utiliser des potions pendant un combat contre un Boss.
+  Cœur lourd (Lv 1-1)
+    Vous commencerez l’exploration avec « Cœur lourd », un artefact sans capacités qui ne peut pas être défaussé.

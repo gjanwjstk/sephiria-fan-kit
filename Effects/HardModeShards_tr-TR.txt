@@ -1,0 +1,42 @@
+﻿Hard mode fate shards - 17 / language: tr-TR
+================================================================================
+
+=== İblis (Demon) ===
+  Vahşi Pençeler (Lv 1-7)
+    Düşman hasarını %8/16/24/32/40/48/56 artırır.
+  Dirençli Beden (Lv 1-7)
+    Düşmanların Canını %15/25/35/45/55/65/75 artırır.
+  Koruyucu Zırh (Lv 1-3)
+    Aşamalar ilerledikçe düşmanların Savunma değeri 2/4/6 artar.
+  Çevik Pençeler (Lv 1-2)
+    Savaş sırasında düşmanların Hareket Hızı ve SDRH değerlerini %20/35 artırır.
+  Şeytani Enerji (Lv 1-1)
+    Süper Zırh durumundaki düşmanların aldığı hasar %65'ten %50'ye düşürülür.
+  Savaş Duruşu (Lv 1-1)
+    Tüm bosslar daha saldırgan biçimde saldırır.
+  Kan Festivali (Lv 1-1)
+    Düşmanlar oyuncuya saldırdıklarında 15% Can yeniler. Mini Boss ve Boss ise 6% Can yeniler.
+  Sahte Öncü (Lv 1-1)
+    Mini bosslar güçlenir.
+
+=== Dünya (World) ===
+  Gerileme (Lv 1-3)
+    Can yenileme etkileri %5/10/20 azalır.
+  Kesintiye Uğrayan Ticaret (Lv 1-2)
+    Tüccarın Pazarlık değerini 20/40 artırır.
+  Makinelerin İsyanı (Lv 1-2)
+    Tuzak hasarını %100/200 artırır.
+  Çoğalma (Lv 1-2)
+    Ortaya çıkan normal düşmanların sayısı %10/25 artar.
+
+=== Plan (Plan) ===
+  Mahrumiyet (Lv 1-2)
+    Bossun düşürdüğü tabletlerin sınıfı Gelişmiş/Yaygın olarak sabitlenir.
+  Baş Dönmesi (Lv 1-2)
+    Bir eser veya tablet seçerken seçenek sayısı 1/2/3 azalır.
+  Bozulma (Lv 1-4)
+    Seviye Atlayınca Yenilenen HP özellikleri %10/25/40/60 azalır.
+  Gerilim (Lv 1-1)
+    Boss ile savaşırken İksir kullanılamaz.
+  Ağır Yürek (Lv 1-1)
+    Keşfe, hiçbir yeteneği olmayan ve atılamayan 'Ağır Yürek' yadigârıyla başlarsın.

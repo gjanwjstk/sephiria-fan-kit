@@ -1,5 +1,5 @@
 SEPHIRIA FAN KIT
-Version 2.2  |  Built 2026-08-25  |  Game build 1.0.30
+Version 2.3  |  Built 2026-08-25  |  Game build 1.0.30
 
 Thanks for creating with SEPHIRIA! Read "License & Usage Guide_EN.txt" first --
 short version: free for non-commercial use with credit, and video/streaming
@@ -19,6 +19,7 @@ CONTENTS
   Potions/    (29)        consumables, same layout (+ potion_index.csv)
   Miracles/   (21)         miracle icons (+ miracle_index.csv)
   Talents/    (28)         talent icons + Lv5/10/20 milestone perk icons (+ talent_index.csv)
+  TreeShop/   (56)         tree shop progression icons (+ treeshop_index.csv with prices)
   Keywords/                stat / status keyword icons (+ keyword_index.csv)
   Categories/              artifact set / bond category icons (+ category_index.csv)
   Costumes/                player costumes, full sprite (+ costume_index.csv)
@@ -30,6 +31,7 @@ CONTENTS
         AllWeaponEffects_*  weapons, laid out as the enhancement tree
         ComboEffects_*      bond / category combo bonuses
         WeaponActions_*     base weapon left- and right-click actions
+        HardModeShards_*    hard mode fate shard names and effects
   artifact_index.csv / tablet_index.csv / weapon_index.csv
         file -> item id, rarity, EN/KR display name, EN/KR effect text
         weapon_index.csv also carries the enhancement tree as columns:

@@ -1,5 +1,5 @@
 SEPHIRIA 팬 키트
-버전 2.2  |  빌드 2026-08-25  |  게임 빌드 1.0.30
+버전 2.3  |  빌드 2026-08-25  |  게임 빌드 1.0.30
 
 SEPHIRIA로 창작해 주셔서 감사합니다! 먼저 "License & Usage Guide_KR.txt"를
 읽어 주세요 -- 요약: 출처 표시 + 비영리면 자유, 영상/방송(수익화 포함)은 항상 OK.
@@ -18,6 +18,7 @@ SEPHIRIA로 창작해 주셔서 감사합니다! 먼저 "License & Usage Guide_K
   Potions/    (29개)       포션/소비 아이템, 동일 구성 (+ potion_index.csv)
   Miracles/   (21개)       미라클 아이콘 (+ miracle_index.csv)
   Talents/    (28개)       특성 아이콘 + Lv5/10/20 마일스톤 퍼크 아이콘 (+ talent_index.csv)
+  TreeShop/   (56개)       나무님 상점 성장 아이콘 (+ 가격 포함 treeshop_index.csv)
   Keywords/                스탯/상태 키워드 아이콘 (+ keyword_index.csv)
   Categories/              아티팩트 결속/카테고리 아이콘 (+ category_index.csv)
   Costumes/                플레이어 코스튬 전체 스프라이트 (+ costume_index.csv)
@@ -29,6 +30,7 @@ SEPHIRIA로 창작해 주셔서 감사합니다! 먼저 "License & Usage Guide_K
         AllWeaponEffects_*  무기, 강화 트리 형태
         ComboEffects_*      결속/카테고리 콤보 효과
         WeaponActions_*     기본 무기 좌클릭/우클릭 액션
+        HardModeShards_*    하드모드 마음의 짐 파편 이름·효과
   artifact_index.csv / tablet_index.csv / weapon_index.csv
         파일명 -> 아이템 id, 등급, EN/KR 표시명, EN/KR 효과 텍스트
         weapon_index.csv에는 강화 트리도 열로 들어갑니다:

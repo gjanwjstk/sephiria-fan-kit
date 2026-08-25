@@ -19,11 +19,12 @@ such as wikis, fan sites, guides, and videos.
 | `Costumes/` | 코스튬 79종 |
 | `Miracles/` `Categories/` `Keywords/` `FruitSkewer/` | 기적, 결속 카테고리, 상태·스탯 아이콘, 결속 열매 |
 | `Talents/` | 특성 아이콘 + Lv 5/10/20 마일스톤 퍼크 아이콘 |
+| `TreeShop/` | 나무님 상점 성장 아이콘. 가격 포함 `treeshop_index.csv` 동봉 |
 | `Bosses/` | 보스 15종. 여러 부위로 이루어진 보스는 대표 자세로 합쳐 두었습니다 |
 | `Stages/` | 스테이지 노드 이미지 |
 | `FaceChips/` | 대화 초상화 |
 | `KeyArt/` `Logo/` `Brand/` `Screenshots/` `Gifs/` `Steam/` | 키아트, 로고, 색상 팔레트, 스크린샷, GIF, 상점 아트 |
-| `Effects/` | 아이템·무기·석판 효과 텍스트 (15개 언어) |
+| `Effects/` | 아이템·무기·석판 효과 텍스트 + 하드모드 파편 효과 텍스트 (15개 언어) |
 | `*_index.csv` | 아이템 목록. id, 등급, 이름(한/영), 효과문 |
 | `tag_dictionary.json` | 게임 내 태그 → 15개 언어 표시명 사전 |
 

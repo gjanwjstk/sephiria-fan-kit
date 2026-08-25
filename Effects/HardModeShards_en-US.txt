@@ -1,0 +1,42 @@
+﻿Hard mode fate shards - 17 / language: en-US
+================================================================================
+
+=== Demon (Demon) ===
+  Ferocious Claws (Lv 1-7)
+    Increases enemy damage by 8/16/24/32/40/48/56%.
+  Tenacious Body (Lv 1-7)
+    Increases enemy HP by 15/25/35/45/55/65/75%.
+  Protective Armor (Lv 1-3)
+    As stages progress, enemies' Defense increases by 2/4/6.
+  Agile Claws (Lv 1-2)
+    Increases enemy Move Speed and ATKSPD by 20/35% during combat.
+  Evil Energy (Lv 1-1)
+    Damage taken by enemies in Super Armor state is reduced from 65% to 50%.
+  Combat Stance (Lv 1-1)
+    All bosses attack more aggressively.
+  Festival of Blood (Lv 1-1)
+    Enemies recover 15% HP when they attack the player. Mini Boss and Boss recover 6%.
+  False Vanguard (Lv 1-1)
+    Mini bosses become stronger.
+
+=== World (World) ===
+  Decline (Lv 1-3)
+    HP recovery effects are reduced by 5/10/20%.
+  Severed Exchange (Lv 1-2)
+    Increases merchant Barter by 20/40.
+  Rebellion of Machines (Lv 1-2)
+    Increases trap damage by 100/200%.
+  Proliferation (Lv 1-2)
+    The number of regular enemies appearing increases by 10/25%.
+
+=== Plan (Plan) ===
+  Dispossession (Lv 1-2)
+    The grade of tablets dropped by the boss is fixed to Advanced/Common.
+  Dizziness (Lv 1-2)
+    When selecting an artifact or tablet, the number of choices is reduced by 1/2/3.
+  Deterioration (Lv 1-4)
+    HP Restored on Level Up attributes decrease by 10/25/40/60%.
+  Tension (Lv 1-1)
+    Cannot use Potions during combat with Boss.
+  Heavy Heart (Lv 1-1)
+    You will start the exploration with 'Heavy Heart', an artifact with no abilities that cannot be discarded.

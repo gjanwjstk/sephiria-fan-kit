@@ -1,0 +1,42 @@
+﻿Hard mode fate shards - 17 / language: it-IT
+================================================================================
+
+=== Demone (Demon) ===
+  Artigli feroci (Lv 1-7)
+    Aumenta i danni dei nemici del 8/16/24/32/40/48/56%.
+  Corpo tenace (Lv 1-7)
+    Aumenta i PS dei nemici del 15/25/35/45/55/65/75%.
+  Armatura protettiva (Lv 1-3)
+    Con l'avanzare delle fasi, la Difesa dei nemici aumenta di 2/4/6.
+  Artigli agili (Lv 1-2)
+    Durante il combattimento, aumenta la Velocità di movimento e la VEL ATT dei nemici del 20/35%.
+  Energia maligna (Lv 1-1)
+    I danni subiti dai nemici nello stato Super armatura sono ridotti dal 65% al 50%.
+  Postura da combattimento (Lv 1-1)
+    Tutti i boss attaccano con maggiore aggressività.
+  Festival del sangue (Lv 1-1)
+    Quando attaccano il giocatore, i nemici recuperano 15% PS. I Mini boss e i Boss ne recuperano 6%.
+  Falsa avanguardia (Lv 1-1)
+    I miniboss diventano più forti.
+
+=== Mondo (World) ===
+  Declino (Lv 1-3)
+    Gli effetti di recupero dei PS sono ridotti del 5/10/20%.
+  Scambio interrotto (Lv 1-2)
+    Aumenta la Contrattazione del mercante di 20/40.
+  Ribellione delle macchine (Lv 1-2)
+    Aumenta i danni delle trappole del 100/200%.
+  Proliferazione (Lv 1-2)
+    Il numero di nemici normali che compaiono aumenta del 10/25%.
+
+=== Piano (Plan) ===
+  Spoliazione (Lv 1-2)
+    Il grado delle tavolette lasciate dal boss è fissato a Avanzato/Comune.
+  Vertigini (Lv 1-2)
+    Quando selezioni un artefatto o una tavoletta, il numero di opzioni si riduce di 1/2/3.
+  Deterioramento (Lv 1-4)
+    Gli attributi PS ripristinati salendo di livello diminuiscono del 10/25/40/60%.
+  Tensione (Lv 1-1)
+    Impedisce di usare pozioni durante gli scontri con i Boss.
+  Cuore pesante (Lv 1-1)
+    Inizierai l'esplorazione con «Cuore pesante», un artefatto privo di abilità che non può essere scartato.

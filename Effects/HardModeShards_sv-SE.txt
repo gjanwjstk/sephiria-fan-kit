@@ -1,0 +1,42 @@
+﻿Hard mode fate shards - 17 / language: sv-SE
+================================================================================
+
+=== Demon (Demon) ===
+  Vildsinta klor (Lv 1-7)
+    Ökar fienders skada med 8/16/24/32/40/48/56 %.
+  Seglivad kropp (Lv 1-7)
+    Ökar fienders HP med 15/25/35/45/55/65/75 %.
+  Skyddande rustning (Lv 1-3)
+    I takt med att nivåerna fortskrider ökar fiendernas Försvar med 2/4/6.
+  Smidiga klor (Lv 1-2)
+    Ökar fienders Rörelsehastighet och ATKSPD med 20/35 % under strid.
+  Ond energi (Lv 1-1)
+    Skadan som fiender i Superrustning-tillstånd tar minskar från 65 % till 50 %.
+  Stridsställning (Lv 1-1)
+    Alla bossar attackerar mer aggressivt.
+  Blodets festival (Lv 1-1)
+    Fiender återfår 15% HP när de attackerar spelaren. Miniboss och Boss återfår 6%.
+  Falsk förtrupp (Lv 1-1)
+    Minibossar blir starkare.
+
+=== Värld (World) ===
+  Avtagande (Lv 1-3)
+    Effekter som återställer HP minskas med 5/10/20 %.
+  Avbrutet utbyte (Lv 1-2)
+    Ökar köpmäns Byteshandel med 20/40.
+  Maskinernas uppror (Lv 1-2)
+    Ökar fällskada med 100/200 %.
+  Spridning (Lv 1-2)
+    Antalet vanliga fiender som dyker upp ökar med 10/25 %.
+
+=== Plan (Plan) ===
+  Berövande (Lv 1-2)
+    Graden på stentavlor som tappas av bossen är låst till Avancerad/Vanlig.
+  Yrsel (Lv 1-2)
+    När du väljer en artefakt eller stentavla minskar antalet val med 1/2/3.
+  Försämring (Lv 1-4)
+    Effekterna av HP återställs vid nivåökning minskar med 10/25/40/60 %.
+  Spänning (Lv 1-1)
+    Kan inte använda drycker under strid mot Boss.
+  Tungt hjärta (Lv 1-1)
+    Du börjar utforskningen med ”Tungt hjärta”, en artefakt utan förmågor som inte kan kasseras.

@@ -1,0 +1,42 @@
+﻿Hard mode fate shards - 17 / language: de-DE
+================================================================================
+
+=== Dämon (Demon) ===
+  Wilde Klauen (Lv 1-7)
+    Erhöht den Schaden von Gegnern um 8/16/24/32/40/48/56 %.
+  Zäher Körper (Lv 1-7)
+    Erhöht die LP der Gegner um 15/25/35/45/55/65/75 %.
+  Schutzrüstung (Lv 1-3)
+    Mit fortschreitenden Stufen erhöht sich die Verteidigung der Gegner um 2/4/6.
+  Flinke Klauen (Lv 1-2)
+    Erhöht Bewegungstempo und ANG-GESCHW. von Gegnern im Kampf um 20/35 %.
+  Böse Energie (Lv 1-1)
+    Der Schaden, den Gegner im Zustand Superrüstung erleiden, wird von 65 % auf 50 % reduziert.
+  Kampfhaltung (Lv 1-1)
+    Alle Bosse greifen aggressiver an.
+  Fest des Blutes (Lv 1-1)
+    Gegner stellen 15% LP wieder her, wenn sie den Spieler angreifen. Mini-Boss und Boss stellen 6% wieder her.
+  Falsche Vorhut (Lv 1-1)
+    Minibosse werden stärker.
+
+=== Welt (World) ===
+  Niedergang (Lv 1-3)
+    LP-Regenerationseffekte werden um 5/10/20 % reduziert.
+  Getrennter Handel (Lv 1-2)
+    Erhöht die Tauschhandel von Händlern um 20/40.
+  Rebellion der Maschinen (Lv 1-2)
+    Erhöht den Schaden von Fallen um 100/200 %.
+  Vermehrung (Lv 1-2)
+    Die Anzahl auftauchender normaler Gegner erhöht sich um 10/25 %.
+
+=== Plan (Plan) ===
+  Enteignung (Lv 1-2)
+    Die Stufe der vom Boss fallengelassenen Steintafeln wird auf Fortgeschritten/Gewöhnlich festgelegt.
+  Benommenheit (Lv 1-2)
+    Bei der Auswahl eines Artefakts oder einer Steintafel verringert sich die Anzahl der Auswahlmöglichkeiten um 1/2/3.
+  Verschlechterung (Lv 1-4)
+    Die Attribute von Bei Stufenaufstieg wiederhergestellte LP sinken um 10/25/40/60 %.
+  Anspannung (Lv 1-1)
+    Im Kampf mit Boss können keine Tränke verwendet werden.
+  Schweres Herz (Lv 1-1)
+    Du beginnst die Erkundung mit „Schweres Herz“, einem Artefakt ohne Fähigkeiten, das nicht abgelegt werden kann.

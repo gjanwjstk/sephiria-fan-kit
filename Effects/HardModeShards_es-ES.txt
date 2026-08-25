@@ -1,0 +1,42 @@
+﻿Hard mode fate shards - 17 / language: es-ES
+================================================================================
+
+=== Demonio (Demon) ===
+  Garras Feroces (Lv 1-7)
+    Aumenta el daño de los enemigos en un 8/16/24/32/40/48/56%.
+  Cuerpo Tenaz (Lv 1-7)
+    Aumenta la vida de los enemigos en un 15/25/35/45/55/65/75%.
+  Armadura de protección (Lv 1-3)
+    A medida que avanzan las etapas, el Defensa del enemigo aumenta en 2/4/6.
+  Garras Ágiles (Lv 1-2)
+    Incrementa la Velocidad de Movimiento y ATKSPD de los enemigos en un 20/35% durante el combate.
+  Energía Maligna (Lv 1-1)
+    El daño recibido por los enemigos en estado Súper Armadura se reduce del 65% al 50%.
+  Postura de Combate (Lv 1-1)
+    Todos los jefes atacan de forma más agresiva.
+  Festival de sangre (Lv 1-1)
+    Los enemigos recuperan 15% de vida cuando atacan al jugador. Minijefe y Jefe recuperan 6%.
+  Vanguardia falsa (Lv 1-1)
+    Los minijefes se vuelven más fuertes.
+
+=== Mundo (World) ===
+  Declive (Lv 1-3)
+    Los efectos de recuperación de PV se reducen en un 5/10/20%.
+  Intercambio Quebrado (Lv 1-2)
+    Aumenta la Negociación del mercader en 20/40.
+  Rebelión de las Máquinas (Lv 1-2)
+    Aumenta el daño de las trampas en un 100/200%.
+  Proliferación (Lv 1-2)
+    La cantidad de enemigos normales que aparecen aumenta en 10/25%.
+
+=== Plan (Plan) ===
+  Desposeimiento (Lv 1-2)
+    El grado de las tablas que deja caer el jefe se fija en Avanzado/Común.
+  Mareo (Lv 1-2)
+    Al seleccionar un artefacto o una tabla, el número de opciones se reduce en 1/2/3.
+  Deterioro (Lv 1-4)
+    Las estadísticas de PV Recuperado al Subir de Nivel disminuyen en 10/25/40/60%.
+  Tensión (Lv 1-1)
+    No se pueden usar pociones durante el combate contra Jefe
+  Carga del Corazón (Lv 1-1)
+    Comenzarás la exploración con «Carga del Corazón», un artefacto sin ninguna habilidad que no se puede desechar.

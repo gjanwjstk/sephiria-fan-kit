@@ -1,0 +1,42 @@
+﻿Hard mode fate shards - 17 / language: pl-PL
+================================================================================
+
+=== Demon (Demon) ===
+  Zaciekłe pazury (Lv 1-7)
+    Zwiększa obrażenia wrogów o 8/16/24/32/40/48/56%.
+  Wytrzymałe ciało (Lv 1-7)
+    Zwiększa PŻ wrogów o 15/25/35/45/55/65/75%.
+  Pancerz ochronny (Lv 1-3)
+    Wraz z postępem etapów Obrona wrogów wzrasta o 2/4/6.
+  Zwinne pazury (Lv 1-2)
+    Zwiększa Szybkość ruchu i szybkość ataku wrogów o 20/35% podczas walki.
+  Mroczna energia (Lv 1-1)
+    Obrażenia otrzymywane przez wrogów w stanie Superpancerz zostają zmniejszone z 65% do 50%.
+  Postawa bojowa (Lv 1-1)
+    Wszyscy bossowie atakują agresywniej.
+  Festiwal krwi (Lv 1-1)
+    Wrogowie odzyskują 15% PŻ, gdy atakują gracza. Miniboss i Boss odzyskują 6%.
+  Fałszywa awangarda (Lv 1-1)
+    Minibossowie stają się silniejsi.
+
+=== Świat (World) ===
+  Osłabienie (Lv 1-3)
+    Efekty odzyskiwania PŻ są zmniejszone o 5/10/20%.
+  Przerwana wymiana (Lv 1-2)
+    Zwiększa Targowanie kupca o 20/40.
+  Bunt maszyn (Lv 1-2)
+    Zwiększa obrażenia pułapek o 100/200%.
+  Namnażanie (Lv 1-2)
+    Liczba pojawiających się zwykłych wrogów wzrasta o 10/25%.
+
+=== Plan (Plan) ===
+  Pozbawienie (Lv 1-2)
+    Ranga tabliczek upuszczanych przez bossa jest ustalona na Zaawansowany/Pospolity.
+  Zawroty głowy (Lv 1-2)
+    Podczas wyboru artefaktu lub tabliczki liczba opcji zmniejsza się o 1/2/3.
+  Pogorszenie (Lv 1-4)
+    Atrybuty Odzyskiwanie PŻ przy awansie zmniejszają się o 10/25/40/60%.
+  Napięcie (Lv 1-1)
+    Nie można używać mikstur podczas walki z Boss.
+  Ciężkie serce (Lv 1-1)
+    Rozpoczniesz eksplorację z „Ciężkim sercem”, artefaktem bez żadnych zdolności, którego nie można odrzucić.

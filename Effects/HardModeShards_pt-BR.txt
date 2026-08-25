@@ -1,0 +1,42 @@
+﻿Hard mode fate shards - 17 / language: pt-BR
+================================================================================
+
+=== Demônio (Demon) ===
+  Garras Ferozes (Lv 1-7)
+    Aumenta o dano inimigo em 8/16/24/32/40/48/56%.
+  Corpo Obstinado (Lv 1-7)
+    Aumenta os PV do inimigo em 15/25/35/45/55/65/75%.
+  Armadura Protetiva (Lv 1-3)
+    Conforme o estágio progride, a Defesa dos inimigos é aumentada em 2/4/6.
+  Garras Ligeiras (Lv 1-2)
+    Aumenta a Velocidade de movimento e VEL. de ATQ. em 20/35% durante o combate.
+  Energia Maligna (Lv 1-1)
+    O dano recebido pelos inimigos no estado de Super armadura é reduzido de 65% para 50%.
+  Postura de Combate (Lv 1-1)
+    Todos os chefes atacam de forma mais agressiva.
+  Festival de Sangue (Lv 1-1)
+    Os inimigos recuperam 15% de vida quando atacam o jogador. Minichefe e Chefe recuperam 6%.
+  Vanguarda falsa (Lv 1-1)
+    Os minichefes ficam mais fortes.
+
+=== Mundo (World) ===
+  Declínio (Lv 1-3)
+    Os efeitos de recuperação de PV são reduzidos em 5/10/20%.
+  Troca Interrompida (Lv 1-2)
+    Aumenta Negociação do comerciante em 20/40.
+  Rebelião das Máquinas (Lv 1-2)
+    Aumenta o dano das armadilhas em 100/200%.
+  Proliferação (Lv 1-2)
+    O número de inimigos normais que aparecem aumenta em 10/25%.
+
+=== Plano (Plan) ===
+  Desapropriação (Lv 1-2)
+    A categoria de tábuas deixadas pelo chefe é fixada em Avançado/Comum.
+  Tontura (Lv 1-2)
+    Ao selecionar um artefato ou tábua, o número de escolhas é reduzido em 1/2/3.
+  Deterioração (Lv 1-4)
+    Os atributos de PV restaurados ao subir de nível são reduzidos em 10/25/40/60%.
+  Tensão (Lv 1-1)
+    Não é possível usar poções durante o combate contra Chefe
+  Fardo do Coração (Lv 1-1)
+    Você começará a exploração com "Fardo do Coração", um artefato sem nenhuma habilidade que não pode ser descartado.
