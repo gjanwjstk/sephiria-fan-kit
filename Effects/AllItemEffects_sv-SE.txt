@@ -1,7 +1,7 @@
-﻿All item effect text — 426 / language: sv-SE (sv-SE)
+All item effect text — 438 / language: sv-SE (sv-SE)
 ================================================================================
 
-── activeType: Default — 211 ──
+── activeType: Default — 222 ──
 
 === Återställande dryck (ID: 0) [Default] [Potion] [Sällsynthet: Vanlig] ===
 Återställer 20% HP
@@ -508,7 +508,7 @@ När du orsakar skada med Vapenattack eller Grimoar, tillfoga målet +10/20/30 E
 
 === Skårad lertavla (ID: 1104) [Default] [Charm] [Sällsynthet: Legendarisk] ===
 [Category] Stormmoln(DARKCLOUD)
-Det finns 10/20/30/40/50% chans att Stormmoln inte förbrukas
+Det finns 20/30/40/55/70% chans att Stormmoln inte förbrukas
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -589,7 +589,7 @@ När du tar skada blir du osårbar i +0.4/0.8/1.2 s
 
 === Blodstensring (ID: 1120) [Default] [Charm] [Sällsynthet: Sällsynt] ===
 [Category] Mystik(MYSTIC)
-Efter att fiender har dödats återställs 5 HP (antal som krävs: +15/13/10).
++20/40/60% Återställning av mottagen skada
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -911,9 +911,8 @@ Var 2:e sekund förstärks Rusningsattack, vilket ökar skadan med +30/60/90/120
 
 ────────────────────────────────────────────────────────────────────────────────
 
-=== Meteoritörhängen (ID: 1236) [Default] [Charm] [Sällsynthet: Legendarisk] ===
+=== Meteoritörhängen (ID: 1236) [Default] [Charm] [Sällsynthet: Sällsynt] ===
 [Category] Solklinga(FLAMESWORD)
-+5/10/15% Solklinga-skada
 +2/4/7 Eldskada
 Solklinga faller nära dig när den kastas
 
@@ -929,6 +928,7 @@ Hämta alla Solklinga som har fallit till marken och tillfoga fiender i vägen S
 [Category] Magiteknik(MAGITECH)
 +1/2/3/4/5/6 Blixtskada
 Var 4:e sekund tar +1/2/2/3/3/4 närliggande fiender Blixtskada 30 % skada och drabbas av Elektrifiering.
+[Skada: 6 (Blixtskada30 %)]
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1016,6 +1016,86 @@ Vid Perfekt blockering ökar Universell skadeökning med +4/8/12/16 % i 7s
 === Ripoststavfragment (ID: 1288) [Default] [Charm] [Sällsynthet: Avancerad] ===
 [Category] Tålig(STURDY)
 Motattack: Utför en kort närstridsattack framåt när du blockerar (0/1/2.1/3.4/4.8/6.2 % av fysisk skada)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Blekt sköldemblem (ID: 1313) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Tålig(STURDY)
++5/10/15% Vapen-skada
+Lyckas med Perfekt blockering 50 gånger för att förvandlas till Järnmurens emblem
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Järnmurens emblem (ID: 1314) [Default] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Tålig(STURDY)
++15/20/25% Vapen-skada
+Minskar kostnaden för Blockering med +20/30/40%
+Ökar räckvidden för Blockering med +30/40/60%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rostig tsuba (ID: 1315) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Tålig(STURDY)
++2/4/6% Vapen-skada
+Blockera fiendens attacker 30 gånger med Dra svärdet eller Sätt i skidan för att förvandlas till Mästarens tsuba
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mästarens tsuba (ID: 1316) [Default] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Tålig(STURDY)
++5/10/15% Vapen-skada
+Ökar osårbarhetsfönstret för Sätt i skidan och Dra svärdet med +40/70/120 %
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Duellantlärlingens epålett (ID: 1317) [Default] [Charm] [Sällsynthet: Vanlig] ===
+[Category] Tålig(STURDY)
+Vid lyckad Specialattack: Parering avfyras en svärdsande mot närmaste fiende
+[Skada: +250 % av Högsta elementskada som Kaos-skada]
+Lyckas med Specialattack: Parering 40 gånger för att förvandlas till Duellantens epålett
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Duellantens epålett (ID: 1318) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Tålig(STURDY)
+Avfyrar en svärdsande mot närmaste fiende i följande situationer:
+- Lyckad Specialattack: Parering
+- Specialattack: Raseri-träff
+- Kombons sista träff
+[Skada: +350 % av Högsta elementskada som Kaos-skada]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Dov resonanssten (ID: 1319) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Elementär(ELEMENTAL)
++2/4/6/8 Högsta elementskada
+Förvandlas till Resonanssten när Rörelsehastighet når 140%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Resonanssten (ID: 1320) [Default] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Elementär(ELEMENTAL)
++8/10/12/14 Högsta elementskada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Trög vev (ID: 1323) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Tålig(STURDY)
++5/10 Armborstets omladdningshastighet
+Slutför Ladda om 50 gånger för att förvandlas till Skarpskyttens vev
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Skarpskyttens vev (ID: 1324) [Default] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Tålig(STURDY)
++10/20 Armborstets omladdningshastighet
+När Ladda om slutförs ökar Normal attackskada med +30/40% och Specialattackskada med +30/40% i 10 sekunder
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Smedstång (ID: 1325) [Default] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Glöd(EMBER)
+Ökar skadan från Vapenattack mot mål som drabbats av Bränning med +5/10/15/20%
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1397,7 +1477,7 @@ Varaktighet: 12
 
 ================================================================================
 
-── activeType: Locked — 144 ──
+── activeType: Locked — 146 ──
 
 === Sköldörhängen (ID: 1017) [Locked] [Charm] [Sällsynthet: Avancerad] ===
 [Category] Väktare(GUARDIAN)
@@ -1415,7 +1495,7 @@ Vid Vapenattack finns det en 1/4 % chans att tillfoga Bedövning
 === Törneartefakt (ID: 1028) [Locked] [Charm] [Sällsynthet: Avancerad] ===
 [Category] Tålig(STURDY)
 +2/4/6/10% Kritisk träffchans
-+1/1/2/3 Fysisk skada
++1/2/3/5 Fysisk skada
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1760,8 +1840,10 @@ Tillfogar Bränning på fiender som träffas av Stormmoln
 
 === Livgivande beröring (ID: 1196) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
 [Category] Tålig(STURDY)
--55/48/40/33% Slutligt HP
-Återställer HP med +1/1/1/1 vid Vapenattack (nedkylning 1 s)
++1/2/3/4/5/6 Fysisk skada
+-30/26/22/18/14/10% Slutligt HP
+Återställer HP med +1/1/1/1/1/1 vid Vapenattack (nedkylning 1 s)
+Om Försvar är 50 eller lägre återställs ytterligare 0/1/1/2/2/3 HP
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1810,7 +1892,7 @@ Tillfogar Bränning på fiender som träffas av Stormmoln
 
 === Meditationsbok (ID: 1228) [Locked] [Charm] [Sällsynthet: Sällsynt] ===
 [Category] Akademi(ACADEMY)
-Kasta omedelbart all Grimoar utan handling
+Kasta Grimoar omedelbart utan handling
 +6/8/11/14% Skada från Grimoar
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -2064,6 +2146,21 @@ Skada: +150/200/250 % av (den högre av Blixtskada och Köldskada + 30 % av den 
 [Category] Solklinga(FLAMESWORD), Akademi(ACADEMY)
 Varje 1 % Skada från Grimoar ökar skadan från Solklinga med 1 %
 När Grimoar-skada orsakas aktiveras Solklinga ytterligare 0/0/1/1/2 gång(er)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Middagssolens brynsten (ID: 1321) [Locked] [Charm] [Sällsynthet: Legendarisk] ===
+[Category] Solklinga(FLAMESWORD)
+När Vapen-skada orsakas aktiveras Solklinga ytterligare 0/1/1/1/2 gång(er)
++3/6/9/12/15% Attackhastighet
++1/1/2/2/2 Ren skada
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Meteoritspegel (ID: 1322) [Locked] [Charm] [Sällsynthet: Avancerad] ===
+[Category] Solklinga(FLAMESWORD)
+Återfå ytterligare 1/1/1/1 när du hämtar Solklinga
++3/6/9/12% Solklinga-skada
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -2528,7 +2625,7 @@ Framkallar den vita planeten som avfyrar Is-kulor
 
 ================================================================================
 
-── activeType: Hidden — 50 ──
+── activeType: Hidden — 49 ──
 
 === Stor blå dryck (ID: 20) [Hidden] [Potion] [Sällsynthet: Vanlig] ===
 ???
@@ -2618,12 +2715,6 @@ Framkallar en blå planet som skjuter Fysisk-projektiler
 === Dånande steg (ID: 1260) [Hidden] [Charm] [Sällsynthet: Avancerad] ===
 [Category] Magiteknik(MAGITECH)
 [No effect text]
-
-────────────────────────────────────────────────────────────────────────────────
-
-=== Plitvices droppe (ID: 1261) [Hidden] [Charm] [Sällsynthet: Sällsynt] ===
-[Category] Frostrelik(FROST), Sjö(LAKE)
-+1 När Frostrelik aktiveras, förbruka 4 MP och öka skadan med den mängd som Max MP har ökats med
 
 ────────────────────────────────────────────────────────────────────────────────
 

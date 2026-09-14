@@ -76,7 +76,7 @@
     Description: 當所有箭矢耗盡時，會自動重新裝填。攻擊中，移動速度會減少40%。
   ■ 衝刺攻擊
     Input: 衝刺後 Left Click
-    Description: 消耗一次衝刺來部署一個持續3秒的地雷。偵測到敵人時會自動爆炸。
+    Description: 消耗一次衝刺次數來部署一個持續3秒的地雷。偵測到敵人時會自動爆炸。
   ■ 特殊攻擊：強化箭
     Input: Right Click
     Description: 消耗10 MP以發射強力的箭矢。不消耗箭矢。

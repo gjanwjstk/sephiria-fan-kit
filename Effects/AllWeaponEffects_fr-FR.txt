@@ -1,4 +1,4 @@
-﻿Base weapon effect text (enhancement tree) — 6 / 215 / language: fr-FR (fr-FR)
+Base weapon effect text (enhancement tree) — 6 / 160 / language: fr-FR (fr-FR)
 ================================================================================
 
 === [T1] Épée et bouclier par défaut (ID: 0) ===
@@ -6,11 +6,11 @@
 ├ [T2] Protection du pelage (ID: 1)
 │   En cas de Garde réussi, le coût en PM de Garde est réduit de 50 %.
 │   ├ [T3] Lueur d’étoile (ID: 4)
-│   │   En cas de Garde réussi, renvoie 300 % des dégâts de l’attaquant. (400 % avec Garde parfaite)
+│   │   Le contre de l’artefact Fragment de lame de riposte devient une attaque perforante tirée vers l’ennemi le plus proche.
 │   ├ [T3] Fureur gelée (ID: 5)
 │   │   En cas de réussite de Garde parfaite, Bonus de dégâts universel augmente de 20 % pendant 14 secondes.
-│   └ [T3] Épée de pierre (ID: 1020)
-│       Attaque spéciale : Balayage devient Attaque spéciale : Coup de bouclier.
+│   ├ [T3] Épée de pierre (ID: 1020)
+│   │   Attaque spéciale : Balayage devient Attaque spéciale : Coup de bouclier.
 ├ [T2] Équilibre parfait (ID: 2)
 │   Vitesse d’attaque augmente de 15 % et, lors de l’utilisation de Attaque normale, utilise automatiquement Garde devant vous.
 │   ├ [T3] Cendre dérivante (ID: 6)
@@ -35,25 +35,21 @@
 │   └ [T3] Rapière fulgurante (ID: 1007)
 │       Augmente la portée d’estoc. Vitesse d’attaque augmente de 20 %.
 ├ [T2] Baguette magique (ID: 1004)
-│   Attaque d’arme se transforme en une forme utilisant Projectile magique.
-│   ├ [T3] Regard des flammes (ID: 1008)
-│   │   Attaque d’arme est modifiée pour dépendre de Dégâts de feu. Les dégâts de Attaque normale augmentent de 20 %.
-│   ├ [T3] Souffle de glace (ID: 1009)
-│   │   Attaque d’arme est modifiée pour dépendre de Dégâts de froid. Les dégâts de Attaque en ruée augmentent de 40 %.
-│   └ [T3] Ailes de foudre (ID: 1010)
-│       Attaque d’arme est modifiée pour dépendre de Dégâts de foudre. Les dégâts de Attaque spéciale augmentent de 20 %.
+│   Attaque d’arme se transforme en une forme utilisant Projectile magique. L’élément de Projectile magique suit vos Dégâts élémentaires les plus élevés ; si deux éléments ou plus sont à égalité au plus haut, il devient Dégâts de chaos.
+│   └ [T3] Baguette magique prismatique (ID: 1030)
+│       Par tranche de 20 points du total des dégâts des 4 Élément au-dessus de 20, Attaque spéciale : Balayage tire 1 Projectile magique supplémentaire.
 ├ [T2] Éclat de givre (ID: 1013)
 │   Dégâts de froid augmente de 5.
 │   ├ [T3] Lame glaciaire (ID: 1014)
 │   │   Le projectile de l’artefact Fourreau d’exorcisme devient plus petit, mais se charge 50 % plus vite.
 │   ├ [T3] Veille du blizzard (ID: 1015)
 │   │   Lorsqu’une Nombre de ruées est consommée, active instantanément l’Artefact Marteau blizzard avec 60 % de dégâts.
-│   └ [T3] Weapon_1029_Name (ID: 1029)
-│       Lorsque l’artefact Liane de glace s’active, il gravite autour du joueur.
+│   └ [T3] Jardin d'aiguilles glacées (ID: 1029)
+│       Lorsque l’artefact Liane de glace s’active, il gravite autour du joueur et son temps de recharge est supprimé.
 ├ [T2] Conducteur (ID: 1016)
 │   Dégâts de foudre augmente de 5.
 │   ├ [T3] Épée-baliste (ID: 1017)
-│   │   La flèche de Artefact Mini-baliste traverse les murs et cible les ennemis. Tire immédiatement une flèche après un Garde réussi.
+│   │   Les flèches de Artefact Mini-baliste traversent les murs et se dirigent vers les ennemis. Lors d'une Garde réussie, des flèches sont immédiatement tirées. Mini-baliste ne subit plus de dégâts.
 │   ├ [T3] Supraconducteur (ID: 1018)
 │   │   Attaque spéciale : Balayage devient Attaque spéciale : Lance foudroyante.
 │   └ [T3] Silence aveuglant (ID: 1028)
@@ -82,8 +78,6 @@
 │   Le temps de charge de Attaque spéciale : Tourbillon augmente de 100 %, mais les Dégâts d’attaque normale augmentent de 20 %.
 │   ├ [T3] Regret rapide (ID: 16)
 │   │   Vous pouvez effectuer 2 fois supplémentaires l’attaque finale de Attaque normale. Les dégâts de Attaque normale augmentent de 10 %.
-│   └ [T3] ... (ID: 1125)
-│       Attaque normale consomme 2 PM et augmente les dégâts de 24 %.
 ├ [T2] Le Forgé dans les braises (ID: 1122)
 │   Lors d’une Attaque d’arme, inflige des dégâts supplémentaires à la cible équivalant à 30 % de Dégâts de feu.
 │   ├ [T3] Écrasement du serpent rouge (ID: 1123)
@@ -97,9 +91,11 @@
 │   └ [T3] Farce malicieuse (ID: 1119)
 │       Attaque spéciale devient Attaque spéciale : Explosion de feuilles. Dégâts d’attaque normale est ajouté aux dégâts de Attaque spéciale.
 ├ [T2] Lame à engrenages en os (ID: 1102)
-│   Attaque spéciale : Tourbillon devient Attaque spéciale : Réassemblage.
-│   └ [T3] Colonne vertébrale grinçante (ID: 1103)
-│       La portée de l’attaque ’Attaque spéciale : Réassemblage’ augmente et Vitesse d’attaque augmente progressivement jusqu’à 35 %. (Se réinitialise lorsque vous cessez d’attaquer)
+│   Attaque spéciale devient Attaque spéciale : Réassemblage. Lors de Attaque normale, Vitesse d’attaque augmente progressivement. (Jusqu'à 35 %, se réinitialise lorsque vous cessez d'attaquer)
+│   ├ [T3] Colonne vertébrale grinçante (ID: 1103)
+│   │   La portée d’attaque de Attaque spéciale : Réassemblage augmente et les attaques infligent des dégâts supplémentaires à la cible. (Dégâts supplémentaires : 15 + Défense 50 %)
+│   └ [T3] Lame à engrenages de saignée (ID: 1121)
+│       Attaque spéciale : Réassemblage devient Attaque spéciale : Saignée.
 ├ [T2] Espadon lié au givre (ID: 1104)
 │   Lors d’une Attaque d’arme, inflige des dégâts supplémentaires à la cible équivalant à 30 % de Dégâts de froid.
 │   ├ [T3] Espadon du gel éternel (ID: 1105)
@@ -137,13 +133,13 @@
 ├ [T2] Au-delà du seuil (ID: 22)
 │   Lors d’une Attaque en ruée, gagnez un bonus pendant 10 secondes : dégâts de Attaque normale +20 % et dégâts de Attaque en ruée +30 %. Désactive Attaque spéciale : Furie.
 │   ├ [T3] Lame sans lumière (ID: 26)
-│   │   Lors de l’utilisation de Ruée, Attaque en ruée devient Attaque en ruée : Prison de lames
+│   │   Lorsqu’une charge de Ruée est consommée, Attaque en ruée devient Attaque en ruée : Prison de lames
 │   └ [T3] Envie absolue (ID: 27)
 │       Les dégâts des 3e, 4e et 5e Attaque normale augmentent de 25 %, et l’effet de déséquilibre est renforcé.
 ├ [T2] Brise aride (ID: 23)
 │   Les dégâts de Attaque spéciale : Furie augmentent de 20 %.
 │   ├ [T3] Désespoir rampant (ID: 28)
-│   │   Les dégâts de Attaque spéciale : Furie augmentent de 10 % supplémentaires.
+│   │   Les dégâts de Attaque spéciale : Furie augmentent de 15 % supplémentaires.
 │   │   Une exécution réussie de Attaque spéciale : Parade rechargera deux fois Transe.
 │   └ [T3] Dure épreuve (ID: 29)
 │       Vous ne pouvez plus utiliser Attaque spéciale : Parade, mais vous avez 30 % de chances de gagner Transe en utilisant Attaque d’arme. (Transe peut être chargé jusqu’à 4 fois)
@@ -152,7 +148,7 @@
 │   ├ [T3] Lame chauffée (ID: 1201)
 │   │   Attaque spéciale : Parade est remplacée par Attaque spéciale : Lancer de dague.
 │   └ [T3] Solis Imber (ID: 1214)
-│       Lors d’un impact avec Attaque spéciale : Furie, active chaque Lame solaire.
+│       Lors d’un impact avec Attaque spéciale : Furie, active chaque Lame solaire. Artefact Spallières de météorite inflige 50 % de dégâts supplémentaires.
 ├ [T2] Dague de foudre (ID: 1203)
 │   Lors d’une Attaque d’arme, inflige des dégâts supplémentaires à la cible équivalant à 25 % de Dégâts de foudre.
 │   ├ [T3] Nuage d’orage suspendu (ID: 1204)
@@ -163,8 +159,8 @@
 │   Attaque d’arme est remplacée par une version utilisant Lancer de shuriken.
 │   ├ [T3] Adonis (ID: 1207)
 │   │   Les Dégâts critiques infligés par Attaque d’arme augmentent de 30 %.
-│   └ [T3] Voile obscur (ID: 1210)
-│       Confère le bonus Domination lors de l’utilisation de Attaque d’arme.
+│   ├ [T3] Voile obscur (ID: 1210)
+│   │   Confère le bonus Domination lors de l’utilisation de Attaque d’arme.
 ├ [T2] Vestige de jade (ID: 1208)
 │   Vous ne pouvez plus utiliser Attaque spéciale : Parade, mais gagnez Transe toutes les 2,8 secondes. (Vitesse de charge augmentée de 1 % par Esquive, jusqu’à 33 %)
 │   └ [T3] Immersion déchaînée (ID: 1209)
@@ -178,7 +174,7 @@
 └ [T2] Givre dormant (ID: 1215)
     Les dégâts infligés par Attaque d’arme sont réduits de 20 %, mais deviennent Dégâts de froid.
     ├ [T3] Fusion gelée (ID: 1216)
-    │   Les Dégâts de froid augmentent de 5, et les coups portés avec Attaque spéciale appliquent Gelure 2 fois.
+    │   Dégâts de froid augmente de 5. Lors d’un impact avec Attaque spéciale, applique Gelure 1 fois, et lors d’un impact avec Attaque spéciale : Furie, l’applique 2 fois supplémentaires.
     └ [T3] Drífa (ID: 1217)
         Artefact Marteau blizzard est remplacé par « Faux du blizzard. » Les dégâts sont réduits de 50 %, mais elle se dirige vers l’emplacement ciblé et frappe continuellement les ennemis.
 
@@ -226,7 +222,7 @@
 ├ [T2] Arbalète colossale : Voile de givre (ID: 112)
 │   Attaque spéciale est remplacé par « Voile de givre ».
 │   ├ [T3] Arbalète colossale : Cristal de congélation rapide (ID: 113)
-│   │   Les Dégâts de Relique de givre augmentent de 20%.
+│   │   Voile de givre est remplacé par Relique de givre : Voile de givre.
 │   └ [T3] Arbalète colossale : Dispositif d’expansion (ID: 114)
 │       Tire des projectiles Gelure qui traversent les ennemis tant que Voile de givre est actif.
 │       [Capacité du chargeur est fixé à 5 munitions]
@@ -238,8 +234,10 @@
 │       Le cumul de Poison augmente de 3.
 └ [T2] M-9199 (ID: 122)
     Attaque normale transperce les ennemis et augmente les dégâts de 15 %. Attaque spéciale devient « Attaque spéciale : Compression de munitions ».
-    └ [T3] XRA-9 (ID: 123)
-        Lors de l’utilisation de la dernière balle avec une attaque normale, le temps de recharge actuel de tous les Grimoire et Artefact actif est réduit de 25 %.
+    ├ [T3] XRA-9 (ID: 123)
+    │   Lors de l’utilisation de la dernière balle avec une attaque normale, le temps de recharge actuel de tous les Grimoire et Artefact actif est réduit de 25 %.
+    └ [T3] M-9200 (ID: 128)
+        En comprimant 10 munitions ou plus avec Attaque spéciale : Compression de munitions, une Balle améliorée est créée : elle est plus grosse et inflige 20 % de dégâts supplémentaires.
 
 ================================================================================
 
@@ -250,19 +248,19 @@
 │   ├ [T3] Épée célèbre « Muramasa » (ID: 402)
 │   │   Reste toujours dans l’état Rengainer, et Attaque spéciale : Entaille lourde se transforme en Attaque spéciale : Entaille rapide. L’efficacité de Vitesse d’attaque augmente de 80 %.
 │   └ [T3] Épée aux marques bestiales « Hou » (ID: 403)
-│       La Vitesse d’attaque de base de Attaque spéciale : Entaille lourde est réduite de 24 %, mais elle peut toucher des ennemis éloignés. Les dégâts augmentent de 1 % pour chaque tranche de 2 Esquive.
+│       La Vitesse d’attaque de base de Attaque spéciale : Entaille lourde est réduite de 24 %, mais elle peut toucher des ennemis éloignés. Les dégâts augmentent de 1 % pour chaque tranche de 1 Esquive.
 ├ [T2] Helbanus (ID: 406)
 │   Lors d’une Attaque d’arme, inflige des dégâts supplémentaires à la cible équivalant à 30 % de Dégâts de feu.
 │   ├ [T3] Helbanus flamboyant (ID: 407)
 │   │   Brûlure cumuls augmente de 2, et Dégâts de feu augmente de 4.
 │   ├ [T3] Heidi (ID: 408)
-│   │   Lorsque vous consommez Nombre de ruées, obtenez des cumuls de « Surchauffe ». (1 par défaut, 3 lors de l’utilisation de Rengainer, jusqu’à 9 fois) Consomme les cumuls lors de l’utilisation de Attaque normale.
+│   │   Lorsque vous consommez Nombre de ruées, obtenez 1 cumul de « Surchauffe ». (1 par défaut, 3 lors de l’utilisation de Rengainer, jusqu’à 12) Consomme 1 cumul pour renforcer Attaque normale.
 │   └ [T3] Solis Ekli (ID: 422)
 │       Rengainer se transforme en Éclipse.
 ├ [T2] Lame de déchirure : Déchire-ciel (ID: 409)
 │   Obtenez Frappe d’épée grâce à Attaque normale. Attaque spéciale : Entaille lourde se transforme en Attaque normale : Entaille iaido.
 │   ├ [T3] Lame de déchirure : Saule flottant (ID: 410)
-│   │   Chances de coup critique augmente de 30 %, et la portée de Attaque normale : Grande entaille iaido devient une attaque complète.
+│   │   La valeur de « Chances de coup critique » augmente de 30 %, et la zone d’attaque de « Attaque normale : Grande entaille iaido » s’agrandit considérablement.
 │   └ [T3] Lame de déchirure : Danse de la ruine (ID: 411)
 │       Vous ne pouvez pas utiliser Attaque normale : Grande entaille iaido, mais lorsque la jauge de Frappe d’épée est à 100 %, vous obtenez le bonus Rafale.
 ├ [T2] La lame d’azur en attente (ID: 412)
@@ -310,7 +308,7 @@
 │   ├ [T3] Poids de la mer (ID: 506)
 │   │   En cas de Garde réussi, confère le bonus Bâton lourd.
 │   └ [T3] Bâton sans anneau (ID: 507)
-│       Si Chances de coup critique est inférieur à 30%, augmente les dégâts infligés de 20%.
+│       Si la valeur de « Chances de coup critique » est inférieure ou égale à 30%, les dégâts infligés augmentent de 20%.
 ├ [T2] Lueur stellaire lointaine (ID: 509)
 │   Augmente les dégâts de Attaque spéciale : Riposte de 20 %. Si PM max est au moins égal à 100, vous utilisez Garde dans toutes les directions pendant Attaque spéciale : Riposte.
 │   └ [T3] Écaille de la mer astrale (ID: 510)
@@ -320,7 +318,7 @@
 │   ├ [T3] Lance Ruadhslea (ID: 514)
 │   │   Vitesse d’attaque augmente de 10 %. Les dégâts augmentent de 5 % pour chaque point d’attribut Nombre de ruées lors d’une attaque avec une arme.
 │   └ [T3] Lance Fuarsca (ID: 515)
-│       Confère Garde lors de l’utilisation de Attaque en ruée : Attaque de lance, et les dégâts augmentent de 30 % pour chaque Ruée utilisée auparavant. (Jusqu’à 6 fois)
+│       Confère Garde lors de l’utilisation de Attaque en ruée : Attaque de lance, et les dégâts augmentent de 30 % pour chaque charge de Ruée consommée auparavant. (Jusqu’à 6 fois)
 ├ [T2] Bâton de braises (ID: 517)
 │   Les dégâts infligés par Attaque d’arme sont réduits de 15 %, mais deviennent Dégâts de feu.
 │   ├ [T3] Bâton du jugement de Fiaola (ID: 518)
@@ -343,7 +341,8 @@
     Attaque normale devient Attaque normale : Lancer de lance, et Dégâts de Arme augmente de 10.
     ├ [T3] Jarre sacrée (ID: 530)
     │   Attaque normale combine les statistiques de Dégâts du compagnon.
+    │   Attaque normale a 20% de chances d'invoquer un Soldat carotte.
     ├ [T3] Danse informe (ID: 531)
-    │   Attaque normale attire les ennemis et peut tirer deux fois. (Augmente de 1% par 1 Esquive)
+    │   Les projectiles de l’action « Attaque normale » suivent les ennemis et ont une chance d’être tirés deux fois. (Cette chance augmente de 0.85% par point d’Esquive)
     └ [T3] Successeur (ID: 532)
-        Dégâts de Grimoire augmente de 30 %.
+        Inflige Blessure magique lorsque l'Arme touche.

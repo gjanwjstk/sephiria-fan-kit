@@ -1,7 +1,7 @@
-﻿All item effect text — 426 / language: pl-PL (pl-PL)
+All item effect text — 438 / language: pl-PL (pl-PL)
 ================================================================================
 
-── activeType: Default — 211 ──
+── activeType: Default — 222 ──
 
 === Mikstura odnawiająca (ID: 0) [Default] [Potion] [Rzadkość: Pospolity] ===
 Przywraca 20% PŻ
@@ -508,7 +508,7 @@ Przy zadawaniu obrażeń za pomocą Atak bronią lub Grymuar zadaje celowi +10/2
 
 === Żłobkowana gliniana tabliczka (ID: 1104) [Default] [Charm] [Rzadkość: Legendarny] ===
 [Category] Burzowa Chmura(DARKCLOUD)
-Chmura burzowa nie zostaje zużyta z szansą 10/20/30/40/50%
+Chmura burzowa nie zostaje zużyta z szansą 20/30/40/55/70%
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -589,7 +589,7 @@ Po otrzymaniu obrażeń zyskujesz niewrażliwość na +0.4/0.8/1.2 sek.
 
 === Pierścień Krwawego Kamienia (ID: 1120) [Default] [Charm] [Rzadkość: Rzadki] ===
 [Category] Mistyczne(MYSTIC)
-Po pokonaniu wrogów (liczba: +15/13/10) odzyskujesz 5 PŻ
++20/40/60% Odzyskiwanie otrzymanych obrażeń
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -911,9 +911,8 @@ Co 2 s Atak z doskoku zostaje wzmocniony, zwiększając obrażenia o +30/60/90/1
 
 ────────────────────────────────────────────────────────────────────────────────
 
-=== Kolczyki z meteorytu (ID: 1236) [Default] [Charm] [Rzadkość: Legendarny] ===
+=== Kolczyki z meteorytu (ID: 1236) [Default] [Charm] [Rzadkość: Rzadki] ===
 [Category] Słoneczne Ostrze(FLAMESWORD)
-+5/10/15% Obrażenia Słoneczne Ostrze
 +2/4/7 Obrażenia od ognia
 Po rzuceniu Słoneczne Ostrze spada w pobliżu ciebie
 
@@ -929,6 +928,7 @@ Przywołuje wszystkie Słoneczne Ostrze, które spadły na ziemię, zadając obr
 [Category] Magotechnika(MAGITECH)
 +1/2/3/4/5/6 Obrażenia od błyskawic
 Co 4 sek. zadaje 30% Obrażenia od błyskawic pobliskim wrogom i nakłada Porażenie prądem. (Liczba celów: +1/2/2/3/3/4)
+[Obrażenia: 6 (Obrażenia od błyskawic30%)]
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1016,6 +1016,86 @@ Przy Perfekcyjny blok zwiększa Uniwersalne zwiększenie obrażeń o +4/8/12/16%
 === Fragment kostura riposty (ID: 1288) [Default] [Charm] [Rzadkość: Zaawansowany] ===
 [Category] Wytrzymałość(STURDY)
 Kontratak: Wykonuje krótki atak wręcz do przodu podczas blokowania (0/1/2.1/3.4/4.8/6.2% obrażeń fizycznych)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Wyblakły Herb Tarczy (ID: 1313) [Default] [Charm] [Rzadkość: Zaawansowany] ===
+[Category] Wytrzymałość(STURDY)
++5/10/15% Obrażenia Broń
+Wykonaj 50 razy Perfekcyjny blok, aby przekształcić w Herb Żelaznego Muru
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Herb Żelaznego Muru (ID: 1314) [Default] [Charm] [Rzadkość: Legendarny] ===
+[Category] Wytrzymałość(STURDY)
++15/20/25% Obrażenia Broń
+Zmniejsza koszt Blok o +20/30/40%
+Zwiększa zasięg Blok o +30/40/60%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Zardzewiała Tsuba (ID: 1315) [Default] [Charm] [Rzadkość: Zaawansowany] ===
+[Category] Wytrzymałość(STURDY)
++2/4/6% Obrażenia Broń
+Zablokuj 30 ataków wrogów za pomocą Dobycie lub Pochowanie, aby przekształcić w Tsuba Mistrza
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tsuba Mistrza (ID: 1316) [Default] [Charm] [Rzadkość: Legendarny] ===
+[Category] Wytrzymałość(STURDY)
++5/10/15% Obrażenia Broń
+Zwiększa okno nietykalności Pochowanie i Dobycie o +40/70/120%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Epolet Ucznia Pojedynkowicza (ID: 1317) [Default] [Charm] [Rzadkość: Pospolity] ===
+[Category] Wytrzymałość(STURDY)
+Po udanym Atak specjalny: Parowanie wystrzeliwuje ducha miecza w najbliższego wroga
+[Obrażenia: +250% wartości Najwyższe obrażenia od żywiołów jako obrażenia typu Chaos]
+Wykonaj 40 razy Atak specjalny: Parowanie, aby przekształcić w Epolet Pojedynkowicza
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Epolet Pojedynkowicza (ID: 1318) [Default] [Charm] [Rzadkość: Zaawansowany] ===
+[Category] Wytrzymałość(STURDY)
+Wystrzeliwuje ducha miecza w najbliższego wroga w następujących sytuacjach:
+- Udany Atak specjalny: Parowanie
+- Trafienie Atak specjalny: Furia
+- Trafienie ostatnim ciosem kombinacji
+[Obrażenia: +350% wartości Najwyższe obrażenia od żywiołów jako obrażenia typu Chaos]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Przytłumiony Kamień Rezonansu (ID: 1319) [Default] [Charm] [Rzadkość: Zaawansowany] ===
+[Category] Żywioł(ELEMENTAL)
++2/4/6/8 Najwyższe obrażenia od żywiołów
+Przekształca się w Kamień Rezonansu, gdy Szybkość ruchu osiągnie 140%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kamień Rezonansu (ID: 1320) [Default] [Charm] [Rzadkość: Legendarny] ===
+[Category] Żywioł(ELEMENTAL)
++8/10/12/14 Najwyższe obrażenia od żywiołów
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Zapieczona Korba (ID: 1323) [Default] [Charm] [Rzadkość: Zaawansowany] ===
+[Category] Wytrzymałość(STURDY)
++5/10 Szybkość przeładowania kuszy
+Wykonaj 50 razy Przeładowanie, aby przekształcić w Korba Strzelca Wyborowego
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Korba Strzelca Wyborowego (ID: 1324) [Default] [Charm] [Rzadkość: Legendarny] ===
+[Category] Wytrzymałość(STURDY)
++10/20 Szybkość przeładowania kuszy
+Po ukończeniu Przeładowanie zwiększa Obrażenia normalnego ataku o +30/40% i Obrażenia ataku specjalnego o +30/40% na 10 sekund
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kleszcze kowalskie (ID: 1325) [Default] [Charm] [Rzadkość: Zaawansowany] ===
+[Category] Żar(EMBER)
+Zwiększa obrażenia Atak bronią zadawane celom dotkniętym Oparzenie o +5/10/15/20%
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1397,7 +1477,7 @@ Czas trwania: 12
 
 ================================================================================
 
-── activeType: Locked — 144 ──
+── activeType: Locked — 146 ──
 
 === Kolczyki z tarczą (ID: 1017) [Locked] [Charm] [Rzadkość: Zaawansowany] ===
 [Category] Strażnik(GUARDIAN)
@@ -1415,7 +1495,7 @@ Przy Atak bronią istnieje 1/4% szansy na nałożenie Ogłuszenie
 === Amulet cierni (ID: 1028) [Locked] [Charm] [Rzadkość: Zaawansowany] ===
 [Category] Wytrzymałość(STURDY)
 +2/4/6/10% Szansa na trafienie krytyczne
-+1/1/2/3 Obrażenia fizyczne
++1/2/3/5 Obrażenia fizyczne
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1760,8 +1840,10 @@ Nakłada Oparzenie na wrogów trafionych przez Chmura burzowa
 
 === Dotyk życia (ID: 1196) [Locked] [Charm] [Rzadkość: Rzadki] ===
 [Category] Wytrzymałość(STURDY)
--55/48/40/33% Końcowe PŻ
-Przy Atak bronią odzyskuje +1/1/1/1 PŻ (czas odnowienia: 1 sek.)
++1/2/3/4/5/6 Obrażenia fizyczne
+-30/26/22/18/14/10% Końcowe PŻ
+Przy Atak bronią odzyskuje +1/1/1/1/1/1 PŻ (czas odnowienia: 1 sek.)
+Jeśli Obrona wynosi 50 lub mniej, dodatkowo odzyskuje 0/1/1/2/2/3 PŻ
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1810,7 +1892,7 @@ Przy Atak bronią odzyskuje +1/1/1/1 PŻ (czas odnowienia: 1 sek.)
 
 === Księga medytacji (ID: 1228) [Locked] [Charm] [Rzadkość: Rzadki] ===
 [Category] Akademia(ACADEMY)
-Natychmiast rzuca wszystkie zaklęcia Grymuar bez wykonywania akcji
+Natychmiast rzuca Grymuar bez wykonywania akcji
 +6/8/11/14% Obrażenia Grymuar
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -2064,6 +2146,21 @@ Obrażenia: +150/200/250% z (wyższej wartości spośród Obrażenia od błyskaw
 [Category] Słoneczne Ostrze(FLAMESWORD), Akademia(ACADEMY)
 Każdy 1% Obrażenia Grymuar zwiększa obrażenia Słoneczne Ostrze o 1%
 Gdy zostaną zadane obrażenia Grymuar, aktywuje dodatkowe Słoneczne Ostrze. Liczba dodatkowych aktywacji: 0/0/1/1/2
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Osełka południa (ID: 1321) [Locked] [Charm] [Rzadkość: Legendarny] ===
+[Category] Słoneczne Ostrze(FLAMESWORD)
+Gdy zostaną zadane obrażenia Broń, aktywuje dodatkowe Słoneczne Ostrze. Liczba dodatkowych aktywacji: 0/1/1/1/2
++3/6/9/12/15% Szybkość ataku
++1/1/2/2/2 Obrażenia prawdziwe
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Lustro z meteorytu (ID: 1322) [Locked] [Charm] [Rzadkość: Zaawansowany] ===
+[Category] Słoneczne Ostrze(FLAMESWORD)
+Odzyskaj dodatkowe 1/1/1/1 po odzyskaniu Słoneczne Ostrze
++3/6/9/12% Obrażenia Słoneczne Ostrze
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -2528,7 +2625,7 @@ Przyzywa Białą Planetę, która wystrzeliwuje pociski Lód
 
 ================================================================================
 
-── activeType: Hidden — 50 ──
+── activeType: Hidden — 49 ──
 
 === Duża niebieska mikstura (ID: 20) [Hidden] [Potion] [Rzadkość: Pospolity] ===
 ???
@@ -2618,12 +2715,6 @@ Przywołuje niebieską planetę wystrzeliwującą pociski Fizyczne
 === Gromkie Kroki (ID: 1260) [Hidden] [Charm] [Rzadkość: Zaawansowany] ===
 [Category] Magotechnika(MAGITECH)
 [No effect text]
-
-────────────────────────────────────────────────────────────────────────────────
-
-=== Kropla z Plitwic (ID: 1261) [Hidden] [Charm] [Rzadkość: Rzadki] ===
-[Category] Relikt Mrozu(FROST), Jezioro(LAKE)
-+1 Po aktywacji Lodowa Relikwia zużywa 4 PM i zwiększa obrażenia o wartość wzrostu Maks. PM
 
 ────────────────────────────────────────────────────────────────────────────────
 

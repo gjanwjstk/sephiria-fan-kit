@@ -76,7 +76,7 @@
     Description: Recarrega automaticamente quando todos os virotes esgotarem. A Velocidade de movimento é reduzida em 40% durante os ataques.
   ■ Ataque de arrancada
     Input: (Após a arrancada) Clique esquerdo
-    Description: Consome uma arrancada para soltar uma mina que dura 3 segundos. Ela explodirá automaticamente quando um inimigo for detectado.
+    Description: Consome uma carga de arrancada para soltar uma mina que dura 3 segundos. Ela explodirá automaticamente quando um inimigo for detectado.
   ■ Ataque especial: Virote poderoso
     Input: Clique direito
     Description: Consome 10 de PM para disparar um virote poderoso. Não consumirá a carga de virotes.

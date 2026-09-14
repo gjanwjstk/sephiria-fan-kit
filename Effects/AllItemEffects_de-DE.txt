@@ -1,7 +1,7 @@
-﻿All item effect text — 426 / language: de-DE (de-DE)
+All item effect text — 438 / language: de-DE (de-DE)
 ================================================================================
 
-── activeType: Default — 211 ──
+── activeType: Default — 222 ──
 
 === Wiederherstellungstrank (ID: 0) [Default] [Potion] [Seltenheit: Gewöhnlich] ===
 Stellt 20% LP wieder her
@@ -508,7 +508,7 @@ Beim Verursachen von Schaden mit Waffenangriff oder Grimoire wird dem Ziel +10/2
 
 === Gerillte Tontafel (ID: 1104) [Default] [Charm] [Seltenheit: Legendär] ===
 [Category] Gewitterwolke(DARKCLOUD)
-Sturmwolke wird mit einer Chance von 10/20/30/40/50% nicht verbraucht
+Sturmwolke wird mit einer Chance von 20/30/40/55/70% nicht verbraucht
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -589,7 +589,7 @@ Wenn du Schaden erleidest, wirst du für +0.4/0.8/1.2 Sek. unverwundbar
 
 === Blutsteinring (ID: 1120) [Default] [Charm] [Seltenheit: Selten] ===
 [Category] Mystik(MYSTIC)
-Nach dem Besiegen von Gegnern werden 5 LP wiederhergestellt (benötigte Abschüsse: +15/13/10).
++20/40/60% Wiederherstellung erlittenen Schadens
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -911,9 +911,8 @@ Alle 2 Sek. wird Dash-Angriff verstärkt, erhöht den Schaden um +30/60/90/120 %
 
 ────────────────────────────────────────────────────────────────────────────────
 
-=== Meteoritenohrringe (ID: 1236) [Default] [Charm] [Seltenheit: Legendär] ===
+=== Meteoritenohrringe (ID: 1236) [Default] [Charm] [Seltenheit: Selten] ===
 [Category] Sonnenklinge(FLAMESWORD)
-+5/10/15% Schaden von Sonnenklinge
 +2/4/7 Feuerschaden
 Wenn geworfen, fällt Sonnenklinge in deiner Nähe zu Boden
 
@@ -929,6 +928,7 @@ Holt alle zu Boden gefallenen Sonnenklinge zurück und fügt Gegnern auf dem Weg
 [Category] Magitech(MAGITECH)
 +1/2/3/4/5/6 Blitzschaden
 Fügt nahen Gegnern alle 4 Sek. 30 % Blitzschaden zu und verursacht Stromschlag. (Max. Ziele: +1/2/2/3/3/4)
+[Schaden: 6 (Blitzschaden30 %)]
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1016,6 +1016,86 @@ Erhöhe bei Perfektes Blocken den Universeller Schadensbonus für 7s um +4/8/12/
 === Fragment eines Ripostenstabs (ID: 1288) [Default] [Charm] [Seltenheit: Fortgeschritten] ===
 [Category] Robust(STURDY)
 Konter: Führt beim Blocken einen kurzen Nahkampfangriff nach vorn aus (0/1/2.1/3.4/4.8/6.2 % des physischen Schadens)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Verblasstes Schildwappen (ID: 1313) [Default] [Charm] [Seltenheit: Fortgeschritten] ===
+[Category] Robust(STURDY)
++5/10/15% Waffe-Schaden
+Verwandelt sich in Wappen der Eisernen Mauer nach 50 erfolgreichen Perfektes Blocken
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Wappen der Eisernen Mauer (ID: 1314) [Default] [Charm] [Seltenheit: Legendär] ===
+[Category] Robust(STURDY)
++15/20/25% Waffe-Schaden
+Reduziert die Kosten für Blocken um +20/30/40%
+Erhöht den Bereich von Blocken um +30/40/60%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rostige Tsuba (ID: 1315) [Default] [Charm] [Seltenheit: Fortgeschritten] ===
+[Category] Robust(STURDY)
++2/4/6% Waffe-Schaden
+Verwandelt sich in Tsuba des Meisters, nachdem 30 Angriffe mit Klinge ziehen oder Einstecken geblockt wurden
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tsuba des Meisters (ID: 1316) [Default] [Charm] [Seltenheit: Legendär] ===
+[Category] Robust(STURDY)
++5/10/15% Waffe-Schaden
+Erhöht das Unverwundbarkeitsfenster von Einstecken und Klinge ziehen um +40/70/120 %.
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Epaulette des Duellanten-Lehrlings (ID: 1317) [Default] [Charm] [Seltenheit: Gewöhnlich] ===
+[Category] Robust(STURDY)
+Bei erfolgreicher Spezialangriff: Parade wird ein Schwertgeist auf den nächsten Gegner abgefeuert
+[Schaden: +250 % des Werts Höchster Elementarschaden als Chaos-Schaden]
+Verwandelt sich in Epaulette des Duellanten nach 40 erfolgreichen Spezialangriff: Parade
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Epaulette des Duellanten (ID: 1318) [Default] [Charm] [Seltenheit: Fortgeschritten] ===
+[Category] Robust(STURDY)
+In folgenden Situationen wird ein Schwertgeist auf den nächsten Gegner abgefeuert:
+- Erfolgreiche Spezialangriff: Parade
+- Spezialangriff: Raserei-Treffer
+- Letzter Treffer der Kombo
+[Schaden: +350 % des Werts Höchster Elementarschaden als Chaos-Schaden]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Stumpfer Resonanzstein (ID: 1319) [Default] [Charm] [Seltenheit: Fortgeschritten] ===
+[Category] Elementar(ELEMENTAL)
++2/4/6/8 Höchster Elementarschaden
+Verwandelt sich in Resonanzstein, wenn Bewegungstempo 140% erreicht
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Resonanzstein (ID: 1320) [Default] [Charm] [Seltenheit: Legendär] ===
+[Category] Elementar(ELEMENTAL)
++8/10/12/14 Höchster Elementarschaden
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Schwergängige Kurbel (ID: 1323) [Default] [Charm] [Seltenheit: Fortgeschritten] ===
+[Category] Robust(STURDY)
++5/10 Armbrust-Nachladegeschwindigkeit
+Schließe Nachladen 50-mal ab, um sich in Kurbel des Scharfschützen zu verwandeln
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Kurbel des Scharfschützen (ID: 1324) [Default] [Charm] [Seltenheit: Legendär] ===
+[Category] Robust(STURDY)
++10/20 Armbrust-Nachladegeschwindigkeit
+Nach Abschluss von Nachladen erhöhen sich Schaden normaler Angriffe um +30/40% und Spezialangriffsschaden um +30/40% für 10 Sekunden
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Schmiedezange (ID: 1325) [Default] [Charm] [Seltenheit: Fortgeschritten] ===
+[Category] Glut(EMBER)
+Erhöht den Waffenangriff-Schaden an Zielen, die von Brand betroffen sind, um +5/10/15/20%
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1397,7 +1477,7 @@ Dauer: 12
 
 ================================================================================
 
-── activeType: Locked — 144 ──
+── activeType: Locked — 146 ──
 
 === Schildohrringe (ID: 1017) [Locked] [Charm] [Seltenheit: Fortgeschritten] ===
 [Category] Wächter(GUARDIAN)
@@ -1415,7 +1495,7 @@ Bei Waffenangriff besteht eine Chance von 1/4 %, Betäubung zuzufügen
 === Dornenartefakt (ID: 1028) [Locked] [Charm] [Seltenheit: Fortgeschritten] ===
 [Category] Robust(STURDY)
 +2/4/6/10% Kritische Trefferchance
-+1/1/2/3 Physischer Schaden
++1/2/3/5 Physischer Schaden
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1760,8 +1840,10 @@ Fügt von Sturmwolke getroffenen Gegnern Brand zu
 
 === Lebensberührung (ID: 1196) [Locked] [Charm] [Seltenheit: Selten] ===
 [Category] Robust(STURDY)
--55/48/40/33% Finale LP
-Stellt bei Waffenangriff +1/1/1/1 LP wieder her (Abklingzeit: 1 Sek.)
++1/2/3/4/5/6 Physischer Schaden
+-30/26/22/18/14/10% Finale LP
+Stellt bei Waffenangriff +1/1/1/1/1/1 LP wieder her (Abklingzeit: 1 Sek.)
+Wenn Verteidigung 50 oder weniger beträgt, werden zusätzlich 0/1/1/2/2/3 LP wiederhergestellt
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1810,7 +1892,7 @@ Stellt bei Waffenangriff +1/1/1/1 LP wieder her (Abklingzeit: 1 Sek.)
 
 === Meditationsbuch (ID: 1228) [Locked] [Charm] [Seltenheit: Selten] ===
 [Category] Akademie(ACADEMY)
-Wirkt alle Grimoire sofort ohne Aktion
+Wirkt Grimoire sofort ohne Aktion
 +6/8/11/14% Grimoire-Schaden
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -2064,6 +2146,21 @@ Schaden: +150/200/250 % von (dem höheren Wert aus Blitzschaden und Kälteschade
 [Category] Sonnenklinge(FLAMESWORD), Akademie(ACADEMY)
 Pro 1 % Grimoire-Schaden erhöht sich der Schaden von Sonnenklinge um 1 %
 Aktiviert Sonnenklinge 0/0/1/1/2-mal zusätzlich, wenn Grimoire-Schaden verursacht wird
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Mittagswetzstein (ID: 1321) [Locked] [Charm] [Seltenheit: Legendär] ===
+[Category] Sonnenklinge(FLAMESWORD)
+Aktiviert Sonnenklinge 0/1/1/1/2-mal zusätzlich, wenn Waffe-Schaden verursacht wird
++3/6/9/12/15% Angriffsgeschwindigkeit
++1/1/2/2/2 Wahrer Schaden
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Meteoritenspiegel (ID: 1322) [Locked] [Charm] [Seltenheit: Fortgeschritten] ===
+[Category] Sonnenklinge(FLAMESWORD)
+Stellt beim Aufheben von Sonnenklinge zusätzlich 1/1/1/1 wieder her
++3/6/9/12% Schaden von Sonnenklinge
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -2528,7 +2625,7 @@ Beschwört einen weißen Planeten, der Eis-Geschosse abfeuert
 
 ================================================================================
 
-── activeType: Hidden — 50 ──
+── activeType: Hidden — 49 ──
 
 === Großer blauer Trank (ID: 20) [Hidden] [Potion] [Seltenheit: Gewöhnlich] ===
 ???
@@ -2618,12 +2715,6 @@ Beschwört einen blauen Planeten, der Physisch-Projektile abfeuert
 === Donnernde Schritte (ID: 1260) [Hidden] [Charm] [Seltenheit: Fortgeschritten] ===
 [Category] Magitech(MAGITECH)
 [No effect text]
-
-────────────────────────────────────────────────────────────────────────────────
-
-=== Tropfen von Plitvice (ID: 1261) [Hidden] [Charm] [Seltenheit: Selten] ===
-[Category] Frostreliquie(FROST), See(LAKE)
-+1 Verbraucht bei Aktivierung von Frostrelikt 4 MP und erhöht den Schaden um den Zuwachs an Max. MP
 
 ────────────────────────────────────────────────────────────────────────────────
 

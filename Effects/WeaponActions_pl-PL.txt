@@ -76,7 +76,7 @@
     Description: Automatycznie przeładowuje, gdy wszystkie strzały zostaną wyczerpane. Szybkość ruchu jest zmniejszona o 40% podczas ataków.
   ■ Atak z doskoku
     Input: (Po doskoku) Lewy przycisk myszy
-    Description: Zużywa doskok, aby rozstawić minę, która pozostaje przez 3 sekundy. Automatycznie wybucha po wykryciu wroga.
+    Description: Zużywa ładunek doskoku, aby rozstawić minę, która pozostaje przez 3 sekundy. Automatycznie wybucha po wykryciu wroga.
   ■ Atak specjalny: Potężna strzała
     Input: Prawy przycisk myszy
     Description: Zużywa 10 PM, aby wystrzelić potężną strzałę. Nie zużywa strzał.

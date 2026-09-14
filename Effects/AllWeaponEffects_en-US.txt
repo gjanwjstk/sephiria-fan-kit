@@ -1,4 +1,4 @@
-﻿Base weapon effect text (enhancement tree) — 6 / 215 / language: en-US (en-US)
+Base weapon effect text (enhancement tree) — 6 / 160 / language: en-US (en-US)
 ================================================================================
 
 === [T1] Default Sword and Shield (ID: 0) ===
@@ -6,11 +6,11 @@
 ├ [T2] Protection of the Fuzz (ID: 1)
 │   Upon a successful Block, the Block MP cost is reduced by 50%.
 │   ├ [T3] Starlight (ID: 4)
-│   │   On a successful Block, reflects 300% of the attacker’s damage. (400% on Perfect guard)
+│   │   Artifact Riposte Blade Fragment’s counter becomes a piercing attack fired at the nearest enemy.
 │   ├ [T3] Frozen Fury (ID: 5)
 │   │   On Perfect guard success, Universal Damage Boost increases by 20% for 14 seconds.
-│   └ [T3] Stone Sword (ID: 1020)
-│       Special Attack: Cleave is changed to Special Attack: Shield Bash.
+│   ├ [T3] Stone Sword (ID: 1020)
+│   │   Special Attack: Cleave is changed to Special Attack: Shield Bash.
 ├ [T2] Perfect Balance (ID: 2)
 │   Increases Attack Speed by 15% and, when performing Normal Attack, automatically uses Block in front.
 │   ├ [T3] Drifting Ash (ID: 6)
@@ -35,25 +35,21 @@
 │   └ [T3] Flashing Rapier (ID: 1007)
 │       Extends thrusting range. Increases Attack Speed by 20%.
 ├ [T2] Magic Wand (ID: 1004)
-│   Weapon Attack is changed to a form that uses Magic Missile.
-│   ├ [T3] Gaze of Flames (ID: 1008)
-│   │   Weapon Attack changes to be based on Fire Damage. Normal Attack damage increases by 20%.
-│   ├ [T3] Breath of Ice (ID: 1009)
-│   │   Weapon Attack is changed to be based on Cold Damage. Dash attack damage is increased by 40%.
-│   └ [T3] Wings of Lightning (ID: 1010)
-│       Weapon Attack is changed to be based on Lightning Damage. Special Attack damage increases by 20%.
+│   Weapon Attack is changed to a form that uses Magic Missile. The element of Magic Missile follows your Highest Elemental Damage; if two or more elements are tied for the highest, it becomes Chaos Damage.
+│   └ [T3] Prismatic Magic Wand (ID: 1030)
+│       For every 20 points in the combined total of all 4 Element damage values above 20, Special Attack: Cleave fires 1 additional Magic Missile.
 ├ [T2] Frost Shard (ID: 1013)
 │   Cold Damage increases by 5.
 │   ├ [T3] Glacial Blade (ID: 1014)
 │   │   Artifact Scabbard of Exorcism's projectile becomes smaller, but charges 50% faster.
 │   ├ [T3] Blizzard’s Eve (ID: 1015)
 │   │   When Dash Count is consumed, instantly activate the Artifact Blizzard Hammer with 60% damage.
-│   └ [T3] Weapon_1029_Name (ID: 1029)
-│       When Artifact Ice Vine activates, it orbits around the player.
+│   └ [T3] Garden of Needle Ice (ID: 1029)
+│       When Artifact Ice Vine activates, it orbits around the player, and its cooldown is removed.
 ├ [T2] Conductor (ID: 1016)
 │   Lightning Damage increases by 5.
 │   ├ [T3] Ballista Sword (ID: 1017)
-│   │   Artifact Mini Ballista's arrow pierces walls and homes in on enemies. Fires an arrow immediately on successful Block.
+│   │   The arrows from Artifact Mini Ballista pierce walls and home in on enemies. On a successful Block, immediately fire arrows. Mini Ballista no longer takes damage.
 │   ├ [T3] Superconductor (ID: 1018)
 │   │   Special Attack: Cleave changes to Special Attack: Lightning Spear.
 │   └ [T3] Blinding Silence (ID: 1028)
@@ -82,8 +78,6 @@
 │   Special Attack: Whirlwind charge time increases by 100%, but Normal Attack Damage increases by 20%.
 │   ├ [T3] Swift Regret (ID: 16)
 │   │   You can swing the final attack of the Normal Attack 2 additional times. Increases Normal Attack damage by 10%.
-│   └ [T3] ... (ID: 1125)
-│       Normal Attack consumes 2 MP and increases damage by 24%.
 ├ [T2] The Emberforged (ID: 1122)
 │   When performing a Weapon Attack, deal additional damage to the target equal to 30% of Fire Damage.
 │   ├ [T3] Red Snake Crush (ID: 1123)
@@ -97,9 +91,11 @@
 │   └ [T3] Mischievous Prank (ID: 1119)
 │       Special Attack changes to Special Attack: Leaf Explosion. Adds Normal Attack Damage to Special Attack damage.
 ├ [T2] Bone Gearblade (ID: 1102)
-│   Special Attack: Whirlwind is changed to Special Attack: Reassemble.
-│   └ [T3] Creaking Spine (ID: 1103)
-│       'Special Attack: Reassemble' attack's range increases, and Attack Speed gradually increases up to 35%. (Resets when you stop attacking)
+│   Special Attack changes to Special Attack: Reassemble. Attack Speed gradually increases on Normal Attack. (Up to 35%, resets when you stop attacking)
+│   ├ [T3] Creaking Spine (ID: 1103)
+│   │   The attack range of Special Attack: Reassemble is increased, and attacks deal additional damage to the target. (Additional Damage: 15 + Defense 50%)
+│   └ [T3] Bloodletting Gearblade (ID: 1121)
+│       Special Attack: Reassemble changes to Special Attack: Bloodletting.
 ├ [T2] Frostbound Greatsword (ID: 1104)
 │   When performing a Weapon Attack, deal additional damage to the target equal to 30% of Cold Damage.
 │   ├ [T3] Eternal Frost Greatsword (ID: 1105)
@@ -137,13 +133,13 @@
 ├ [T2] Beyond the Threshold (ID: 22)
 │   Upon Dash attack, gain a buff for 10 seconds: Normal Attack damage +20% and Dash attack damage +30%. Disables Special Attack: Fury.
 │   ├ [T3] Lightless Blade (ID: 26)
-│   │   When Dash is used, Dash attack changes to Dash Attack: Blade Prison
+│   │   When a Dash charge is consumed, Dash attack changes to Dash Attack: Blade Prison
 │   └ [T3] Absolute Envy (ID: 27)
 │       The damage of the 3rd, 4th, and 5th Normal Attack is increased by 25%, and the staggering effect is enhanced.
 ├ [T2] Arid Breeze (ID: 23)
 │   Damage from Special Attack: Fury increases by 20%.
 │   ├ [T3] Creeping Despair (ID: 28)
-│   │   Damage of Special Attack: Fury increases by an additional 10%.
+│   │   Damage of Special Attack: Fury increases by an additional 15%.
 │   │   Successfully executing Special Attack: Parry will recharge Trance twice.
 │   └ [T3] Harsh Trial (ID: 29)
 │       You can no longer use Special Attack: Parry, but have a 30% chance to gain Trance when using Weapon Attack. (Trance can be charged up to 4 times)
@@ -152,7 +148,7 @@
 │   ├ [T3] Heated Blade (ID: 1201)
 │   │   Special Attack: Parry is replaced with Special Attack: Throw Dagger.
 │   └ [T3] Solis Imber (ID: 1214)
-│       On Special Attack: Fury hit, activate all Solar Blade.
+│       On Special Attack: Fury hit, activate all Solar Blade. Artifact Meteorite Pauldrons deals 50% more damage.
 ├ [T2] Lightning Dagger (ID: 1203)
 │   When performing a Weapon Attack, deal additional damage to the target equal to 25% of Lightning Damage.
 │   ├ [T3] Overhanging Storm Cloud (ID: 1204)
@@ -163,8 +159,8 @@
 │   Weapon Attack is changed to a form that uses Throw Shuriken.
 │   ├ [T3] Adonis (ID: 1207)
 │   │   The Critical Damage dealt by Weapon Attack is amplified by 30%.
-│   └ [T3] Dark Veil (ID: 1210)
-│       Gain Dominate buff when using Weapon Attack
+│   ├ [T3] Dark Veil (ID: 1210)
+│   │   Gain Dominate buff when using Weapon Attack
 ├ [T2] Jade Vestige (ID: 1208)
 │   You can no longer use Special Attack: Parry, but gain Trance every 2.8 seconds. (1% increased charge rate per Evasion, up to 33%)
 │   └ [T3] Unbound Immersion (ID: 1209)
@@ -178,7 +174,7 @@
 └ [T2] Dormant Frost (ID: 1215)
     Damage dealt by Weapon Attack is reduced by 20%, but it is changed to Cold Damage.
     ├ [T3] Frozen Smelt (ID: 1216)
-    │   Cold Damage increases by 5, and on hit with Special Attack, applies Frostbite 2 times.
+    │   Cold Damage increases by 5. On Special Attack hit, applies Frostbite 1 times, and on Special Attack: Fury hit, applies it 2 additional times.
     └ [T3] Drífa (ID: 1217)
         Artifact Blizzard Hammer is changed to “Blizzard Scythe.” Damage is reduced by 50%, but it flies to the targeted location and continuously strikes enemies.
 
@@ -226,7 +222,7 @@
 ├ [T2] Colossal Crossbow: Frost Veil (ID: 112)
 │   Special Attack is replaced with 'Frost Veil'.
 │   ├ [T3] Colossal Crossbow: Rapid Freeze Crystal (ID: 113)
-│   │   Frost Relic damage increases by 20%.
+│   │   Frost Veil is replaced with Frost Relic: Frost Veil.
 │   └ [T3] Colossal Crossbow: Expansion Device (ID: 114)
 │       Fires Frostbite projectiles that penetrate enemies while Frost Veil is active.
 │       [Magazine Capacity is fixed at 5 rounds]
@@ -238,8 +234,10 @@
 │       Poison stack increases by 3.
 └ [T2] M-9199 (ID: 122)
     Normal Attack Pierces enemies and increases damage by 15%. Special Attack is changed to ‘Special Attack: Ammo Compression’.
-    └ [T3] XRA-9 (ID: 123)
-        When using the last bullet with a normal attack, the current cooldown of all Grimoire and Active Artifact is reduced by 25%.
+    ├ [T3] XRA-9 (ID: 123)
+    │   When using the last bullet with a normal attack, the current cooldown of all Grimoire and Active Artifact is reduced by 25%.
+    └ [T3] M-9200 (ID: 128)
+        Compressing 10 or more rounds with Special Attack: Ammo Compression creates an Enhanced Round that is larger and deals 20% more damage.
 
 ================================================================================
 
@@ -250,19 +248,19 @@
 │   ├ [T3] Famed Sword 'Muramasa' (ID: 402)
 │   │   Always remains in Sheath state, and Special Attack: Heavy Slash changes to Special Attack: Swift Slash. The efficiency of Attack Speed is increased by 80%.
 │   └ [T3] Beast Marks Sword 'Hou' (ID: 403)
-│       Special Attack: Heavy Slash's base Attack Speed is reduced by 24%, but it can hit distant enemies. Damage increases by 1% for every 2 Evasion.
+│       Special Attack: Heavy Slash's base Attack Speed is reduced by 24%, but it can hit distant enemies. Damage increases by 1% for every 1 Evasion.
 ├ [T2] Helbanus (ID: 406)
 │   When performing a Weapon Attack, deal additional damage to the target equal to 30% of Fire Damage.
 │   ├ [T3] Blazing Helbanus (ID: 407)
 │   │   Burn stacks increases by 2, and Fire Damage increases by 4.
 │   ├ [T3] Heidi (ID: 408)
-│   │   When consuming Dash Count, gain 'Overheat' stacks. (1 by default, gain 3 when using Sheath, up to 9 times) Consumes stacks when using Normal Attack.
+│   │   When consuming Dash Count, gain 1 'Overheat' stack. (1 by default, gain 3 when using Sheath, up to 12) Consumes 1 stack to empower Normal Attack.
 │   └ [T3] Solis Ekli (ID: 422)
 │       Sheath changes to Eclipse.
 ├ [T2] Rendblade: Heavenrend (ID: 409)
 │   Gain Sword Strike through Normal Attack. Special Attack: Heavy Slash changes to Normal Attack: Iaido Slash.
 │   ├ [T3] Rendblade: Drifting Willow (ID: 410)
-│   │   Critical Chance increases by 30%, and the range of Normal Attack: Great Iaido Slash changes to a full attack.
+│   │   Critical Chance increases by 30%, and the attack area of Normal Attack: Great Iaido Slash greatly increases.
 │   └ [T3] Rendblade: RuinDance (ID: 411)
 │       You cannot use Normal Attack: Great Iaido Slash, but when the Sword Strike gauge is at 100%, you gain the Barrage buff.
 ├ [T2] The Awaiting Azureblade (ID: 412)
@@ -310,7 +308,7 @@
 │   ├ [T3] Weight of the Sea (ID: 506)
 │   │   Upon Block success, gain Heavy Staff buff.
 │   └ [T3] Ringless Staff (ID: 507)
-│       If Critical Chance is below 30%, increase damage dealt by 20%.
+│       If Critical Chance is 30% or lower, increase damage dealt by 20%.
 ├ [T2] Distant Starlight (ID: 509)
 │   Increase the damage of Special Attack: Riposte by 20%. If Max MP is at least 100, Block in all directions while using Special Attack: Riposte.
 │   └ [T3] Scale of the Astral Sea (ID: 510)
@@ -320,7 +318,7 @@
 │   ├ [T3] Ruadhslea Spear (ID: 514)
 │   │   Attack Speed increases by 10%. Damage increases by 5% for every point of Dash Count attribute when attacking with a weapon.
 │   └ [T3] Fuarsca Spear (ID: 515)
-│       Block granted when casting Dash attack: Spear Attack, and damage increases by 30% for each Dash used previously. (Up to 6 times)
+│       Block granted when casting Dash attack: Spear Attack, and damage increases by 30% for each Dash charge consumed beforehand. (Up to 6 times)
 ├ [T2] Staff of Embers (ID: 517)
 │   Damage dealt by Weapon Attack is reduced by 15%, but it is changed to Fire Damage.
 │   ├ [T3] Fiaola’s Judgment Staff (ID: 518)
@@ -343,7 +341,8 @@
     Normal Attack changes to Normal Attack: Throwing Spear, and Weapon Damage increases by 10.
     ├ [T3] Sacred Jar (ID: 530)
     │   Normal Attack combines Companion Damage stats.
+    │   Normal Attack has a 20% chance to summon a Carrot Soldier.
     ├ [T3] Formless Dance (ID: 531)
-    │   Normal Attack lures enemies and has a chance to fire twice. (Increases by 1% per 1 Evasion)
+    │   Projectiles fired by Normal Attack home in on enemies and have a chance to be fired twice. (The chance increases by 0.85% per 1 Evasion)
     └ [T3] Successor (ID: 532)
-        Grimoire Damage increases by 30%.
+        Inflicts Magic Wound on Weapon hit.

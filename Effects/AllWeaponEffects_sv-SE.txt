@@ -1,4 +1,4 @@
-﻿Base weapon effect text (enhancement tree) — 6 / 215 / language: sv-SE (sv-SE)
+Base weapon effect text (enhancement tree) — 6 / 160 / language: sv-SE (sv-SE)
 ================================================================================
 
 === [T1] Standardsvärd och sköld (ID: 0) ===
@@ -6,11 +6,11 @@
 ├ [T2] Luddets beskydd (ID: 1)
 │   Vid lyckad Blockering minskas MP-kostnaden för Blockering med 50 %.
 │   ├ [T3] Stjärnljus (ID: 4)
-│   │   Vid lyckad Blockering reflekteras 300 % av angriparens skada. (400 % vid Perfekt blockering)
+│   │   Motattacken från artefakten Ripostklingfragment blir en genomborrande attack som avfyras mot närmaste fiende.
 │   ├ [T3] Frusen vrede (ID: 5)
 │   │   Vid lyckad Perfekt blockering ökar Universell skadeökning med 20 % i 14 sekunder.
-│   └ [T3] Stensvärd (ID: 1020)
-│       Specialattack: Klyvning ändras till Specialattack: Sköldstöt.
+│   ├ [T3] Stensvärd (ID: 1020)
+│   │   Specialattack: Klyvning ändras till Specialattack: Sköldstöt.
 ├ [T2] Perfekt balans (ID: 2)
 │   Ökar Attackhastighet med 15 % och använder automatiskt Blockering framför dig när Normalattack utförs.
 │   ├ [T3] Drivande aska (ID: 6)
@@ -35,25 +35,21 @@
 │   └ [T3] Blixtrande rapir (ID: 1007)
 │       Utökar stötens räckvidd. Ökar Attackhastighet med 20 %.
 ├ [T2] Magisk stav (ID: 1004)
-│   Vapenattack ändras till en form som använder Magisk missil.
-│   ├ [T3] Flammornas blick (ID: 1008)
-│   │   Vapenattack ändras till att vara baserad på Eldskada. Skadan från Normalattack ökar med 20 %.
-│   ├ [T3] Isandning (ID: 1009)
-│   │   Vapenattack ändras till att vara baserad på Köldskada. Skadan från Rusningsattack ökar med 40 %.
-│   └ [T3] Blixtens vingar (ID: 1010)
-│       Vapenattack ändras till att vara baserad på Blixtskada. Skadan från Specialattack ökar med 20 %.
+│   Vapenattack ändras till en form som använder Magisk missil. Elementet hos Magisk missil följer din Högsta elementskada; om två eller fler element delar högsta värdet blir det Kaosskada.
+│   └ [T3] Prismatisk magisk stav (ID: 1030)
+│       För varje 20 poäng av den sammanlagda summan som alla 4 Element-skador överstiger 20 avfyrar Specialattack: Klyvning 1 extra Magisk missil.
 ├ [T2] Frostskärva (ID: 1013)
 │   Köldskada ökar med 5.
 │   ├ [T3] Glaciärblad (ID: 1014)
 │   │   Projektilen från artefakten Exorcismens skida blir mindre, men laddas 50 % snabbare.
 │   ├ [T3] Snöstormens afton (ID: 1015)
 │   │   När Antal rusningar förbrukas aktiveras Artefakt Snöstormshammare omedelbart med 60 % skada.
-│   └ [T3] Weapon_1029_Name (ID: 1029)
-│       När artefakten Isranka aktiveras kretsar den kring spelaren.
+│   └ [T3] Frostnålarnas trädgård (ID: 1029)
+│       När artefakten Isranka aktiveras kretsar den kring spelaren och dess nedkylningstid försvinner.
 ├ [T2] Ledare (ID: 1016)
 │   Blixtskada ökar med 5.
 │   ├ [T3] Ballistasvärd (ID: 1017)
-│   │   Pilen från Artefakt Miniballista tränger igenom väggar och söker upp fiender. Avfyrar omedelbart en pil vid lyckad Blockering.
+│   │   Pilarna från Artefakt Miniballista tränger igenom väggar och målsöker fiender. Efter en lyckad Blockering avfyras pilar omedelbart. Miniballista tar inte längre skada.
 │   ├ [T3] Supraledare (ID: 1018)
 │   │   Specialattack: Klyvning ändras till Specialattack: Blixtspjut.
 │   └ [T3] Bländande tystnad (ID: 1028)
@@ -82,8 +78,6 @@
 │   Laddningstiden för Specialattack: Virvelvind ökar med 100 %, men Normal attackskada ökar med 20 %.
 │   ├ [T3] Hastig ånger (ID: 16)
 │   │   Du kan svinga den sista attacken i Normalattack 2 ytterligare gånger. Ökar skadan från Normalattack med 10 %.
-│   └ [T3] ... (ID: 1125)
-│       Normalattack förbrukar 2 MP och ökar skadan med 24 %.
 ├ [T2] Den glödsmidda (ID: 1122)
 │   När du utför en Vapenattack orsakar du ytterligare skada på målet motsvarande 30 % av Eldskada.
 │   ├ [T3] Röda ormars kross (ID: 1123)
@@ -97,9 +91,11 @@
 │   └ [T3] Rackartyg (ID: 1119)
 │       Specialattack ändras till Specialattack: Lövexplosion. Normal attackskada läggs till skadan för Specialattack.
 ├ [T2] Kugghjulsklinga av ben (ID: 1102)
-│   Specialattack: Virvelvind ändras till Specialattack: Återmontera.
-│   └ [T3] Knarrande ryggrad (ID: 1103)
-│       Räckvidden för 'Specialattack: Återmontera' ökar och Attackhastighet ökar gradvis med upp till 35 %. (Återställs när du slutar attackera)
+│   Specialattack ändras till Specialattack: Återmontera. Vid Normalattack ökar Attackhastighet gradvis. (Upp till 35 %, återställs när du slutar attackera)
+│   ├ [T3] Knarrande ryggrad (ID: 1103)
+│   │   Attackräckvidden för Specialattack: Återmontera ökar, och attacker tillfogar målet ytterligare skada. (Ytterligare skada: 15 + Försvar 50 %)
+│   └ [T3] Åderlåtningsklinga (ID: 1121)
+│       Specialattack: Återmontera ändras till Specialattack: Åderlåtning.
 ├ [T2] Frostbundet storsvärd (ID: 1104)
 │   När du utför en Vapenattack orsakar du ytterligare skada på målet motsvarande 30 % av Köldskada.
 │   ├ [T3] Storsvärd av evig frost (ID: 1105)
@@ -137,13 +133,13 @@
 ├ [T2] Bortom tröskeln (ID: 22)
 │   Vid Rusningsattack får du en buff i 10 sekunder: skada från Normalattack +20 % och skada från Rusningsattack +30 %. Inaktiverar Specialattack: Raseri.
 │   ├ [T3] Ljusslös klinga (ID: 26)
-│   │   När Rusning används ändras Rusningsattack till Rusningsattack: Bladfängelse
+│   │   När en Rusning-laddning förbrukas ändras Rusningsattack till Rusningsattack: Bladfängelse
 │   └ [T3] Absolut avund (ID: 27)
 │       Skadan från den 3:e, 4:e och 5:e Normalattack ökas med 25 %, och stagger-effekten förstärks.
 ├ [T2] Torr bris (ID: 23)
 │   Skadan från Specialattack: Raseri ökar med 20 %.
 │   ├ [T3] Krypande förtvivlan (ID: 28)
-│   │   Skadan från Specialattack: Raseri ökar ytterligare med 10 %.
+│   │   Skadan från Specialattack: Raseri ökar ytterligare med 15%.
 │   │   Om du lyckas med Specialattack: Parering laddas Trans två gånger.
 │   └ [T3] Hårt prov (ID: 29)
 │       Du kan inte längre använda Specialattack: Parering, men har 30 % chans att få Trans när du använder Vapenattack. (Trans kan laddas upp till 4 gång(er))
@@ -152,7 +148,7 @@
 │   ├ [T3] Upphettat blad (ID: 1201)
 │   │   Specialattack: Parering ersätts med Specialattack: Kasta dolk.
 │   └ [T3] Solis Imber (ID: 1214)
-│       Vid träff med Specialattack: Raseri aktiveras alla Solklinga.
+│       Vid träff med Specialattack: Raseri aktiveras alla Solklinga. Artefakt Meteoritspauldrons orsakar 50 % mer skada.
 ├ [T2] Blixtdolk (ID: 1203)
 │   När du utför en Vapenattack orsakar du ytterligare skada på målet motsvarande 25 % av Blixtskada.
 │   ├ [T3] Överhängande stormmoln (ID: 1204)
@@ -163,8 +159,8 @@
 │   Vapenattack ändras till en form som använder Kasta shuriken.
 │   ├ [T3] Adonis (ID: 1207)
 │   │   Kritisk skada som utdelas med Vapenattack ökar med 30 %.
-│   └ [T3] Mörk slöja (ID: 1210)
-│       Få buffen Dominera när du använder Vapenattack
+│   ├ [T3] Mörk slöja (ID: 1210)
+│   │   Få buffen Dominera när du använder Vapenattack
 ├ [T2] Jadegrön kvarleva (ID: 1208)
 │   Du kan inte längre använda Specialattack: Parering, men får Trans var 2,8:e sekund. (1 % ökad laddningshastighet per Undvikande, upp till 33 %)
 │   └ [T3] Obunden fördjupning (ID: 1209)
@@ -178,7 +174,7 @@
 └ [T2] Slumrande frost (ID: 1215)
     Skada från Vapenattack minskas med 20 %, men ändras till Köldskada.
     ├ [T3] Frusen smälta (ID: 1216)
-    │   Köldskada ökar med 5, och vid träff med Specialattack appliceras Köldskada 2 gång(er).
+    │   Köldskada ökar med 5. Vid träff med Specialattack tillämpas Köldskada 1 gång(er), och vid träff med Specialattack: Raseri tillämpas det ytterligare 2 gång(er).
     └ [T3] Drífa (ID: 1217)
         Artefakt Snöstormshammare ändras till ”Snöstormslie.” Skadan minskas med 50 %, men den flyger till den utvalda platsen och träffar fiender kontinuerligt.
 
@@ -226,7 +222,7 @@
 ├ [T2] Kolossal armborst: frostslöja (ID: 112)
 │   Specialattack ersätts med 'Frostslöja'.
 │   ├ [T3] Kolossal armborst: snabbinfrysningskristall (ID: 113)
-│   │   Frostrelik-skada ökar med 20%.
+│   │   Frostslöja ersätts med Frostrelik: frostslöja.
 │   └ [T3] Kolossal armborst: expansionsenhet (ID: 114)
 │       Avfyrar Köldskada-projektiler som tränger igenom fiender medan Frostslöja är aktiv.
 │       [Magasinskapacitet är låst till 5 skott]
@@ -238,8 +234,10 @@
 │       Antalet Gift-stack ökar med 3.
 └ [T2] M-9199 (ID: 122)
     Normalattack tränger igenom fiender och ökar skadan med 15 %. Specialattack ändras till ’Specialattack: Ammokomprimering’.
-    └ [T3] XRA-9 (ID: 123)
-        När du använder den sista kulan med en grundattack minskas den återstående nedkylningstiden för all Grimoar och Aktiv artefakt med 25 %.
+    ├ [T3] XRA-9 (ID: 123)
+    │   När du använder den sista kulan med en grundattack minskas den återstående nedkylningstiden för all Grimoar och Aktiv artefakt med 25 %.
+    └ [T3] M-9200 (ID: 128)
+        Om 10 eller fler skott komprimeras med Specialattack: Ammokomprimering skapas en Förstärkt kula som är större och gör 20 % mer skada.
 
 ================================================================================
 
@@ -250,19 +248,19 @@
 │   ├ [T3] Berömda svärdet 'Muramasa' (ID: 402)
 │   │   Förblir alltid i tillståndet Sätt i skidan, och Specialattack: Tungt hugg ändras till Specialattack: Snabbhugg. Effektiviteten hos Attackhastighet ökar med 80 %.
 │   └ [T3] Bestmärkesvärdet 'Hou' (ID: 403)
-│       Grundvärdet för Specialattack: Tungt huggs Attackhastighet minskar med 24 %, men den kan träffa avlägsna fiender. Skadan ökar med 1 % för varannan Undvikande.
+│       Grundvärdet för Specialattack: Tungt huggs Attackhastighet minskar med 24 %, men den kan träffa avlägsna fiender. Skadan ökar med 1 % för varje 1 Undvikande.
 ├ [T2] Helbanus (ID: 406)
 │   När du utför en Vapenattack orsakar du ytterligare skada på målet motsvarande 30 % av Eldskada.
 │   ├ [T3] Brinnande Helbanus (ID: 407)
 │   │   Bränning stackar ökar med 2, och Eldskada ökar med 4.
 │   ├ [T3] Heidi (ID: 408)
-│   │   När Antal rusningar förbrukas får du stackar av 'Överhettning'. (1 som standard, 3 när du använder Sätt i skidan, upp till 9 gånger) Förbrukar stackar när Normalattack används.
+│   │   När Antal rusningar förbrukas får du 1 stack av 'Överhettning'. (1 som standard, 3 när du använder Sätt i skidan, upp till 12) Förbrukar 1 stack för att förstärka Normalattack.
 │   └ [T3] Solis Ekli (ID: 422)
 │       Sätt i skidan ändras till Förmörkelse.
 ├ [T2] Klyvklinga: Himmelsklyvaren (ID: 409)
 │   Få Svärdsslag via Normalattack. Specialattack: Tungt hugg ändras till Normalattack: Iaido-hugg.
 │   ├ [T3] Klyvklinga: Drivande vide (ID: 410)
-│   │   Kritisk träffchans ökar med 30 %, och räckvidden för Normalattack: Stort Iaido-hugg ändras till en helattack.
+│   │   Kritisk träffchans ökar med 30 %, och attackområdet för Normalattack: Stort Iaido-hugg blir betydligt större.
 │   └ [T3] Klyvklinga: Ruindans (ID: 411)
 │       Du kan inte använda Normalattack: Stort Iaido-hugg, men när mätaren för Svärdsslag är på 100 % får du buffen Spärreld.
 ├ [T2] Den väntande azurklingan (ID: 412)
@@ -310,7 +308,7 @@
 │   ├ [T3] Havets tyngd (ID: 506)
 │   │   Vid lyckad Blockering får du buffen Tung stav.
 │   └ [T3] Ringlös stav (ID: 507)
-│       Om Kritisk träffchans är under 30%, ökar skadan du orsakar med 20%.
+│       Om Kritisk träffchans är 30% eller lägre, ökar skadan du orsakar med 20%.
 ├ [T2] Avlägset stjärnljus (ID: 509)
 │   Öka skadan från Specialattack: Ripost med 20 %. Om Max MP är minst 100 kan du Blockering åt alla håll när du använder Specialattack: Ripost.
 │   └ [T3] Astralhavets skala (ID: 510)
@@ -320,7 +318,7 @@
 │   ├ [T3] Ruadhslea-spjut (ID: 514)
 │   │   Attackhastighet ökar med 10 %. Skadan ökar med 5 % för varje poäng i attributet Antal rusningar när du attackerar med ett vapen.
 │   └ [T3] Fuarsca-spjut (ID: 515)
-│       Du får Blockering när du kastar Rusningsattack: Spjutattack, och skadan ökar med 30 % för varje tidigare använd Rusning. (Upp till 6 gång(er))
+│       Du får Blockering när du kastar Rusningsattack: Spjutattack, och skadan ökar med 30 % för varje tidigare förbrukad Rusning-laddning. (Upp till 6 gång(er))
 ├ [T2] Glödstav (ID: 517)
 │   Skada från Vapenattack minskas med 15 %, men ändras till Eldskada.
 │   ├ [T3] Fiaolas domstav (ID: 518)
@@ -343,7 +341,8 @@
     Normalattack ändras till Normalattack: Kastspjut, och Vapen-skada ökar med 10.
     ├ [T3] Helig kruka (ID: 530)
     │   Normalattack kombinerar statistiken för Följeslagares skada.
+    │   Normalattack har 20% chans att frammana en Morotssoldat.
     ├ [T3] Formlös dans (ID: 531)
-    │   Normalattack söker sig mot fiender och har en chans att avfyras två gånger. (Chansen ökar med 1% per Undvikande.)
+    │   Normalattack söker sig mot fiender och har en chans att avfyras två gånger. (Chansen ökar med 0.85% per Undvikande.)
     └ [T3] Efterträdare (ID: 532)
-        Skada från Grimoar ökar med 30 %.
+        Tillfogar Magisår vid träff med Vapen.

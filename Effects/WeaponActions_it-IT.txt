@@ -76,7 +76,7 @@
     Description: Ricarica automaticamente quando tutte le frecce sono esaurite. Durante gli attacchi, Velocità di movimento si riduce del 40%.
   ■ Attacco in scatto
     Input: (Dopo uno scatto) Left Click
-    Description: Consuma uno scatto per piazzare una mina che dura 3 secondi. Esplode automaticamente quando rileva un nemico.
+    Description: Consuma una carica di scatto per piazzare una mina che dura 3 secondi. Esplode automaticamente quando rileva un nemico.
   ■ Attacco speciale: Freccia potente
     Input: Right Click
     Description: Consuma 10 MP per scoccare una potente freccia. Non consuma frecce.

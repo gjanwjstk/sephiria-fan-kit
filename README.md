@@ -6,6 +6,17 @@
 Official asset pack for Sephiria fan content. Free for **non-commercial** use
 such as wikis, fan sites, guides, and videos.
 
+## 2.4 업데이트 / Update (2026-09-14)
+
+- 1.0.31 신규 아티팩트 13개(성장 후 형태 포함)와 무기 6개의 투명·프레임 아이콘을 추가했습니다.
+- 번체 중국어를 포함한 15개 언어 효과문, 인덱스, 태그 사전을 갱신했습니다. 콘텐츠는 공개 버전 1.0.33 기준이며, 설명 문구에는 9월 14일까지의 개선이 포함됩니다.
+- `Yakumo Short Blade`의 프레임 1x·2x에 잘못 들어 있던 순백의 망토 이미지를 수정했습니다.
+- 같은 아이콘을 공유해 빠졌던 무기 2개를 복구하고, `Guardian’s Return`의 ID를 현행 1023으로 수정했습니다. 개발용 무기는 효과문에서 제외했습니다.
+
+Added transparent and framed icons for the new 1.0.31 artifacts (13 entries including evolved forms) and six weapons. Updated effect text in all 15 languages, including Traditional Chinese, along with indexes and the tag dictionary. Content covers released version 1.0.33; wording includes clarifications through September 14.
+
+Fixed the incorrect White Cape image in both framed versions of Yakumo Short Blade. Restored two weapons omitted because they share icons, corrected Guardian’s Return to its current ID (1023), and excluded development-only weapons from effect text.
+
 ## 받는 법 / Download
 
 `Code → Download ZIP` 을 누르시면 전체를 한 번에 받으실 수 있습니다.

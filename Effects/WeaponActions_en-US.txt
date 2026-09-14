@@ -76,7 +76,7 @@
     Description: Automatically reloads when all arrows are exhausted. Move Speed is reduced by 40% during attacks.
   ■ Dash attack
     Input: (After dashing) Left Click
-    Description: Consumes a dash to deploy a mine that lasts for 3 seconds. It automatically explodes when an enemy is detected.
+    Description: Consumes a dash charge to deploy a mine that lasts for 3 seconds. It automatically explodes when an enemy is detected.
   ■ Special Attack: Power Arrow
     Input: Right Click
     Description: Consume 10 MP to fire a powerful arrow. Does not consume arrows.

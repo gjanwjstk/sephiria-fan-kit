@@ -76,7 +76,7 @@
     Description: Se recarga automáticamente cuando todas las flechas se agotan. Velocidad de Movimiento se reduce en un 40% durante los ataques.
   ■ Ataque Rápido
     Input: (Después de correr) Clic izquierdo
-    Description: Consume una carrera para desplegar una mina que dura 3 segundos. Explota automáticamente al detectar enemigos.
+    Description: Consume una carga de desplazamiento para desplegar una mina que dura 3 segundos. Explota automáticamente al detectar enemigos.
   ■ Ataque especial: Flecha potenciada
     Input: Clic derecho
     Description: Consume 10 PM para disparar una flecha poderosa. No consume flechas.

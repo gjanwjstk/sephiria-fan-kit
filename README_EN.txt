@@ -1,5 +1,9 @@
 SEPHIRIA FAN KIT
-Version 2.3  |  Built 2026-08-25  |  Game build 1.0.30
+Version 2.4  |  Built 2026-09-14  |  Game build 1.0.33
+
+Content reflects the released game version above. Effect wording is refreshed
+from the development repository on the build date and may include text
+clarifications newer than that release.
 
 Thanks for creating with SEPHIRIA! Read "License & Usage Guide_EN.txt" first --
 short version: free for non-commercial use with credit, and video/streaming
@@ -11,11 +15,11 @@ CONTENTS
   Logo/                    game & team logos (1x/2x/4x)
   KeyArt/                  promotional key art / wallpapers
   Brand/                   colour palette + font credits + app icon
-  Artifacts/  (309)
+  Artifacts/  (322)
     Icons/ 1x 2x 4x 8x     plain transparent pixel icon
     Framed/ 1x 2x          64px rarity-framed version (with background)
   Tablets/    (66)       same layout
-  Weapons/    (169)       same layout
+  Weapons/    (177)       same layout
   Potions/    (29)        consumables, same layout (+ potion_index.csv)
   Miracles/   (21)         miracle icons (+ miracle_index.csv)
   Talents/    (28)         talent icons + Lv5/10/20 milestone perk icons (+ talent_index.csv)
@@ -58,7 +62,7 @@ FACT SHEET
 NOTES
   - Files are named by their in-game (English) name. Use the CSVs to cross-
     reference id / Korean name.
-  - The effect text and CSVs are a snapshot of game build 1.0.30. Balance
+  - The effect text and CSVs are a snapshot of game build 1.0.33. Balance
     numbers change with patches, so quote the build on pages that use them.
   - "Icons" are the clean transparent sprites; "Framed" are the ones with the
     rarity border + background, as seen in patch notes.

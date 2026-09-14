@@ -76,7 +76,7 @@
     Description: Laddar automatiskt om när alla pilar är slut. Rörelsehastighet minskas med 40 % under attacker.
   ■ Rusningsattack
     Input: (Efter rusning) Vänsterklick
-    Description: Förbrukar en rusning för att placera ut en mina som varar i 3 sekunder. Den exploderar automatiskt när en fiende upptäcks.
+    Description: Förbrukar en rusningsladdning för att placera ut en mina som varar i 3 sekunder. Den exploderar automatiskt när en fiende upptäcks.
   ■ Specialattack: Kraftpil
     Input: Högerklick
     Description: Förbruka 10 MP för att avfyra en kraftfull pil. Förbrukar inga pilar.

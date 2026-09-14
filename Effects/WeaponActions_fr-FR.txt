@@ -76,7 +76,7 @@
     Description: Recharge automatiquement lorsque toutes les flèches sont épuisées. Vitesse de déplacement est réduit de 40 % pendant les attaques.
   ■ Attaque en ruée
     Input: (Après une ruée) Clic gauche
-    Description: Consomme une ruée pour poser une mine qui dure 3 secondes. Elle explose automatiquement lorsqu’un ennemi est détecté.
+    Description: Consomme une charge de ruée pour poser une mine qui dure 3 secondes. Elle explose automatiquement lorsqu’un ennemi est détecté.
   ■ Attaque spéciale : Flèche puissante
     Input: Clic droit
     Description: Consomme 10 PM pour tirer une flèche puissante. Ne consomme pas de flèches.

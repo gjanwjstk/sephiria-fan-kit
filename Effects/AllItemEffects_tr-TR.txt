@@ -1,7 +1,7 @@
-﻿All item effect text — 426 / language: tr-TR (tr-TR)
+All item effect text — 438 / language: tr-TR (tr-TR)
 ================================================================================
 
-── activeType: Default — 211 ──
+── activeType: Default — 222 ──
 
 === Onarım İksiri (ID: 0) [Default] [Potion] [Nadirlik: Yaygın] ===
 20% HP yeniler
@@ -508,7 +508,7 @@ Silah Saldırısı veya Büyü Kitabı ile hasar verildiğinde hedefe +10/20/30 
 
 === Yivli Kil Tablet (ID: 1104) [Default] [Charm] [Nadirlik: Efsanevi] ===
 [Category] Fırtına Bulutu(DARKCLOUD)
-10/20/30/40/50% ihtimalle Fırtına Bulutu tüketilmez
+20/30/40/55/70% ihtimalle Fırtına Bulutu tüketilmez
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -589,7 +589,7 @@ Hasar aldığında +0.4/0.8/1.2 saniyeliğine dokunulmazlık kazanırsın
 
 === Kan Taşı Yüzüğü (ID: 1120) [Default] [Charm] [Nadirlik: Nadir] ===
 [Category] Mistik(MYSTIC)
-+15/13/10 düşman öldürdüğünde 5 HP yenile
++20/40/60% Alınan Hasar İyileştirmesi
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -911,9 +911,8 @@ Her 2 saniyede bir Atılma saldırısı güçlenerek hasarı %+30/60/90/120 art�
 
 ────────────────────────────────────────────────────────────────────────────────
 
-=== Gök Taşı Küpeleri (ID: 1236) [Default] [Charm] [Nadirlik: Efsanevi] ===
+=== Gök Taşı Küpeleri (ID: 1236) [Default] [Charm] [Nadirlik: Nadir] ===
 [Category] Güneş Kılıcı(FLAMESWORD)
-+5/10/15% Güneş Kılıcı Hasarı
 +2/4/7 Ateş Hasarı
 Güneş Kılıcı fırlatıldığında yakınına düşer
 
@@ -929,6 +928,7 @@ Yere düşmüş tüm Güneş Kılıcı kılıçlarını geri çağırarak yollar
 [Category] Büyütek(MAGITECH)
 +1/2/3/4/5/6 Yıldırım Hasarı
 Her 4 saniyede bir yakındaki +1/2/2/3/3/4 düşmana %30 Yıldırım Hasarı verir ve Elektrik Çarpması uygular.
+[Hasar: 6 (Yıldırım Hasarı%30)]
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1016,6 +1016,86 @@ Kusursuz savunma yapıldığında, Genel Hasar Artışı değerini 7 sn boyunca 
 === Karşı Saldırı Asası Parçası (ID: 1288) [Default] [Charm] [Nadirlik: Gelişmiş] ===
 [Category] Sağlam(STURDY)
 Karşı Saldırı: Blok yaparken ileriye doğru kısa menzilli bir yakın dövüş saldırısı gerçekleştirir (fiziksel hasarın %0/1/2.1/3.4/4.8/6.2 kadarı)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Solmuş Kalkan Arması (ID: 1313) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Sağlam(STURDY)
++5/10/15% Silah Hasarı
+Demir Duvar Arması hâline dönüşmek için Kusursuz savunma eylemini 50 kez başarıyla gerçekleştir
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Demir Duvar Arması (ID: 1314) [Default] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Sağlam(STURDY)
++15/20/25% Silah Hasarı
+Blok maliyetini %+20/30/40 azaltır
+Blok menzilini %+30/40/60 artırır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Paslı Tsuba (ID: 1315) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Sağlam(STURDY)
++2/4/6% Silah Hasarı
+Ustanın Tsubası hâline dönüşmek için Kılıcı Çekme veya Kınına Koy ile düşman saldırılarını 30 kez engelle
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Ustanın Tsubası (ID: 1316) [Default] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Sağlam(STURDY)
++5/10/15% Silah Hasarı
+Kınına Koy ve Kılıcı Çekme eylemlerinin yenilmezlik süresini %+40/70/120 artırır
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Düellocu Adayı Apoleti (ID: 1317) [Default] [Charm] [Nadirlik: Yaygın] ===
+[Category] Sağlam(STURDY)
+Başarılı bir Özel Saldırı: Savuşturma sonrasında en yakın düşmana bir kılıç ruhu fırlatır
+[Hasar: En Yüksek Element Hasarı değerinin %+250’i kadar Kaos hasarı]
+Düellocu Apoleti hâline dönüşmek için Özel Saldırı: Savuşturma eylemini 40 kez başarıyla gerçekleştir
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Düellocu Apoleti (ID: 1318) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Sağlam(STURDY)
+Şu durumlarda en yakın düşmana bir kılıç ruhu fırlatır:
+- Başarılı Özel Saldırı: Savuşturma
+- İsabet eden Özel Saldırı: Hiddet
+- Kombonun son vuruşunun isabet etmesi
+[Hasar: En Yüksek Element Hasarı değerinin %+350’i kadar Kaos hasarı]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Boğuk Rezonans Taşı (ID: 1319) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Element(ELEMENTAL)
++2/4/6/8 En Yüksek Element Hasarı
+Rezonans Taşı hâline dönüşmek için %140 Hareket Hızı değerine ulaş
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Rezonans Taşı (ID: 1320) [Default] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Element(ELEMENTAL)
++8/10/12/14 En Yüksek Element Hasarı
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Sıkışmış Kol (ID: 1323) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Sağlam(STURDY)
++5/10 Arbalet Yeniden Doldurma Hızı
+Keskin Nişancının Kolu hâline dönüşmek için Doldur eylemini 50 kez tamamla
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Keskin Nişancının Kolu (ID: 1324) [Default] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Sağlam(STURDY)
++10/20 Arbalet Yeniden Doldurma Hızı
+Doldur tamamlandığında 10 saniye boyunca Normal Saldırı Hasarı %+30/40, Özel Saldırı Hasarı %+30/40 artar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Demirci Maşası (ID: 1325) [Default] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Kor(EMBER)
+Yanık etkisindeki hedeflere verilen Silah Saldırısı hasarını +5/10/15/20% artırır
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1397,7 +1477,7 @@ Süre: 12
 
 ================================================================================
 
-── activeType: Locked — 144 ──
+── activeType: Locked — 146 ──
 
 === Kalkan Küpeleri (ID: 1017) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
 [Category] Muhafız(GUARDIAN)
@@ -1415,7 +1495,7 @@ Silah Saldırısı yapıldığında, %1/4 ihtimalle Sersemletme uygular
 === Diken Tılsımı (ID: 1028) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
 [Category] Sağlam(STURDY)
 +2/4/6/10% Kritik Şansı
-+1/1/2/3 Fiziksel Hasar
++1/2/3/5 Fiziksel Hasar
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1760,8 +1840,10 @@ Fırtına Bulutu tarafından vurulan düşmanlara Yanık uygular
 
 === Hayati Dokunuş (ID: 1196) [Locked] [Charm] [Nadirlik: Nadir] ===
 [Category] Sağlam(STURDY)
--55/48/40/33% Nihai Can
-Silah Saldırısı sırasında +1/1/1/1 HP yeniler (Bekleme süresi 1 saniye)
++1/2/3/4/5/6 Fiziksel Hasar
+-30/26/22/18/14/10% Nihai Can
+Silah Saldırısı sırasında +1/1/1/1/1/1 HP yeniler (Bekleme süresi 1 saniye)
+Savunma 50 veya daha düşükse, ek olarak 0/1/1/2/2/3 HP yeniler
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1810,7 +1892,7 @@ Silah Saldırısı sırasında +1/1/1/1 HP yeniler (Bekleme süresi 1 saniye)
 
 === Meditasyon Kitabı (ID: 1228) [Locked] [Charm] [Nadirlik: Nadir] ===
 [Category] Akademi(ACADEMY)
-Tüm Büyü Kitabı büyülerini eylem gerektirmeden anında kullan
+Büyü Kitabı büyüsünü eylem gerektirmeden anında kullan
 +6/8/11/14% Büyü Kitabı Hasarı
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -2064,6 +2146,21 @@ Hasar: (yüksek olan Yıldırım Hasarı ve Soğuk Hasarı + düşük olanın 30
 [Category] Güneş Kılıcı(FLAMESWORD), Akademi(ACADEMY)
 Her %1 Büyü Kitabı Hasarı, Güneş Kılıcı hasarını %1 artırır
 Büyü Kitabı hasarı verirken ek olarak Güneş Kılıcı 0/0/1/1/2 kez etkinleşir
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Öğle Bileme Taşı (ID: 1321) [Locked] [Charm] [Nadirlik: Efsanevi] ===
+[Category] Güneş Kılıcı(FLAMESWORD)
+Silah hasarı verirken ek olarak Güneş Kılıcı 0/1/1/1/2 kez etkinleşir
++3/6/9/12/15% Saldırı Hızı
++1/1/2/2/2 Gerçek Hasar
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Gök Taşı Aynası (ID: 1322) [Locked] [Charm] [Nadirlik: Gelişmiş] ===
+[Category] Güneş Kılıcı(FLAMESWORD)
+Güneş Kılıcı geri alınırken ek olarak 1/1/1/1 yenile
++3/6/9/12% Güneş Kılıcı Hasarı
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -2528,7 +2625,7 @@ Buz Mermileri ateşleyen Beyaz Gezegen'i çağır
 
 ================================================================================
 
-── activeType: Hidden — 50 ──
+── activeType: Hidden — 49 ──
 
 === Büyük Mavi İksir (ID: 20) [Hidden] [Potion] [Nadirlik: Yaygın] ===
 ???
@@ -2618,12 +2715,6 @@ Fiziksel mermileri atan mavi bir gezegen çağırır
 === Gürleyen Adımlar (ID: 1260) [Hidden] [Charm] [Nadirlik: Gelişmiş] ===
 [Category] Büyütek(MAGITECH)
 [No effect text]
-
-────────────────────────────────────────────────────────────────────────────────
-
-=== Plitvice Damlacığı (ID: 1261) [Hidden] [Charm] [Nadirlik: Nadir] ===
-[Category] Ayaz Yadigârı(FROST), Göl(LAKE)
-+1 Ayaz Yadigârı etkinleştiğinde 4 MP tüketir ve hasarı artan Maks. MP miktarı kadar artırır
 
 ────────────────────────────────────────────────────────────────────────────────
 

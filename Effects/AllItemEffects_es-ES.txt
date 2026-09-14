@@ -1,7 +1,7 @@
-﻿All item effect text — 426 / language: es-ES (es-ES)
+All item effect text — 438 / language: es-ES (es-ES)
 ================================================================================
 
-── activeType: Default — 211 ──
+── activeType: Default — 222 ──
 
 === Poción Regenerativa (ID: 0) [Default] [Potion] [Rareza: Común] ===
 Recupera 20% PV
@@ -508,7 +508,7 @@ Inflige +10/20/30 Daño de Fuego al objetivo con Ataque con arma o Grimorio (enf
 
 === Tablilla de Arcilla Grabada (ID: 1104) [Default] [Charm] [Rareza: Legendario] ===
 [Category] Nube Tormentosa(DARKCLOUD)
-Nube Tormentosano se consume con una probabilidad de 10/20/30/40/50%
+Nube Tormentosano se consume con una probabilidad de 20/30/40/55/70%
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -589,7 +589,7 @@ Al recibir daño, obtén invencibilidad durante +0.4/0.8/1.2 s
 
 === Anillo de Piedra de Sangre (ID: 1120) [Default] [Charm] [Rareza: Raro] ===
 [Category] Místico(MYSTIC)
-Al conseguir +15/13/10 muertes, recupera 5 PV
++20/40/60% Recuperación de daño recibido
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -911,9 +911,8 @@ Cada 2 s, el Ataque Rápido se fortalece, aumentando el daño un +30/60/90/120%,
 
 ────────────────────────────────────────────────────────────────────────────────
 
-=== Pendientes de hierro meteórico (ID: 1236) [Default] [Charm] [Rareza: Legendario] ===
+=== Pendientes de hierro meteórico (ID: 1236) [Default] [Charm] [Rareza: Raro] ===
 [Category] Hoja Solar(FLAMESWORD)
-+5/10/15% Daño de Hoja Solar
 +2/4/7 Daño de Fuego
 Hoja Solar Cae cerca de ti cuando se lanza
 
@@ -929,6 +928,7 @@ Recupera todas las Hoja Solar caídas al suelo, infligiendo daño de Hoja Solar 
 [Category] Magitecnología(MAGITECH)
 +1/2/3/4/5/6 Daño por Rayo
 Cada 4 s, inflige un ataque de rayos de Daño por Rayo del 30% a +1/2/2/3/3/4 enemigos cercanos y aplica el Perjuicio Electrocución.
+[Daño: 6 (Daño por Rayo30%)].
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1016,6 +1016,86 @@ Al Bloqueo Perfecto, Aumento de Daño Universal aumenta un +4/8/12/16% durante 7
 === Fragmento de Bastón de Respuesta (ID: 1288) [Default] [Charm] [Rareza: Avanzado] ===
 [Category] Robusto(STURDY)
 Contraataque: Realiza un ataque cuerpo a cuerpo de corto alcance hacia adelante al bloquear (0/1/2.1/3.4/4.8/6.2% de daño físico)
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Emblema de Escudo Desgastado (ID: 1313) [Default] [Charm] [Rareza: Avanzado] ===
+[Category] Robusto(STURDY)
++5/10/15% Daño de Arma
+Consigue 50 Bloqueo Perfecto para transformarlo en Emblema de la Muralla de Hierro
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Emblema de la Muralla de Hierro (ID: 1314) [Default] [Charm] [Rareza: Legendario] ===
+[Category] Robusto(STURDY)
++15/20/25% Daño de Arma
+Reduce el coste de Bloquear un +20/30/40%
+Aumenta el alcance de Bloquear un +30/40/60%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tsuba Oxidada (ID: 1315) [Default] [Charm] [Rareza: Avanzado] ===
+[Category] Robusto(STURDY)
++2/4/6% Daño de Arma
+Bloquea 30 ataques enemigos con Desenvainar o Enfundar para transformarlo en Tsuba del Maestro
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tsuba del Maestro (ID: 1316) [Default] [Charm] [Rareza: Legendario] ===
+[Category] Robusto(STURDY)
++5/10/15% Daño de Arma
+Aumenta la ventana de invencibilidad de Enfundar y Desenvainar en un +40/70/120%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Charretera del Duelista Aprendiz (ID: 1317) [Default] [Charm] [Rareza: Común] ===
+[Category] Robusto(STURDY)
+Al lograr un Ataque Especial: Parar, dispara un espíritu de espada al enemigo más cercano
+[Daño: +250% de Mayor daño elemental como daño de Caos]
+Consigue 40 Ataque Especial: Parar para transformarlo en Charretera del Duelista
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Charretera del Duelista (ID: 1318) [Default] [Charm] [Rareza: Avanzado] ===
+[Category] Robusto(STURDY)
+Dispara un espíritu de espada al enemigo más cercano en estas situaciones:
+- Ataque Especial: Parar logrado
+- Ataque Especial: Furia acertado
+- Último golpe del combo acertado
+[Daño: +350% de Mayor daño elemental como daño de Caos]
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Piedra de Resonancia Apagada (ID: 1319) [Default] [Charm] [Rareza: Avanzado] ===
+[Category] Elementos(ELEMENTAL)
++2/4/6/8 Mayor daño elemental
+Se transforma en Piedra de Resonancia cuando la Velocidad de Movimiento alcanza el 140%
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Piedra de Resonancia (ID: 1320) [Default] [Charm] [Rareza: Legendario] ===
+[Category] Elementos(ELEMENTAL)
++8/10/12/14 Mayor daño elemental
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Manivela Rígida (ID: 1323) [Default] [Charm] [Rareza: Avanzado] ===
+[Category] Robusto(STURDY)
++5/10 Velocidad de recarga de la ballesta
+Completa 50 Recargar para transformarlo en Manivela del Tirador
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Manivela del Tirador (ID: 1324) [Default] [Charm] [Rareza: Legendario] ===
+[Category] Robusto(STURDY)
++10/20 Velocidad de recarga de la ballesta
+Al completar Recargar, aumenta Daño de Ataque Normal un +30/40% y Daño de Ataque Especial un +30/40% durante 10 segundos
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Tenazas de herrero (ID: 1325) [Default] [Charm] [Rareza: Avanzado] ===
+[Category] Ascua(EMBER)
+El daño de Ataque con arma infligido a objetivos afectados por Quemadura aumenta en +5/10/15/20%
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1397,7 +1477,7 @@ Duración: 12
 
 ================================================================================
 
-── activeType: Locked — 144 ──
+── activeType: Locked — 146 ──
 
 === Pendientes de Escudo (ID: 1017) [Locked] [Charm] [Rareza: Avanzado] ===
 [Category] Guardián(GUARDIAN)
@@ -1415,7 +1495,7 @@ Al Ataque con arma, tiene un 1/4% de probabilidad de infligir Aturdimiento
 === Amuleto de Espinas (ID: 1028) [Locked] [Charm] [Rareza: Avanzado] ===
 [Category] Robusto(STURDY)
 +2/4/6/10% Probabilidad Crítica
-+1/1/2/3 Daño Físico
++1/2/3/5 Daño Físico
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1760,8 +1840,10 @@ Inflige Quemadura a los enemigos golpeados por Nube Tormentosa
 
 === Toque Vital (ID: 1196) [Locked] [Charm] [Rareza: Raro] ===
 [Category] Robusto(STURDY)
--55/48/40/33% PV Total
-Recupera PV en +1/1/1/1 al realizar Ataque con arma (Enfriamiento de 1 s)
++1/2/3/4/5/6 Daño Físico
+-30/26/22/18/14/10% PV Total
+Recupera PV en +1/1/1/1/1/1 al realizar Ataque con arma (Enfriamiento de 1 s)
+Si la Defensa es igual o inferior a 50, recupera 0/1/1/2/2/3 PV adicionales
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -1810,7 +1892,7 @@ Recupera PV en +1/1/1/1 al realizar Ataque con arma (Enfriamiento de 1 s)
 
 === Libro de Meditación (ID: 1228) [Locked] [Charm] [Rareza: Raro] ===
 [Category] Academia(ACADEMY)
-Lanza instantáneamente todo Grimorio sin acción
+Lanza Grimorio instantáneamente sin acción
 +6/8/11/14% Daño de Grimorio
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -2064,6 +2146,21 @@ Daño: +150/200/250% de (el mayor entre Daño por Rayo y Daño por Frío + 30% d
 [Category] Hoja Solar(FLAMESWORD), Academia(ACADEMY)
 Por cada 1% de Daño de Grimorio, el daño de Hoja Solar aumenta un 1%
 Al infligir daño de Grimorio, activa Hoja Solar 0/0/1/1/2 veces más
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Piedra de afilar del mediodía (ID: 1321) [Locked] [Charm] [Rareza: Legendario] ===
+[Category] Hoja Solar(FLAMESWORD)
+Al infligir daño de Arma, activa Hoja Solar 0/1/1/1/2 veces más
++3/6/9/12/15% Velocidad de Ataque
++1/1/2/2/2 Daño Verdadero
+
+────────────────────────────────────────────────────────────────────────────────
+
+=== Espejo de meteorito (ID: 1322) [Locked] [Charm] [Rareza: Avanzado] ===
+[Category] Hoja Solar(FLAMESWORD)
+Al recuperar Hoja Solar, se recuperan 1/1/1/1 adicionales
++3/6/9/12% Daño de Hoja Solar
 
 ────────────────────────────────────────────────────────────────────────────────
 
@@ -2528,7 +2625,7 @@ Invoca un Planeta Blanco que dispara Balas Hielo
 
 ================================================================================
 
-── activeType: Hidden — 50 ──
+── activeType: Hidden — 49 ──
 
 === Poción Azul Grande (ID: 20) [Hidden] [Potion] [Rareza: Común] ===
 ???
@@ -2618,12 +2715,6 @@ Invoca un planeta azul que dispara proyectiles Físico
 === Pasos del trueno (ID: 1260) [Hidden] [Charm] [Rareza: Avanzado] ===
 [Category] Magitecnología(MAGITECH)
 [No effect text]
-
-────────────────────────────────────────────────────────────────────────────────
-
-=== Gota de Plitvice (ID: 1261) [Hidden] [Charm] [Rareza: Raro] ===
-[Category] Reliquia Helada(FROST), Lago(LAKE)
-+1 Al activar Reliquia Helada, consume 4 de PM y aumenta el daño según la cantidad incrementada de PM Máximo
 
 ────────────────────────────────────────────────────────────────────────────────
 
